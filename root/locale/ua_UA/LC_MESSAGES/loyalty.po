@@ -1,0 +1,353 @@
+# Ukrainian translations for WLC_CORE package.
+# Copyright (C) 2019 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.1.93\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-26 07:53+0000\n"
+"PO-Revision-Date: 2019-03-26 07:53+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Set transaction type"
+msgstr "Встановіть тип транзакції"
+
+msgid "No user id"
+msgstr "Немає ідентифікатора користувача"
+
+msgid "No amount"
+msgstr "Немає суми"
+
+msgid "No loyalty record"
+msgstr "Немає запису про лояльність"
+
+msgid "Wrong request path"
+msgstr "Неправильний шлях запиту"
+
+msgid "Debet amount to big"
+msgstr "Сума депозиту занадто велика"
+
+msgid "Wrong transaction type"
+msgstr "Неправильний тип транзакції"
+
+msgid "Awaiting limits information"
+msgstr "Очікує інформації щодо лімітів"
+
+msgid "Wrong currency"
+msgstr "Неправильна валюта"
+
+msgid "Non existent level"
+msgstr "Неіснуючий рівень"
+
+msgid "No points"
+msgstr "Немає балів"
+
+msgid "Set loyalty level"
+msgstr "Встановіть рівень лояльності"
+
+msgid "No bet"
+msgstr "Немає ставки"
+
+msgid "No ID user"
+msgstr "Немає ID користувача"
+
+msgid "No ID bonus"
+msgstr "Немає ID бонусу"
+
+msgid "Wrong amount"
+msgstr "Неправильна сума"
+
+msgid "No bonus ID"
+msgstr "Немає бонусного ідентифікатора"
+
+msgid "No user ID"
+msgstr "Немає ідентифікатора користувача"
+
+msgid "Wrong date format"
+msgstr "Неправильний формат дати"
+
+msgid "Date must not be today"
+msgstr "Дата не повинна бути сьогодні"
+
+msgid "No bonus id"
+msgstr "Немає бонусного ідентифікатора"
+
+msgid "No status"
+msgstr "Немає статусу"
+
+msgid "Bonus not found"
+msgstr "Бонус не знайдено"
+
+msgid "Already have active"
+msgstr "Уже активований"
+
+msgid "Bonus is not available"
+msgstr "Бонус недоступний"
+
+msgid "First deposit, already deposited"
+msgstr "Перший депозит, вже депонований"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Не задовольняють бонусні умови"
+
+msgid "Bonus used"
+msgstr "Бонус використано"
+
+msgid "Promo code needed"
+msgstr "Необхідний промо-код"
+
+msgid "Wrong promo code"
+msgstr "Неправильний промо-код"
+
+msgid "User ID not set"
+msgstr "Ідентифікатор користувача не встановлено"
+
+msgid "Wrong bonus results value"
+msgstr "Неправильне значення результатів бонусу"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Неправильне значення результатів бонусу щодо фріраундів"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Wrong bonus results award wagering"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Wrong bonus results chunk size"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Wrong bonus results release wagering"
+
+msgid "Bonus name required"
+msgstr "Потрібне ім'я бонусу"
+
+msgid "Wrong bonus event"
+msgstr "Неправильний бонусний захід"
+
+msgid "Wrong bonus type"
+msgstr "Неправильний тип бонусу"
+
+msgid "Wrong bonus repeat period"
+msgstr "Неправильний період повторення бонусу"
+
+msgid "Wrong bonus expire period"
+msgstr "Неправильний термін завершення дії бонусу"
+
+msgid "Wrong bonus budget"
+msgstr "Неправильний бонусний бюджет"
+
+msgid "Wrong bonus start date"
+msgstr "Неправильна дата початку бонусу"
+
+msgid "Wrong bonus end date"
+msgstr "Неправильна дата завершення бонусу"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Wrong bonus start date more than end date"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Wrong bonus conditions amount min"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Wrong bonus conditions amount max"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Wrong bonus conditions amount min more than amount max"
+
+msgid "Following codes are duplicated"
+msgstr "Наступні коди дублюються"
+
+msgid "Bonus name already exists"
+msgstr "Назва бонусу вже існує"
+
+msgid "Wrong bonus ID"
+msgstr "Неправильний бонусний ідентифікатор"
+
+msgid "Activated bonuses"
+msgstr "Активовані бонуси"
+
+msgid "Can't delete"
+msgstr "Неможливо видалити"
+
+msgid "No bonus"
+msgstr "Немає бонусів"
+
+msgid "Wrong store action"
+msgstr "Неправильна дія магазину"
+
+msgid "No order id"
+msgstr "Немає ідентифікатора замовлення"
+
+msgid "Order not found"
+msgstr "Замовлення не знайдено"
+
+msgid "No item id"
+msgstr "Немає ідентифікатора елемента"
+
+msgid "User not found"
+msgstr "Користувача не знайдено"
+
+msgid "Item not found"
+msgstr "Елемент не знайдено"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Ціна товару не встановлена ​​для валюти: LOYALTY"
+
+msgid "Not enough loyalty points"
+msgstr "Недостатньо очок лояльності"
+
+msgid "Item out of stock"
+msgstr "Елемент не в наявності"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Wrong BonusEventAmount of item"
+
+msgid "User not found in tournament"
+msgstr "Користувача не знайдено в турнірі"
+
+msgid "Set codes count"
+msgstr "Встановіть коди"
+
+msgid "Set batch name"
+msgstr "Set batch name"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Кількість кодів перевищує 300 000"
+
+msgid "Wrong batch ID"
+msgstr "Неправильний ідентифікатор пакета"
+
+msgid "Codes not set"
+msgstr "Коди не встановлені"
+
+msgid "Modificator not found"
+msgstr "Модифікатор не знайдено"
+
+msgid "Set coefficient"
+msgstr "Set coefficient"
+
+msgid "Set name"
+msgstr "Set name"
+
+msgid "No levels defined"
+msgstr "Не визначено рівні"
+
+msgid "Level not found"
+msgstr "Рівень не знайдено"
+
+msgid "Bad cronjob"
+msgstr "Bad cronjob"
+
+msgid "No category ID"
+msgstr "Немає ідентифікатора категорії"
+
+msgid "Category not found"
+msgstr "Категорію не знайдено"
+
+msgid "No category name"
+msgstr "Немає назви категорії"
+
+msgid "Wrong category ID"
+msgstr "Неправильний ідентифікатор категорії"
+
+msgid "No category id"
+msgstr "Немає ідентифікатора категорії"
+
+msgid "No item ID"
+msgstr "Немає ідентифікатора елемента"
+
+msgid "Wrong item ID"
+msgstr "Неправильний ідентифікатор елемента"
+
+msgid "Item init error"
+msgstr "Item init error"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Неправильний елемент BonusEventAmount"
+
+msgid "No item"
+msgstr "Немає елемента"
+
+msgid "Wrong tournament ID"
+msgstr "Неправильний ідентифікатор турніру"
+
+msgid "Wrong Tournament ID"
+msgstr "Неправильний ідентифікатор Турніру"
+
+msgid "No ID tournament"
+msgstr "Немає ідентифікатора турніру"
+
+msgid "No tournament ID"
+msgstr "Немає ідентифікатора турніру"
+
+msgid "No tournament id"
+msgstr "Немає ідентифікатора турніру"
+
+msgid "No balance"
+msgstr "No balance"
+
+msgid "Not enough balance"
+msgstr "Not enough balance"
+
+msgid "Tournament name required"
+msgstr "Необхідне ім'я турніру"
+
+msgid "Wrong tournament winner by"
+msgstr "Wrong tournament winner by"
+
+msgid "Wrong tournament period"
+msgstr "Неправильний період турніру"
+
+msgid "Wrong tournament repeat"
+msgstr "Wrong tournament repeat"
+
+msgid "Wrong tournament start date"
+msgstr "Неправильна дата початку турніру"
+
+msgid "Tournament not found"
+msgstr "Турнір не знайдено"
+
+msgid "Activated Tournaments"
+msgstr "Активовані турніри"
+
+msgid "No tournament"
+msgstr "Немає турніру"
+
+msgid "Wrong event type"
+msgstr "Неправильний тип події"
+
+msgid "No event id"
+msgstr "Немає ідентифікатора події"
+
+msgid "Empty data"
+msgstr "Порожні дані"
+
+msgid "No data"
+msgstr "Немає даних"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Бонуси заборонені користувачеві"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Турніри заборонені для користувача"
+
+msgid "Bonus pending cancellation"
+msgstr "Бонус очікує на скасування"
+
+msgid "Cancel not supported"
+msgstr "Скасування не підтримується"
+
+msgid "Awaiting limits information, try later"
+msgstr "Очікуйте інформації щодо лімітів, спробуйте пізніше"
+
+msgid "Error cancellation of the bonus"
+msgstr "Помилка скасування бонусу"
+

@@ -1,0 +1,54 @@
+#!/bin/bash -e
+
+usage="Usage: ./$(basename $0) <hotfix_branch> <prod_tag>"
+
+die() {
+    if [ $1 -eq 0 ]; then
+        echo "$2"
+    else
+        echo "ERR: $2"
+    fi
+    exit $1
+}
+
+hotfix_branch="$1"
+prod_tag="$2"
+
+if [ -z "${prod_tag}" ]; then die 0 "${usage}"; fi
+prod_tag_digital="$(echo "${prod_tag}" | sed 's/^v//g')"
+
+if ! echo "${prod_tag_digital}" | egrep '^[0-9]+\.[0-9]+\.[0-9]+$' > /dev/null; then die 1 "Incorrect tag: ${prod_tag}
+${usage}"; fi
+
+if ! git tag | egrep "^v${prod_tag_digital}$" > /dev/null; then die 1 "Tag not found: ${prod_tag}
+${usage}"; fi
+
+if ! echo "${hotfix_branch}" | egrep '^hotfix-202[2-9][0-1][0-9][0-3][0-9]-[a-zA-Z0-9_.-]+$'  > /dev/null; then die 1 "Incorrect branch: ${hotfix_branch}
+${usage}"; fi
+
+if ! git branch -a | egrep "/${hotfix_branch}$" > /dev/null; then die 1 "Branch not found: ${hotfix_branch}
+${usage}"; fi
+
+timestamp=$(date +%s)
+hotfix_date=$(echo ${hotfix_branch} | cut -d- -f2)
+hotfix_tag="v${prod_tag_digital}-patch.${hotfix_date}${timestamp}"
+if git tag | egrep "^${hotfix_tag}$" > /dev/null; then die 1 "Tag ${hotfix_tag} already exists"; fi
+
+echo "Patching composer.json and root/version.php"
+
+git checkout ${hotfix_branch}
+sed -i -E "s/^([[:space:]]+\"version\": \")[0-9a-zA-Z\.\-]+(\",)$/\1${hotfix_tag}\2/g" composer.json
+sed -i -E "s/^([[:space:]]+define\('WLCCORE_VERSION', ')[0-9a-zA-Z\.\-]+('\)\;)/\1${hotfix_tag}\2/g" root/version.php
+
+git commit -m "Updated for hotfix release ${hotfix_tag}" -- composer.json root/version.php
+git push origin ${hotfix_branch}
+
+echo "Creating tag ${hotfix_tag}"
+
+git tag -a ${hotfix_tag} -m "Hotfix tag ${hotfix_tag} release"
+
+read -p "Push tag ${hotfix_tag}? [y/N] " resp
+case "${resp}" in
+    y|Y) git push origin refs/tags/${hotfix_tag} ;;
+    *) echo "Didn't push tag ${hotfix_tag}" ;;
+esac

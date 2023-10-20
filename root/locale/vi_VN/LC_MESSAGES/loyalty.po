@@ -1,0 +1,357 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-30 14:51+0000\n"
+"PO-Revision-Date: 2022-01-18 14:51+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Set transaction type"
+msgstr "Thiết lập loại giao dịch"
+
+msgid "No user id"
+msgstr "Không có id người dùng"
+
+msgid "No amount"
+msgstr "Không có số tiền"
+
+msgid "No loyalty record"
+msgstr "Không có bản ghi điểm khách hàng thân thiết"
+
+msgid "Wrong request path"
+msgstr "Đường dẫn yêu cầu không chính xác"
+
+msgid "Debet amount to big"
+msgstr "Số tiền ghi nợ lớn"
+
+msgid "Wrong transaction type"
+msgstr "Loại giao dịch chưa chính xác"
+
+msgid "Awaiting limits information"
+msgstr "Đang chờ thông tin hạn mức"
+
+msgid "Wrong currency"
+msgstr "Đơn vị tiền tệ không chính xác"
+
+msgid "Non existent level"
+msgstr "Cấp độ không tồn tại"
+
+msgid "No points"
+msgstr "Không có điểm"
+
+msgid "Set loyalty level"
+msgstr "Thiết lập cấp độ điểm khách hàng thân thiết"
+
+msgid "No bet"
+msgstr "Không đặt cược"
+
+msgid "No ID user"
+msgstr "Không có người dùng ID"
+
+msgid "No ID bonus"
+msgstr "Không có phần thưởng ID"
+
+msgid "Wrong amount"
+msgstr "Số tiền không chính xác"
+
+msgid "No bonus ID"
+msgstr "Không có ID thưởng"
+
+msgid "No user ID"
+msgstr "Không có ID người dùng"
+
+msgid "Wrong date format"
+msgstr "Định dạng ngày không đúng"
+
+msgid "Date must not be today"
+msgstr "Không được đặt ngày là hôm nay"
+
+msgid "No bonus id"
+msgstr "Không có id thưởng"
+
+msgid "No status"
+msgstr "Không có trạng thái"
+
+msgid "Bonus not found"
+msgstr "Không tìm thấy phần thưởng"
+
+msgid "Already have active"
+msgstr "Đã hoạt động"
+
+msgid "Bonus is not available"
+msgstr "Phần thưởng không khả dụng"
+
+msgid "First deposit, already deposited"
+msgstr "Nạp lần đầu, đã nạp"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Không đáp ứng các điều kiện thưởng"
+
+msgid "Bonus used"
+msgstr "Phần thưởng đã sử dụng"
+
+msgid "Promo code needed"
+msgstr "Cần có mã khuyến mãi"
+
+msgid "Wrong promo code"
+msgstr "Mã khuyến mãi không chính xác"
+
+msgid "User ID not set"
+msgstr "ID người dùng chưa được thiết lập"
+
+msgid "Wrong bonus results value"
+msgstr "Giá trị kết quả thưởng không chính xác"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Kết quả thưởng không chính xác giá trị vòng miễn phí"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Kết quả thưởng không chính xác trao thưởng đặt cược"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Kết quả thưởng không chính xác kích thước khối"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Kết quả thưởng không chính xác kích hoạt đặt cược"
+
+msgid "Bonus name required"
+msgstr "Cần có tên phần thưởng"
+
+msgid "Wrong bonus event"
+msgstr "Sự kiện thưởng không chính xác"
+
+msgid "Wrong bonus type"
+msgstr "Loại phần thưởng không chính xác"
+
+msgid "Wrong bonus repeat period"
+msgstr "Giai đoạn lặp lại sự kiện thưởng không chính xác"
+
+msgid "Wrong bonus expire period"
+msgstr "Giai đoạn kết thúc sự kiện thưởng không chính xác"
+
+msgid "Wrong bonus budget"
+msgstr "Ngân sách sự kiện thưởng không chính xác"
+
+msgid "Wrong bonus start date"
+msgstr "Ngày bắt đầu sự kiện thưởng không chính xác"
+
+msgid "Wrong bonus end date"
+msgstr "Ngày kết thúc sự kiện thưởng không chính xác"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Ngày bắt đầu sự kiện thưởng không chính xác, không được lớn hơn ngày kết thúc"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Điều kiện số tiền tối thiểu của sự kiện thưởng không chính xác"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Điều kiện số tiền tối đa của sự kiện thưởng không chính xác"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Điều kiện số tiền tối thiểu của sự kiện thưởng không chính xác, không được lớn hơn số tiền tối đa"
+
+msgid "Following codes are duplicated"
+msgstr "Các mã sau bị trùng lặp"
+
+msgid "Bonus name already exists"
+msgstr "Tên phần thưởng đã tồn tại"
+
+msgid "Wrong bonus ID"
+msgstr "ID phần thưởng không chính xác"
+
+msgid "Activated bonuses"
+msgstr "Phần thưởng đã kích hoạt"
+
+msgid "Can't delete"
+msgstr "Không thể xóa"
+
+msgid "No bonus"
+msgstr "Không có phần thưởng"
+
+msgid "Wrong store action"
+msgstr "Hành động lưu trữ không chính xác"
+
+msgid "No order id"
+msgstr "Không có id đơn hàng"
+
+msgid "Order not found"
+msgstr "Không tìm thấy đơn hàng"
+
+msgid "No item id"
+msgstr "Không có id mục"
+
+msgid "User not found"
+msgstr "Không tìm thấy người dùng"
+
+msgid "Item not found"
+msgstr "Không tìm thấy mục"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Giá của mục không được thiết lập với đơn vị tiền tệ: ĐIỂM KHÁCH HÀNG THÂN THIẾT"
+
+msgid "Not enough loyalty points"
+msgstr "Không đủ điểm khách hàng thân thiết"
+
+msgid "Item out of stock"
+msgstr "Đã bán hết mục"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "BonusEventAmount của mục không chính xác"
+
+msgid "User not found in tournament"
+msgstr "Không tìm thấy người dùng trong giải đấu"
+
+msgid "Set codes count"
+msgstr "Thiết lập số lượng mã"
+
+msgid "Set batch name"
+msgstr "Thiết lập tên loạt"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Số lượng mã vượt quá 300 000"
+
+msgid "Wrong batch ID"
+msgstr "ID loạt không chính xác"
+
+msgid "Codes not set"
+msgstr "Chưa thiết lập mã"
+
+msgid "Modificator not found"
+msgstr "Không tìm thấy bộ điều chỉnh"
+
+msgid "Set coefficient"
+msgstr "Thiết lập hệ số"
+
+msgid "Set name"
+msgstr "Đặt tên"
+
+msgid "No levels defined"
+msgstr "Không xác định được cấp độ nào"
+
+msgid "Level not found"
+msgstr "Không tìm thấy cấp độ"
+
+msgid "Bad cronjob"
+msgstr "Tính năng cronjob hỏng"
+
+msgid "No category ID"
+msgstr "Không có ID danh mục"
+
+msgid "Category not found"
+msgstr "Không tìm thấy danh mục"
+
+msgid "No category name"
+msgstr "Không có tên danh mục"
+
+msgid "Wrong category ID"
+msgstr "ID danh mục không chính xác"
+
+msgid "No category id"
+msgstr "Không có id danh mục"
+
+msgid "No item ID"
+msgstr "Không có ID mục"
+
+msgid "Wrong item ID"
+msgstr "ID mục không chính xác"
+
+msgid "Item init error"
+msgstr "Lỗi khởi tạo mục"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "BonusEventAmount của mục không chính xác"
+
+msgid "No item"
+msgstr "Không có mục"
+
+msgid "Wrong tournament ID"
+msgstr "ID giải đấu không chính xác"
+
+msgid "Wrong Tournament ID"
+msgstr "ID Giải đấu không chính xác"
+
+msgid "No ID tournament"
+msgstr "Không có giải đấu ID"
+
+msgid "No tournament ID"
+msgstr "Không có ID giải đấu"
+
+msgid "No tournament id"
+msgstr "Không có id giải đấu"
+
+msgid "No balance"
+msgstr "Không có số dư"
+
+msgid "Not enough balance"
+msgstr "Không đủ số dư"
+
+msgid "Tournament name required"
+msgstr "Cần có tên giải đấu"
+
+msgid "Wrong tournament winner by"
+msgstr "Người chiến thắng giải đấu không chính xác bởi"
+
+msgid "Wrong tournament period"
+msgstr "Thời gian diễn ra giải đấu không chính xác"
+
+msgid "Wrong tournament repeat"
+msgstr "Lặp lại giải đấu không chính xác"
+
+msgid "Wrong tournament start date"
+msgstr "Ngày bắt đầu giải đấu không chính xác"
+
+msgid "Tournament not found"
+msgstr "Không tìm thấy giải đấu"
+
+msgid "Activated Tournaments"
+msgstr "Các giải đấu đã kích hoạt"
+
+msgid "No tournament"
+msgstr "Không có giải đấu"
+
+msgid "Wrong event type"
+msgstr "Loại sự kiện không chính xác"
+
+msgid "No event id"
+msgstr "Không có id sự kiện"
+
+msgid "Empty data"
+msgstr "Dữ liệu trống"
+
+msgid "No data"
+msgstr "Không có dữ liệu"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Phần thưởng bị cấm đối với người dùng"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Các giải đấu bị cấm đối với người dùng"
+
+msgid "Bonus pending cancellation"
+msgstr "Phần thưởng đang chờ hủy"
+
+msgid "Cancel not supported"
+msgstr "Không hỗ trợ hủy"
+
+msgid "Awaiting limits information, try later"
+msgstr "Đang chờ thông tin hạn mức, hãy thử lại sau"
+
+msgid "Error cancellation of the bonus"
+msgstr "Lỗi khi hủy phần thưởng"
+
+msgid "Purchase is not possible - the item has been disabled"
+msgstr "Không thể mua - mục đã bị vô hiệu hóa"
+
+msgid "Purchase is not possible - the item has been deleted"
+msgstr "Không thể mua - mục đã bị xóa"

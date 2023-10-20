@@ -1,0 +1,334 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2018-08-17 23:50-0700\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+
+msgid "Set transaction type"
+msgstr "トランザクションの設定"
+
+msgid "No user id"
+msgstr "ユーザーidがありません"
+
+msgid "No amount"
+msgstr "量がありません"
+
+msgid "No loyalty record"
+msgstr "ローヤリティの記録がありません"
+
+msgid "Wrong request path"
+msgstr "誤った要請経路"
+
+msgid "Debet amount to big"
+msgstr "借方量を大きくする"
+
+msgid "Wrong transaction type"
+msgstr "誤ったトランザクションタイプ"
+
+msgid "Awaiting limits information"
+msgstr "限界情報を待っています"
+
+msgid "Wrong currency"
+msgstr "誤った通貨"
+
+msgid "Non existent level"
+msgstr "実在しないレベル"
+
+msgid "No points"
+msgstr "ポイント無し"
+
+msgid "Set loyalty level"
+msgstr "ローヤリティレベルの設定"
+
+msgid "No bet"
+msgstr "賭けなし"
+
+msgid "No ID user"
+msgstr "IDのないユーザー"
+
+msgid "No ID bonus"
+msgstr "IDのないボーナス"
+
+msgid "Wrong amount"
+msgstr "誤った量"
+
+msgid "No bonus ID"
+msgstr "ボーナス IDがありません"
+
+msgid "No user ID"
+msgstr "ユーザー IDがありません"
+
+msgid "Wrong date format"
+msgstr "誤った日にちのフォーマット"
+
+msgid "Date must not be today"
+msgstr "日付は今日にはできません"
+
+msgid "No bonus id"
+msgstr "ボーナスidがありません"
+
+msgid "No status"
+msgstr "ステータスがありません"
+
+msgid "Bonus not found"
+msgstr "ボーナスが見つかりません"
+
+msgid "Already have active"
+msgstr "すでに作動しています"
+
+msgid "Bonus is not available"
+msgstr "ボーナスは利用可能ではありません"
+
+msgid "First deposit, already deposited"
+msgstr "最初の入金は、すでに振り込まれています"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "ボーナス状態に満足してはいけません"
+
+msgid "Bonus used"
+msgstr "ボーナスが使われました"
+
+msgid "Promo code needed"
+msgstr "プロモコードが必要です"
+
+msgid "Wrong promo code"
+msgstr "誤ったプロモコード"
+
+msgid "User ID not set"
+msgstr "ユーザー ID が設定されていません"
+
+msgid "Wrong bonus results value"
+msgstr "誤ったボーナス結果の価値"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "誤ったボーナス結果は無料ラウンド価値となります"
+
+msgid "Wrong bonus results award wagering"
+msgstr "誤ったボーナスは賞与を賭ける結果になります"
+
+msgid "Wrong bonus results chunk size"
+msgstr "誤ったボーナスは結果として大量サイズを生じます"
+
+msgid "Wrong bonus results release wagering"
+msgstr "誤ったボーナスは賭けを解除する結果になります"
+
+msgid "Bonus name required"
+msgstr "ボーナス名が必要です"
+
+msgid "Wrong bonus event"
+msgstr "誤ったボーナスイベント"
+
+msgid "Wrong bonus type"
+msgstr "ボーナスタイプが間違っています"
+
+msgid "Wrong bonus repeat period"
+msgstr "ボーナス反復期間が間違っています"
+
+msgid "Wrong bonus expire period"
+msgstr "ボーナス期限期間が間違っています"
+
+msgid "Wrong bonus budget"
+msgstr "ボーナス予算が間違っています"
+
+msgid "Wrong bonus start date"
+msgstr "ボーナス開始日が間違っています"
+
+msgid "Wrong bonus end date"
+msgstr "ボーナス終了日が間違っています"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "ボーナス開始日が間違っており、終了日よりも先になっています"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "ボーナス状態の最低限量が間違っています"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "ボーナス状態の最大量が正しくありません"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "ボーナス状態が間違っており、最低限量が最大限量よりも大きくなっています"
+
+msgid "Following codes are duplicated"
+msgstr "以下のコードは重複しています"
+
+msgid "Bonus name already exists"
+msgstr "ボーナス名はすでに存在します"
+
+msgid "Wrong bonus ID"
+msgstr "誤ったボーナス ID"
+
+msgid "Activated bonuses"
+msgstr "有効化したボーナス"
+
+msgid "Can't delete"
+msgstr "消去できません"
+
+msgid "No bonus"
+msgstr "ボーナスはありません"
+
+msgid "Wrong store action"
+msgstr "誤った店舗の反応"
+
+msgid "No order id"
+msgstr "注文 idがありません"
+
+msgid "Order not found"
+msgstr "注文が見つかりません"
+
+msgid "No item id"
+msgstr "アイテム idがありません"
+
+msgid "User not found"
+msgstr "ユーザーが見つかりません"
+
+msgid "Item not found"
+msgstr "アイテムが見つかりません"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "アイテムの値段が通貨に対応して設定されていません: ローヤリティ"
+
+msgid "Not enough loyalty points"
+msgstr "十分なローヤリティポイントがありません"
+
+msgid "Item out of stock"
+msgstr "アイテムの在庫がありません"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "誤ったボーナスイベントのアイテム量"
+
+msgid "User not found in tournament"
+msgstr "ユーザーがトーナメント内にみつかりません"
+
+msgid "Set codes count"
+msgstr "コード総数を設定する"
+
+msgid "Set batch name"
+msgstr "バッチ名を設定する"
+
+msgid "Codes count exceeds 300 000"
+msgstr "コード総数が300 000を超えています"
+
+msgid "Wrong batch ID"
+msgstr "誤ったバッチ ID"
+
+msgid "Codes not set"
+msgstr "コードが設定されていません"
+
+msgid "Modificator not found"
+msgstr "修正機能が見つかりません"
+
+msgid "Set coefficient"
+msgstr "係数を設定する"
+
+msgid "Set name"
+msgstr "名前を設定する"
+
+msgid "No levels defined"
+msgstr "レベルがありません"
+
+msgid "Level not found"
+msgstr "レベルが見つかりません"
+
+msgid "Bad cronjob"
+msgstr "不良なクロンジョブ"
+
+msgid "No category ID"
+msgstr "カテゴリーIDがありません"
+
+msgid "Category not found"
+msgstr "カテゴリーが見つかりません"
+
+msgid "No category name"
+msgstr "カテゴリー名がありません"
+
+msgid "Wrong category ID"
+msgstr "誤ったカテゴリー ID"
+
+msgid "No category id"
+msgstr "カテゴリー idがありません"
+
+msgid "No item ID"
+msgstr "アイテム IDがありません"
+
+msgid "Wrong item ID"
+msgstr "誤ったアイテム IDです"
+
+msgid "Item init error"
+msgstr "アイテムイニットエラー"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "誤ったアイテムボーナスイベントの量"
+
+msgid "No item"
+msgstr "アイテムがありません"
+
+msgid "Wrong tournament ID"
+msgstr "間違ったトーナメント ID"
+
+msgid "Wrong Tournament ID"
+msgstr "間違ったトーナメントID"
+
+msgid "No ID tournament"
+msgstr "ID されたトーナメンとではありません"
+
+msgid "No tournament ID"
+msgstr "トーナメントIDがありません"
+
+msgid "No tournament id"
+msgstr "トーナメントidがありません"
+
+msgid "No balance"
+msgstr "残高がありません"
+
+msgid "Not enough balance"
+msgstr "残高が十分にありません"
+
+msgid "Tournament name required"
+msgstr "必要なトーナメント名"
+
+msgid "Wrong tournament winner by"
+msgstr "〜により誤ったトーナメント勝者"
+
+msgid "Wrong tournament period"
+msgstr "誤ったトーナメント期間"
+
+msgid "Wrong tournament repeat"
+msgstr "誤ったトーナメントの反復"
+
+msgid "Wrong tournament start date"
+msgstr "誤ったトーナメント開始日"
+
+msgid "Tournament not found"
+msgstr "トーナメントが見つかりません"
+
+msgid "Activated Tournaments"
+msgstr "有効化されたトーナメント"
+
+msgid "No tournament"
+msgstr "トーナメントがありません"
+
+msgid "Wrong event type"
+msgstr "誤ったイベントタイプ "
+
+msgid "No event id"
+msgstr "イベントのidがありません"
+
+msgid "Empty data"
+msgstr "空白のデータ"
+
+msgid "No data"
+msgstr "データがありません"

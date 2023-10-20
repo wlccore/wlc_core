@@ -1,0 +1,1485 @@
+# English translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.0.389\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: 2021-01-13 18:29+0200\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"أضف بريدنا الإلكتروني إلى دفتر العناوين الخاص بك حتى لا تفوتك معلومات مهمة من"
+
+msgid "Congratulations,"
+msgstr "تهانينا,"
+
+msgid "Dear"
+msgstr "عزيزى"
+
+msgid "Deposit confirmation"
+msgstr "تأكيد الإيداع"
+
+msgid "Deposit success notification. Your balance"
+msgstr "إشعار نجاح الإيداع. رصيدك"
+
+msgid "Finish registration link"
+msgstr "إتمام رابط التسجيل"
+
+msgid "Greeting."
+msgstr "تحية."
+
+msgid "Hello"
+msgstr "اهلاً"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "إذا لم يتم عرض هذا البريد الإلكتروني بشكل صحيح, قم بفتحه في متصفحك."
+
+msgid "If you have any questions, please contact"
+msgstr "إذا كان لديك أي أسئلة, يرجى الإتصال"
+
+msgid "Link will be available for 30 minutes."
+msgstr "سيكون الرابط متاحًا لمدة 30 دقيقة."
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Password"
+msgstr "كلمة المرور"
+
+msgid "Password restore"
+msgstr "إستعادة كلمة المرور"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "الرجاء الضغط على الرابط أدناه لإنهاء التسجيل:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"رجاءا لا ترد على هذا الأيميل. يتم إنشاء هذا الإيميل تلقائيًا ولن تتلقى ردًا."
+
+msgid "Registration confirmation"
+msgstr "تأكيد التسجيل"
+
+msgid "Restore your password by clicking the link below."
+msgstr "إستعيد كلمة المرور الخاصة بك عن طريق النقر على الرابط أدناه."
+
+msgid "Social registration confirmation"
+msgstr "تأكيد التسجيل الإجتماعي"
+
+msgid "Thank you for validating your account."
+msgstr "نشكرك من التحقق من صحة حسابك."
+
+msgid "Thanks for registration on the website!"
+msgstr "نشكرك للتسجيل في الموقع!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "للإنتهاء من ربط حساباتك, يرجى إستخدام هذا الرابط:"
+
+msgid "Welcome to"
+msgstr "اهلاً بك فى"
+
+msgid "With respect"
+msgstr "مع كامل الإحترام"
+
+msgid "You asked to link new social account to your current account"
+msgstr "لقد طلبت ربط حساب إجتماعي جديد بحسابك الحالي"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"لقد اتخذت الخطوة الأولى لتجربة رحلة ألعاب مذهلة\n"
+" مع"
+
+msgid "casino_footer_copyright"
+msgstr "حقوق النشر في تذييل الكازينو"
+
+msgid "casino_mail_info"
+msgstr "معلومات بريد الكازينو"
+
+msgid "online support"
+msgstr "دعم اونلاين"
+
+msgid "controller_does_not_exists"
+msgstr "تحكم غير موجود"
+
+msgid "social_not_found"
+msgstr "لم يتم العثور على الحساب الإجتماعى"
+
+msgid "purchase_error"
+msgstr "خطأ في الشراء"
+
+msgid "game_added_to_favorites"
+msgstr "تمت إضافة اللعبة إلى المفضلة"
+
+msgid "game_deleted_from_favorites"
+msgstr "تم حذف اللعبة من المفضلة"
+
+msgid "must_login"
+msgstr "يجب تسجيل الدخول"
+
+msgid "No bonus name"
+msgstr "لا يوجد اسم مكافأة"
+
+msgid "No bonus descripton"
+msgstr "لا يوجد وصف مكافأة"
+
+msgid "No user id"
+msgstr "معرف المستخدم غير موجود"
+
+msgid "No bonus id"
+msgstr "معرف المكافأة غير موجود"
+
+msgid "No status"
+msgstr "حالة غير معروفة"
+
+msgid "Bonus not found"
+msgstr "لم يتم العثور على المكافأة"
+
+msgid "Already have active"
+msgstr "نشطة بالفعل"
+
+msgid "Bonus is not available"
+msgstr "المكافأة غير متاحة"
+
+msgid "First deposit, already deposited"
+msgstr "أول إيداع تم إيداعه بالفعل"
+
+msgid "No loyalty record"
+msgstr "لا يوجد سجل ولاء"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "لا تفي بشروط المكافأة"
+
+msgid "Bonus used"
+msgstr "تم إستخدام المكافأة"
+
+msgid "Promo code needed"
+msgstr "الكود الترويجي مطلوب"
+
+msgid "Wrong promo code"
+msgstr "كود ترويجى خاطئ"
+
+msgid "Bonuses are forbidden for user"
+msgstr "المكافآت ممنوعة على المستخدم"
+
+msgid "Already have an active bonus"
+msgstr "هناك مكافأة نشطة بالفعل"
+
+msgid "registration"
+msgstr "التسجيل"
+
+msgid "verification"
+msgstr "التحقق"
+
+msgid "sign up"
+msgstr "تسجيل"
+
+msgid "store"
+msgstr "متجر"
+
+msgid "login"
+msgstr "تسجيل الدخول"
+
+msgid "deposit"
+msgstr "إيداع"
+
+msgid "deposit first"
+msgstr "الإيداع أولاً"
+
+msgid "deposit sum"
+msgstr "مجموع الإيداع"
+
+msgid "deposit repeated"
+msgstr "تم تكرار الإيداع"
+
+msgid "bet"
+msgstr "رهان"
+
+msgid "bet sum"
+msgstr "مجموع الرهان"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "مجموع الإيداع"
+
+msgid "once"
+msgstr "مرة"
+
+msgid "day"
+msgstr "يوم"
+
+msgid "week"
+msgstr "أسبوع"
+
+msgid "month"
+msgstr "شهر"
+
+msgid "all"
+msgstr "الكل"
+
+msgid "bonus"
+msgstr "مكافأة"
+
+msgid "win"
+msgstr "فوز"
+
+msgid "win and bonus"
+msgstr "فوز و مكافأة"
+
+msgid "winevent"
+msgstr "فوز و حدث"
+
+msgid "winbonusevent"
+msgstr "فوز + حدث + مكافأة"
+
+msgid "none"
+msgstr "لا شيئ"
+
+msgid "balance"
+msgstr "الرصيد"
+
+msgid "experience"
+msgstr "الخبرة"
+
+msgid "loyalty"
+msgstr "ولاء"
+
+msgid "absolute"
+msgstr "مطلق"
+
+msgid "relative"
+msgstr "نسبيا"
+
+msgid "bets"
+msgstr "الرهانات"
+
+msgid "wins"
+msgstr "ارباح"
+
+msgid "turnover"
+msgstr "معدل الدوران"
+
+msgid "negative turnover"
+msgstr "دوران سلبى"
+
+msgid "unlimited"
+msgstr "غير محدود"
+
+msgid "one day"
+msgstr "يوم واحد"
+
+msgid "two days"
+msgstr "2 يوم"
+
+msgid "three days"
+msgstr "3 أيام"
+
+msgid "seven days"
+msgstr "7 أيام"
+
+msgid "ten days"
+msgstr "10 أيام"
+
+msgid "fourteen days"
+msgstr "14 يوم"
+
+msgid "thirty days"
+msgstr "30 يوم"
+
+msgid "sixty days"
+msgstr "60 يوم"
+
+msgid "ninety days"
+msgstr "90 يوم"
+
+msgid "one week"
+msgstr "أسبوع"
+
+msgid "two weeks"
+msgstr "2 أسبوع"
+
+msgid "one month"
+msgstr "شهر"
+
+msgid "every day"
+msgstr "كل يوم"
+
+msgid "every week"
+msgstr "كل أسبوع"
+
+msgid "every two weeks"
+msgstr "كل أسبوعين"
+
+msgid "every month"
+msgstr "كل شهر"
+
+msgid "fee"
+msgstr "الرسوم"
+
+msgid "turnover and fee"
+msgstr "معدل الدوران والرسوم"
+
+msgid "everyday"
+msgstr "كل يوم"
+
+msgid "monday"
+msgstr "الإثنين"
+
+msgid "tuesday"
+msgstr "الثلاثاء"
+
+msgid "wednesday"
+msgstr "الأربعاء"
+
+msgid "thursday"
+msgstr "الخميس"
+
+msgid "friday"
+msgstr "الجمعة"
+
+msgid "saturday"
+msgstr "السبت"
+
+msgid "sunday"
+msgstr "الأحد"
+
+msgid "transaction_list_is_empty"
+msgstr "قائمة المعاملات فارغة"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "التاريخ غير صحيح, من تاريخ أعلى من إلى تاريخ "
+
+msgid "cancelled"
+msgstr "تم الإلغاء"
+
+msgid "rejected"
+msgstr "مرفوض"
+
+msgid "error"
+msgstr "خطأ"
+
+msgid "in_progress"
+msgstr "قيد التنفيذ"
+
+msgid "confirmed"
+msgstr "تم التأكيد"
+
+#, fuzzy
+msgid "pending"
+msgstr "نهاية"
+
+msgid "system_error"
+msgstr "خطأ في النظام"
+
+msgid "completed"
+msgstr "إكتمال"
+
+msgid "aborted"
+msgstr "إجهاض"
+
+msgid "credit"
+msgstr "إئتمان"
+
+msgid "debet"
+msgstr "الدين"
+
+msgid "withdraw_unavailable"
+msgstr "سحب غير متوفر"
+
+msgid "withdraw_check_error"
+msgstr "خطأ في تحقق السحب"
+
+msgid "set_amount"
+msgstr "حدد مبلغ"
+
+msgid "set_payment_system"
+msgstr "تعيين نظام الدفع"
+
+msgid "country_and_birth_date_required"
+msgstr "مطلوب البلد وتاريخ الميلاد"
+
+msgid "payment_request_sent"
+msgstr "تم إرسال طلب الدفع"
+
+msgid "payment_request_error"
+msgstr "خطأ في طلب الدفع"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "تم الوصول إلى الحد الأقصى للسحب"
+
+msgid "sys_error_message"
+msgstr "رسالة خطأ في النظام"
+
+msgid "input_purse"
+msgstr "محفظة المدخلات"
+
+msgid "payment_withdraw_sent"
+msgstr "تم إرسال سحب الدفع"
+
+msgid "New password is empty"
+msgstr "كلمة المرور الجديدة فارغة"
+
+msgid "Repeat password is empty"
+msgstr "خانة تكرار كلمة المرور فارغة"
+
+msgid "Code is empty"
+msgstr "الكود فارغ"
+
+msgid "Code is incorrect"
+msgstr "الكود غير صحيح"
+
+msgid "Password must be at least 6 characters long"
+msgstr "يجب الا تقل كلمة المرور عن 6 أحرف على الأقل"
+
+msgid "pass_not_match"
+msgstr "كلمة المرور غير متطابقة"
+
+msgid "Session expired"
+msgstr "تم إنتهاء صلاحية الجلسة"
+
+msgid "social_account_expired"
+msgstr "انتهت صلاحية الحساب الإجتماعي"
+
+msgid "Empty to address"
+msgstr "العنوان فارغ"
+
+msgid "Empty subject"
+msgstr "الموضوع فارغ"
+
+msgid "Empty message"
+msgstr "الرسالة فارغة"
+
+msgid "Empty required parameter"
+msgstr "مؤشرات الطلب غير صالحة"
+
+msgid "Unknown error"
+msgstr "خطأ غير معروف"
+
+msgid "Not allowed player country"
+msgstr "لا يمكنك لعب هذه اللعبة لأنها غير مسموح بها في بلدك."
+
+msgid "Demo not supported"
+msgstr "العرض التجريبى غير مدعوم"
+
+msgid "Your currency is not supported by this provider"
+msgstr "عملتك غير مدعومة من قبل مقدم الخدمة هذا"
+
+msgid "Branded games are not enabled"
+msgstr "لم يتم تمكين الألعاب ذات العلامات التجارية"
+
+msgid "Self exclusion date"
+msgstr "تاريخ الإقصاء الذاتى"
+
+msgid "Self exclusion"
+msgstr "إقصاء ذاتى"
+
+msgid "does not exists"
+msgstr "غير موجود"
+
+msgid "Method is not supported"
+msgstr "الطريقة غير مدعومة"
+
+msgid "Data type is not found"
+msgstr "نوع البيانات غير موجود"
+
+msgid "Invalid request parameters"
+msgstr "مؤشرات الطلب غير صالحة"
+
+msgid "No bonus description"
+msgstr "لا يوجد وصف للمكافأة"
+
+msgid "Selected"
+msgstr "تحديد"
+
+msgid "Qualified"
+msgstr "لآئق"
+
+msgid "Deleted"
+msgstr "حذف"
+
+msgid "Deactivated"
+msgstr "تعطيل"
+
+msgid "Canceled"
+msgstr "إلغاء"
+
+msgid "Ending"
+msgstr "نهاية"
+
+msgid "Ended"
+msgstr "إنتهاء"
+
+msgid "Loyalty API Failure"
+msgstr "فشل واجهة برمجة تطبيقات API الولاء"
+
+msgid "Loyalty result not supported"
+msgstr "نتيجة الولاء غير مدعومة"
+
+msgid "User not found"
+msgstr "المستخدم غير موجود"
+
+msgid "Unable fetch oauth access token"
+msgstr "تعذر جلب رمز الدخول oauth"
+
+msgid "Access token is missing"
+msgstr "رمز الوصول مفقود"
+
+msgid "Empty access token user identifier"
+msgstr "معرف مستخدم رمز الوصول فارغ"
+
+msgid "Empty access token identifier"
+msgstr "معرف رمز الوصول فارغ"
+
+msgid "Method not allowed"
+msgstr "الطريقة غير مسموحة"
+
+msgid "Your country is on the forbidden list"
+msgstr "بلدك في القائمة الممنوعة"
+
+msgid "User profile is incomplete"
+msgstr "ملف مستخدم شخصى غير مكتمل"
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "لم يتم سرد نتيجة المكافأة"
+
+msgid "Unknown route path"
+msgstr "مسار طريق غير معروف"
+
+msgid "Too many requests"
+msgstr "حدث خطأ أثناء عملية تسجيل الدخول. طلبات كثيرة جدا"
+
+msgid "Code is not valid"
+msgstr "الكود غير صالح"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "حدث خطأ أثناء عملية تسجيل الدخول. طلبات كثيرة جدا"
+
+msgid "Method Not Allowed"
+msgstr "الطريقة غير مسموحة"
+
+msgid "Api endpoint not found"
+msgstr "لم يتم العثور على نقطة نهاية Api"
+
+msgid "Confirm your email to start games"
+msgstr "قم بتأكيد بريدك الإلكتروني لبدء الألعاب"
+
+msgid "User not authorized"
+msgstr "غير مصرح"
+
+msgid "Merchant system not selected or invalid"
+msgstr "نظام التاجر غير محدد أو غير صالح"
+
+msgid "Amount is not selected or invalid"
+msgstr "المبلغ غير محدد أو غير صالح"
+
+msgid "Bonus result is not list"
+msgstr "لم يتم سرد نتيجة المكافأة"
+
+msgid "Bonus ID Not found"
+msgstr "معرف المكافأة غير موجود"
+
+msgid "Bonus Selected Not found"
+msgstr "المكافأة المحددة غير موجودة"
+
+msgid "User is not authorized"
+msgstr "غير مصرح"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "الموضوع فارغ"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "فشل الإيداع: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr "لقد قمت بتمكين %s حد: %s %s حتى %s. مبلغ الإيداع المتاح: %s %s"
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "حدد مبلغ"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "كود الإطلاق فارغ"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "الإسم الأخير"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "الإسم الأخير"
+
+#, fuzzy
+msgid "Account type"
+msgstr "البلد"
+
+#, fuzzy
+msgid "Account number"
+msgstr "رقم الهاتف"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "رقم الهاتف"
+
+msgid "Uploadable files is empty"
+msgstr "خانة البريد الإلكترونى فارغة"
+
+msgid "Exceeds allowed file size"
+msgstr "يتجاوز حجم الملف المسموح به"
+
+msgid "Mb"
+msgstr "ميغا بايت"
+
+msgid "Document ID not found"
+msgstr "الدورة غير موجودة"
+
+msgid "Request invalid. Error: "
+msgstr "طلب غير صالح. خطأ:"
+
+msgid "Games catalog is temporary unavailable"
+msgstr "كتالوج الألعاب غير متوفر مؤقتًا"
+
+msgid "Empty launch code"
+msgstr "كود الإطلاق فارغ"
+
+msgid "Empty merchant identifier"
+msgstr "معرّف التاجر فارغ"
+
+msgid "Empty games catalog"
+msgstr "كتالوج العاب فارغ"
+
+msgid "Unknown game launch code"
+msgstr "كود إطلاق لعبة غير معروف"
+
+msgid "Not supported exception"
+msgstr "لا يدعم الإستثناء"
+
+msgid "Bad request"
+msgstr "اقتراح غير جيد"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+msgid "Unable find user identifier"
+msgstr "تعذر العثور على معرف المستخدم"
+
+msgid "Unknown error occured"
+msgstr "خطأ غير معروف"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "رقم المستلم غير صحيح"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "حدث خطأ أثناء عملية تسجيل الدخول. طلبات كثيرة جدا"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "خطأ غير معروف"
+
+msgid "Token not found"
+msgstr "الرمز غير موجود"
+
+msgid "Invalid token provided"
+msgstr "الرمز المقدم غير صالح"
+
+msgid "Phone already verified"
+msgstr "تم التحقق من الهاتف بالفعل"
+
+msgid "Insufficient parameters"
+msgstr "مؤشرات غير كافية"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "حدث خطأ أثناء عملية تسجيل الدخول. خطأ في التفويض"
+
+msgid "Invalid verification code"
+msgstr "كود التحقق غير صالح"
+
+msgid "Empty phone number"
+msgstr "رقم الهاتف فارغ"
+
+msgid "Invalid phone number"
+msgstr "رقم هاتف غير صالح"
+
+msgid "Anonymous"
+msgstr "مجهول"
+
+msgid "Item not found"
+msgstr "العنصر غير موجود"
+
+msgid "Sent from web-form at"
+msgstr "مرسل من نموذج الويب في"
+
+msgid "Service not found"
+msgstr "الخدمة غير موجودة"
+
+msgid "Unauthorized"
+msgstr "غير مصرح"
+
+msgid "Tournaments history error"
+msgstr "خطأ في سجل الدورة"
+
+msgid "Tournaments list not available"
+msgstr "قائمة الدورات غير متاحة"
+
+msgid "Tournaments type not found"
+msgstr "نوع الدورات غير موجود"
+
+msgid "Tournament not found"
+msgstr "الدورة غير موجودة"
+
+msgid "Tournaments subscribe error"
+msgstr "خطأ في إشتراك الدورات"
+
+msgid "Insufficient monetary turnover"
+msgstr "معدل دوران نقدي غير كاف"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "لم يتم ملء الملف الشخصي للمستخدم (البيانات الشخصية)"
+
+msgid "Need verification"
+msgstr "بحاجة إلى التحقق"
+
+msgid "Need additional verification"
+msgstr "بحاجة إلى تحقق إضافي"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "تم إرسال البريد الإلكتروني, سيكون رابط الإسترداد متاحًا لمدة 30 دقيقة"
+
+msgid "Password repeat is empty"
+msgstr "تكرار كلمة المرور فارغ"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr "قد تحتوي كلمة المرور الجديدة على أحرف لاتينية وأرقام ورموز خاصة"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"يجب أن تحتوي كلمة المرور على أحرف لاتينية بأحرف كبيرة وصغيرة وأرقام ورموز "
+"خاصة"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "يجب أن تحتوي كلمة المرور على أحرف لاتينية وأرقام "
+
+msgid "Passwords do not match"
+msgstr "كلمة المرور غير مطابقة"
+
+msgid "Password is empty"
+msgstr "كلمة المرور فارغة"
+
+msgid "Password is invalid"
+msgstr "كلمة المرور غير صحيحة"
+
+msgid "Code is invalid"
+msgstr "الكود غير صالح"
+
+msgid "Email change is not allowed"
+msgstr "تغيير البريد الإلكتروني غير مسموح به"
+
+msgid "Email is required"
+msgstr "البريد الإلكترونى مطلوب"
+
+msgid "User update failed"
+msgstr "فشل تحديث المستخدم"
+
+msgid "Registration data validation failed"
+msgstr "فشل التحقق من صحة بيانات التسجيل"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "كود التحقق غير صالح"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "كود الإطلاق فارغ"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "خطأ في النظام"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"لم يتم العثور على كود التحقق من البريد الإلكتروني, ربما تكون أكدت بالفعل "
+"بريدك الإلكتروني, يرجى التحقق من صندوق البريد الخاص بك"
+
+msgid "Registration_complete"
+msgstr "اكتمل التسجيل"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+msgid "Insufficient account balance"
+msgstr "رصيد حساب غير كاف"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"لم تقم بالإيداع من خلال هذا النظام, لذا لا يمكنك سحب الأموال بإستخدامه. قم "
+"بالإيداع عبر هذا النظام من أجل إمكانية السحب."
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "لم يتم إختيار الجنس"
+
+msgid "Impossible to send email"
+msgstr "إستحالة إرسال بريد إلكتروني"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "كود التحقق غير صالح"
+
+msgid "Server returned invalid response"
+msgstr "إستجابة غير صالحة للخادم"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "خطأ غير معروف"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "حالة غير معروفة"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "الطريقة غير مدعومة"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "الطريقة غير مدعومة"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "الطريقة غير مدعومة"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "الطريقة غير مدعومة"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "أمر خاطئ"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "مؤشرات الطلب غير صالحة"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "مؤشرات الطلب غير صالحة"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "أمر خاطئ"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "أمر خاطئ"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "مقدم خدمة غير مدعوم"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "نسخة API غير صحيحة في العنوان"
+
+msgid "Not specified API key"
+msgstr "مفتاح API غير محدد"
+
+msgid "Incorrect API key"
+msgstr "مفتاح API غير صحيح"
+
+msgid "Incorrect IP address client"
+msgstr "عنوان عميل IP غير صحيح"
+
+msgid "Invalid command"
+msgstr "أمر خاطئ"
+
+msgid "Specified command does not exist or is not available"
+msgstr "الأمر المحدد غير موجود أو غير متوفر"
+
+msgid "System error"
+msgstr "خطأ في النظام"
+
+msgid "Not specified the SMS identifier"
+msgstr "لم يتم تحديد معرف SMS"
+
+msgid "Sender address does not exist"
+msgstr "عنوان المرسل غير موجود"
+
+msgid "Not specified content"
+msgstr "محتوى غير محدد"
+
+msgid "Faulty or unsupported country code"
+msgstr "كود البلد خاطئ أو غير مدعوم"
+
+msgid "Content is too long"
+msgstr "المحتوى طويل جدًا"
+
+msgid "Incorrect encoding of the content"
+msgstr "ترميز المحتوى غير صحيح"
+
+msgid "Exceeded monthly limit"
+msgstr "تم تجاوز الحد الشهري"
+
+msgid "Batch ID does not exist"
+msgstr "معرف الدفعة غير موجود"
+
+msgid "List recipients does not exist"
+msgstr "قائمة المستلمين غير موجودة"
+
+msgid "Invalid recipient number"
+msgstr "رقم المستلم غير صحيح"
+
+msgid "No content"
+msgstr "لا يوجد محتوى"
+
+msgid "Wrong content"
+msgstr "محتوى خاطئ"
+
+msgid "Unable send message"
+msgstr "تعذر إرسال الرسالة"
+
+#, fuzzy, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+"تم تجاوز حصة الرسائل القصيرة في الساعة. يمكنك إعادة محاولة إرسال SMS خلال٪ d "
+"دقيقة"
+
+msgid "Unsupported authentication provider"
+msgstr "مقدم خدمة غير مدعوم"
+
+msgid "connect_social_account_email_theme"
+msgstr "ربط نموذج البريد الإلكتروني للحساب الإجتماعي"
+
+msgid "not_logged_in"
+msgstr "لم تقم بتسجيل الدخول"
+
+msgid "trying_delete_last_social"
+msgstr "حاول حذف آخر حساب إجتماعى"
+
+msgid "please_set_email"
+msgstr "يرجى تعيين البريد الإلكتروني"
+
+msgid "please_set_password"
+msgstr "يرجى تعيين كلمة المرور"
+
+msgid "Code incorrect, user not found"
+msgstr "الكود غير صحيح, المستخدم غير موجود"
+
+msgid "email_has_been_verified"
+msgstr "تم التحقق من البريد الإلكتروني"
+
+msgid "Transaction value generation failed"
+msgstr "فشل إنشاء قيمة المعاملة"
+
+msgid "email_to_connect_social_sent"
+msgstr "أرسل بريد إلكتروني لربط شبكات التواصل"
+
+msgid "Registration complete"
+msgstr "اكتمل التسجيل"
+
+msgid "_ip_fraud_msg"
+msgstr "رسالة إحتيال IP"
+
+msgid "Session is expired"
+msgstr "انتهت صلاحية الجلسة"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "معرف النظام غير محدد"
+
+msgid "System ID not specified"
+msgstr "معرف النظام غير محدد"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "بريد إلكتروني غير صحيح, يرجى المحاولة مرة أخرى من البداية"
+
+msgid "Email is empty"
+msgstr "البريد الإلكتروني فارغ"
+
+msgid "Error, account with this email does not exist."
+msgstr "خطأ, الحساب بهذا البريد الإلكتروني غير موجود."
+
+msgid "Unable generate temporary restore user code"
+msgstr "تعذر إنشاء كود الإستعادة المؤقت للمستخدم"
+
+msgid "Password recovery"
+msgstr "إستعادة كلمة المرور"
+
+msgid "current_password_empty"
+msgstr "كلمة المرور الحالية فارغة"
+
+msgid "Current password is incorrect"
+msgstr "كلمة المرور الحالية غير صحيحة"
+
+msgid "day_not_set"
+msgstr "لم يتم تحديد اليوم"
+
+msgid "month_not_set"
+msgstr "لم يتم تحديد الشهر"
+
+msgid "year_not_set"
+msgstr "لم يتم تحديد السنة"
+
+msgid "Country is not picked"
+msgstr "لم يتم إختيار البلد"
+
+msgid "Gender is not picked"
+msgstr "لم يتم إختيار الجنس"
+
+msgid "input_repeated_password"
+msgstr "ادخل تكرار كلمة المرور"
+
+msgid "Password does not match"
+msgstr "كلمة المرور غير مطابقة"
+
+msgid "Email field is empty or incorrect"
+msgstr "خانة البريد الإلكتروني فارغة أو غير صحيحة"
+
+msgid "Email already in use"
+msgstr "البريد الاليكتروني قيد الإستخدام"
+
+msgid "Email field is incorrect"
+msgstr "خانة البريد الإلكترونى غير صحيحة"
+
+msgid "Login field is empty"
+msgstr "خانة تسجيل الدخول فارغة"
+
+msgid "Email field is empty"
+msgstr "خانة البريد الإلكتروني فارغة"
+
+msgid "login_already_in_use"
+msgstr "تسجيل الدخول مستخدم بالفعل"
+
+msgid "phone_empty"
+msgstr "رقم الهاتف فارغ"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "رقم الهاتف غير صحيح. يجب أن"
+
+msgid "Phone number too long"
+msgstr "رقم الهاتف طويل جدًا"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "رقم الهاتف غير صحيح: تم إستخدام بعض الرموز الغير المسموح بها."
+
+msgid "new_pass_less_6_symbols"
+msgstr "كلمة مرور جديدة أقل من 6 رموز"
+
+msgid "first_name_empty"
+msgstr "الإسم الأول فارغ"
+
+msgid "last_name_empty"
+msgstr "الإسم الأخير فارغ"
+
+msgid "New email field is incorrect"
+msgstr "خانة البريد الإلكتروني غير صحيحة"
+
+msgid "User verification failed"
+msgstr "تحقق"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "حدث خطأ أثناء عملية تسجيل الدخول. خطأ في التفويض"
+
+msgid "authorization_error"
+msgstr "حدث خطأ أثناء عملية تسجيل الدخول. خطأ في التفويض"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "تم إنتهاء صلاحية الجلسة"
+
+msgid "registration_in_progress"
+msgstr "التسجيل قيد التنفيذ"
+
+msgid "user_disabled"
+msgstr "تم تعطيل المستخدم"
+
+msgid "Access forbidden"
+msgstr "الوصول ممنوع"
+
+msgid "Email field incorrect"
+msgstr "خانة البريد الإلكتروني غير صحيحة"
+
+msgid "email_empty_incorrect"
+msgstr "بريد إلكترونى غير صحيح"
+
+msgid "pass_less_6_symbols"
+msgstr "كلمة مرور أقل من 6 رموز"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "قد تحتوي كلمة المرور على أحرف لاتينية وأرقام ورموز خاصة فقط"
+
+msgid "currency_not_set"
+msgstr "العملة غير محددة"
+
+msgid "Currency field is invalid"
+msgstr "خانة العملة غير صالح"
+
+msgid "reg_promo_is_invalid"
+msgstr "عرض التسجيل غير صالح"
+
+msgid "email_already_registered"
+msgstr "البريد الإلكتروني مسجل بالفعل"
+
+msgid "login_already_registered"
+msgstr "تسجيل الدخول مسجل بالفعل"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "الهاتف مسجل بالفعل"
+
+msgid "ip_fraud_blacklist"
+msgstr "القائمة السوداء للإحتيال IP"
+
+msgid "ip_fraud_check_error"
+msgstr "خطأ في فحص ip الإحتيال "
+
+msgid "Activate your account"
+msgstr "تفعيل الحساب"
+
+msgid "Registration confirmation is in progress"
+msgstr "تأكيد التسجيل قيد التنفيذ"
+
+msgid "Unknown status"
+msgstr "حالة غير معروفة"
+
+msgid "first name"
+msgstr "الإسم الأول"
+
+msgid "last name"
+msgstr "الإسم الأخير"
+
+msgid "birth date"
+msgstr "تاريخ الميلاد"
+
+msgid "sex"
+msgstr "الجنس"
+
+msgid "country"
+msgstr "البلد"
+
+msgid "phone number"
+msgstr "رقم الهاتف"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "لتغيير خانة %s يرجى التواصل مع الدعم على"
+msgstr[1] "To change %s fields please contact our support at "
+
+msgid "Email has invalid format"
+msgstr "تنسيق البريد الإلكتروني غير صالح"
+
+msgid "Repeat password field is empty"
+msgstr "خانة تكرار كلمة المرور فارغة"
+
+msgid "First name field is empty"
+msgstr "خانة الإسم الأول فارغة"
+
+msgid "First name must contain only letters"
+msgstr "يجب أن يحتوي الاسم الأول على أحرف فقط"
+
+msgid "Last name field is empty"
+msgstr "خانة الإسم الأخير فارغة"
+
+msgid "Last name must contain only letters"
+msgstr "يجب أن تحتوي كلمة المرور على أحرف لاتينية وأرقام "
+
+msgid "Gender field is empty"
+msgstr "خانة الجنس فارغة"
+
+msgid "Gender unallowed value"
+msgstr "قيمة غير مسموح بها"
+
+msgid "Currency field is empty"
+msgstr "خانة العملة فارغة"
+
+msgid "Country code is empty"
+msgstr "كود البلد فارغ"
+
+msgid "Country code is invalid"
+msgstr "كود البلد غير صالح"
+
+msgid "Phone code is empty"
+msgstr "كود الهاتف فارغ"
+
+msgid "Phone number field is empty"
+msgstr "خانة رقم الهاتف فارغة"
+
+msgid "Phone number invalid format"
+msgstr "تنسيق رقم الهاتف غير صالح"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "كود الهاتف فارغ"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "يجب الا تقل كلمة المرور عن 6 أحرف على الأقل"
+
+msgid "Wrong IBAN number"
+msgstr "رقم آيبان خاطئ"
+
+msgid "Wrong SWIFT number"
+msgstr "رقم SWIFT خاطئ"
+
+msgid "ID Number is not unique"
+msgstr "رقم الهوية ليس فريدًا"
+
+msgid "Password field is empty"
+msgstr "كلمة المرور فارغة"
+
+msgid "New password field is empty"
+msgstr "خانة كلمة المرور الجديدة فارغة"
+
+msgid "New password must be at least 6 characters long"
+msgstr "يجب أن تتكون كلمة المرور الجديدة من 6 أحرف على الأقل"
+
+msgid "New password strength is weak"
+msgstr "كلمة المرور الجديدة ضعيفة"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "خطأ, الحساب بهذا البريد الإلكتروني غير موجود."
+
+msgid "Password strength is weak"
+msgstr "كلمة المرور ضعيفة"
+
+msgid "Login is already registered"
+msgstr "تسجيل الدخول مسجل بالفعل"
+
+msgid "Email is already registered"
+msgstr "البريد الإلكترونى مسجل بالفعل"
+
+msgid "Phone is already registered"
+msgstr "الهاتف مسجل بالفعل"
+
+msgid "You are less than 18 year old"
+msgstr "عمرك أقل من 18 عامًا"
+
+#~ msgid "Do you need to contact us?"
+#~ msgstr "هل تريد الإتصال بنا؟"
+
+#~ msgid ""
+#~ "Due to legal reasons we can't accept players residing in the country you "
+#~ "are currently\n"
+#~ "            in."
+#~ msgstr ""
+#~ "لأسباب قانونية, لا يمكننا قبول اللاعبين المقيمين في البلد الذي تقيم فيه "
+#~ "حاليًا\n"
+#~ "             في"
+
+#~ msgid ""
+#~ "If you’re using a proxy service or VPN to access casino, try turning it "
+#~ "off and reload the\n"
+#~ "            page."
+#~ msgstr ""
+#~ "إذا كنت تستخدم خدمة وكيل أو VPN للوصول إلى الكازينو, فحاول إيقافه وإعادة "
+#~ "تحميل\n"
+#~ "             الصفحة"
+
+#~ msgid "Location restriction"
+#~ msgstr "موقع محظور"
+
+#~ msgid "Not in a restricted region"
+#~ msgstr "ليس في منطقة محظورة"
+
+#~ msgid ""
+#~ "Should you have any questions or feel that this block is affecting you "
+#~ "due to a technical error,\n"
+#~ "            please\n"
+#~ "            don't hesitate to contact us and we'll work it out together."
+#~ msgstr ""
+#~ "إذا كان لديك أي أسئلة أو شعرت أن هذا الحظر يؤثر عليك بسبب خطأ فني ,\n"
+#~ "             رجاء\n"
+#~ "             لا تتردد في الإتصال بنا وسنعمل معًا."
+
+#~ msgid "Withdraw is not available because bonus is not won back"
+#~ msgstr "السحب غير متاح - لديك حاليًا مكافأة نشطة ، لا تسمح بعمليات السحب"
+
+#~ msgid "Awaiting limits information"
+#~ msgstr ""
+#~ "في انتظار حدود المعلومات. يرجى المحاولة مرة أخرى في وقت لاحق حيث لا نزال "
+#~ "ننتظر معلومات حدود السحب الحالية"
+
+#~ msgid "cancel_error"
+#~ msgstr "cancel error"
+
+#~ msgid "select_error"
+#~ msgstr "select error"

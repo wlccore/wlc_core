@@ -1,0 +1,47 @@
+#!/usr/bin/env php
+<?php
+
+$composerPath = implode(DIRECTORY_SEPARATOR, [getcwd(), "composer.json"]);
+if (!empty($argv[1])) {
+    $composerPath = (realpath($argv[1]) == $argv[1]) ? $argv[1] : implode(DIRECTORY_SEPARATOR, [getcwd(), $argv[1]]);
+}
+
+if (!file_exists($composerPath)) {
+    echo "Composer file not found\n";
+    exit(1);
+}
+
+$composerData = file_get_contents($composerPath);
+$data = json_decode($composerData, true);
+$hasChanges = false;
+
+if (!empty($data["require"]["cheplv/qtranslate-x"])) {
+   $data["require"]["cheplv/qtranslate-x"] = "~3.5.0";
+
+   if (empty($data["extra"]["installer-paths"]["roots/content/wp-content/plugins/qtranslate-x"])) {
+       $data["extra"]["installer-paths"] = ["roots/content/wp-content/plugins/qtranslate-x" => ["cheplv/qtranslate-x"]] + $data["extra"]["installer-paths"];
+   }
+   $hasChanges = true;
+}
+
+if (!empty($data["require"]["wpackagist-plugin/advanced-custom-fields"])) {
+    $data["require"]["wpackagist-plugin/advanced-custom-fields"] = "5.8.2";
+    $hasChanges = true;
+}
+
+$newData = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "\n";
+if (empty($argv[2])) {
+    file_put_contents($composerPath, $newData);
+} else {
+    echo $newData;
+}
+
+if ($hasChanges) {
+    $composerRealPath = realpath($composerPath);
+    $pi = pathinfo($composerRealPath);
+    $composerLockPath = implode(DIRECTORY_SEPARATOR, [$pi["dirname"], $pi["filename"] . ".lock"]);
+
+    if (file_exists($composerLockPath)) {
+        unlink($composerLockPath);
+    }
+}

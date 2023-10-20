@@ -1,0 +1,1378 @@
+# English translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.0.389\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-06 12:55+0000\n"
+"PO-Revision-Date: 2021-05-09 23:05+0200\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Přidejte si naši e-mailovou adresu do svých kontaktů, ať vám neuniknou "
+"důležité informace od"
+
+msgid "Congratulations,"
+msgstr "Gratulujeme,"
+
+msgid "Dear"
+msgstr "Vážený/á"
+
+msgid "Deposit confirmation"
+msgstr "Potvrzení o vkladu"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Potvrzení o úspěšném vkladu. Váš zůstatek"
+
+msgid "Do you need to contact us?"
+msgstr "Chcete nás kontaktovat?"
+
+msgid ""
+"Due to legal reasons we can't accept players residing in the country you are "
+"currently\n"
+"            in."
+msgstr ""
+"Z důvodu právních nařízení nepřijímáme hráče ze země vašeho momentálního\n"
+"             umístění."
+
+msgid "Finish registration link"
+msgstr "Odkaz pro dokončení registrace"
+
+msgid "Greeting."
+msgstr "Zdravíme."
+
+msgid "Hello"
+msgstr "Dobrý den"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr ""
+"Pokud se vám tento e-mail nezobrazuje správně, otevřete jej ve svém "
+"internetovém prohlížeči."
+
+msgid "If you have any questions, please contact"
+msgstr "Máte-li jakékoliv dotazy, prosím kontaktujte nás"
+
+msgid ""
+"If you’re using a proxy service or VPN to access casino, try turning it off "
+"and reload the\n"
+"            page."
+msgstr ""
+"Pokud pro přístup do kasina používáte proxy nebo VPN, zkuste službu vypnout "
+"a znovu načíst\n"
+"           stránku."
+
+msgid "Link will be available for 30 minutes."
+msgstr "Odkaz bude dostupný 30 minut."
+
+msgid "Location restriction"
+msgstr "Omezení umístění"
+
+msgid "Login"
+msgstr "Přihlášení"
+
+msgid "Not in a restricted region"
+msgstr "Není v omezeném regionu"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Password restore"
+msgstr "Obnova hesla"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Pro dokončení registrace prosím klikněte na odkaz níže:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Na tento e-mail prosím neodpovídejte. E-mail je generován automaticky a "
+"nedostanete na něj odpověď."
+
+msgid "Registration confirmation"
+msgstr "Potvrzení registrace"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Obnovte si heslo kliknutím na odkaz níže."
+
+msgid ""
+"Should you have any questions or feel that this block is affecting you due "
+"to a technical error,\n"
+"            please\n"
+"            don't hesitate to contact us and we'll work it out together."
+msgstr ""
+"Pokud máte dotazy nebo pokud si myslíte, že se vás toto zablokování dotýká "
+"následkem technické chyby,\n"
+"        prosím\n"
+"        neváhejte nás kontaktovat, spolu to vyřešíme."
+
+msgid "Social registration confirmation"
+msgstr "Potvrzení o registraci přes sociální účet"
+
+msgid "Thank you for validating your account."
+msgstr "Děkujeme, že jste ověřili svůj účet."
+
+msgid "Thanks for registration on the website!"
+msgstr "Děkujeme za registraci na stránkách!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "Pro dokončení propojení vašich účtů prosím použijte tento odkaz:"
+
+msgid "Welcome to"
+msgstr "Vítejte v"
+
+msgid "With respect"
+msgstr "S respektem"
+
+msgid "You asked to link new social account to your current account"
+msgstr ""
+"Požádali jste o propojení vašeho stávajícího účtu s novým sociálním účtem"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Učinili jste první krok vstříc úžasnému hernímu zážitku\n"
+"    s"
+
+msgid "casino_footer_copyright"
+msgstr "Copyright zápatí kasina"
+
+msgid "casino_mail_info"
+msgstr "Poštovní informace kasina"
+
+msgid "online support"
+msgstr "online podpora"
+
+msgid "controller_does_not_exists"
+msgstr "Ovladač neexistuje"
+
+msgid "social_not_found"
+msgstr "Sociální účet nenalezen"
+
+msgid "purchase_error"
+msgstr "Chyba nákupu"
+
+msgid "game_added_to_favorites"
+msgstr "Hra přidána do oblíbených"
+
+msgid "game_deleted_from_favorites"
+msgstr "Hra odstraněna z oblíbených"
+
+msgid "must_login"
+msgstr "Je nutné přihlášení"
+
+msgid "No bonus name"
+msgstr "Žádný název bonusu"
+
+msgid "No bonus descripton"
+msgstr "Žádný popis bonusu"
+
+msgid "No user id"
+msgstr "Žádné ID uživatele"
+
+msgid "No bonus id"
+msgstr "Žádné ID bonusu"
+
+msgid "No status"
+msgstr "Žádný stav"
+
+msgid "Bonus not found"
+msgstr "Bonus nenalezen"
+
+msgid "Already have active"
+msgstr "Již je aktivní"
+
+msgid "Bonus is not available"
+msgstr "Bonus není dostupný"
+
+msgid "First deposit, already deposited"
+msgstr "První vklad byl již proveden"
+
+msgid "No loyalty record"
+msgstr "Žádné věrnostní záznamy"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Nesplňujete podmínky pro čerpání bonusu"
+
+msgid "Bonus used"
+msgstr "Bonus využitý"
+
+msgid "Promo code needed"
+msgstr "je třeba promo kód"
+
+msgid "Wrong promo code"
+msgstr "Nesprávný promo kód"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonusy jsou pro uživatele zakázané"
+
+msgid "Already have an active bonus"
+msgstr "Již má aktivní bonus"
+
+msgid "registration"
+msgstr "registrace"
+
+msgid "verification"
+msgstr "ověření"
+
+msgid "sign up"
+msgstr "registrovat se"
+
+msgid "store"
+msgstr "obchod"
+
+msgid "login"
+msgstr "přihlásit se"
+
+msgid "deposit"
+msgstr "vklad"
+
+msgid "deposit first"
+msgstr "první vklad"
+
+msgid "deposit sum"
+msgstr "částka vkladu"
+
+msgid "deposit repeated"
+msgstr "opakovaný vklad"
+
+msgid "bet"
+msgstr "sázka"
+
+msgid "bet sum"
+msgstr "bet sum"
+
+msgid "win sum"
+msgstr "výherní částka"
+
+msgid "loss sum"
+msgstr "částka ztráty"
+
+msgid "once"
+msgstr "jednou"
+
+msgid "day"
+msgstr "denně"
+
+msgid "week"
+msgstr "týdně"
+
+msgid "month"
+msgstr "měsíčně"
+
+msgid "all"
+msgstr "vše"
+
+msgid "bonus"
+msgstr "bonus"
+
+msgid "win"
+msgstr "výhra"
+
+msgid "win and bonus"
+msgstr "výhra a bonus"
+
+msgid "winevent"
+msgstr "výherní událost"
+
+msgid "winbonusevent"
+msgstr "výherní bonusová událost"
+
+msgid "none"
+msgstr "nic"
+
+msgid "balance"
+msgstr "zůstatek"
+
+msgid "experience"
+msgstr "zkušenost"
+
+msgid "loyalty"
+msgstr "věrnost"
+
+msgid "absolute"
+msgstr "absolutní"
+
+msgid "relative"
+msgstr "relativní"
+
+msgid "bets"
+msgstr "sázky"
+
+msgid "wins"
+msgstr "výhry"
+
+msgid "turnover"
+msgstr "obrat"
+
+msgid "negative turnover"
+msgstr "negativní obrat"
+
+msgid "unlimited"
+msgstr "neomezeno"
+
+msgid "one day"
+msgstr "jeden den"
+
+msgid "two days"
+msgstr "dva dny"
+
+msgid "three days"
+msgstr "tři dny"
+
+msgid "seven days"
+msgstr "sedm dní"
+
+msgid "ten days"
+msgstr "deset dní"
+
+msgid "fourteen days"
+msgstr "čtrnáct dní"
+
+msgid "thirty days"
+msgstr "třicet dní"
+
+msgid "sixty days"
+msgstr "šedesát dní"
+
+msgid "ninety days"
+msgstr "devadesát dní"
+
+msgid "one week"
+msgstr "jeden týden"
+
+msgid "two weeks"
+msgstr "dva týdny"
+
+msgid "one month"
+msgstr "jeden měsíc"
+
+msgid "every day"
+msgstr "každý den"
+
+msgid "every week"
+msgstr "každý týden"
+
+msgid "every two weeks"
+msgstr "každé dva týdny"
+
+msgid "every month"
+msgstr "každý měsíc"
+
+msgid "fee"
+msgstr "poplatek"
+
+msgid "turnover and fee"
+msgstr "obrat a poplatek"
+
+msgid "everyday"
+msgstr "každý den"
+
+msgid "monday"
+msgstr "pondělí"
+
+msgid "tuesday"
+msgstr "úterý"
+
+msgid "wednesday"
+msgstr "středa"
+
+msgid "thursday"
+msgstr "čtvrtek"
+
+msgid "friday"
+msgstr "pátek"
+
+msgid "saturday"
+msgstr "sobota"
+
+msgid "sunday"
+msgstr "neděle"
+
+msgid "transaction_list_is_empty"
+msgstr "seznam_transakcí_je_prázdný"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "nesprávné_datum_datum_od_vyšší_než_datum_do"
+
+msgid "cancelled"
+msgstr "zrušeno"
+
+msgid "rejected"
+msgstr "odmítnuto"
+
+msgid "error"
+msgstr "chyba"
+
+msgid "in_progress"
+msgstr "probíhá"
+
+msgid "confirmed"
+msgstr "potvrzeno"
+
+msgid "system_error"
+msgstr "systémová_chyba"
+
+msgid "completed"
+msgstr "dokončeno"
+
+msgid "aborted"
+msgstr "přerušeno"
+
+msgid "credit"
+msgstr "připsáno"
+
+msgid "debet"
+msgstr "odepsáno"
+
+msgid "withdraw_unavailable"
+msgstr "Výběr nedostupný"
+
+msgid "withdraw_check_error"
+msgstr "Chyba kontroly výběru"
+
+msgid "set_amount"
+msgstr "Nastavit množství"
+
+msgid "set_payment_system"
+msgstr "Nastavit platební systém"
+
+msgid "country_and_birth_date_required"
+msgstr "Země a datum narození jsou povinné"
+
+msgid "payment_request_sent"
+msgstr "Požadavek na platbu odeslán"
+
+msgid "payment_request_error"
+msgstr "Chyba požadavku na platbu"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Dosažen maximální limit výběru"
+
+msgid "sys_error_message"
+msgstr "Zpráva systémové chyby"
+
+msgid "input_purse"
+msgstr "Vkladová peněženka"
+
+msgid "payment_withdraw_sent"
+msgstr "Výběr platby odeslán"
+
+msgid "New password is empty"
+msgstr "Nové heslo je prázdné"
+
+msgid "Repeat password is empty"
+msgstr "Repeat password field is empty"
+
+msgid "Code is empty"
+msgstr "Kód je prázdný"
+
+msgid "Code is incorrect"
+msgstr "Kód není správný"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Heslo musí mít minimálně 6 znaků"
+
+msgid "pass_not_match"
+msgstr "Heslo se neshoduje"
+
+msgid "Session expired"
+msgstr "Relace vypršela"
+
+msgid "social_account_expired"
+msgstr "Sociální účet vypršel"
+
+msgid "Empty to address"
+msgstr "Prázdná doručovací adresa"
+
+msgid "Empty subject"
+msgstr "Prázdný předmět"
+
+msgid "Empty message"
+msgstr "Prázdná zpráva"
+
+msgid "Empty required parameter"
+msgstr "Požadovaný parametr je prázdný"
+
+msgid "Unknown error"
+msgstr "Neznámá chyba"
+
+msgid "Not allowed player country"
+msgstr "Tuto hru nemůžete hrát, protože ve vaší zemi není dostupná."
+
+msgid "Demo not supported"
+msgstr "Demo režim není podporován"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Tento poskytovatel vaši měnu nepodporuje"
+
+msgid "Branded games are not enabled"
+msgstr "Značkové hry nejsou povoleny"
+
+msgid "Self exclusion date"
+msgstr "Datum sebevyloučení"
+
+msgid "Self exclusion"
+msgstr "Sebevyloučení"
+
+msgid "does not exists"
+msgstr "neexistuje"
+
+msgid "Method is not supported"
+msgstr "Způsob není podporován"
+
+msgid "Data type is not found"
+msgstr "Typ dat nenalezen"
+
+msgid "Invalid request parameters"
+msgstr "Nesprávné parametry požadavku"
+
+msgid "Loyalty result not supported"
+msgstr "Věrnostní výsledek není podporován"
+
+msgid "No bonus description"
+msgstr "Žádný popis bonusu"
+
+msgid "Selected"
+msgstr "Zvoleno"
+
+msgid "Qualified"
+msgstr "Kvalifikováno"
+
+msgid "Deleted"
+msgstr "Odstaněno"
+
+msgid "Deactivated"
+msgstr "Deaktivováno"
+
+msgid "Canceled"
+msgstr "Zrušeno"
+
+msgid "Ending"
+msgstr "Končí"
+
+msgid "Ended"
+msgstr "Skončilo"
+
+msgid "Loyalty API Failure"
+msgstr "Selhání věrnostního API"
+
+msgid "User not found"
+msgstr "Uživatel nenalezen"
+
+msgid "Unable fetch oauth access token"
+msgstr "Nelze získat přístupový token oauth"
+
+msgid "Access token is missing"
+msgstr "Chybí přístupový token"
+
+msgid "Empty access token user identifier"
+msgstr "Prázdný přístupový token identifikátor uživatele"
+
+msgid "Empty access token identifier"
+msgstr "Prázdný přístupový token identifikátor"
+
+msgid "Method not allowed"
+msgstr "Způsob není povolen"
+
+msgid "Your country is on the forbidden list"
+msgstr "Vaše země je na seznamu zakázaných zemí"
+
+msgid "Achievement result is not list"
+msgstr "Výsledek cíle není na seznamu"
+
+msgid "Too many requests"
+msgstr "Příliš mnoho požadavků"
+
+msgid "Method Not Allowed"
+msgstr "Způsob není povolen"
+
+msgid "Unknown route path"
+msgstr "Neznámá cesta"
+
+msgid "Api endpoint not found"
+msgstr "Koncový bod API nenalezen"
+
+msgid "Confirm your email to start games"
+msgstr "Pro zahájení hry potvrďte svůj e-mail"
+
+msgid "User not authorized"
+msgstr "Uživatel neautorizován"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Systém obchodníka není zvolen nebo je nesprávný"
+
+msgid "Amount is not selected or invalid"
+msgstr "Částka není zvolená nebo je nesprávná"
+
+msgid "Bonus result is not list"
+msgstr "Výsledek bonusu není na seznamu"
+
+msgid "Bonus ID Not found"
+msgstr "ID bonusu nenalezeno"
+
+msgid "Bonus Selected Not found"
+msgstr "Zvolený bonus nenalezen"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "Vklad selhal: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr "Povolili jste limit %s: %s %s do %s. Dostupná částka vkladu: %s %s"
+
+msgid "User is not authorized"
+msgstr "Uživatel neautorizován"
+
+msgid "Uploadable files is empty"
+msgstr "Pole pro nahrání souborů je prázdné"
+
+msgid "Exceeds allowed file size"
+msgstr "Překračuje povolenou velikost souboru"
+
+msgid "Mb"
+msgstr "MB"
+
+msgid "Document ID not found"
+msgstr "ID dokumentu nenalezeno"
+
+msgid "Request invalid. Error: "
+msgstr "Neplatný požadavek. Chyba:"
+
+msgid "Games catalog is temporary unavailable"
+msgstr "Katalog her je dočasně nedostupný"
+
+msgid "Empty launch code"
+msgstr "Prázdný spouštěcí kód"
+
+msgid "Empty merchant identifier"
+msgstr "Prázdný identifikátor obchodníka"
+
+msgid "Empty games catalog"
+msgstr "Prázdný katalog her"
+
+msgid "Unknown game launch code"
+msgstr "Neznámý spouštěcí kód hry"
+
+msgid "Not supported exception"
+msgstr "Nedovolená výjimka"
+
+msgid "Bad request"
+msgstr "Nesprávný požadavek"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr "Parametr od musí být ve formátu 'R-m-d H:i:v' nebo prázdný"
+
+msgid "Unable find user identifier"
+msgstr "Nelze najít identifikátor uživatele"
+
+msgid "Unknown error occured"
+msgstr "Nastala neznámá chyba"
+
+msgid "Wrong request"
+msgstr "Nesprávný požadavek"
+
+msgid "Unknown provider"
+msgstr "Neznámý poskytovatel"
+
+msgid "Token not found"
+msgstr "Token nenalezen"
+
+msgid "Invalid token provided"
+msgstr "Poskytnut nesprávný token"
+
+msgid "Phone already verified"
+msgstr "Telefon již byl ověřen"
+
+msgid "Insufficient parameters"
+msgstr "Nedostatečné parametry"
+
+msgid "Configuration error"
+msgstr "Chyba konfigurace"
+
+msgid "Invalid verification code"
+msgstr "Nesprávný ověřovací kód"
+
+msgid "Empty phone number"
+msgstr "Prázdné telefonní číslo"
+
+msgid "Invalid phone number"
+msgstr "Nesprávné telefonní číslo"
+
+msgid "Anonymous"
+msgstr "Anonymní"
+
+msgid "Item not found"
+msgstr "Položka nenalezena"
+
+msgid "Sent from web-form at"
+msgstr "Odesláno z webového formuláře v"
+
+msgid "Service not found"
+msgstr "Služba nenalezena"
+
+msgid "Unauthorized"
+msgstr "Neautorizováno"
+
+msgid "Tournaments history error"
+msgstr "Chyba historie turnajů"
+
+msgid "Tournaments list not available"
+msgstr "Seznam turnajů není dostupný"
+
+msgid "Tournaments type not found"
+msgstr "Typ turnajů nenalezen"
+
+msgid "Tournament not found"
+msgstr "Turnaj nenalezen"
+
+msgid "Tournaments subscribe error"
+msgstr "Chyba přihlášení turnaje"
+
+msgid "Insufficient monetary turnover"
+msgstr "Nedostatečný finanční obrat"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "Nebyl vyplněn uživatelský profil (osobní údaje)"
+
+msgid "Need verification"
+msgstr "Nutné ověření"
+
+msgid "Need additional verification"
+msgstr "Nutné dodatečné ověření"
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "E-mail odeslán, odkaz pro obnovení bude dostupný 30 minut"
+
+msgid "Password repeat is empty"
+msgstr "Pole pro opakování hesla je prázdné"
+
+msgid "Code is not valid"
+msgstr "Kód není platný"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Nové heslo musí obsahovat pouze latinské písmena, číslice a speciální symboly"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Nové heslo musí obsahovat malé a velké latinské písmena, číslice a speciální "
+"symboly"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Heslo musí obsahovat latinské písmena a číslice"
+
+msgid "Passwords do not match"
+msgstr "Hesla se neshodují"
+
+msgid "Password is empty"
+msgstr "Heslo je prázdné"
+
+msgid "Password is invalid"
+msgstr "Heslo není správné"
+
+msgid "Code is invalid"
+msgstr "Kód je neplatný"
+
+msgid "Email change is not allowed"
+msgstr "Změna e-mailu není možná"
+
+msgid "Email is required"
+msgstr "E-mail je povinný"
+
+msgid "User update failed"
+msgstr "Aktualizace uživatele selhala"
+
+msgid "Registration data validation failed"
+msgstr "Ověření registračních údajů selhalo"
+
+msgid "Empty unsubscribe code"
+msgstr "Prázdný kód pro odhlášení"
+
+msgid "Internal error"
+msgstr "Interní chyba"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"Kód pro ověření e-mailu nenalezen. Možná jste už svůj e-mail potvrdili. "
+"Podívejte se prosím do příchozí pošty"
+
+msgid "Registration_complete"
+msgstr "Registrace_dokončena"
+
+msgid "Insufficient account balance"
+msgstr "Nedostatečný zůstatek na účtu"
+
+msgid "User profile is incomplete"
+msgstr "Uživatelský profil není kompletní"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Tímto způsobem jste peníze nevložili, a proto jím nemůžete peníze vybrat. "
+"Abyste jím mohli vybírat, musíte jeho prostřednictvím peníze nejprve vložit."
+
+msgid "Server returned invalid response"
+msgstr "Server vrátil neplatnou odpověď"
+
+msgid "Temporary routing error"
+msgstr "Chyba dočasného směrování"
+
+msgid "Permanent routing error"
+msgstr "Chyba trvalého směrování"
+
+msgid "Maximum throttling exceeded"
+msgstr "Překročeno maximální omezování"
+
+msgid "Timeout"
+msgstr "Čas vypršel"
+
+msgid "Operator unknown error"
+msgstr "Neznámá chyba operátora"
+
+msgid "Operator error"
+msgstr "Chyba operátora"
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr "Interní chyba (internal LinkMobilityerror)"
+
+msgid "Sent (to operator)"
+msgstr "Odesláno (operátorovi)"
+
+msgid "Billed and delivered"
+msgstr "Zaúčtováno a doručeno"
+
+msgid "Expired"
+msgstr "Vypršelo"
+
+msgid "Mobile full"
+msgstr "Mobil plný"
+
+msgid "Queued"
+msgstr "Ve frontě"
+
+msgid "Not delivered"
+msgstr "Nedoručeno"
+
+msgid "Delivered,Billed delayed"
+msgstr "Doručeno, zaúčtováno zpožděno"
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr "Zaúčtováno OK (strženo OK před odesláním zprávy)"
+
+msgid "Billed OK and NOT Delivered"
+msgstr "Zaúčtováno OK NEdoručeno"
+
+msgid "Expired, absence of operator delivery report"
+msgstr "Vypršelo, zpráva o doručení operátorovi chybí"
+
+msgid "Billed OK and sent (to operator)"
+msgstr "Zaúčtováno OK a odesláno (operátorovi)"
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr "Zpožděno (dočasná chyba zaúčtování, systém se pokusí odeslat znovu)"
+
+msgid "Message sent to operator, Billdelayed"
+msgstr "Zpráva odeslána operátorovi, fakturace zpožděna"
+
+msgid "Service rejected by subscriber"
+msgstr "Služba odmítnuta přihlášeným"
+
+msgid "Unknown subscriber"
+msgstr "Neznámý přihlášený"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr "Destinace blokována (přihlášený trvale vyhozen)"
+
+msgid "Number error"
+msgstr "Chyba čísla"
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr "Destinace dočasně blokována (přihlášený dočasně blokován)"
+
+msgid "Charging error"
+msgstr "Chyba zaúčtování"
+
+msgid "Subscriber has low balance"
+msgstr "Přihlášený má nízký zůstatek"
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr "Přihlášený byl vyhozen za předražené (prémiové) zprávy"
+
+msgid "Subscriber too young (for this particular content)"
+msgstr "Přihlášený je příliš mladý (pro tento konkrétní obsah)"
+
+msgid "Prepaid subscriber not allowed"
+msgstr "Předplacený přihlášený není povolen"
+
+msgid "Subscriber not registered in payment system"
+msgstr "Přihlášený není registrovaný v platebním systému"
+
+msgid "Subscriber has reached max balance"
+msgstr "Přihlášený dosáhl maximálního zůstatku"
+
+msgid "GSM encoding is not supported"
+msgstr "Šifrování GSM není podporováno"
+
+msgid "UCS2 encoding is not supported"
+msgstr "Šifrování UCS2 není podporováno"
+
+msgid "Binary encoding is not supported"
+msgstr "Binární šifrování není podporováno"
+
+msgid "Delivery report is not supported"
+msgstr "Zpráva o doručení není podporována"
+
+msgid "Invalid message content"
+msgstr "Neplatný obsah zprávy"
+
+msgid "Invalid tariff"
+msgstr "Nesprávný tarif"
+
+msgid "Invalid user data"
+msgstr "Neplatná uživatelská data"
+
+msgid "Invalid user data header"
+msgstr "Neplatný titulek uživatelských dat"
+
+msgid "Invalid data coding"
+msgstr "Neplatné kódování dat"
+
+msgid "Invalid VAT"
+msgstr "Neplatné DPH"
+
+msgid "Unsupported content for destination"
+msgstr "Nepodporovaný obsah pro destinaci"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+"Neznámá chyba. Kontaktujte prosím podporu a uveďte kompletní informace o "
+"transakci"
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr "Neplatné ověření. Zkontrolujte prosím své uživatelské jméno a heslo"
+
+msgid "Access denied. Please check your username and password"
+msgstr "Přístup zamítnut. Zkontrolujte prosím své uživatelské jméno a heslo"
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+"Nesprávné nebo chybějící platformId. Zkontrolujte prosím svoje platformId"
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+"Nesprávné nebo chybějící platformPartnerId. Zkontrolujte prosím svoje "
+"platformPartnerId"
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+"Nesprávná nebo chybějící měna pro prémiovou zprávu. Zkontrolujte prosím "
+"svoji cenu a měnu"
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+"Nejsou dostupné žádné brány. Kontaktujte prosím podporu a uveďte kompletní "
+"informace o transakci"
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr "Uvedená brána není dostupná. Zkontrolujte prosím svoje gateId."
+
+msgid "Incorrect version API in address"
+msgstr "Nesprávná verze API v adrese"
+
+msgid "Not specified API key"
+msgstr "Nespecifikovaný API klíč"
+
+msgid "Incorrect API key"
+msgstr "Nesprávný API klíč"
+
+msgid "Incorrect IP address client"
+msgstr "Nesprávná IP adresa klienta"
+
+msgid "Invalid command"
+msgstr "Neplatný příkaz"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Specifikovaný příkaz neexistuje nebo není dostupný"
+
+msgid "System error"
+msgstr "Systémová chyba"
+
+msgid "Not specified the SMS identifier"
+msgstr "Nespecifikovaný SMS identifikátor"
+
+msgid "Sender address does not exist"
+msgstr "Adresa odesílatele neexistuje"
+
+msgid "Not specified content"
+msgstr "Nespecifikovaný obsah"
+
+msgid "Faulty or unsupported country code"
+msgstr "Nesprávný nebo nepodporovaný kód země"
+
+msgid "Content is too long"
+msgstr "Obsah je příliš dlouhý"
+
+msgid "Incorrect encoding of the content"
+msgstr "Nesprávné šifrování obsahu"
+
+msgid "Exceeded monthly limit"
+msgstr "Překročen měsíční limit"
+
+msgid "Batch ID does not exist"
+msgstr "ID sady neexistuje"
+
+msgid "List recipients does not exist"
+msgstr "Seznam příjemců neexistuje"
+
+msgid "Invalid recipient number"
+msgstr "Nesprávné číslo příjemce"
+
+msgid "No content"
+msgstr "Žádný obsah"
+
+msgid "Wrong content"
+msgstr "Nesprávný obsah"
+
+msgid "Unable send message"
+msgstr "Nelze poslat zprávu"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+"Byl překročen hodinový limit odesílání SMS. Můžete SMS znovu poslat za %d "
+"minut."
+
+msgid "Unsupported authentication provider"
+msgstr "Nepodporovaný poskytovatel ověření"
+
+msgid "connect_social_account_email_theme"
+msgstr "E-mailové téma propojení sociálního účtu"
+
+msgid "not_logged_in"
+msgstr "Nepřihlášen"
+
+msgid "trying_delete_last_social"
+msgstr "Pokus o odstranění posledního sociálního"
+
+msgid "please_set_email"
+msgstr "Nastavte prosím e-mail"
+
+msgid "please_set_password"
+msgstr "Nastavte prosím heslo"
+
+msgid "Code incorrect, user not found"
+msgstr "Kód není správný, uživatel nenalezen"
+
+msgid "email_has_been_verified"
+msgstr "E-mail byl ověřen"
+
+msgid "Transaction value generation failed"
+msgstr "Generování hodnoty transakce selhalo"
+
+msgid "email_to_connect_social_sent"
+msgstr "E-mail o propojení sociálního účtu odeslán"
+
+msgid "Registration complete"
+msgstr "Registrace dokončena"
+
+msgid "_ip_fraud_msg"
+msgstr "_ip_podvod_zpr"
+
+msgid "Session is expired"
+msgstr "Relace vypršela"
+
+msgid "Withdrawal ID not specified"
+msgstr "ID výběru nebylo specifikováno"
+
+msgid "System ID not specified"
+msgstr "Nespecifikované ID systému"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "Nesprávný e-mail, zkuste to prosím znovu"
+
+msgid "Email is empty"
+msgstr "E-mail je prázdný"
+
+msgid "Error, account with this email does not exist."
+msgstr "Chyba, účet s tímto e-mailem neexistuje."
+
+msgid "Unable generate temporary restore user code"
+msgstr "Nelze vygenerovat dočasný kód pro obnovení uživatele"
+
+msgid "Password recovery"
+msgstr "Obnova hesla"
+
+msgid "Impossible to send email"
+msgstr "Nelze odeslat e-mail"
+
+msgid "current_password_empty"
+msgstr "stávající_heslo_je_prázdné"
+
+msgid "Current password is incorrect"
+msgstr "Stávající heslo není správné"
+
+msgid "day_not_set"
+msgstr "den_není_nastaven"
+
+msgid "month_not_set"
+msgstr "měsíc_není_nastaven"
+
+msgid "year_not_set"
+msgstr "rok_není_nastaven"
+
+msgid "Country is not picked"
+msgstr "Nebyla zvolena země"
+
+msgid "Gender is not picked"
+msgstr "Nebylo zvoleno pohlaví"
+
+msgid "input_repeated_password"
+msgstr "vstup_opakované_heslo"
+
+msgid "Password does not match"
+msgstr "Heslo se neshoduje"
+
+msgid "Email field is empty or incorrect"
+msgstr "Pole s e-mailem je prázdné nebo neplatné"
+
+msgid "Email already in use"
+msgstr "E-mail je již používán"
+
+msgid "Email field is incorrect"
+msgstr "Pole pro e-mail není vyplněno správně"
+
+msgid "Login field is empty"
+msgstr "Pole pro přihlašovací jméno je prázdné"
+
+msgid "Email field is empty"
+msgstr "Pole pro e-mail je prázdné"
+
+msgid "login_already_in_use"
+msgstr "přihlašovací_jméno_je_již_používáno"
+
+msgid "phone_empty"
+msgstr "telefon_prázdný"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Telefonní číslo není platné. Musí být"
+
+msgid "Phone number too long"
+msgstr "Telefonní číslo je příliš dlouhé"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Telefonní číslo není správné: použili jste některé nepovolené symboly."
+
+msgid "new_pass_less_6_symbols"
+msgstr "nové_heslo_méně_než_6_znaků"
+
+msgid "first_name_empty"
+msgstr "křestní_jméno_prázdné"
+
+msgid "last_name_empty"
+msgstr "příjmení_prázdné"
+
+msgid "New email field is incorrect"
+msgstr "Nový e-mail není správný"
+
+msgid "User verification failed"
+msgstr "Ověření uživatele selhalo"
+
+msgid "authorization_error"
+msgstr "chyba_autorizace"
+
+msgid "registration_in_progress"
+msgstr "Probíhající registrace"
+
+msgid "user_disabled"
+msgstr "Uživatel zakázán"
+
+msgid "Access forbidden"
+msgstr "Přístup zakázán"
+
+msgid "Email field incorrect"
+msgstr "Pole s e-mailem není správné"
+
+msgid "email_empty_incorrect"
+msgstr "Nesprávný e-mail"
+
+msgid "pass_less_6_symbols"
+msgstr "Heslo má méně než 6 znaků"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Heslo musí obsahovat pouze latinská písmena, číslice a speciální symboly"
+
+msgid "currency_not_set"
+msgstr "Měna není nastavena"
+
+msgid "Currency field is invalid"
+msgstr "Nesprávně vyplněné pole měny"
+
+msgid "reg_promo_is_invalid"
+msgstr "Registrační promo je neplatné"
+
+msgid "email_already_registered"
+msgstr "E-mail je již registrován"
+
+msgid "login_already_registered"
+msgstr "Přihlašovací jméno je již registrované"
+
+msgid "ip_fraud_blacklist"
+msgstr "ip_podvod_blacklist"
+
+msgid "ip_fraud_check_error"
+msgstr "ip_podvod_chyba_kontroly"
+
+msgid "Activate your account"
+msgstr "Aktivujte svůj účet"
+
+msgid "Registration confirmation is in progress"
+msgstr "Potvrzení registrace probíhá"
+
+msgid "Unknown status"
+msgstr "Neznámý stav"
+
+msgid "first name"
+msgstr "křestní jméno"
+
+msgid "last name"
+msgstr "příjmení"
+
+msgid "birth date"
+msgstr "datum narození"
+
+msgid "sex"
+msgstr "pohlaví"
+
+msgid "country"
+msgstr "země"
+
+msgid "phone number"
+msgstr "telefonní číslo"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "Pro změnu %s pole prosím kontaktujte naši podporu na "
+msgstr[1] "Pro změnu %s polí prosím kontaktujte naši podporu na"
+
+msgid "Email has invalid format"
+msgstr "E-mail je v neplatném formátu"
+
+msgid "Repeat password field is empty"
+msgstr "Pole pro zopakování hesla je prázdné"
+
+msgid "First name field is empty"
+msgstr "Pole pro křestní jméno je prázdné"
+
+msgid "First name must contain only letters"
+msgstr "Křestní jméno musí obsahovat jen písmena"
+
+msgid "Last name field is empty"
+msgstr "Pole pro příjmení je prázdné"
+
+msgid "Last name must contain only letters"
+msgstr "Příjmení musí obsahovat pouze písmena"
+
+msgid "Gender field is empty"
+msgstr "Pole pro pohlaví je prázdné"
+
+msgid "Gender unallowed value"
+msgstr "Nepovolená hodnota pohlaví"
+
+msgid "Currency field is empty"
+msgstr "Pole pro měnu je prázdné"
+
+msgid "Country code is empty"
+msgstr "Kód země je prázdný"
+
+msgid "Country code is invalid"
+msgstr "Kód země je neplatný"
+
+msgid "Phone code is empty"
+msgstr "Telefonní předčíslí je prázdné"
+
+msgid "Phone number field is empty"
+msgstr "Pole pro telefonní číslo je prázdné"
+
+msgid "Phone number invalid format"
+msgstr "Telefonní číslo je v neplatném formátu"
+
+msgid "Wrong IBAN number"
+msgstr "Nesprávné číslo IBAN"
+
+msgid "Wrong SWIFT number"
+msgstr "Nesprávné číslo SWIFT"
+
+msgid "Password field is empty"
+msgstr "Pole pro heslo je prázdné"
+
+msgid "New password field is empty"
+msgstr "Pole pro nové heslo je prázdné"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Nové heslo musí mít alespoň 6 znaků"
+
+msgid "New password strength is weak"
+msgstr "Nové heslo není příliš silné"
+
+msgid "ID Number is not unique"
+msgstr "Číslo ID není unikátní"
+
+msgid "Password strength is weak"
+msgstr "Heslo je slabé"
+
+msgid "Login is already registered"
+msgstr "Přihlašovací jméno je již registrované"
+
+msgid "Email is already registered"
+msgstr "E-mail je již registrován"
+
+msgid "Phone is already registered"
+msgstr "Telefon je již registrován"
+
+msgid "You are less than 18 year old"
+msgstr "Nebylo vám 18 let"
+
+#~ msgid "Withdraw is not available because bonus is not won back"
+#~ msgstr "Výběr není k dispozici, protože bonus nebyl zpět vyhrán"
+
+#~ msgid "Awaiting limits information"
+#~ msgstr ""
+#~ "Awaiting limits information. Please try again later, as we are still "
+#~ "awaiting the information of the current withdrawal limits"
+
+#~ msgid "cancel_error"
+#~ msgstr "cancel error"
+
+#~ msgid "select_error"
+#~ msgstr "select error"

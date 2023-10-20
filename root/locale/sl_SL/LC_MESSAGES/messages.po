@@ -1,0 +1,1501 @@
+# English translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.0.389\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: 2019-07-30 18:07+0300\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: smartCAT.ai\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Shranite naš e-poštni naslov v svoj imenik, da ne boste zamudili pomembnih "
+"informacij"
+
+msgid "Congratulations,"
+msgstr "Čestitke,"
+
+msgid "Dear"
+msgstr "Spoštovani"
+
+msgid "Deposit confirmation"
+msgstr "Potrdilo o pologu"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Obvestilo o uspešnem nakazilu. Vaše stanje"
+
+msgid "Finish registration link"
+msgstr "Povezava za dokončanje registracije"
+
+msgid "Greeting."
+msgstr "Pozdrav."
+
+msgid "Hello"
+msgstr "Pozdravljeni"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr ""
+"Če se to e-poštno sporočilo ne prikaže pravilno, ga odprite v svojem "
+"brskalniku."
+
+msgid "If you have any questions, please contact"
+msgstr "Če imate kakršna koli vprašanja, se obrnite na"
+
+msgid "Link will be available for 30 minutes."
+msgstr "Povezava bo na voljo 30 minut."
+
+msgid "Login"
+msgstr "Uporabniško ime"
+
+#, fuzzy
+msgid "Password"
+msgstr "Geslo je prazno"
+
+#, fuzzy
+msgid "Password restore"
+msgstr "Obnovitev gesla"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Za zaključek registracije kliknite na spodnjo povezavo:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Ne odgovarjajte na to e-pošto. To e-poštno sporočilo se ustvari samodejno in "
+"ne boste prejeli odgovora."
+
+msgid "Registration confirmation"
+msgstr "Potrditev registracije"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Obnovite geslo s klikom na spodnjo povezavo."
+
+msgid "Social registration confirmation"
+msgstr "Potrditev registracije z družabnim omrežjem"
+
+msgid "Thank you for validating your account."
+msgstr "Zahvaljujemo se vam za potrditev računa."
+
+msgid "Thanks for registration on the website!"
+msgstr "Hvala za registracijo na spletni strani!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "Če želite končati povezavo svojih računov, uporabite to povezavo:"
+
+msgid "Welcome to"
+msgstr "Dobrodošli v"
+
+msgid "With respect"
+msgstr "S spoštovanjem,"
+
+msgid "You asked to link new social account to your current account"
+msgstr ""
+"Zahtevali ste povezavo novega družabnega računa s svojim trenutnim računom"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Naredili ste prvi korak k doživetjem neverjetnih iger na srečo\n"
+"    z"
+
+msgid "casino_footer_copyright"
+msgstr "Casino noga avtorske pravice"
+
+msgid "casino_mail_info"
+msgstr "Casino mail info"
+
+msgid "online support"
+msgstr "spletna podpora"
+
+msgid "controller_does_not_exists"
+msgstr "Kontroler ne obstaja"
+
+msgid "social_not_found"
+msgstr "Družabno ni najdeno"
+
+msgid "purchase_error"
+msgstr "Napaka pri nakupu"
+
+msgid "game_added_to_favorites"
+msgstr "Igra dodana priljubljenim"
+
+msgid "game_deleted_from_favorites"
+msgstr "Igra izbrisana iz priljubljenih"
+
+msgid "must_login"
+msgstr "Obvezno uporabniško ime"
+
+msgid "No bonus name"
+msgstr "Ni imena bonusa"
+
+msgid "No bonus descripton"
+msgstr "Ni opisa bonusa"
+
+msgid "No user id"
+msgstr "Ni uporabniškega ID-ja"
+
+msgid "No bonus id"
+msgstr "Ni id bonusa"
+
+msgid "No status"
+msgstr "Ni statusa"
+
+msgid "Bonus not found"
+msgstr "Bonusa ni mogoče najti"
+
+msgid "Already have active"
+msgstr "Že aktiven"
+
+msgid "Bonus is not available"
+msgstr "Bonusa ni na voljo"
+
+msgid "First deposit, already deposited"
+msgstr "Prvi polog, že deponiran"
+
+msgid "No loyalty record"
+msgstr "Ni zapisov o zvestobi"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Pogoji za bonus niso izpolnjeni"
+
+msgid "Bonus used"
+msgstr "Bonus uporabljen"
+
+msgid "Promo code needed"
+msgstr "Potrebna je promocijska koda"
+
+msgid "Wrong promo code"
+msgstr "Napačna promocijska koda"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonusi so prepovedani za uporabnika"
+
+msgid "Already have an active bonus"
+msgstr "Že imate aktiven bonus"
+
+msgid "registration"
+msgstr "registracija"
+
+msgid "verification"
+msgstr "preverjanje"
+
+msgid "sign up"
+msgstr "prijavite se"
+
+msgid "store"
+msgstr "trgovina"
+
+msgid "login"
+msgstr "uporabniško ime"
+
+msgid "deposit"
+msgstr "polog"
+
+msgid "deposit first"
+msgstr "prvi polog"
+
+msgid "deposit sum"
+msgstr "vsota pologa"
+
+msgid "deposit repeated"
+msgstr "ponovni polog"
+
+msgid "bet"
+msgstr "stava"
+
+msgid "bet sum"
+msgstr "najboljša vsota"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "vsota pologa"
+
+msgid "once"
+msgstr "enkraten"
+
+msgid "day"
+msgstr "dan"
+
+msgid "week"
+msgstr "teden"
+
+msgid "month"
+msgstr "mesec"
+
+msgid "all"
+msgstr "vse"
+
+msgid "bonus"
+msgstr "bonus"
+
+msgid "win"
+msgstr "dobitek"
+
+msgid "win and bonus"
+msgstr "dobitek in bonus"
+
+msgid "winevent"
+msgstr "zmagovalni dogodek"
+
+msgid "winbonusevent"
+msgstr "dogodek prejema bonusa"
+
+msgid "none"
+msgstr "brez"
+
+msgid "balance"
+msgstr "stanje"
+
+msgid "experience"
+msgstr "izkušnje"
+
+msgid "loyalty"
+msgstr "zvestoba"
+
+msgid "absolute"
+msgstr "absoluten"
+
+msgid "relative"
+msgstr "relativen"
+
+msgid "bets"
+msgstr "stave"
+
+msgid "wins"
+msgstr "dobitki"
+
+msgid "turnover"
+msgstr "promet"
+
+msgid "negative turnover"
+msgstr "negativni promet"
+
+msgid "unlimited"
+msgstr "brez omejitev"
+
+msgid "one day"
+msgstr "en dan"
+
+msgid "two days"
+msgstr "dva dni"
+
+msgid "three days"
+msgstr "trije dnevi"
+
+msgid "seven days"
+msgstr "sedem dni"
+
+msgid "ten days"
+msgstr "deset dni"
+
+msgid "fourteen days"
+msgstr "štirinajst dni"
+
+msgid "thirty days"
+msgstr "trideset dni"
+
+msgid "sixty days"
+msgstr "šestdeset dni"
+
+msgid "ninety days"
+msgstr "devetdeset dni"
+
+msgid "one week"
+msgstr "en teden"
+
+msgid "two weeks"
+msgstr "dva tedna"
+
+msgid "one month"
+msgstr "en mesec"
+
+msgid "every day"
+msgstr "vsak dan"
+
+msgid "every week"
+msgstr "vsak teden"
+
+msgid "every two weeks"
+msgstr "vsaka dva tedna"
+
+msgid "every month"
+msgstr "vsak mesec"
+
+msgid "fee"
+msgstr "kotizacija"
+
+msgid "turnover and fee"
+msgstr "promet in kotizacija"
+
+msgid "everyday"
+msgstr "vsak dan"
+
+msgid "monday"
+msgstr "ponedeljek"
+
+msgid "tuesday"
+msgstr "torek"
+
+msgid "wednesday"
+msgstr "sreda"
+
+msgid "thursday"
+msgstr "četrtek"
+
+msgid "friday"
+msgstr "petek"
+
+msgid "saturday"
+msgstr "sobota"
+
+msgid "sunday"
+msgstr "nedelja"
+
+msgid "transaction_list_is_empty"
+msgstr "Seznam transakcij je prazen"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "Datum nepravilen začetni datum kasnejši kot končni datum"
+
+msgid "cancelled"
+msgstr "preklicano"
+
+msgid "rejected"
+msgstr "zavrnjeno"
+
+msgid "error"
+msgstr "napaka"
+
+msgid "in_progress"
+msgstr "V delu"
+
+msgid "confirmed"
+msgstr "potrjeno"
+
+#, fuzzy
+msgid "pending"
+msgstr "Konec"
+
+msgid "system_error"
+msgstr "Sistemska napaka"
+
+msgid "completed"
+msgstr "dokončano"
+
+msgid "aborted"
+msgstr "prekinjeno"
+
+msgid "credit"
+msgstr "kredit"
+
+msgid "debet"
+msgstr "debet"
+
+msgid "withdraw_unavailable"
+msgstr "Dvig ni na voljo"
+
+msgid "withdraw_check_error"
+msgstr "Napaka pri preverjanju dviga"
+
+msgid "set_amount"
+msgstr "Določite znesek"
+
+msgid "set_payment_system"
+msgstr "Določite sistem plačila"
+
+msgid "country_and_birth_date_required"
+msgstr "Država in datum rojstva sta obvezna"
+
+msgid "payment_request_sent"
+msgstr "Zahteva za plačilo poslana"
+
+msgid "payment_request_error"
+msgstr "Napaka zahtevka za plačilo"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Dosežena najvišja omejitev dviga"
+
+msgid "sys_error_message"
+msgstr "Sistemsko sporočilo o napaki"
+
+msgid "input_purse"
+msgstr "Vhodna denarnica"
+
+msgid "payment_withdraw_sent"
+msgstr "Plačilni dvig poslan"
+
+msgid "New password is empty"
+msgstr "Novo geslo je prazno"
+
+msgid "Repeat password is empty"
+msgstr "Ponovite geslo je prazno"
+
+msgid "Code is empty"
+msgstr "Koda je prazna"
+
+msgid "Code is incorrect"
+msgstr "Koda ni pravilna"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Geslo mora imeti vsaj 6 znakov"
+
+msgid "pass_not_match"
+msgstr "Geslo se ne ujema"
+
+msgid "Session expired"
+msgstr "Seja je potekla"
+
+msgid "social_account_expired"
+msgstr "Družabni račun je potekel"
+
+msgid "Empty to address"
+msgstr "Prazen naslov"
+
+msgid "Empty subject"
+msgstr "Prazna zadeva"
+
+msgid "Empty message"
+msgstr "Prazno sporočilo"
+
+msgid "Empty required parameter"
+msgstr "Prazen zahtevan parameter"
+
+msgid "Unknown error"
+msgstr "Neznana napaka"
+
+msgid "Not allowed player country"
+msgstr "Država ni dovoljena"
+
+msgid "Demo not supported"
+msgstr "Demo različica ni podprta"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Ta ponudnik ne podpira vaše valute"
+
+msgid "Branded games are not enabled"
+msgstr "Igre z blagovno znamko niso omogočene"
+
+msgid "Self exclusion date"
+msgstr "Datum samoizključitve"
+
+msgid "Self exclusion"
+msgstr "Samoizključitev"
+
+msgid "does not exists"
+msgstr "ne obstaja"
+
+msgid "Method is not supported"
+msgstr "Metoda ni podprta"
+
+msgid "Data type is not found"
+msgstr "Vrste podatkov ni mogoče najti"
+
+msgid "Invalid request parameters"
+msgstr "Neveljavni parametri zahteve"
+
+msgid "No bonus description"
+msgstr "Ni opisa bonusa"
+
+msgid "Selected"
+msgstr "Izbrano"
+
+msgid "Qualified"
+msgstr "Kvalificirano"
+
+msgid "Deleted"
+msgstr "Izbrisano"
+
+msgid "Deactivated"
+msgstr "Deaktivirano"
+
+msgid "Canceled"
+msgstr "Preklicano"
+
+msgid "Ending"
+msgstr "Konec"
+
+msgid "Ended"
+msgstr "Končano"
+
+msgid "Loyalty API Failure"
+msgstr "Napaka zvestobe API"
+
+msgid "Loyalty result not supported"
+msgstr "Rezultat zvestobe ni podprt"
+
+msgid "User not found"
+msgstr "Uporabnika ni mogoče najti"
+
+msgid "Unable fetch oauth access token"
+msgstr "Ni mogoče pridobiti žetona za dostop OAuth"
+
+msgid "Access token is missing"
+msgstr "Ni žetona za dostop"
+
+msgid "Empty access token user identifier"
+msgstr "Prazen identifikator uporabnika žetona za dostop"
+
+msgid "Empty access token identifier"
+msgstr "Prazen identifikator žetona za dostop"
+
+msgid "Method not allowed"
+msgstr "Metoda ni dovoljena"
+
+msgid "Your country is on the forbidden list"
+msgstr "Vaša država je na seznamu prepovedanih"
+
+msgid "User profile is incomplete"
+msgstr ""
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "Rezultat bonusa ni na seznamu"
+
+msgid "Unknown route path"
+msgstr "Neznano zaporedje povezav"
+
+msgid "Too many requests"
+msgstr "Preveč zahtev"
+
+msgid "Code is not valid"
+msgstr "Koda ni veljavna"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "Preveč zahtev"
+
+msgid "Method Not Allowed"
+msgstr "Metoda ni dovoljena"
+
+msgid "Api endpoint not found"
+msgstr "Končna točka API ni najdena"
+
+msgid "Confirm your email to start games"
+msgstr ""
+
+msgid "User not authorized"
+msgstr "Uporabnik ni pooblaščen"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Trgovski sistem ni izbran ali je neveljaven"
+
+msgid "Amount is not selected or invalid"
+msgstr "Znesek ni izbran ali je neveljaven"
+
+msgid "Bonus result is not list"
+msgstr "Rezultat bonusa ni na seznamu"
+
+msgid "Bonus ID Not found"
+msgstr "ID-ja bonusa ni mogoče najti"
+
+msgid "Bonus Selected Not found"
+msgstr "Izbranega bonusa ni mogoče najti"
+
+msgid "User is not authorized"
+msgstr "Uporabnik ni pooblaščen"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "Prazna zadeva"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "Polog ni uspel: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+"Omogočili ste %s omejitev: %s %s do %s. Razpoložljiv znesek pologa: %s %s"
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "Določite znesek"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "Prazna koda za zagon"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "priimek"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "priimek"
+
+msgid "Account type"
+msgstr ""
+
+#, fuzzy
+msgid "Account number"
+msgstr "telefonska številka"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "telefonska številka"
+
+#, fuzzy
+msgid "Uploadable files is empty"
+msgstr "Polje e-pošte je prazno"
+
+msgid "Exceeds allowed file size"
+msgstr "Presega dovoljeno velikost datoteke"
+
+msgid "Mb"
+msgstr "Mb"
+
+#, fuzzy
+msgid "Document ID not found"
+msgstr "Turnirja ni mogoče najti"
+
+msgid "Request invalid. Error: "
+msgstr "Zahteva ni veljavna. Napaka:"
+
+msgid "Games catalog is temporary unavailable"
+msgstr "Katalog iger začasno ni na voljo"
+
+msgid "Empty launch code"
+msgstr "Prazna koda za zagon"
+
+msgid "Empty merchant identifier"
+msgstr "Prazen identifikator trgovca"
+
+msgid "Empty games catalog"
+msgstr "Prazen katalog iger"
+
+msgid "Unknown game launch code"
+msgstr "Neznana koda za zagon igre"
+
+msgid "Not supported exception"
+msgstr "Izjema ni podprta"
+
+msgid "Bad request"
+msgstr "Neveljavna zahteva"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+#, fuzzy
+msgid "Unable find user identifier"
+msgstr "Prazen identifikator uporabnika žetona za dostop"
+
+#, fuzzy
+msgid "Unknown error occured"
+msgstr "Neznana napaka"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "Neveljavna številka prejemnika"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "Preveč zahtev"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "Neznana napaka"
+
+msgid "Token not found"
+msgstr "Žetona ni mogoče najti"
+
+msgid "Invalid token provided"
+msgstr "Predloženi žeton je neveljaven"
+
+msgid "Phone already verified"
+msgstr "Telefon je že preverjen"
+
+msgid "Insufficient parameters"
+msgstr "Nezadostni parametri"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "Napaka avtorizacije"
+
+msgid "Invalid verification code"
+msgstr "Neveljavna koda za preverjanje"
+
+msgid "Empty phone number"
+msgstr "Prazna telefonska številka"
+
+msgid "Invalid phone number"
+msgstr "Neveljavna telefonska številka"
+
+msgid "Anonymous"
+msgstr "Anonimen"
+
+msgid "Item not found"
+msgstr "Izdelka ni mogoče najti"
+
+msgid "Sent from web-form at"
+msgstr "Poslano s spletnim obrazcem ob"
+
+msgid "Service not found"
+msgstr "Storitve ni mogoče najti"
+
+msgid "Unauthorized"
+msgstr "Nepooblaščeno"
+
+msgid "Tournaments history error"
+msgstr "Napaka zgodovina turnirjev"
+
+msgid "Tournaments list not available"
+msgstr "Seznam turnirjev ni na voljo"
+
+msgid "Tournaments type not found"
+msgstr "Vrsta turnirjev ni najdena"
+
+msgid "Tournament not found"
+msgstr "Turnirja ni mogoče najti"
+
+msgid "Tournaments subscribe error"
+msgstr "Napaka naročila na turnir"
+
+#, fuzzy
+msgid "Insufficient monetary turnover"
+msgstr "Nezadostni parametri"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr ""
+
+#, fuzzy
+msgid "Need verification"
+msgstr "preverjanje"
+
+#, fuzzy
+msgid "Need additional verification"
+msgstr "Neveljavna koda za preverjanje"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "E-pošta poslana, povezava za obnovitev bo na voljo 30 minut"
+
+msgid "Password repeat is empty"
+msgstr "Ponovitev gesla je prazna"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Novo geslo lahko vsebuje samo latinične črke, številke in posebne simbole"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Geslo mora vsebovati velike in male latinične črke, številke in posebne "
+"simbole"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Geslo mora vsebovati latinične črke in številke"
+
+msgid "Passwords do not match"
+msgstr "Gesli se ne ujemata"
+
+msgid "Password is empty"
+msgstr "Geslo je prazno"
+
+msgid "Password is invalid"
+msgstr "Geslo ni pravilno"
+
+msgid "Code is invalid"
+msgstr "Koda ni pravilna"
+
+msgid "Email change is not allowed"
+msgstr "Sprememba e-pošte ni dovoljena"
+
+msgid "Email is required"
+msgstr "E-pošta je obvezna"
+
+msgid "User update failed"
+msgstr "Posodobitev uporabnika ni uspela"
+
+msgid "Registration data validation failed"
+msgstr "Preverjanje podatkov registracije ni uspelo"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "Neveljavna koda za preverjanje"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "Prazna koda za zagon"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "Sistemska napaka"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"Kode za preverjanje e-pošte ni mogoče najti, morda ste že potrdili e-poštno "
+"sporočilo, prosimo, preverite svoj nabiralnik"
+
+msgid "Registration_complete"
+msgstr "Registracija zaključena"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+#, fuzzy
+msgid "Insufficient account balance"
+msgstr "Nezadostni parametri"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Niste položili nakazila preko tega sistema, zato ne morete dvigniti sredstev "
+"z njim. Preko tega sistema nakažite nakazilo, da lahko dvigujete."
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "Spol ni izbran"
+
+msgid "Impossible to send email"
+msgstr "Pošiljanje e-pošte ni mogoče"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "Neveljavna koda za preverjanje"
+
+msgid "Server returned invalid response"
+msgstr "Strežnik je vrnil neveljaven odgovor"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "Neznana napaka"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "Neznan status"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "Metoda ni podprta"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "Metoda ni podprta"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "Metoda ni podprta"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "Metoda ni podprta"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "Neveljavni ukaz"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "Neveljavni parametri zahteve"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "Neveljavni parametri zahteve"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "Neveljavni ukaz"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "Neveljavni ukaz"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "Nepodprti ponudnik avtentikacije"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "Napačna različica API-ja v naslovu"
+
+msgid "Not specified API key"
+msgstr "Ključ API ni določen"
+
+msgid "Incorrect API key"
+msgstr "Nepravilen ključ API"
+
+msgid "Incorrect IP address client"
+msgstr "Napačni odjemalec IP naslova"
+
+msgid "Invalid command"
+msgstr "Neveljavni ukaz"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Navedeni ukaz ne obstaja ali ni na voljo"
+
+msgid "System error"
+msgstr "Sistemska napaka"
+
+msgid "Not specified the SMS identifier"
+msgstr "Identifikator SMS ni naveden"
+
+msgid "Sender address does not exist"
+msgstr "Naslov pošiljatelja ne obstaja"
+
+msgid "Not specified content"
+msgstr "Vsebina ni določena"
+
+msgid "Faulty or unsupported country code"
+msgstr "Napačna ali nepodprta koda države"
+
+msgid "Content is too long"
+msgstr "Vsebina je predolga"
+
+msgid "Incorrect encoding of the content"
+msgstr "Nepravilno kodiranje vsebine"
+
+msgid "Exceeded monthly limit"
+msgstr "Presežen mesečni limit"
+
+msgid "Batch ID does not exist"
+msgstr "ID serije ne obstaja"
+
+msgid "List recipients does not exist"
+msgstr "Seznam prejemnikov ne obstaja"
+
+msgid "Invalid recipient number"
+msgstr "Neveljavna številka prejemnika"
+
+msgid "No content"
+msgstr "Ni vsebine"
+
+msgid "Wrong content"
+msgstr "Napačna vsebina"
+
+msgid "Unable send message"
+msgstr "Sporočila ni mogoče poslati"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+
+msgid "Unsupported authentication provider"
+msgstr "Nepodprti ponudnik avtentikacije"
+
+msgid "connect_social_account_email_theme"
+msgstr "Tema poveži e-pošto družabnega računa"
+
+msgid "not_logged_in"
+msgstr "Niste prijavljeni"
+
+msgid "trying_delete_last_social"
+msgstr "Skušam izbrisati zadnji družabni"
+
+msgid "please_set_email"
+msgstr "Prosimo določite e-pošto"
+
+msgid "please_set_password"
+msgstr "Prosimo določite geslo"
+
+msgid "Code incorrect, user not found"
+msgstr "Koda ni veljavna, uporabnika ni mogoče najti"
+
+msgid "email_has_been_verified"
+msgstr "E-pošta je bila preverjena"
+
+msgid "Transaction value generation failed"
+msgstr "Generacija vrednosti transakcije ni uspela"
+
+msgid "email_to_connect_social_sent"
+msgstr "E-pošta za povezavo družabnega poslana"
+
+msgid "Registration complete"
+msgstr "Registracija zaključena"
+
+msgid "_ip_fraud_msg"
+msgstr "ip fraud sporočilo"
+
+msgid "Session is expired"
+msgstr "Seja je potekla"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "Sistemski ID ni določen"
+
+msgid "System ID not specified"
+msgstr "Sistemski ID ni določen"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "Napačna e-pošta, poskusite znova od začetka"
+
+#, fuzzy
+msgid "Email is empty"
+msgstr "Polje e-pošte je prazno"
+
+msgid "Error, account with this email does not exist."
+msgstr "Napaka, račun s tem e-poštnim naslovom ne obstaja."
+
+msgid "Unable generate temporary restore user code"
+msgstr "Začasne obnovitve uporabniške kode ni mogoče ustvariti"
+
+msgid "Password recovery"
+msgstr "Obnovitev gesla"
+
+msgid "current_password_empty"
+msgstr "Trenutno geslo je prazno"
+
+msgid "Current password is incorrect"
+msgstr "Trenutno geslo ni pravilno"
+
+msgid "day_not_set"
+msgstr "Dan ni določen"
+
+msgid "month_not_set"
+msgstr "Mesec ni določen"
+
+msgid "year_not_set"
+msgstr "Leto ni določeno"
+
+msgid "Country is not picked"
+msgstr "Država ni izbrana"
+
+msgid "Gender is not picked"
+msgstr "Spol ni izbran"
+
+msgid "input_repeated_password"
+msgstr "Vnos večkratni gesla"
+
+msgid "Password does not match"
+msgstr "Geslo se ne ujema"
+
+msgid "Email field is empty or incorrect"
+msgstr "Polje e-pošte je prazno ali napačno"
+
+msgid "Email already in use"
+msgstr "E-pošta je že v uporabi"
+
+msgid "Email field is incorrect"
+msgstr "Polje e-pošte ni pravilno"
+
+msgid "Login field is empty"
+msgstr "Polje z uporabniškim imenom je prazno"
+
+msgid "Email field is empty"
+msgstr "Polje e-pošte je prazno"
+
+msgid "login_already_in_use"
+msgstr "Uporabniško ime je že v uporabi"
+
+msgid "phone_empty"
+msgstr "Telefon prazen"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Telefonska številka ni pravilna. Biti mora"
+
+msgid "Phone number too long"
+msgstr "Telefonska številka predolga"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr ""
+"Telefonska številka ni pravilna: uporabljeni so nekateri nedovoljeni simboli."
+
+msgid "new_pass_less_6_symbols"
+msgstr "Novo geslo manj 6 simbolov"
+
+msgid "first_name_empty"
+msgstr "Ime je prazno"
+
+msgid "last_name_empty"
+msgstr "Priimek je prazen"
+
+msgid "New email field is incorrect"
+msgstr "Polje za novo e-pošto ni pravilno"
+
+msgid "User verification failed"
+msgstr "Preverjanje uporabnika ni uspelo"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "Napaka avtorizacije"
+
+msgid "authorization_error"
+msgstr "Napaka avtorizacije"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "Seja je potekla"
+
+msgid "registration_in_progress"
+msgstr "Registracija poteka"
+
+msgid "user_disabled"
+msgstr "Uporabnik onemogočen"
+
+msgid "Access forbidden"
+msgstr "Dostop prepovedan"
+
+msgid "Email field incorrect"
+msgstr "Polje e-pošte ni pravilno"
+
+msgid "email_empty_incorrect"
+msgstr "E-pošta prazna nepravilno"
+
+msgid "pass_less_6_symbols"
+msgstr "Geslo manj 6 simbolov"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "Geslo lahko vsebuje samo latinične črke, številke in posebne simbole"
+
+msgid "currency_not_set"
+msgstr "Valuta ni določena"
+
+msgid "Currency field is invalid"
+msgstr "Polje valute je neveljavno"
+
+msgid "reg_promo_is_invalid"
+msgstr "reg_promo_je_nevejaven"
+
+msgid "email_already_registered"
+msgstr "E-pošta že registrirana"
+
+msgid "login_already_registered"
+msgstr "Uporabniško ime že registrirano"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "Telefon je že registriran"
+
+msgid "ip_fraud_blacklist"
+msgstr "ip goljuf črni seznam"
+
+msgid "ip_fraud_check_error"
+msgstr "ip goljuf prever napaka"
+
+msgid "Activate your account"
+msgstr "Aktivirajte svoj račun"
+
+msgid "Registration confirmation is in progress"
+msgstr "Potrdilo o registraciji je v teku"
+
+msgid "Unknown status"
+msgstr "Neznan status"
+
+#, fuzzy
+msgid "first name"
+msgstr "priimek"
+
+msgid "last name"
+msgstr "priimek"
+
+msgid "birth date"
+msgstr "datum rojstva"
+
+msgid "sex"
+msgstr "spol"
+
+msgid "country"
+msgstr ""
+
+msgid "phone number"
+msgstr "telefonska številka"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "Če želite spremeniti %s polje, se obrnite na našo pomoč strankam "
+msgstr[1] "Če želite spremeniti %s polja, se obrnite na našo pomoč strankam "
+
+msgid "Email has invalid format"
+msgstr "E-pošta ima neveljavno obliko"
+
+msgid "Repeat password field is empty"
+msgstr "Polje za ponovitev gesla je prazno"
+
+msgid "First name field is empty"
+msgstr "Polje z imenom je prazno"
+
+msgid "First name must contain only letters"
+msgstr ""
+
+msgid "Last name field is empty"
+msgstr "Polje s priimkom je prazno"
+
+#, fuzzy
+msgid "Last name must contain only letters"
+msgstr "Geslo mora vsebovati latinične črke in številke"
+
+msgid "Gender field is empty"
+msgstr "Polje s spolom je prazno"
+
+msgid "Gender unallowed value"
+msgstr "Nedovoljena vrednost spola"
+
+msgid "Currency field is empty"
+msgstr "Polje valute je prazno"
+
+msgid "Country code is empty"
+msgstr "Koda države je prazna"
+
+msgid "Country code is invalid"
+msgstr "Koda države je neveljavna"
+
+msgid "Phone code is empty"
+msgstr "Telefonska koda je prazna"
+
+msgid "Phone number field is empty"
+msgstr "Polje s telefonsko številko je prazno"
+
+msgid "Phone number invalid format"
+msgstr "Neveljavna oblika telefonske številke"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "Telefonska koda je prazna"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "Geslo mora imeti vsaj 6 znakov"
+
+#, fuzzy
+msgid "Wrong IBAN number"
+msgstr "telefonska številka"
+
+#, fuzzy
+msgid "Wrong SWIFT number"
+msgstr "telefonska številka"
+
+msgid "ID Number is not unique"
+msgstr "Številka ID ni edinstvena"
+
+msgid "Password field is empty"
+msgstr "Polje za geslo je prazno"
+
+msgid "New password field is empty"
+msgstr "Polje za novo geslo je prazno"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Novo geslo mora imeti vsaj 6 znakov"
+
+msgid "New password strength is weak"
+msgstr "Novo geslo je šibko"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "Napaka, račun s tem e-poštnim naslovom ne obstaja."
+
+msgid "Password strength is weak"
+msgstr "Geslo je šibko"
+
+msgid "Login is already registered"
+msgstr "Uporabniško ime je že registrirano"
+
+msgid "Email is already registered"
+msgstr "E-pošta je že registrirana"
+
+msgid "Phone is already registered"
+msgstr "Telefon je že registriran"
+
+msgid "You are less than 18 year old"
+msgstr "Stari ste manj kot 18 let"
+
+#~ msgid "Do you need to contact us?"
+#~ msgstr "Ali nas morate kontaktirati?"
+
+#~ msgid ""
+#~ "Due to legal reasons we can't accept players residing in the country you "
+#~ "are currently\n"
+#~ "            in."
+#~ msgstr ""
+#~ "Zaradi pravnih razlogov ne moremo sprejeti igralcev s prebivališčem v "
+#~ "državi, v kateri ste trenutno."
+
+#~ msgid ""
+#~ "If you’re using a proxy service or VPN to access casino, try turning it "
+#~ "off and reload the\n"
+#~ "            page."
+#~ msgstr ""
+#~ "Če za dostop do igralnice uporabljate storitev proxy ali VPN, jo "
+#~ "poskusite izklopiti in ponovno naložite\n"
+#~ "     stran."
+
+#~ msgid "Location restriction"
+#~ msgstr "Omejitev lokacije"
+
+#~ msgid "Not in a restricted region"
+#~ msgstr "Ni v omejenem območju"
+
+#~ msgid ""
+#~ "Should you have any questions or feel that this block is affecting you "
+#~ "due to a technical error,\n"
+#~ "            please\n"
+#~ "            don't hesitate to contact us and we'll work it out together."
+#~ msgstr ""
+#~ "Če imate kakršna koli vprašanja ali menite, da je ta blokada posledica "
+#~ "tehnične napake,\n"
+#~ "            vas prosimo,\n"
+#~ " \t     da nas takoj kontaktirate in skupaj jo bomo razrešili."
+
+#~ msgid "Awaiting limits information"
+#~ msgstr ""
+#~ "Čakanje na informacije o omejitvah. Poskusite pozneje znova, saj še vedno "
+#~ "čakamo na informacije o trenutnih omejitvah umika"
+
+#~ msgid "cancel_error"
+#~ msgstr "cancel error"
+
+#~ msgid "select_error"
+#~ msgstr "select error"

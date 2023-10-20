@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: loyalty\n"
+"Language: uz\n"
+
+msgid "No client"
+msgstr "Hech qanday mijoz yo'q"
+
+msgid "Set transaction type"
+msgstr "Tranzaksiya turini o'rnatish"
+
+msgid "No user id"
+msgstr "Foydalanuvchi identifikatori yo'q"
+
+msgid "No amount"
+msgstr "Miqdori yo'q"
+
+msgid "No loyalty record"
+msgstr "Sodiqlik yozuvi yo'q"
+
+msgid "Wrong request path"
+msgstr "So'rovning noto'g'ri usuli"
+
+msgid "Debet amount to big"
+msgstr "Debet miqdori juda katta"
+
+msgid "Wrong transaction type"
+msgstr "Noto'g'ri tranzaksiya yo'li"
+
+msgid "Awaiting limits information"
+msgstr "Cheklovlar haqida ma'lumotni kutish"
+
+msgid "Wrong currency"
+msgstr "Noto'g'ri valyuta"
+
+msgid "Non existent level"
+msgstr "Mavjud bo'lmagan daraja"
+
+msgid "No points"
+msgstr "Ballar yo'q"
+
+msgid "Set loyalty level"
+msgstr "Sodiqlik darajasini o'rnatish"
+
+msgid "No bet"
+msgstr "Tikish yo'q"
+
+msgid "No ID user"
+msgstr "Foydalanuvchi identifikatori yo'q"
+
+msgid "No ID bonus"
+msgstr "Bonus identifikatori yo'q"
+
+msgid "Wrong amount"
+msgstr "Noto'g'ri miqdor"
+
+msgid "No bonus ID"
+msgstr "Bonus ID yo'q"
+
+msgid "No user ID"
+msgstr "Foydalanuvchi ID yo'q"
+
+msgid "Wrong date format"
+msgstr "Noto'g'ri sana formati"
+
+msgid "Date must not be today"
+msgstr "Sana mumkin emas"
+
+msgid "No bonus id"
+msgstr "Bonus identifikatori yo'q"
+
+msgid "No status"
+msgstr "Status yo'q"
+
+msgid "Bonus not found"
+msgstr "Bonus topilmadi"
+
+msgid "Already have active"
+msgstr "Allaqachon faol"
+
+msgid "Bonus is not available"
+msgstr "Bonus mavjud emas"
+
+msgid "First deposit, already deposited"
+msgstr "Birinchi depozit, allaqachon qo'yilgan"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Bonus shartlari qondirish emas"
+
+msgid "Bonus used"
+msgstr "Ishlatilgan bonus"
+
+msgid "Promo code needed"
+msgstr "Sizga promo-kod kerak"
+
+msgid "Wrong promo code"
+msgstr "Noto'g'ri promo kodi"
+
+msgid "User ID not set"
+msgstr "Foydalanuvchi identifikatori o'rnatilmagan"
+
+msgid "Wrong bonus results value"
+msgstr "Bonus natijalarining noto'g'ri qiymati"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Noto'g'ri qiymat"
+
+msgid "Wrong bonus results award wagering"
+msgstr "G'oliblik mukofotining noto'g'ri natijasi"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Noto'g'ri parcha hajmi natijasi"
+
+msgid "Wrong bonus results release wagering"
+msgstr ""
+
+msgid "Bonus name required"
+msgstr "Bonus nomi kerak"
+
+msgid "Wrong bonus event"
+msgstr "Noto'g'ri bonus voqea"
+
+msgid "Wrong bonus type"
+msgstr "Noto'g'ri bonus turi"
+
+msgid "Wrong bonus repeat period"
+msgstr "Noto'g'ri bonus takrorlash davri"
+
+msgid "Wrong bonus expire period"
+msgstr "Bonusning amal qilish muddati noto'g'ri"
+
+msgid "Wrong bonus budget"
+msgstr "Noto'g'ri bonus byudjeti"
+
+msgid "Wrong bonus start date"
+msgstr "Bonus boshlanishining noto'g'ri sanasi"
+
+msgid "Wrong bonus end date"
+msgstr "Bonus tugashining noto'g'ri sanasi"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Bonus boshlanish sanasi tugash sanasidan kattaroqdir"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Noto'g'ri bonus shartlari miqdori min"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Noto'g'ri bonus shartlari miqdori max"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr ""
+
+msgid "Following codes are duplicated"
+msgstr "Quyidagi kodlar ikki marta takrorlanadi"
+
+msgid "Bonus name already exists"
+msgstr "Bonus nomi allaqachon mavjud"
+
+msgid "Wrong bonus ID"
+msgstr "Haqiqiy bonus identifikatori"
+
+msgid "Activated bonuses"
+msgstr "Faollashtirilgan bonuslar"
+
+msgid "Can't delete"
+msgstr "O'chirib bo'lmaydi"
+
+msgid "No bonus"
+msgstr "Bonus yo'q"
+
+msgid "Wrong store action"
+msgstr ""
+
+msgid "No order id"
+msgstr "Buyurtma identifikatori yo'q"
+
+msgid "Order not found"
+msgstr "Buyurtma topilmadi"
+
+msgid "No item id"
+msgstr "Mahsulot identifikatori yo'q"
+
+msgid "User not found"
+msgstr "Foydalanuvchi topilmadi"
+
+msgid "Item not found"
+msgstr "Mahsulot topilmadi"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Tovar narxi uchun valyuta ko'rsatilmagan: SODIQLIK"
+
+msgid "Not enough loyalty points"
+msgstr "Sodiqlik nuqtalari etarli emas"
+
+msgid "Item out of stock"
+msgstr "Mahsulot yo'q"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr ""
+
+msgid "User not found in tournament"
+msgstr "Turnirda foydalanuvchi topilmadi"
+
+msgid "Set codes count"
+msgstr ""
+
+msgid "Set batch name"
+msgstr ""
+
+msgid "Codes count exceeds 300 000"
+msgstr ""
+
+msgid "Wrong batch ID"
+msgstr ""
+
+msgid "Codes not set"
+msgstr "Kodlar o'rnatilmagan"
+
+msgid "Modificator not found"
+msgstr "Modifikator topilmadi"
+
+msgid "Set coefficient"
+msgstr "Koeffitsientni o'rnating"
+
+msgid "Set name"
+msgstr "Ismni o'rnating"
+
+msgid "No levels defined"
+msgstr "Darajalar aniqlanmagan"
+
+msgid "Level not found"
+msgstr "Darajasi topilmadi"
+
+msgid "Bad cronjob"
+msgstr ""
+
+msgid "No category ID"
+msgstr "Turkum ID yo'q"
+
+msgid "Category not found"
+msgstr "Turkum topilmadi"
+
+msgid "No category name"
+msgstr "Turkum nomi yo'q"
+
+msgid "Wrong category ID"
+msgstr "Noto'g'ri turkum ID"
+
+msgid "No category id"
+msgstr "Turkum id yo'q"
+
+msgid "No item ID"
+msgstr "Mahsulot identifikatori yo'q"
+
+msgid "Wrong item ID"
+msgstr "Noto'g'ri mahsulot ID"
+
+msgid "Item init error"
+msgstr ""
+
+msgid "Wrong item BonusEventAmount"
+msgstr ""
+
+msgid "No item"
+msgstr "Mahsulot yo'q"
+
+msgid "Wrong tournament ID"
+msgstr "Turnirning noto'g'ri ID"
+
+msgid "Wrong Tournament ID"
+msgstr "Turnirning noto'g'ri ID"
+
+msgid "No ID tournament"
+msgstr "Turnir identifikatori yo'q"
+
+msgid "No tournament ID"
+msgstr "Turnirning ID yo'q"
+
+msgid "No tournament id"
+msgstr "Turnirning ID yo'q"
+
+msgid "No balance"
+msgstr "Balans yo'q"
+
+msgid "Not enough balance"
+msgstr "Balans yetarli emas"
+
+msgid "Tournament name required"
+msgstr "Turnirning nomi kerak"
+
+msgid "Wrong tournament winner by"
+msgstr "Turnirning noto'g'ri g'olibi"
+
+msgid "Wrong tournament period"
+msgstr "Turnirning noto'g'ri davri"
+
+msgid "Wrong tournament repeat"
+msgstr "Turnirning takrorlanishi noto'g'ri"
+
+msgid "Wrong tournament start date"
+msgstr "Turnirning boshlang'ich sanasi noto'g'ri"
+
+msgid "Tournament not found"
+msgstr "Turnir topilmadi"
+
+msgid "Activated Tournaments"
+msgstr "Faol turnirlar"
+
+msgid "No tournament"
+msgstr "Turnir yo'q"
+
+msgid "Wrong event type"
+msgstr "Noto'g'ri voqea turi"
+
+msgid "No event id"
+msgstr "Voqealar identifikatori yo'q"
+
+msgid "Empty data"
+msgstr "Bo'sh ma'lumotlar"
+
+msgid "No data"
+msgstr "Ma'lumot yo'q"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Foydalanuvchiga bonuslardan foydalanish taqiqlanadi"
+
+msgid "Bonus selection is already in process"
+msgstr "Bonusga obuna allaqachon qayta ishlangan"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Foydalanuvchiga turnirlarda ishtirok etish taqiqlanadi"
+
+msgid "Bonus pending cancellation"
+msgstr "Bonus bekor qilishni kutmoqda"
+
+msgid "Cancel not supported"
+msgstr "Bonus bekor qilinishi mumkin emas"
+
+msgid "Awaiting limits information, try later"
+msgstr "Qayta ishlashda ma'lumotlar bor, keyinroq sinab ko'ring"
+
+msgid "Error cancellation of the bonus"
+msgstr "Bonusni bekor qilish xatosi"
+
+msgid "Purchase is not possible - the item has been disabled"
+msgstr "Sotib olish mumkin emas - tanlangan mahsulot o'chirilgan"
+
+msgid "Purchase is not possible - the item has been deleted"
+msgstr "Sotib olish mumkin emas - tanlangan mahsulot o'chirildi"

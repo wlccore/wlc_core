@@ -1,0 +1,334 @@
+# Mongolian translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2018-06-24 23:08+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.8\n"
+
+msgid "Set transaction type"
+msgstr "Шилжүүлгийн төрлийг сонгох"
+
+msgid "No user id"
+msgstr "Хэрэглэгчийн нэр байхгүй"
+
+msgid "No amount"
+msgstr "Дүн байхгүй"
+
+msgid "No loyalty record"
+msgstr "Лояалти бүртгэл байхгүй"
+
+msgid "Wrong request path"
+msgstr "Хүсэлт буруу газар өгөгдсөн"
+
+msgid "Debet amount to big"
+msgstr "Өндөр дүнгээр дахин бооцоо тавих"
+
+msgid "Wrong transaction type"
+msgstr "Шилжүүлгийн төрөл буруу байна"
+
+msgid "Awaiting limits information"
+msgstr "Хязгаарлалтын мэдээг хүлээж байна"
+
+msgid "Wrong currency"
+msgstr "Буруу мөнгөн тэмдэгт"
+
+msgid "Non existent level"
+msgstr "Байхгүй түвшин"
+
+msgid "No points"
+msgstr "Оноо байхгүй"
+
+msgid "Set loyalty level"
+msgstr "Лояалтигийн түвшин тогтоох"
+
+msgid "No bet"
+msgstr "Бооцоо байхгүй"
+
+msgid "No ID user"
+msgstr "Хэрэглэгчийн нэр байхгүй"
+
+msgid "No ID bonus"
+msgstr "Бонусын нэр байхгүй"
+
+msgid "Wrong amount"
+msgstr "Буруу дүн"
+
+msgid "No bonus ID"
+msgstr "Бонусын нэр байхгүй"
+
+msgid "No user ID"
+msgstr "Хэрэглэгчийн нэр байхгүй"
+
+msgid "Wrong date format"
+msgstr "Он, сар, өдрийн дараалал буруу "
+
+msgid "Date must not be today"
+msgstr "Огноо өнөөдөр байж болохгүй"
+
+msgid "No bonus id"
+msgstr "Бонусын нэр байхгүй"
+
+msgid "No status"
+msgstr "Статус байхгүй"
+
+msgid "Bonus not found"
+msgstr "Бонус олдсонгүй"
+
+msgid "Already have active"
+msgstr "Аль хэдийн идэвхтэй"
+
+msgid "Bonus is not available"
+msgstr "Бонус боломжгүй байна"
+
+msgid "First deposit, already deposited"
+msgstr "Эхний мөрий аль хэдийн тавигдсан"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Бонусын нөхцөлийг хангахгүй байна"
+
+msgid "Bonus used"
+msgstr "Бонусыг ашигласан"
+
+msgid "Promo code needed"
+msgstr "Урамшууллын код шаардлагатай"
+
+msgid "Wrong promo code"
+msgstr "Урамшууллын код буруу байна"
+
+msgid "User ID not set"
+msgstr "Хэрэглэгчийн нэрийг тохируулаагүй"
+
+msgid "Wrong bonus results value"
+msgstr "Бонусын дүнгийн хэмжээ буруу"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Үнэгүй тоглох бонусын дүнгийн хэмжээ буруу"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Шагналын бооцооны бонусын дүн буруу"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Wrong bonus results chunk size"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Wrong bonus results release wagering"
+
+msgid "Bonus name required"
+msgstr "Бонусын нэр шаардлагатай"
+
+msgid "Wrong bonus event"
+msgstr "Буруу бонусын үйл ажиллагаа"
+
+msgid "Wrong bonus type"
+msgstr "Бонусын төрөл буруу"
+
+msgid "Wrong bonus repeat period"
+msgstr "Бонусын давтамжийн хугацаа буруу"
+
+msgid "Wrong bonus expire period"
+msgstr "Буруу - бонусын хугацаа дуусссан"
+
+msgid "Wrong bonus budget"
+msgstr "Бонусын төсөв буруу"
+
+msgid "Wrong bonus start date"
+msgstr "Бонус эхлэх өдөр буруу"
+
+msgid "Wrong bonus end date"
+msgstr "Бонус дуусах хугацаа буруу"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Буруу - бонус эхлэх өдөр нь дуусах хугацаанаас их"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Доод дүнгийн хувьд бонусын нөхцөл буруу"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Дээд дүнгийн хувьд бонусын нөхцөл буруу"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Бонусын нөхцөл буруу - доод дүн нь дээдээсээ их"
+
+msgid "Following codes are duplicated"
+msgstr "Дараах кодууд давтагдсан"
+
+msgid "Bonus name already exists"
+msgstr "Бонусын нэр аль хэдийн байгаа"
+
+msgid "Wrong bonus ID"
+msgstr "Бонусын нэр буруу"
+
+msgid "Activated bonuses"
+msgstr "Бонусуудыг идэвхжүүлэв"
+
+msgid "Can't delete"
+msgstr "Устгах боломжгүй"
+
+msgid "No bonus"
+msgstr "Бонус байхгүй"
+
+msgid "Wrong store action"
+msgstr "Хадгалах үйлдэл буруу"
+
+msgid "No order id"
+msgstr "Захиалгын нэр байхгүй"
+
+msgid "Order not found"
+msgstr "Захиалга олдоогүй"
+
+msgid "No item id"
+msgstr "Зүйлийн нэр байхгүй"
+
+msgid "User not found"
+msgstr "Хэрэглэгч олдоогүй"
+
+msgid "Item not found"
+msgstr "Хайсан зүйл олдоогүй"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Зүйлийн үнэ мөнгөн тэмдэгтээр илэрхийлэгдээгүй: ЛОЯАЛТИ"
+
+msgid "Not enough loyalty points"
+msgstr "Лояалти оноо хангалтгүй"
+
+msgid "Item out of stock"
+msgstr "Нөөцөнд байхгүй байна. "
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Бонусын арга хэмжээний зүйлийн дүн буруу"
+
+msgid "User not found in tournament"
+msgstr "Тэмцээн дэх хэрэглэгч олдоогүй"
+
+msgid "Set codes count"
+msgstr "Кодын тоог оруулах"
+
+msgid "Set batch name"
+msgstr "Багцын нэрийг оруулах"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Кодын тоо 300 000-с их байна"
+
+msgid "Wrong batch ID"
+msgstr "Багцын нэр буруу"
+
+msgid "Codes not set"
+msgstr "Кодуудыг оруулаагүй"
+
+msgid "Modificator not found"
+msgstr "Модификатор олдоогүй"
+
+msgid "Set coefficient"
+msgstr "Итгэлцүүрийг оруулах"
+
+msgid "Set name"
+msgstr "Нэр оруулах"
+
+msgid "No levels defined"
+msgstr "Аль ч түвшинг тодорхойлоогүй"
+
+msgid "Level not found"
+msgstr "Түвшин олдоогүй"
+
+msgid "Bad cronjob"
+msgstr "Муу хуваарьт ажил"
+
+msgid "No category ID"
+msgstr "Ангилалын нэр байхгүй"
+
+msgid "Category not found"
+msgstr "Ангилал олдоогүй"
+
+msgid "No category name"
+msgstr "Ангилалын нэр байхгүй"
+
+msgid "Wrong category ID"
+msgstr "Ангилалын нэр буруу"
+
+msgid "No category id"
+msgstr "Ангилалын нэр байхгүй"
+
+msgid "No item ID"
+msgstr "Зүйлийн нэр байхгүй"
+
+msgid "Wrong item ID"
+msgstr "Зүйлийн нэр буруу"
+
+msgid "Item init error"
+msgstr "Зүйлийг эхлүүлэхэд алдаа гарсан"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Бонусын тэмцээний зүйлийн хэмжээ буруу "
+
+msgid "No item"
+msgstr "Ямар нэгэн зүйл байхгүй"
+
+msgid "Wrong tournament ID"
+msgstr "Тэмцээний нэр буруу"
+
+msgid "Wrong Tournament ID"
+msgstr "Тэмцээний нэр буруу"
+
+msgid "No ID tournament"
+msgstr "Тодорхойгүй тэмцээн"
+
+msgid "No tournament ID"
+msgstr "Тодорхойгүй тэмцээн"
+
+msgid "No tournament id"
+msgstr "Тодорхойгүй тэмцээн"
+
+msgid "No balance"
+msgstr "Үлдэгдэл байхгүй"
+
+msgid "Not enough balance"
+msgstr "Үлдэгдэл хүрэлцэхгүй"
+
+msgid "Tournament name required"
+msgstr "Тэмцээний нэр шаардлагатай"
+
+msgid "Wrong tournament winner by"
+msgstr "Буруу - тэмцээний ялагч"
+
+msgid "Wrong tournament period"
+msgstr "Тэмцээний үргэлжлэх хугацаа буруу"
+
+msgid "Wrong tournament repeat"
+msgstr "Буруу - тэмцээнийг давтсан"
+
+msgid "Wrong tournament start date"
+msgstr "Тэмцээн эхлэх өдөр буруу"
+
+msgid "Tournament not found"
+msgstr "Тэмцээн олдоогүй"
+
+msgid "Activated Tournaments"
+msgstr "Идэвхжүүлсэн тэмцээ"
+
+msgid "No tournament"
+msgstr "Тэмцээн байхгүй"
+
+msgid "Wrong event type"
+msgstr "Үйл ажиллагааны төрөл буруу"
+
+msgid "No event id"
+msgstr "Тодорхойгүй арга хэмжээ"
+
+msgid "Empty data"
+msgstr "Мэдээлэл хоосон"
+
+msgid "No data"
+msgstr "Мэдээлэл байхгүй"

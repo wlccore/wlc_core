@@ -1,0 +1,1555 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wlc core\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#, fuzzy
+msgid "Add our email to your address book to not miss out on important information from"
+msgstr "Tambahkan e-mel kami dalam buku kenalan anda supaya anda tidak ketinggalan maklumat yang penting daripada kami"
+
+msgid "Congratulations,"
+msgstr "Tahniah,"
+
+msgid "Dear"
+msgstr "Hai"
+
+msgid "Deposit confirmation"
+msgstr "Pengesahan deposit"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Pemberitahuan deposit berjaya. Baki anda"
+
+msgid "Finish registration link"
+msgstr "Pautan untuk menyelesaikan pendaftaran"
+
+msgid "Greeting."
+msgstr "Salam."
+
+msgid "Hello"
+msgstr "Helo"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "Jika e-mel ini tidak dipaparkan dengan betul, sila buka melalui pelayar anda."
+
+msgid "If you have any questions, please contact"
+msgstr "Jika anda mempunyai sebarang pertanyaan, sila hubungi"
+
+msgid "Link will be available for 30 minutes."
+msgstr "Pautan akan tersedia selama 30 minit."
+
+msgid "Login"
+msgstr "Log masuk"
+
+msgid "Password"
+msgstr "Kata laluan"
+
+msgid "Password restore"
+msgstr "Pemulihan kata laluan"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Sila klik pautan di bawah untuk menyelesaikan pendaftaran:"
+
+msgid "Please do not reply to this e-mail. This email is generated automatically and you will not receive a response."
+msgstr "Jangan balas e-mel ini. E-mel ini dijana secara automatik dan anda tidak akan menerima balasan."
+
+msgid "Registration confirmation"
+msgstr "Pengesahan pendaftaran"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Pulihkan kata laluan anda dengan mengklik pautan di bawah."
+
+msgid "Social registration confirmation"
+msgstr "Pengesahan pendaftaran sosial"
+
+msgid "Thank you for validating your account."
+msgstr "Terima kasih kerana mengesahkan akaun anda."
+
+msgid "Thanks for registration on the website!"
+msgstr "Terima kasih atas pendaftaran di laman web!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "Untuk menyelesaikan memautkan akaun anda, sila gunakan pautan ini:"
+
+msgid "Welcome to"
+msgstr "Selamat datang ke"
+
+msgid "With respect"
+msgstr "Dengan hormat"
+
+msgid "You asked to link new social account to your current account"
+msgstr "Anda meminta untuk memautkan akaun sosial baharu ke akaun semasa anda"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Anda telah mengambil langkah pertama untuk merasai pengalaman perjalanan permainan yang mengujakan\n"
+"dengan"
+
+msgid "casino_footer_copyright"
+msgstr "Hak cipta kekaki kasino"
+
+msgid "casino_mail_info"
+msgstr "Maklumat e-mel kasino"
+
+msgid "online support"
+msgstr "sokongan dalam talian"
+
+msgid "controller_does_not_exists"
+msgstr "Alat kawalan tidak wujud"
+
+msgid "social_not_found"
+msgstr "Sosial tidak ditemui"
+
+msgid "purchase_error"
+msgstr "Ralat pembelian"
+
+msgid "game_added_to_favorites"
+msgstr "Permainan ditambah ke kegemaran"
+
+msgid "game_deleted_from_favorites"
+msgstr "Permainan dipadam daripada kegemaran"
+
+msgid "must_login"
+msgstr "Perlu melog masuk"
+
+msgid "No bonus name"
+msgstr "Tiada nama bonus"
+
+msgid "No bonus descripton"
+msgstr "Tiada penerangan bonus"
+
+msgid "No user id"
+msgstr "Tiada id pengguna"
+
+msgid "No bonus id"
+msgstr "Tiada id bonus"
+
+msgid "No status"
+msgstr "Tiada status"
+
+msgid "Bonus not found"
+msgstr "Bonus tidak ditemui"
+
+msgid "Already have active"
+msgstr "Anda telah mempunyai bonus aktif"
+
+msgid "Bonus is not available"
+msgstr "Bonus tidak tersedia"
+
+msgid "First deposit, already deposited"
+msgstr "Deposit pertama telah didepositkan"
+
+msgid "No loyalty record"
+msgstr "Tiada rekod kesetiaan"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Bonus tidak menepati syarat set"
+
+msgid "Bonus used"
+msgstr "Bonus telah digunakan"
+
+msgid "Promo code needed"
+msgstr "Kod promo diperlukan"
+
+msgid "Wrong promo code"
+msgstr "Kod promo salah"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonus dilarang untuk pengguna"
+
+msgid "Already have an active bonus"
+msgstr "Sudah mempunyai bonus aktif"
+
+msgid "registration"
+msgstr "pendaftaran"
+
+msgid "verification"
+msgstr "pengesahan"
+
+msgid "sign up"
+msgstr "daftar masuk"
+
+msgid "store"
+msgstr "stor"
+
+msgid "login"
+msgstr "log masuk"
+
+msgid "deposit"
+msgstr "deposit"
+
+msgid "deposit first"
+msgstr "deposit dahulu"
+
+msgid "deposit sum"
+msgstr "jumlah deposit"
+
+msgid "deposit repeated"
+msgstr "deposit diulang"
+
+msgid "bet"
+msgstr "taruhan"
+
+msgid "bet sum"
+msgstr "jumlah taruhan"
+
+msgid "win sum"
+msgstr "jumlah kemenangan"
+
+msgid "loss sum"
+msgstr "jumlah kekalahan"
+
+msgid "once"
+msgstr "sekali"
+
+msgid "day"
+msgstr "hari"
+
+msgid "week"
+msgstr "minggu"
+
+msgid "month"
+msgstr "bulan"
+
+msgid "all"
+msgstr "semua"
+
+msgid "bonus"
+msgstr "bonus"
+
+msgid "win"
+msgstr "menang"
+
+msgid "win and bonus"
+msgstr "menang dan bonus"
+
+msgid "winevent"
+msgstr "menang dan acara"
+
+msgid "winbonusevent"
+msgstr "menang + bonus + acara"
+
+msgid "none"
+msgstr "tiada"
+
+msgid "balance"
+msgstr "baki"
+
+msgid "experience"
+msgstr "pengalaman"
+
+msgid "loyalty"
+msgstr "kesetiaan"
+
+msgid "absolute"
+msgstr "mutlak"
+
+msgid "relative"
+msgstr "relatif"
+
+msgid "bets"
+msgstr "pertaruhan"
+
+msgid "wins"
+msgstr "menang"
+
+msgid "turnover"
+msgstr "perolehan"
+
+msgid "negative turnover"
+msgstr "perolehan negatif"
+
+msgid "unlimited"
+msgstr "tanpa had"
+
+msgid "one day"
+msgstr "satu hari"
+
+msgid "two days"
+msgstr "dua hari"
+
+msgid "three days"
+msgstr "tiga hari"
+
+msgid "seven days"
+msgstr "tujuh hari"
+
+msgid "ten days"
+msgstr "10 hari"
+
+msgid "fourteen days"
+msgstr "14 hari"
+
+msgid "thirty days"
+msgstr "30 hari"
+
+msgid "sixty days"
+msgstr "60 hari"
+
+msgid "ninety days"
+msgstr "90 hari"
+
+msgid "one week"
+msgstr "seminggu"
+
+msgid "two weeks"
+msgstr "dua minggu"
+
+msgid "one month"
+msgstr "satu bulan"
+
+msgid "every day"
+msgstr "setiap hari"
+
+msgid "every week"
+msgstr "setiap minggu"
+
+msgid "every two weeks"
+msgstr "setiap dua minggu"
+
+msgid "every month"
+msgstr "setiap bulan"
+
+msgid "fee"
+msgstr "caj"
+
+msgid "turnover and fee"
+msgstr "perolehan dan caj"
+
+msgid "everyday"
+msgstr "setiap hari"
+
+msgid "monday"
+msgstr "Isnin"
+
+msgid "tuesday"
+msgstr "Selasa"
+
+msgid "wednesday"
+msgstr "Rabu"
+
+msgid "thursday"
+msgstr "Khamis"
+
+msgid "friday"
+msgstr "Jumaat"
+
+msgid "saturday"
+msgstr "Sabtu"
+
+msgid "sunday"
+msgstr "Ahad"
+
+msgid "transaction_list_is_empty"
+msgstr "Senarai transaksi kosong"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "Tarikh tidak betul: tarikh mula tidak boleh selepas tarikh akhir"
+
+msgid "cancelled"
+msgstr "dibatalkan"
+
+msgid "rejected"
+msgstr "ditolak"
+
+msgid "error"
+msgstr "ralat"
+
+msgid "in_progress"
+msgstr "Dalam kemajuan"
+
+msgid "confirmed"
+msgstr "disahkan"
+
+msgid "pending"
+msgstr "belum selesai"
+
+msgid "system_error"
+msgstr "Rakat sistem"
+
+msgid "completed"
+msgstr "telah lengkap"
+
+msgid "aborted"
+msgstr "digugurkan"
+
+msgid "credit"
+msgstr "kredit"
+
+msgid "debet"
+msgstr "debit"
+
+msgid "withdraw_unavailable"
+msgstr "Pengeluaran tidak tersedia"
+
+msgid "withdraw_check_error"
+msgstr "Ralat semakan pengeluaran"
+
+msgid "set_amount"
+msgstr "Tetapkan amaun"
+
+msgid "set_payment_system"
+msgstr "Tetapkan sistem pembayaran"
+
+msgid "country_and_birth_date_required"
+msgstr "Negara dan tarikh lahir diperlukan"
+
+msgid "payment_request_sent"
+msgstr "Permohonan pembayaran dihantar"
+
+msgid "payment_request_error"
+msgstr "Ralat permohonan pembayaran"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Had pengeluaran maksimum telah dicapai"
+
+msgid "sys_error_message"
+msgstr "Mesej ralat sistem"
+
+msgid "input_purse"
+msgstr "Ruangan input dompet"
+
+msgid "payment_withdraw_sent"
+msgstr "Pengeluaran bayaran dihantar"
+
+msgid "New password is empty"
+msgstr "Kata laluan baharu kosong"
+
+msgid "Repeat password is empty"
+msgstr "Ruangan kata laluan ulangan kosong"
+
+msgid "Code is empty"
+msgstr "Kod kosong"
+
+msgid "Code is incorrect"
+msgstr "Kod tidak betul"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Panjang kata laluan perlulah sekurang-kurangnya 6 aksara"
+
+msgid "pass_not_match"
+msgstr "Kata laluan tidak sepadan"
+
+msgid "Session expired"
+msgstr "Sesi telah luput"
+
+msgid "social_account_expired"
+msgstr "Akaun sosial telah luput"
+
+msgid "Empty to address"
+msgstr "Ruangan alamat kosong"
+
+msgid "Empty subject"
+msgstr "Ruangan subjek kosong"
+
+msgid "Empty message"
+msgstr "Ruangan mesej kosong"
+
+msgid "Empty required parameter"
+msgstr "Parameter permintaan tidak sah"
+
+msgid "Unknown error"
+msgstr "Ralat tidak diketahui"
+
+msgid "Not allowed player country"
+msgstr "Anda tidak dapat bermain permainan ini kerana tidak dibenarkan dalam negara anda"
+
+msgid "Demo not supported"
+msgstr "Mod demo tidak disokong"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Mata wang anda tidak disokong oleh penyedia ini"
+
+msgid "Branded games are not enabled"
+msgstr "Permainan berjenama tidak dibenarkan"
+
+msgid "Self exclusion date"
+msgstr "Tarikh pengecualian diri"
+
+msgid "Self exclusion"
+msgstr "Pengecualian diri"
+
+msgid "does not exists"
+msgstr "Elemen tidak wujud"
+
+msgid "Method is not supported"
+msgstr "Kaedah tidak disokong"
+
+msgid "Data type is not found"
+msgstr "Jenis data tidak ditemui"
+
+msgid "Invalid request parameters"
+msgstr "Parameter permintaan tidak sah"
+
+msgid "Loyalty result not supported"
+msgstr "Keputusan kesetiaan tidak disokong"
+
+msgid "No bonus description"
+msgstr "Tiada penerangan deposit"
+
+msgid "Selected"
+msgstr "Dipilih"
+
+msgid "Qualified"
+msgstr "Layak"
+
+msgid "Deleted"
+msgstr "Dipadam"
+
+msgid "Deactivated"
+msgstr "Dinyahaktif"
+
+msgid "Canceled"
+msgstr "Dibatalkan"
+
+msgid "Ending"
+msgstr "Penamat"
+
+msgid "Ended"
+msgstr "Telah tamat"
+
+msgid "Loyalty API Failure"
+msgstr "Kegagalan API Kesetiaan"
+
+msgid "User not found"
+msgstr "Pengguna tidak ditemui"
+
+msgid "Unable fetch oauth access token"
+msgstr "Tidak dapat mengambil akses token OAuth"
+
+msgid "Access token is missing"
+msgstr "Token akses hilang"
+
+msgid "Empty access token user identifier"
+msgstr "Pengecam token pengguna akses kosong"
+
+msgid "Empty access token identifier"
+msgstr "Pengecam akses token kosong"
+
+msgid "Method not allowed"
+msgstr "Kaedah tidak dibenarkan"
+
+msgid "Your country is on the forbidden list"
+msgstr "Negara anda berada dalam senarai sekatan"
+
+msgid "User profile is incomplete"
+msgstr "Profil pengguna tidak lengkap"
+
+msgid "Achievement result is not list"
+msgstr "Keputusan pencapaian tidak disenaraikan"
+
+msgid "Unknown route path"
+msgstr "Laluan tidak diketahui"
+
+msgid "Too many requests"
+msgstr "Ralat telah berlaku semasa proses log masuk. Terlalu banyak permohonan"
+
+msgid "Too many requests to Promocodes"
+msgstr "Percubaan untuk memasukkan kod promo disekat selama %d minit"
+
+msgid "Code is not valid"
+msgstr "Kod tidak sah"
+
+msgid "Too many requests. Captcha required"
+msgstr "Ralat telah berlaku semasa proses log masuk. Terlalu banyak permintaan"
+
+msgid "Method Not Allowed"
+msgstr "Kaedah tidak dibenarkan"
+
+msgid "Api endpoint not found"
+msgstr "Ralat telah berlaku semasa proses log masuk. Terlalu banyak permintaan"
+
+msgid "Confirm your email to start games"
+msgstr "Sahkan e-mel anda untuk mula bermain"
+
+msgid "User not authorized"
+msgstr "Tiada kebenaran"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Sistem peniaga tidak dipilih atau tidak sah"
+
+msgid "Amount is not selected or invalid"
+msgstr "Amaun tidak dipilih atau tidak sah"
+
+msgid "Bonus result is not list"
+msgstr "Keputusan bonus tidak ditemui"
+
+msgid "Bonus ID Not found"
+msgstr "ID Bonus tidak dijumpai"
+
+msgid "Bonus Selected Not found"
+msgstr "Bonus yang dipilih tidak dijumpai"
+
+msgid "User is not authorized"
+msgstr "Tiada kebenaran"
+
+msgid "Empty cashback id"
+msgstr "ID pulangan tunai kosong"
+
+msgid "Deposit failed: %s"
+msgstr "Deposit gagal: %s"
+
+msgid "You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr "Anda telah membenarkan had %s: %s %s sehingga %s. Jumlah deposit yang tersedia: %s %s"
+
+msgid "To complete the deposit, make a bank transfer using the following details"
+msgstr "Untuk melengkapkan deposit, lakukan pemindahan bank menggunakan butiran berikut"
+
+msgid "Amount"
+msgstr "Amaun"
+
+msgid "Branch code"
+msgstr "Kod cawangan"
+
+msgid "Bank name"
+msgstr "Nama bank"
+
+msgid "Branch name"
+msgstr "Nama cawangan"
+
+msgid "Account type"
+msgstr "Jenis akaun"
+
+msgid "Account number"
+msgstr "Nombor akaun"
+
+msgid "Account name"
+msgstr "Nama akaun"
+
+msgid "Reference number"
+msgstr "Nombor rujukan"
+
+msgid "Uploadable files is empty"
+msgstr "Senarai fail yang boleh dimuat naik kosong"
+
+msgid "Exceeds allowed file size"
+msgstr "Melebihi saiz fail yang dibenarkan"
+
+msgid "Mb"
+msgstr "Mb"
+
+msgid "Document ID not found"
+msgstr "ID dokumen tidak ditemui"
+
+msgid "Request invalid. Error: "
+msgstr "Permintaan tidak sah. Ralat:"
+
+msgid "Games catalog is temporary unavailable"
+msgstr "Katalog permainan tidak tersedia untuk sementara waktu"
+
+msgid "Empty launch code"
+msgstr "Kod pelancaran kosong"
+
+msgid "Empty merchant identifier"
+msgstr "Pengecam penyedia kosong"
+
+msgid "Empty games catalog"
+msgstr "Katalog permainan kosong"
+
+msgid "Unknown game launch code"
+msgstr "Kod pelancaran permainan tidak diketahui"
+
+msgid "Not supported exception"
+msgstr "Pengecualian ini tidak disokong"
+
+msgid "Bad request"
+msgstr "Permintaan buruk"
+
+msgid "This feature is disabled"
+msgstr "Ciri ini telah diyahbolehkan"
+
+msgid "Not available for authorized user"
+msgstr "Tidak tersedia untuk pengguna dibenarkan"
+
+msgid "Invalid currency"
+msgstr "Mata wang tidak sah"
+
+msgid "email, password, currency required"
+msgstr "e-mel, kata laluan, mata wang diperlukan"
+
+msgid "Wrong action"
+msgstr "Tindakan salah"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr "Parameter daripada mesti dalam format 'T-b-h J:i:s' atau kosong"
+
+msgid "Unable find user identifier"
+msgstr "Tidak dapat mencari pengecam pengguna"
+
+msgid "Unknown error occured"
+msgstr "Ralat tidak diketahui"
+
+msgid "Limit not provided "
+msgstr "Had tidak disediakan "
+
+msgid "Invalid Limit value "
+msgstr "Nilai Had tidak sah "
+
+msgid "Wrong request"
+msgstr "Permintaan salah"
+
+msgid "Unknown provider"
+msgstr "Ralat tidak diketahui"
+
+msgid "Token not found"
+msgstr "Token masih belum dijumpai"
+
+msgid "Invalid token provided"
+msgstr "Token tidak sah disediakan"
+
+msgid "Phone already verified"
+msgstr "Nombor telefon telahpun disahkan"
+
+msgid "Insufficient parameters"
+msgstr "Parameter yang tidak mencukupi"
+
+msgid "Configuration error"
+msgstr "Ralat konfigurasi"
+
+msgid "Invalid verification code"
+msgstr "Kod pengesahan tidak sah"
+
+msgid "Empty phone number"
+msgstr "Nombor telefon kosong"
+
+msgid "Invalid phone number"
+msgstr "Nombor telefon tidak sah"
+
+msgid "Anonymous"
+msgstr "Tanpa nama"
+
+msgid "Item not found"
+msgstr "Item masih belum dijumpai"
+
+msgid "Sent from web-form at"
+msgstr "Dihantar daripada borang web di"
+
+msgid "Service not found"
+msgstr "Perkhidmatan tidak dijumpai"
+
+msgid "Unauthorized"
+msgstr "Tiada kebenaran"
+
+msgid "Tournaments history error"
+msgstr "Ralat sejarah kejohanan"
+
+msgid "Tournaments list not available"
+msgstr "Senarai kejohanan tidak tersedia"
+
+msgid "Tournaments type not found"
+msgstr "Jenis kejohanan tidak dijumpai"
+
+msgid "Tournament not found"
+msgstr "Kejohanan tidak dijumpai"
+
+msgid "Tournaments subscribe error"
+msgstr "Ralat melanggan kejohanan"
+
+msgid "Insufficient monetary turnover"
+msgstr "Perolehan wang yang tidak mencukupi"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "Profil pengguna (data peribadi) belum diisi"
+
+msgid "Need verification"
+msgstr "Pengesahan diperlukan"
+
+msgid "Need additional verification"
+msgstr "Pengesahan tambahan diperlukan"
+
+msgid "Code accepted, the device has been added"
+msgstr "Kod diterima, peranti telah ditambahkan"
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "E-mel dihantar, pautan pemulihan akan tersedia selama 30 minit"
+
+msgid "Password repeat is empty"
+msgstr "Ruangan kata laluan ulangan kosong"
+
+msgid "Password must be at least 5 characters long"
+msgstr "Panjang kata laluan mestilah sekurang-kurangnya 5 aksara"
+
+msgid "New password may contain only latin letters, numbers and special symbols"
+msgstr "Kata laluan baharu perlu mengandungi huruf rumi, nombor dan simbol khas sahaja"
+
+msgid "Password must contain latin letters in upper and lower case, numbers and special symbols"
+msgstr "Kata laluan perlu mengandungi huruf rumi dalam huruf besar dan kecil, nombor dan simbol khas"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Kata laluan perlu mengandungi huruf dan nombor rumi"
+
+msgid "Passwords do not match"
+msgstr "Kata laluan tidak sepadan"
+
+msgid "Code is invalid"
+msgstr "Kod tidak sah"
+
+msgid "Password is empty"
+msgstr "Kata laluan kosong"
+
+msgid "Password is invalid"
+msgstr "Kata laluan tidak sah"
+
+msgid "Email change is not allowed"
+msgstr "Pertukaran e-mel tidak dibenarkan"
+
+msgid "Email is required"
+msgstr "E-mel diperlukan"
+
+msgid "User update failed"
+msgstr "Kemas kini penggun gagal"
+
+msgid "Registration data validation failed"
+msgstr "Pengesahan data pendaftaran gagal"
+
+msgid "Invalid validation code"
+msgstr "Kod pengesahan tidak sah"
+
+msgid "Empty unsubscribe code"
+msgstr "Kod pelancaran kosong"
+
+msgid "Internal error"
+msgstr "Ralat sistem"
+
+msgid "Email verification code is not found, maybe you have already confirmed your email, please check your mailbox"
+msgstr "Kod pengesahan e-mel tidak ditemui, mungkin anda telah mengesahkan e-mel anda, sila semak peti mel anda"
+
+msgid "Registration_complete"
+msgstr "Pendaftaran telah dilengkapkan"
+
+msgid "Invalid DateOfBirth format"
+msgstr "Permohonan parameter tidak sah"
+
+msgid "You are less than 18 year old"
+msgstr "Anda berumur di bawah 18 tahun"
+
+msgid "In single mode only one limit can be specified"
+msgstr "Dalam mod tunggal satu had sahaja boleh ditentukan"
+
+msgid "Insufficient account balance"
+msgstr "Baki akaun tidak mencukupi"
+
+msgid "You haven't deposited through this system so you can't withdraw funds using it. Make a deposit via this system in order to withdraw."
+msgstr "Anda belum mendeposit melalui sistem ini jadi anda tidak dapat mengeluarkan dana menggunakannya. Lakukan deposit melalui sistem ini untuk membuat pengeluaran."
+
+msgid "Zendesk not configured"
+msgstr "Zendesk tidak dikonfigurasikan"
+
+msgid "Impossible to send email"
+msgstr "Mustahil untuk menghantar e-mel"
+
+msgid "unknown_device_message"
+msgstr "Anda cuba untuk melog masuk daripada peranti tidak diketahui\\n"
+
+msgid "Invalid confirmation code"
+msgstr "Kod pengesahan tidak sah"
+
+msgid "VerificationCodeHasExpired"
+msgstr "Kod pengesahan telah luput"
+
+msgid "Exceeded the number of attempts to enter the verification code. You can try again in %s minutes"
+msgstr "Melebihi bilangan percubaan untuk memasukkan kod pengesahan. Anda boleh mencuba lagi dalam %s minit"
+
+msgid "ConfirmationСodeExpired"
+msgstr "Kod pengesahan telah luput"
+
+msgid "Error, account with this phone does not exist."
+msgstr "Ralat, akaun dengan nombor telefon ini tidak wujud."
+
+msgid "Error sending recovery code"
+msgstr "Ralat menghantar kod pemulihan"
+
+msgid "Sms provider not found"
+msgstr "Perkhidmatan tidak ditemui"
+
+msgid "Password reset code - "
+msgstr "Pemulihan semula kata laluan "
+
+msgid "Sms sent, recovery code will be available for 30 minutes"
+msgstr "SMS telah dihantar, kod pemulihan akan tersedia selama 30 minit"
+
+msgid "Server returned invalid response"
+msgstr "Pelayan mengembalikan respons yang tidak sah"
+
+msgid "Temporary routing error"
+msgstr "Ralat penghalaan sementara"
+
+msgid "Permanent routing error"
+msgstr "Ralat penghalaan kekal"
+
+msgid "Maximum throttling exceeded"
+msgstr "Pendikitan maksimum telah melebihi had"
+
+msgid "Timeout"
+msgstr "Masa tamat"
+
+msgid "Operator unknown error"
+msgstr "Ralat tidak diketahui"
+
+msgid "Operator error"
+msgstr "Ralat pengendali"
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr "Ralat dalaman (Ralat pautan komunikasi)"
+
+msgid "Sent (to operator)"
+msgstr "Dihantar (kepada pengendali)"
+
+msgid "Billed and delivered"
+msgstr "Dibilkan dan telah dihantar"
+
+msgid "Expired"
+msgstr "Tamat tempoh"
+
+msgid "Mobile full"
+msgstr "Mod skrin penuh"
+
+msgid "Queued"
+msgstr "Dalam giliran"
+
+msgid "Not delivered"
+msgstr "Tidak dihantar"
+
+msgid "Delivered,Billed delayed"
+msgstr "Telah dihantar, bil dilewatkan"
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr "Bil telah dibayar"
+
+msgid "Billed OK and NOT Delivered"
+msgstr "Bil telah dibayar dan tidak dihantar"
+
+msgid "Expired, absence of operator delivery report"
+msgstr "Luput, laporan penghantaran pengendali tidak diberikan"
+
+msgid "Billed OK and sent (to operator)"
+msgstr "Mesej telah dihantar ke pengendali, bil telah dibayar"
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr "Ditangguhkan (ralat pengebilan sementara, sistem akan cuba menghantar semula)"
+
+msgid "Message sent to operator, Billdelayed"
+msgstr "Mesej telah dihantar kepada operator, Bill dilewatkan"
+
+msgid "Service rejected by subscriber"
+msgstr "Perkhidmatan telah ditolak oleh pelanggan"
+
+msgid "Unknown subscriber"
+msgstr "Status tidak diketahui"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr "Destinasi disekat (pelanggan disekat secara kekal)"
+
+msgid "Number error"
+msgstr "Ralat nombor"
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr "Destinasi disekat buat sementara waktu (pelanggan disekat buat sementara waktu)"
+
+msgid "Charging error"
+msgstr "Ralat pengecasan"
+
+msgid "Subscriber has low balance"
+msgstr "Pelanggan mempunyai baki yang rendah"
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr "Pelanggan disekat untuk caj mesej (premium) berlebihan"
+
+msgid "Subscriber too young (for this particular content)"
+msgstr "Pelanggan terlalu muda (untuk kandungan tertentu ini)"
+
+msgid "Prepaid subscriber not allowed"
+msgstr "Pengguna langganan prepaid tidak dibenarkan"
+
+msgid "Subscriber not registered in payment system"
+msgstr "Pelanggan tidak didaftarkan dalam sistem pembayaran"
+
+msgid "Subscriber has reached max balance"
+msgstr "Pelanggan telah mencapai baki maksimum"
+
+msgid "GSM encoding is not supported"
+msgstr "Kaedah tidak disokong"
+
+msgid "UCS2 encoding is not supported"
+msgstr "Kaedah tidak disokong"
+
+msgid "Binary encoding is not supported"
+msgstr "Kaedah tidak disokong"
+
+msgid "Delivery report is not supported"
+msgstr "Kaedah tidak disokong"
+
+msgid "Invalid message content"
+msgstr "Kandungan mesej tidak sah"
+
+msgid "Invalid tariff"
+msgstr "Arahan tidak sah"
+
+msgid "Invalid user data"
+msgstr "Parameter permintaan tidak sah"
+
+msgid "Invalid user data header"
+msgstr "Parameter permintaan tidak sah"
+
+msgid "Invalid data coding"
+msgstr "Arahan tidak sah"
+
+msgid "Invalid VAT"
+msgstr "Arahan tidak sah"
+
+msgid "Unsupported content for destination"
+msgstr "Pengesahan penyedia tidak disokong"
+
+msgid "Unknown Error. Please contact Support and include your whole transaction"
+msgstr "Ralat tidak diketahui. Sila hubungi Sokongan dan sertakan seluruh transaksi anda"
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr "Pengesahan tidak sah. Sila semak nama pengguna dan kata laluan anda"
+
+msgid "Access denied. Please check your username and password"
+msgstr "Akses ditolak. Sila semak nama pengguna dan kata laluan anda"
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr "Pengenal pasti laman tidak sah atau kosong. Sila semak pengenal pasti laman anda"
+
+msgid "Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr "Pengenal pasti program afiliasi tidak sah atau kosong. Sila periksa pengenal pasti program afiliasi"
+
+msgid "Invalid or missing currency for premium message. Please check your price and currency"
+msgstr "Mata wang yang tidak sah atau tidak diisi untuk mesej premium. Sila semak harga dan mata wang anda"
+
+msgid "No gates available. Please contact Support and include your whole transaction"
+msgstr "Tiada gerbang tersedia. Sila hubungi Sokongan dan sertakan seluruh transaksi anda"
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr "Gerbang tertentu tidak tersedia. Sila periksa pengesan gerbang."
+
+msgid "Incorrect version API in address"
+msgstr "API versi tidak betul dalam alamat"
+
+msgid "Not specified API key"
+msgstr "Kunci API tidak ditentukan"
+
+msgid "Incorrect API key"
+msgstr "Kunci API yang salah"
+
+msgid "Incorrect IP address client"
+msgstr "Alamat IP klien tidak betul"
+
+msgid "Invalid command"
+msgstr "Arahan tidak sah"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Arahan yang ditentukan tidak wujud atau tidak tersedia"
+
+msgid "System error"
+msgstr "Ralat sistem"
+
+msgid "Not specified the SMS identifier"
+msgstr "Pengesan SMS tidak ditentukan"
+
+msgid "Sender address does not exist"
+msgstr "Alamat penghantar tidak wujud"
+
+msgid "Not specified content"
+msgstr "Kandungan tidak ditentukan"
+
+msgid "Faulty or unsupported country code"
+msgstr "Kod negara yang rosak atau tidak disokong"
+
+msgid "Content is too long"
+msgstr "Kandungan terlalu panjang"
+
+msgid "Incorrect encoding of the content"
+msgstr "Pengekodan kandungan yang salah"
+
+msgid "Exceeded monthly limit"
+msgstr "Melebihi had bulanan"
+
+msgid "Batch ID does not exist"
+msgstr "ID kelompok tidak wujud"
+
+msgid "List recipients does not exist"
+msgstr "Senarai penerima tidak wujud"
+
+msgid "Invalid recipient number"
+msgstr "Nombor penerima tidak sah"
+
+msgid "No content"
+msgstr "Tiada kandungan"
+
+msgid "Wrong content"
+msgstr "Kandungan yang salah"
+
+msgid "Unable send message"
+msgstr "Mesej tidak dapat dihantar"
+
+msgid "The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr "Kuota SMS jam telah melebihi had. Anda boleh mencuba semula menghantar SMS dalam %d minit"
+
+msgid "Unsupported authentication provider"
+msgstr "Pengesahan penyedia tidak disokong"
+
+msgid "connect_social_account_email_theme"
+msgstr "Sambungkan tema e-mel akaun sosial"
+
+msgid "not_logged_in"
+msgstr "Tidak dilog masuk"
+
+msgid "trying_delete_last_social"
+msgstr "Cuba untuk memadam akaun rangkaian sosial terakhir"
+
+msgid "please_set_email"
+msgstr "Sila tetapkan e-mel"
+
+msgid "please_set_password"
+msgstr "Sila tetapkan kata laluan"
+
+msgid "Code incorrect, user not found"
+msgstr "Kod tidak betul, pengguna tidak dijumpai"
+
+msgid "UnexpectedError"
+msgstr "Ralat tidak dijangka berlaku, sila cuba sebentar lagi"
+
+msgid "email_has_been_verified"
+msgstr "E-mel telah disahkan"
+
+msgid "Transaction value generation failed"
+msgstr "Penjanaan nilai transaksi gagal"
+
+msgid "email_to_connect_social_sent"
+msgstr "E-mel untuk menyambungkan akaun sosial telah dihantar"
+
+msgid "Registration complete"
+msgstr "Pendaftaran lengkap"
+
+msgid "_ip_fraud_msg"
+msgstr "Mesej IP penipuan"
+
+msgid "Session is expired"
+msgstr "Sesi tamat tempoh"
+
+msgid "Withdrawal ID not specified"
+msgstr "ID pengeluaran tidak dinyatakan"
+
+msgid "Invoice ID not specified"
+msgstr "ID invois tidak dinyatakan"
+
+msgid "System ID not specified"
+msgstr "ID sistem tidak dinyatakan"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "E-mel tidak betul, sila cuba lagi dari awal"
+
+msgid "new_password"
+msgstr "Kata laluan baharu anda - "
+
+msgid "Email is empty"
+msgstr "Ruangan e-mel kosong"
+
+msgid "Error, account with this email does not exist."
+msgstr "Ralat, akaun dengan e-mel ini tidak wujud."
+
+msgid "Unable generate temporary restore user code"
+msgstr "Tidak dapat menjana kod pengguna pemulihan sementara"
+
+msgid "Password recovery"
+msgstr "Pemulihan kata laluan"
+
+msgid "current_password_empty"
+msgstr "Ruangan kata laluan terkini kosong"
+
+msgid "Current password is incorrect"
+msgstr "Kata laluan semasa tidak betul"
+
+msgid "day_not_set"
+msgstr "Hari tidak ditetapkan"
+
+msgid "month_not_set"
+msgstr "Bulan tidak ditetapkan"
+
+msgid "year_not_set"
+msgstr "Tahun tidak ditetapkan"
+
+msgid "Country is not picked"
+msgstr "Negara tidak dipilih"
+
+msgid "Gender is not picked"
+msgstr "Jantina tidak dipilih"
+
+msgid "input_repeated_password"
+msgstr "Ulang kata laluan"
+
+msgid "Password does not match"
+msgstr "Kata laluan tidak sepadan"
+
+msgid "Email field is empty or incorrect"
+msgstr "Ruang e-mel kosong atau tidak betul"
+
+msgid "Email already in use"
+msgstr "E-mel telah digunakan"
+
+msgid "Email field is incorrect"
+msgstr "Ruangan e-mel tidak betul"
+
+msgid "Login field is empty"
+msgstr "Ruangan log masuk kosong"
+
+msgid "Email field is empty"
+msgstr "Ruangan E-mel kosong"
+
+msgid "login_already_in_use"
+msgstr "Log masuk telah digunakan"
+
+msgid "login_metamask_not_allowed"
+msgstr "Log masuk melalui MetaMask tidak dibenarkan"
+
+msgid "register_metamask_not_allowed"
+msgstr "Pendaftaran melalui MetaMask tidak dibenarkan"
+
+msgid "phone_empty"
+msgstr "Ruangan nombor telefon kosong"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Nombor telefon tidak betul. Nombor telefon perlulah"
+
+msgid "Phone number too long"
+msgstr "Nombor telefon terlalu panjang"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Nombor telefon tidak betul: simbol yang tidak dibenarkan telah digunakan."
+
+msgid "new_pass_less_5_symbols"
+msgstr "Kata laluan baharu kurang daripada 5 simbol"
+
+msgid "new_pass_less_6_symbols"
+msgstr "Kata laluan baharu kurang daripada 6 simbol"
+
+msgid "first_name_empty"
+msgstr "Ruangan nama pertama kosong"
+
+msgid "last_name_empty"
+msgstr "Ruangan nama terakhir kosong"
+
+msgid "New email field is incorrect"
+msgstr "Ruangan e-mel baru tidak betul"
+
+msgid "User verification failed"
+msgstr "Pengesahan pengguna gagal"
+
+msgid "authorization_error_sms"
+msgstr "Ralat telah berlaku semasa proses log masuk. Ralat pengesahan"
+
+msgid "Invalid signature"
+msgstr "Nombor penerima tidak sah"
+
+msgid "authorization_error"
+msgstr "Ralat telah berlaku semasa proses log masuk. Ralat pengesahan"
+
+msgid "You have to verify your email first"
+msgstr "Anda perlu mengesahkan e-mel anda terlebih dahulu"
+
+msgid "password_expired"
+msgstr "Kata laluan anda telah luput. Sila cipta kata laluan baharu."
+
+msgid "registration_in_progress"
+msgstr "Pendaftaran sedang dijalankan"
+
+msgid "user_disabled"
+msgstr "Pemberitahuan akaun pengguna disekat"
+
+msgid "Access forbidden"
+msgstr "Akses dilarang"
+
+msgid "Email field incorrect"
+msgstr "Ruangan e-mel tidak betul"
+
+msgid "email_empty_incorrect"
+msgstr "E-mel tidak betul"
+
+msgid "pass_less_5_symbols"
+msgstr "Kata laluan baharu kurang daripada 5 simbol"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "Kata laluan perlu mengandungi huruf rumi, nombor dan simbol khas sahaja"
+
+msgid "currency_not_set"
+msgstr "Mata wang tidak ditetapkan"
+
+msgid "Currency field is invalid"
+msgstr "Ruangan mata wang tidak sah"
+
+msgid "reg_promo_is_invalid"
+msgstr "Promo pendaftaran tidak sah"
+
+msgid "email_already_registered"
+msgstr "E-mel telah didaftarkan"
+
+msgid "login_already_registered"
+msgstr "Log masuk telah didaftarkan"
+
+msgid "Phone number already registered"
+msgstr "Nombor telefon telah didaftarkan"
+
+msgid "ip_fraud_blacklist"
+msgstr "Senarai Hitam IP Penipuan"
+
+msgid "ip_fraud_check_error"
+msgstr "Ralat semakan IP penipuan"
+
+msgid "Phone is already registered"
+msgstr "Nombor telefon sudah didaftarkan"
+
+msgid "sms_registration"
+msgstr "Log Masuk Anda: %s \\n"
+
+msgid "Activate your account"
+msgstr "Aktifkan akaun anda"
+
+msgid "Registration confirmation is in progress"
+msgstr "Pengesahan pendaftaran sedang dijalankan"
+
+msgid "FieldsEmpty"
+msgstr "Ruangan berikut perlu diisi:"
+
+msgid "Unknown status"
+msgstr "Status tidak diketahui"
+
+msgid "first name"
+msgstr "nama pertama"
+
+msgid "last name"
+msgstr "nama akhir"
+
+msgid "birth date"
+msgstr "tarikh lahir"
+
+msgid "sex"
+msgstr "jantina"
+
+msgid "country"
+msgstr "negara"
+
+msgid "phone number"
+msgstr "nombor telefon"
+
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "Untuk menukar ruangan %s sila hubungi sokongan kami di "
+
+msgid "message is required"
+msgstr "E-mel diperlukan"
+
+msgid "address is required"
+msgstr "E-mel diperlukan"
+
+msgid "signature is required"
+msgstr "E-mel diperlukan"
+
+msgid "Wrong signature"
+msgstr "Nilai ruangan tidak sah"
+
+msgid "Email has invalid format"
+msgstr "E-mel mempunyai format tidak sah"
+
+msgid "Repeat password field is empty"
+msgstr "Ruangan kata laluan ulangan kosong"
+
+msgid "First name field is empty"
+msgstr "Ruangan nama pertama kosong"
+
+msgid "First name must contain only letters"
+msgstr "Ruangan nama pertama perlu mengandungi huruf sahaja"
+
+msgid "Last name field is empty"
+msgstr "Ruangan nama terakhir kosong"
+
+msgid "Last name must contain only letters"
+msgstr "Nama terakhir perlu mengandungi huruf sahaja"
+
+msgid "Gender field is empty"
+msgstr "Ruangan jantina kosong"
+
+msgid "Gender unallowed value"
+msgstr "Nilai jantina yang tidak dibenarkan"
+
+msgid "Currency field is empty"
+msgstr "Ruangan mata wang kosong"
+
+msgid "Country code is empty"
+msgstr "Kod negara kosong"
+
+msgid "Country code is invalid"
+msgstr "Kod negara tidak sah"
+
+msgid "Phone code is empty"
+msgstr "Kod telefon kosong"
+
+msgid "Phone number field is empty"
+msgstr "Ruangan nombor telefon kosong"
+
+msgid "Phone number invalid format"
+msgstr "Format nombor telefon tidak sah"
+
+msgid "Validation code is empty"
+msgstr "Kod pengesahan kosong"
+
+msgid "Password must not be equal to login"
+msgstr "Kata laluan tidak boleh sama dengan log masuk"
+
+msgid "Wrong IBAN number"
+msgstr "Nombor IBAN salah"
+
+msgid "Wrong SWIFT number"
+msgstr "Nombor SWIFT salah"
+
+msgid "ID Number is not unique"
+msgstr "Nombor ID tidak unik"
+
+msgid "Password field is empty"
+msgstr "Ruangan kata laluan kosong"
+
+msgid "New password field is empty"
+msgstr "Ruangan kata laluan baharu kosong"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Panjang kata laluan baharu mestilah sekurang-kurangnya 6 aksara"
+
+msgid "New password strength is weak"
+msgstr "Kekuatan kata laluan baharu lemah"
+
+msgid "Password strength is weak"
+msgstr "Kekuatan kata laluan lemah"
+
+msgid "An account with such personal details already exists"
+msgstr "Akaun dengan butiran peribadi sedemikian sudah wujud"
+
+msgid "Login is already registered"
+msgstr "Log masuk sudah didaftarkan"
+
+msgid "Email is already registered"
+msgstr "E-mel sudah didaftarkan"
+
+msgid "firstName"
+msgstr "nama"
+
+msgid "lastName"
+msgstr "nama akhir"
+
+msgid "city"
+msgstr "bandar"
+
+msgid "address"
+msgstr "alamat"
+
+msgid "dateOfBirth"
+msgstr "tarikh lahir"
+
+msgid "countryCode"
+msgstr "negara"
+
+msgid "stateCode"
+msgstr "negeri"
+
+msgid "Nickname already exist"
+msgstr "Nama samaran telah digunakan"
+
+msgid "Chat user not found"
+msgstr "Data nama samara tidak dijumpai"
+
+msgid "User nickname contains invalid symbols"
+msgstr "Nama samaran pengguna mengandungi simbol yang tidak sah: &,',\",@,/,:,<,>,\\n,\\t,\\r, ,!,?,.,,"
+
+msgid "User nickname creation error"
+msgstr "Ralat penciptaan nama samaran pengguna"
+
+msgid "User nickname updating error"
+msgstr "Ralat pengemaskinian nama samaran pengguna"
+
+msgid "Response-hash does not match the request or is missing"
+msgstr "Hash respons tidak sepadan dengan permintaan atau tidak diberikan"
+
+msgid "One or more required agreements are not selected"
+msgstr "Satu perjanjian atau lebih yang diperlukan tidak dipilih"
+
+msgid "User currency could not be changed"
+msgstr "Mata wang pengguna tidak boleh diubah"
+
+msgid "Invalid country state"
+msgstr "Negeri negara tidak sah"
+
+msgid "State code is empty"
+msgstr "Kod negeri kosong"
+
+msgid "No states allowed"
+msgstr "Tiada negeri dibenarkan"
+
+msgid "Too many requests to api/v1/supportEmail"
+msgstr "Ralat menghantar boring. Terlalu banyak permintaan"
+
+msgid "Date of birth must not be earlier than 1900-01-01 and user must be at least 18 years old"
+msgstr "Tarikh lahir mestilah selepas 1900-01-01 dan pengguna mestilah berumur sekurang-kurangnya 18 tahun"
+
+msgid "Date of birth must not be earlier than 1900-01-01"
+msgstr "Tarikh lahir tidak boleh lebih awal daripada 1900-01-01"
+
+msgid "Item temporarily unavailable"
+msgstr "Item tidak tersedia buat sementara waktu"
+
+msgid "Limits can be increased no more than once every 7 days. Try again at the earliest X"
+msgstr "Had boleh ditingkatkan tidak lebih daripada sekali setiap 7 hari. Cuba lagi pada %s terawal"
+
+msgid "The user has already been confirmed. Log in to the site."
+msgstr "Pengguna telah disahkan. Log masuk ke laman ini."
+
+msgid "Gift"
+msgstr "Hadiah"
+
+msgid "Transaction error"
+msgstr "Ralat transaksi"
+
+msgid "Empty or wrong type field"
+msgstr "Ruangan jenis kosong atau salah"
+
+msgid "Empty amount field"
+msgstr "Ruangan amaun kosong"
+
+msgid "Empty email"
+msgstr "E-mel kosong"
+
+msgid "Please, check the field \"Recipient e-mail\""
+msgstr "Sila semak ruangan \"E-mel penerima\""
+
+msgid "To send a gift kindly confirm your e-mail"
+msgstr "Untuk menghantar hadiah, sila sahkan e-mel anda"
+
+msgid "To send a gift kindly confirm your phone number"
+msgstr "Untuk menghantar hadiah, sila sahkan nombor telefon anda"
+
+msgid "To send a gift, the recipient's e-mail must be confirmed"
+msgstr "Untuk menghantar hadiah, e-mel penerima perlu disahkan"
+
+msgid "Message sent, confirmation code will be available for %d seconds"
+msgstr "Mesej dihantar, kod pengesahan akan tersedia untuk %d saat"
+
+msgid "You cannot send a gift to yourself"
+msgstr "Anda tidak boleh menghantar hadiah kepada diri sendiri"
+
+msgid "Gift sent"
+msgstr "Hadiah telah dihantar"
+
+msgid "Failed to send confirmation code"
+msgstr "Gagal untuk menghantar kod pengesahan"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Ralat acara bonus item"

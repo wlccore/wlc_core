@@ -1,0 +1,1448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wlc_core_messages_\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr "महत्वपूर्ण जानकारी के बारे में जानने के लिए हमारी ईमेल को अपनी पता पुस्तिका में जोड़ें"
+
+msgid "Congratulations,"
+msgstr "बधाई हो,"
+
+msgid "Dear"
+msgstr "प्रिय"
+
+msgid "Deposit confirmation"
+msgstr "जमा की पुष्टि"
+
+msgid "Deposit success notification. Your balance"
+msgstr "जमा सफलता की अधिसूचना। आपकी शेष राशि "
+
+msgid "Finish registration link"
+msgstr "पंजीकरण लिंक समाप्त करें"
+
+msgid "Greeting."
+msgstr "शुभकामना।"
+
+msgid "Hello"
+msgstr "नमस्ते"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "यदि यह ईमेल सही तरीके से प्रदर्शित नहीं होता है, तो इसे अपने ब्राउज़र में खोलें।"
+
+msgid "If you have any questions, please contact"
+msgstr "यदि आपके कोई प्रश्न हैं, तो कृपया संपर्क करें"
+
+msgid "Link will be available for 30 minutes."
+msgstr "लिंक 30 मिनट के लिए उपलब्ध होगा।"
+
+msgid "Login"
+msgstr "लॉग इन करें"
+
+msgid "Password"
+msgstr "पासवर्ड "
+
+msgid "Password restore"
+msgstr "पासवर्ड पुनर्स्थापित करें"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "कृपया पंजीकरण समाप्त करने के लिए नीचे दिए गए लिंक पर क्लिक करें:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"कृपया इस ईमेल का जवाब न दें। यह ईमेल अपने आप उत्त्पन्न होता है और आपको कोई प्रतिक्रिया "
+"नहीं मिलेगी।"
+
+msgid "Registration confirmation"
+msgstr "पंजीकरण पुष्टि"
+
+msgid "Restore your password by clicking the link below."
+msgstr "नीचे दिए गए लिंक पर क्लिक करके अपना पासवर्ड पुनर्स्थापित करें।"
+
+msgid "Social registration confirmation"
+msgstr "सामाजिक पंजीकरण की पुष्टि"
+
+msgid "Thank you for validating your account."
+msgstr "अपने खाते को मान्य करने के लिए धन्यवाद।"
+
+msgid "Thanks for registration on the website!"
+msgstr "वेबसाइट पर पंजीकरण के लिए धन्यवाद!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "अपने खातों को लिंक करने के लिए कृपया इस लिंक का उपयोग करें:"
+
+msgid "Welcome to"
+msgstr "आपका स्वागत है"
+
+msgid "With respect"
+msgstr "सम्मान के साथ"
+
+msgid "You asked to link new social account to your current account"
+msgstr "आपने नए सामाजिक खाते को अपने चालू खाते से लिंक करने के लिए कहा"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr "आपने एक अद्भुत गेमिंग यात्रा का अनुभव करने के लिए पहला कदम उठाया है"
+
+msgid "casino_footer_copyright"
+msgstr "कसीनो_फुटर_कॉपीराइट"
+
+msgid "casino_mail_info"
+msgstr "कैसीनो_मेल_इन्फो"
+
+msgid "online support"
+msgstr "ऑनलाइन समर्थन"
+
+msgid "controller_does_not_exists"
+msgstr "नियंत्रक_उपलब्ध_नहीं_है"
+
+msgid "social_not_found"
+msgstr "सोशल_नहीं_मिला"
+
+msgid "purchase_error"
+msgstr "खरीद_त्रुटि"
+
+msgid "game_added_to_favorites"
+msgstr "गेम_पसंदीदा_में_जोड़ा गया"
+
+msgid "game_deleted_from_favorites"
+msgstr "गेम_पसंदीदा_से_हटा दिया"
+
+msgid "must_login"
+msgstr "जरुरी_लॉग इन"
+
+msgid "No bonus name"
+msgstr "कोई बोनस नाम नहीं"
+
+msgid "No bonus descripton"
+msgstr "कोई बोनस विवरण नहीं"
+
+msgid "No user id"
+msgstr "कोई उपयोगकर्ता आईडी नहीं"
+
+msgid "No bonus id"
+msgstr "कोई बोनस आईडी नहीं"
+
+msgid "No status"
+msgstr "कोई स्थिति नहीं"
+
+msgid "Bonus not found"
+msgstr "बोनस नहीं मिला"
+
+msgid "Already have active"
+msgstr "पहले से ही सक्रिय हैं"
+
+msgid "Bonus is not available"
+msgstr "बोनस नहीं मिल रहा है"
+
+msgid "First deposit, already deposited"
+msgstr "प्रथम जमा, पहले से ही जमा हो चुका है "
+
+msgid "No loyalty record"
+msgstr "कोई वफादारी रिकॉर्ड नहीं"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "बोनस शर्तों को पूरा नहीं करता "
+
+msgid "Bonus used"
+msgstr "बोनस का उपयोग किया"
+
+msgid "Promo code needed"
+msgstr "प्रोमो कोड की जरूरत है"
+
+msgid "Wrong promo code"
+msgstr "गलत प्रोमो कोड"
+
+msgid "Bonuses are forbidden for user"
+msgstr "उपयोगकर्ता के लिए बोनस मना है"
+
+msgid "Already have an active bonus"
+msgstr "पहले से ही एक सक्रिय बोनस है"
+
+msgid "registration"
+msgstr "पंजीकरण"
+
+msgid "verification"
+msgstr "सत्यापन"
+
+msgid "sign up"
+msgstr "साइन अप करें"
+
+msgid "store"
+msgstr "स्टोर "
+
+msgid "login"
+msgstr "लॉग इन करें"
+
+msgid "deposit"
+msgstr "जमा"
+
+msgid "deposit first"
+msgstr "पहले जमा करें"
+
+msgid "deposit sum"
+msgstr "जमा राशि"
+
+msgid "deposit repeated"
+msgstr "बार-बार जमा करना"
+
+msgid "bet"
+msgstr "बेट "
+
+msgid "bet sum"
+msgstr "बेट राशि"
+
+msgid "win sum"
+msgstr "जीत का योग"
+
+msgid "loss sum"
+msgstr "नुकसान का योग"
+
+msgid "once"
+msgstr "एक बार"
+
+msgid "day"
+msgstr "दिन"
+
+msgid "week"
+msgstr "सप्ताह"
+
+msgid "month"
+msgstr "महीना"
+
+msgid "all"
+msgstr "सब"
+
+msgid "bonus"
+msgstr "बोनस"
+
+msgid "win"
+msgstr "जीत"
+
+msgid "win and bonus"
+msgstr "जीत और बोनस"
+
+msgid "winevent"
+msgstr "जीतेंइवेंट "
+
+msgid "winbonusevent"
+msgstr "जीतेंबोनसइवेंट "
+
+msgid "none"
+msgstr "कोई नहीं"
+
+msgid "balance"
+msgstr "संतुलन"
+
+msgid "experience"
+msgstr "अनुभव"
+
+msgid "loyalty"
+msgstr "लॉयलटी"
+
+msgid "absolute"
+msgstr "पूर्ण"
+
+msgid "relative"
+msgstr "सापेक्ष"
+
+msgid "bets"
+msgstr "बेट"
+
+msgid "wins"
+msgstr "जीत"
+
+msgid "turnover"
+msgstr "टर्नओवर"
+
+msgid "negative turnover"
+msgstr "नकारात्मक कारोबार"
+
+msgid "unlimited"
+msgstr "असीमित"
+
+msgid "one day"
+msgstr "एक दिन"
+
+msgid "two days"
+msgstr "दो दिन"
+
+msgid "three days"
+msgstr "तीन दिन"
+
+msgid "seven days"
+msgstr "सात दिन"
+
+msgid "ten days"
+msgstr "दस दिन"
+
+msgid "fourteen days"
+msgstr "चौदह दिन"
+
+msgid "thirty days"
+msgstr "तीस दिन"
+
+msgid "sixty days"
+msgstr "साठ दिन"
+
+msgid "ninety days"
+msgstr "नब्बे दिन"
+
+msgid "one week"
+msgstr "एक हफ्ता"
+
+msgid "two weeks"
+msgstr "दो सप्ताह"
+
+msgid "one month"
+msgstr "एक महीना"
+
+msgid "every day"
+msgstr "हर दिन"
+
+msgid "every week"
+msgstr "हर हफ्ते"
+
+msgid "every two weeks"
+msgstr "हर दो सप्ताह"
+
+msgid "every month"
+msgstr "प्रत्येक माह"
+
+msgid "fee"
+msgstr "शुल्क"
+
+msgid "turnover and fee"
+msgstr "कारोबार और शुल्क"
+
+msgid "everyday"
+msgstr "हर दिन"
+
+msgid "monday"
+msgstr "सोमवार"
+
+msgid "tuesday"
+msgstr "मंगलवार"
+
+msgid "wednesday"
+msgstr "बुधवार"
+
+msgid "thursday"
+msgstr "गुरूवार"
+
+msgid "friday"
+msgstr "शुक्रवार"
+
+msgid "saturday"
+msgstr "शनिवार"
+
+msgid "sunday"
+msgstr "रविवार"
+
+msgid "transaction_list_is_empty"
+msgstr "लेन-देन_सूची_खाली_ है"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "डाटा_गलत_है_शुरुवात_दिनांक_अंत_दिनांक_से_अधिक _है "
+
+msgid "cancelled"
+msgstr "रद्द"
+
+msgid "rejected"
+msgstr "अस्वीकृत"
+
+msgid "error"
+msgstr "त्रुटि"
+
+msgid "in_progress"
+msgstr "चालू_है "
+
+msgid "confirmed"
+msgstr "पुष्टि"
+
+#, fuzzy
+msgid "pending"
+msgstr "समापन"
+
+msgid "system_error"
+msgstr "सिस्टम_त्रुटि"
+
+msgid "completed"
+msgstr "पूरा किया हुआ"
+
+msgid "aborted"
+msgstr "छोड़ा हुआ "
+
+msgid "credit"
+msgstr "क्रेडिट "
+
+msgid "debet"
+msgstr "डेबिट "
+
+msgid "withdraw_unavailable"
+msgstr "निकासी_उपलब्ध नहीं"
+
+msgid "withdraw_check_error"
+msgstr "वापसी_चेक_त्रुटि "
+
+msgid "set_amount"
+msgstr "रकम_तय करें"
+
+msgid "set_payment_system"
+msgstr "भुगतान_प्रणाली_सेट करें "
+
+msgid "country_and_birth_date_required"
+msgstr "देश_और_जन्म_तिथि_आवश्यक है"
+
+msgid "payment_request_sent"
+msgstr "भुगतान_निवेदन_भेजा"
+
+msgid "payment_request_error"
+msgstr "भुगतान_निवेदन_त्रुटि"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "निकासी_की_अधिकतम_सीमा_पर_पहुँच_गए"
+
+msgid "sys_error_message"
+msgstr "सिस्टम_त्रुटि_सन्देश"
+
+msgid "input_purse"
+msgstr "इनपुट_पर्स"
+
+msgid "payment_withdraw_sent"
+msgstr "भुगतान_निकासी_भेज_दी "
+
+msgid "New password is empty"
+msgstr "नया पासवर्ड खाली है"
+
+msgid "Repeat password is empty"
+msgstr "रिपीट पासवर्ड खाली है"
+
+msgid "Code is empty"
+msgstr "कोड खाली है"
+
+msgid "Code is incorrect"
+msgstr "कोड गलत है"
+
+msgid "Password must be at least 6 characters long"
+msgstr "पासवर्ड कम से कम 6 अक्षरों का होना चाहिए"
+
+msgid "pass_not_match"
+msgstr "पासवर्ड_मेल_नहीं_खाता"
+
+msgid "Session expired"
+msgstr "सत्र समाप्त हुआ"
+
+msgid "social_account_expired"
+msgstr "सोशल_खाता_वैधता_समाप्त "
+
+msgid "Empty to address"
+msgstr "पता खाली है"
+
+msgid "Empty subject"
+msgstr "विषय खाली है"
+
+msgid "Empty message"
+msgstr "खाली संदेश"
+
+msgid "Empty required parameter"
+msgstr "आवश्यक पैरामीटर खाली "
+
+msgid "Unknown error"
+msgstr "अज्ञात त्रुटि"
+
+msgid "Not allowed player country"
+msgstr "खिलाड़ी देश की अनुमति नहीं है"
+
+msgid "Demo not supported"
+msgstr "डेमो समर्थित नहीं है"
+
+msgid "Your currency is not supported by this provider"
+msgstr "आपकी मुद्रा इस प्रदाता द्वारा समर्थित नहीं है"
+
+msgid "Branded games are not enabled"
+msgstr "ब्रांडेड गेम्स सक्षम नहीं हैं"
+
+msgid "Self exclusion date"
+msgstr "स्व बहिष्कार तिथि"
+
+msgid "Self exclusion"
+msgstr "आत्म बहिष्कार"
+
+msgid "does not exists"
+msgstr "मौजूद नहीं है"
+
+msgid "Method is not supported"
+msgstr "विधि समर्थित नहीं है"
+
+msgid "Data type is not found"
+msgstr "डेटा प्रकार नहीं मिला है"
+
+msgid "Invalid request parameters"
+msgstr "अमान्य अनुरोध पैरामीटर"
+
+msgid "No bonus description"
+msgstr "कोई बोनस विवरण नहीं"
+
+msgid "Selected"
+msgstr "चयनित"
+
+msgid "Qualified"
+msgstr "योग्य"
+
+msgid "Deleted"
+msgstr "हटाए गए"
+
+msgid "Deactivated"
+msgstr "निष्क्रिय"
+
+msgid "Canceled"
+msgstr "रद्द"
+
+msgid "Ending"
+msgstr "समापन"
+
+msgid "Ended"
+msgstr "समाप्त"
+
+msgid "Loyalty API Failure"
+msgstr "लॉयलटी एपीआई विफलता"
+
+msgid "Loyalty result not supported"
+msgstr "लॉयलटी परिणाम समर्थित नहीं है"
+
+msgid "User not found"
+msgstr "उपयोगकर्ता नहीं मिला"
+
+msgid "Unable fetch oauth access token"
+msgstr "ओउथ पहुंच टोकन फेच करने में विफल "
+
+msgid "Access token is missing"
+msgstr "एक्सेस टोकन गायब है"
+
+msgid "Empty access token user identifier"
+msgstr "खाली एक्सेस टोकन उपयोगकर्ता पहचानकर्ता"
+
+msgid "Empty access token identifier"
+msgstr "खाली टोकन पहचानकर्ता"
+
+msgid "Method not allowed"
+msgstr "विधि की अनुमति नहीं है "
+
+msgid "Your country is on the forbidden list"
+msgstr "आपका देश निषिद्ध सूची में है"
+
+msgid "User profile is incomplete"
+msgstr "उपयोगकर्ता प्रोफ़ाइल अपूर्ण है"
+
+msgid "Achievement result is not list"
+msgstr "उपलब्धि परिणाम सूची में नहीं है"
+
+msgid "Unknown route path"
+msgstr "अज्ञात मार्ग पथ"
+
+msgid "Too many requests"
+msgstr "बहुत सारे अनुरोध"
+
+msgid "Code is not valid"
+msgstr "कोड मान्य नहीं है"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "बहुत सारे अनुरोध"
+
+msgid "Method Not Allowed"
+msgstr "विधि अनुमत नहीं"
+
+msgid "Api endpoint not found"
+msgstr "एपीआई समापन बिंदु नहीं मिला"
+
+msgid "Confirm your email to start games"
+msgstr "गेम शुरू करने के लिए अपने ईमेल की पुष्टि करें"
+
+msgid "User not authorized"
+msgstr "उपयोगकर्ता अधिकृत नहीं है"
+
+msgid "Merchant system not selected or invalid"
+msgstr "व्यापारी प्रणाली चयनित नहीं या अमान्य है"
+
+msgid "Amount is not selected or invalid"
+msgstr "राशि चयनित नहीं या अमान्य है"
+
+msgid "Bonus result is not list"
+msgstr "बोनस परिणाम की सूची नहीं है"
+
+msgid "Bonus ID Not found"
+msgstr "बोनस आईडी नहीं मिली"
+
+msgid "Bonus Selected Not found"
+msgstr "बोनस चयनित नहीं मिला"
+
+msgid "User is not authorized"
+msgstr "उपयोगकर्ता अधिकृत नहीं है"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "विषय खाली है"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "जमा विफल: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr "आपने %s की सीमा को सक्षम किया है: %s%s जब तक %s। उपलब्ध जमा राशि: %s%s"
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "रकम_तय करें"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "खाली लॉन्च कोड"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "अंतिम नाम"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "अंतिम नाम"
+
+#, fuzzy
+msgid "Account type"
+msgstr "देश"
+
+#, fuzzy
+msgid "Account number"
+msgstr "फ़ोन नंबर"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "फ़ोन नंबर"
+
+msgid "Uploadable files is empty"
+msgstr "अपलोड की गई फाइलें खाली हैं"
+
+msgid "Exceeds allowed file size"
+msgstr "फ़ाइल का आकार अधिकतम अनुमति से ज्यादा है"
+
+msgid "Mb"
+msgstr "एमबी"
+
+msgid "Document ID not found"
+msgstr "दस्तावेज़ आईडी नहीं मिली"
+
+msgid "Request invalid. Error: "
+msgstr "अनुरोध अमान्य है। त्रुटि:"
+
+msgid "Games catalog is temporary unavailable"
+msgstr "गेम्स कैटलॉग अस्थायी रूप से अनुपलब्ध है"
+
+msgid "Empty launch code"
+msgstr "खाली लॉन्च कोड"
+
+msgid "Empty merchant identifier"
+msgstr "खाली व्यापारी पहचानकर्ता"
+
+msgid "Empty games catalog"
+msgstr "खाली खेल सूची"
+
+msgid "Unknown game launch code"
+msgstr "अज्ञात गेम लॉन्च कोड"
+
+msgid "Not supported exception"
+msgstr "अपवाद समर्थित नहीं है"
+
+msgid "Bad request"
+msgstr "खराब अनुरोध"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr "पैरामीटर फॉर्म 'Y-m-d H: i: s' या खाली प्रारूप में होना चाहिए"
+
+msgid "Unable find user identifier"
+msgstr "उपयोगकर्ता पहचानकर्ता को खोजने में असमर्थ"
+
+msgid "Unknown error occured"
+msgstr "अज्ञात त्रुटि हुई"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "अमान्य प्राप्तकर्ता संख्या"
+
+msgid "Wrong request"
+msgstr "गलत अनुरोध"
+
+msgid "Unknown provider"
+msgstr "अज्ञात प्रदाता"
+
+msgid "Token not found"
+msgstr "टोकन नहीं मिला"
+
+msgid "Invalid token provided"
+msgstr "अमान्य टोकन प्रदान किया गया"
+
+msgid "Phone already verified"
+msgstr "फ़ोन पहले से ही सत्यापित है"
+
+msgid "Insufficient parameters"
+msgstr "अपर्याप्त पैरामीटर"
+
+msgid "Configuration error"
+msgstr "विन्यास त्रुटि"
+
+msgid "Invalid verification code"
+msgstr "अवैध सत्यापन कोड "
+
+msgid "Empty phone number"
+msgstr "खाली फोन नंबर"
+
+msgid "Invalid phone number"
+msgstr "अवैध फोन नंबर"
+
+msgid "Anonymous"
+msgstr "बेनाम "
+
+msgid "Item not found"
+msgstr "आइटम नहीं मिला"
+
+msgid "Sent from web-form at"
+msgstr "पर वेब-फ़ॉर्म से भेजा गया"
+
+msgid "Service not found"
+msgstr "सेवा नहीं मिली"
+
+msgid "Unauthorized"
+msgstr "अनधिकृत"
+
+msgid "Tournaments history error"
+msgstr "टूर्नामेंट इतिहास त्रुटि"
+
+msgid "Tournaments list not available"
+msgstr "टूर्नामेंट सूची उपलब्ध नहीं है"
+
+msgid "Tournaments type not found"
+msgstr "टूर्नामेंट प्रकार नहीं मिले"
+
+msgid "Tournament not found"
+msgstr "टूर्नामेंट नहीं मिला"
+
+msgid "Tournaments subscribe error"
+msgstr "टूर्नामेंट त्रुटि की सदस्यता लेते हैं"
+
+msgid "Insufficient monetary turnover"
+msgstr "अपर्याप्त मौद्रिक कारोबार"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "उपयोगकर्ता का प्रोफ़ाइल (व्यक्तिगत डेटा) भरा नहीं था"
+
+msgid "Need verification"
+msgstr "सत्यापन की आवश्यकता है"
+
+msgid "Need additional verification"
+msgstr "अतिरिक्त सत्यापन की आवश्यकता है"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "ईमेल भेजा गया, रिकवरी लिंक 30 मिनट के लिए उपलब्ध होगा"
+
+msgid "Password repeat is empty"
+msgstr "पासवर्ड दोहराना खाली है"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr "नए पासवर्ड में केवल लैटिन अक्षर, संख्या और विशेष चिह्न हो सकते हैं"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr "पासवर्ड में बड़े और छोटे अक्षर, संख्या और विशेष प्रतीकों में लैटिन अक्षर होने चाहिए"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "पासवर्ड में लैटिन अक्षर और संख्याएँ होनी चाहिए"
+
+msgid "Passwords do not match"
+msgstr "पासवर्ड मेल नहीं खाते"
+
+msgid "Password is empty"
+msgstr "पासवर्ड खाली है"
+
+msgid "Password is invalid"
+msgstr "पासवर्ड गलत है"
+
+msgid "Code is invalid"
+msgstr "कोड अमान्य है"
+
+msgid "Email change is not allowed"
+msgstr "ईमेल परिवर्तन की अनुमति नहीं है"
+
+msgid "Email is required"
+msgstr "ईमेल जरुरी है"
+
+msgid "User update failed"
+msgstr "उपयोगकर्ता अपडेट विफल रहा"
+
+msgid "Registration data validation failed"
+msgstr "पंजीकरण डेटा सत्यापन विफल रहा"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "अवैध सत्यापन कोड "
+
+msgid "Empty unsubscribe code"
+msgstr "खाली सदस्यता कोड"
+
+msgid "Internal error"
+msgstr "आंतरिक गलती"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"ईमेल सत्यापन कोड नहीं मिला है, हो सकता है कि आपने पहले ही अपने ईमेल की पुष्टि कर दी हो, "
+"कृपया अपना मेलबॉक्स देखें"
+
+msgid "Registration_complete"
+msgstr "पंजीकरण_पूर्ण"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+msgid "Insufficient account balance"
+msgstr "अपर्याप्त खाता शेष राशि "
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"आपने इस प्रणाली के माध्यम से जमा नहीं किया है, इसलिए आप इसका उपयोग करके धनराशि नहीं "
+"निकाल सकते। निकालने के लिए इस प्रणाली के माध्यम से एक डिपाजिट करें।"
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "लिंग नहीं चुना  है"
+
+msgid "Impossible to send email"
+msgstr "ईमेल भेजना असंभव"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "अवैध सत्यापन कोड "
+
+msgid "Server returned invalid response"
+msgstr "सर्वर ने अमान्य प्रतिसाद दिया"
+
+msgid "Temporary routing error"
+msgstr "अस्थायी रूटिंग त्रुटि"
+
+msgid "Permanent routing error"
+msgstr "स्थायी रूटिंग त्रुटि"
+
+msgid "Maximum throttling exceeded"
+msgstr "अधिकतम थ्रॉटलिंग पार हो गई"
+
+msgid "Timeout"
+msgstr "समय समाप्त"
+
+msgid "Operator unknown error"
+msgstr "संचालक अज्ञात त्रुटि"
+
+msgid "Operator error"
+msgstr "संचालक त्रुटि"
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr "आंतरिक त्रुटि (आंतरिक लिंकमोबिलिटीत्रुटि)"
+
+msgid "Sent (to operator)"
+msgstr "भेजा गया (ऑपरेटर को)"
+
+msgid "Billed and delivered"
+msgstr "बिल दिया और पहुंचाया"
+
+msgid "Expired"
+msgstr "वैधता समाप्त"
+
+msgid "Mobile full"
+msgstr "मोबाइल भरा हुआ"
+
+msgid "Queued"
+msgstr "कतारबद्ध"
+
+msgid "Not delivered"
+msgstr "वितरित नहीं हुआ"
+
+msgid "Delivered,Billed delayed"
+msgstr "वितरित, बिल विलंबित"
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr "बिल ठीक किया गया (संदेश भेजने से ठीक चार्ज करें )"
+
+msgid "Billed OK and NOT Delivered"
+msgstr "बिल ओके और डिलीवर नहीं"
+
+msgid "Expired, absence of operator delivery report"
+msgstr "निष्कासित, ऑपरेटर वितरण रिपोर्ट का अभाव"
+
+msgid "Billed OK and sent (to operator)"
+msgstr "बिल ठीक किया और भेजा (ऑपरेटर को)"
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr "विलंबित (अस्थायी बिलिंग त्रुटि, सिस्टम पुनः भेजने का प्रयास करेगा)"
+
+msgid "Message sent to operator, Billdelayed"
+msgstr "ऑपरेटर को संदेश भेजा गया, बिल लंबित"
+
+msgid "Service rejected by subscriber"
+msgstr "ग्राहक द्वारा सेवा अस्वीकृत"
+
+msgid "Unknown subscriber"
+msgstr "अनजाने ग्राहक"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr "गंतव्य अवरुद्ध (ग्राहक स्थायी रूप से वर्जित)"
+
+msgid "Number error"
+msgstr "नंबर त्रुटि"
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr "गंतव्य अस्थायी रूप से अवरुद्ध (ग्राहक अस्थायी रूप से वर्जित)"
+
+msgid "Charging error"
+msgstr "चार्जिंग में त्रुटि"
+
+msgid "Subscriber has low balance"
+msgstr "सब्सक्राइबर का बैलेंस कम है"
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr "सब्सक्राइबर ओवरचार्ज किए गए (प्रीमियम) संदेशों के लिए वर्जित है"
+
+msgid "Subscriber too young (for this particular content)"
+msgstr "सब्सक्राइबर बहुत कम उम्र का है (इस विशेष सामग्री के लिए)"
+
+msgid "Prepaid subscriber not allowed"
+msgstr "प्रीपेड ग्राहक की अनुमति नहीं है"
+
+msgid "Subscriber not registered in payment system"
+msgstr "सब्सक्राइबर भुगतान प्रणाली में पंजीकृत नहीं है"
+
+msgid "Subscriber has reached max balance"
+msgstr "सब्सक्राइबर अधिकतम बैलेंस पर पहुंच गया है"
+
+msgid "GSM encoding is not supported"
+msgstr "GSM एन्कोडिंग समर्थित नहीं है"
+
+msgid "UCS2 encoding is not supported"
+msgstr "UCS2 एन्कोडिंग समर्थित नहीं है"
+
+msgid "Binary encoding is not supported"
+msgstr "बाइनरी एन्कोडिंग समर्थित नहीं है"
+
+msgid "Delivery report is not supported"
+msgstr "वितरण रिपोर्ट समर्थित नहीं है"
+
+msgid "Invalid message content"
+msgstr "अमान्य संदेश सामग्री"
+
+msgid "Invalid tariff"
+msgstr "अवैध टैरिफ"
+
+msgid "Invalid user data"
+msgstr "अमान्य उपयोगकर्ता डेटा"
+
+msgid "Invalid user data header"
+msgstr "अमान्य उपयोगकर्ता डेटा हैडर"
+
+msgid "Invalid data coding"
+msgstr "अमान्य डेटा कोडिंग"
+
+msgid "Invalid VAT"
+msgstr "अमान्य वैट"
+
+msgid "Unsupported content for destination"
+msgstr "गंतव्य के लिए असमर्थित सामग्री"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr "अज्ञात त्रुटि। कृपया समर्थन से संपर्क करें और अपने पूरे लेनदेन को शामिल करें"
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr "अमान्य प्रमाणीकरण। कृपया अपना उपयोगकर्ता नाम और पासवर्ड जांचें"
+
+msgid "Access denied. Please check your username and password"
+msgstr "पहुंच अस्वीकृत। कृपया अपना उपयोगकर्ता नाम और पासवर्ड जांचें"
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr "अमान्य या अनुपलब्ध प्लेटफॉर्मआईडी। कृपया अपने प्लेटफॉर्मआईडी की जाँच करें"
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr "अमान्य या अनुपलब्ध प्लेटफ़ॉर्मपार्टनरआईडी। कृपया अपनी प्लेटफ़ॉर्मपार्टनरआईडी देखें"
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+"प्रीमियम संदेश के लिए अमान्य या अनुपलब्ध मुद्रा। कृपया अपनी कीमत और मुद्रा की जांच करें"
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr "कोई गेट उपलब्ध नहीं है। कृपया समर्थन से संपर्क करें और अपने पूरे लेनदेन को शामिल करें"
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr "निर्दिष्ट गेट अनुपलब्ध है। कृपया अपने गेटआईड की जांच करें।"
+
+msgid "Incorrect version API in address"
+msgstr "पते में गलत संस्करण एपीआई"
+
+msgid "Not specified API key"
+msgstr " एपीआई कुंजी निर्दिष्ट नहीं की"
+
+msgid "Incorrect API key"
+msgstr "गलत एपीआई कुंजी"
+
+msgid "Incorrect IP address client"
+msgstr "गलत आईपी पता क्लाइंट"
+
+msgid "Invalid command"
+msgstr "अवैध आदेश"
+
+msgid "Specified command does not exist or is not available"
+msgstr "निर्दिष्ट आदेश मौजूद नहीं है या उपलब्ध नहीं है"
+
+msgid "System error"
+msgstr "सिस्टम में गड़बड़ी"
+
+msgid "Not specified the SMS identifier"
+msgstr "एसएमएस पहचानकर्ता निर्दिष्ट नहीं है"
+
+msgid "Sender address does not exist"
+msgstr "प्रेषक का पता मौजूद नहीं है"
+
+msgid "Not specified content"
+msgstr "निर्दिष्ट सामग्री नहीं"
+
+msgid "Faulty or unsupported country code"
+msgstr "दोषपूर्ण या असमर्थित देश कोड"
+
+msgid "Content is too long"
+msgstr "सामग्री बहुत लंबी है"
+
+msgid "Incorrect encoding of the content"
+msgstr "सामग्री की गलत एन्कोडिंग"
+
+msgid "Exceeded monthly limit"
+msgstr "मासिक सीमा से अधिक"
+
+msgid "Batch ID does not exist"
+msgstr "बैच आईडी मौजूद नहीं है"
+
+msgid "List recipients does not exist"
+msgstr "सूची प्राप्तकर्ता मौजूद नहीं हैं"
+
+msgid "Invalid recipient number"
+msgstr "अमान्य प्राप्तकर्ता संख्या"
+
+msgid "No content"
+msgstr "कोई सामग्री नहीं है"
+
+msgid "Wrong content"
+msgstr "गलत सामग्री"
+
+msgid "Unable send message"
+msgstr "संदेश भेजने में असमर्थ"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+"घंटे का एसएमएस कोटा पार हो गया था। आप %d मिनट में एसएमएस भेजकर पुनः प्रयास कर सकते हैं"
+
+msgid "Unsupported authentication provider"
+msgstr "असमर्थित प्रमाणीकरण प्रदाता"
+
+msgid "connect_social_account_email_theme"
+msgstr "सोशल_अकाउंट_ईमैल_थीम_जोड़ें "
+
+msgid "not_logged_in"
+msgstr "लॉग इन_नहीं_हैं "
+
+msgid "trying_delete_last_social"
+msgstr "अंतिम_सोशल_रद्द_करने_का_प्रयास_करें "
+
+msgid "please_set_email"
+msgstr "कृपया_ईमेल_सेट_करें"
+
+msgid "please_set_password"
+msgstr "कृपया_पासवर्ड_सेट_करें"
+
+msgid "Code incorrect, user not found"
+msgstr "कोड गलत है, उपयोगकर्ता नहीं मिला"
+
+msgid "email_has_been_verified"
+msgstr "ईमेल_सत्यापित_किया_गया "
+
+msgid "Transaction value generation failed"
+msgstr "लेन-देन मूल्य निर्माण विफल"
+
+msgid "email_to_connect_social_sent"
+msgstr "सोशल_को_जोड़ने_के_लिए_ईमेल_भेजा "
+
+msgid "Registration complete"
+msgstr "पंजीकरण पूर्ण"
+
+msgid "_ip_fraud_msg"
+msgstr "_आईपी_धोखा_सन्देश "
+
+msgid "Session is expired"
+msgstr "सत्र समाप्त हो गया है"
+
+msgid "Withdrawal ID not specified"
+msgstr "निकासी आईडी निर्दिष्ट नहीं है"
+
+msgid "System ID not specified"
+msgstr "सिस्टम आईडी निर्दिष्ट नहीं है"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "गलत ईमेल, कृपया प्रारंभ से फिर से प्रयास करें"
+
+msgid "Email is empty"
+msgstr "ईमेल खाली है"
+
+msgid "Error, account with this email does not exist."
+msgstr "त्रुटि, इस ईमेल के साथ खाता मौजूद नहीं है।"
+
+msgid "Unable generate temporary restore user code"
+msgstr "अस्थायी पुनर्स्थापना उपयोगकर्ता कोड उत्पन्न करने में असमर्थ"
+
+msgid "Password recovery"
+msgstr "पासवर्ड की दोबारा प्राप्ति"
+
+msgid "current_password_empty"
+msgstr "वर्तमान_पासवर्ड_खाली"
+
+msgid "Current password is incorrect"
+msgstr "मौजूदा पासवर्ड गलत है"
+
+msgid "day_not_set"
+msgstr "दिन_सेट_नहीं_है "
+
+msgid "month_not_set"
+msgstr "महीना_सेट_नहीं_है "
+
+msgid "year_not_set"
+msgstr "साल_सेट_नहीं_है "
+
+msgid "Country is not picked"
+msgstr "देश नहीं चुना है"
+
+msgid "Gender is not picked"
+msgstr "लिंग नहीं चुना  है"
+
+msgid "input_repeated_password"
+msgstr "इनपुट_रिपीटेड_पासवर्ड "
+
+msgid "Password does not match"
+msgstr "पासवर्ड मैच नहीं कर रहा है"
+
+msgid "Email field is empty or incorrect"
+msgstr "ईमेल फ़ील्ड खाली या गलत है"
+
+msgid "Email already in use"
+msgstr "ईमेल पहले से ही इस्तेमाल में है"
+
+msgid "Email field is incorrect"
+msgstr "ईमेल फ़ील्ड गलत है"
+
+msgid "Login field is empty"
+msgstr "लॉग इन फ़ील्ड खाली है"
+
+msgid "Email field is empty"
+msgstr "ईमेल फ़ील्ड खाली है"
+
+msgid "login_already_in_use"
+msgstr "लॉगइन_पहले_से_ही_इस्तेमाल_में_है "
+
+msgid "phone_empty"
+msgstr "फ़ोन_खाली"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "फोन नंबर गलत है। होना चाहिए"
+
+msgid "Phone number too long"
+msgstr "फोन नंबर बहुत लंबा है"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "फ़ोन नंबर गलत है: कुछ असंगत प्रतीक उपयोग किये गए।"
+
+msgid "new_pass_less_6_symbols"
+msgstr "नया_पास _6_प्रतीक_से_कम"
+
+msgid "first_name_empty"
+msgstr "पहला_नाम_ खाली"
+
+msgid "last_name_empty"
+msgstr "आख़िरी_नाम_खाली"
+
+msgid "New email field is incorrect"
+msgstr "नया ईमेल फ़ील्ड गलत है"
+
+msgid "User verification failed"
+msgstr "उपयोगकर्ता सत्यापन विफल रहा"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "प्राधिकरण_त्रुटि"
+
+msgid "authorization_error"
+msgstr "प्राधिकरण_त्रुटि"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "सत्र समाप्त हुआ"
+
+msgid "registration_in_progress"
+msgstr "पंजीकरण_हो_रहा_है"
+
+msgid "user_disabled"
+msgstr "उपयोगकर्ता_अक्षम"
+
+msgid "Access forbidden"
+msgstr "प्रवेश निषिद्ध"
+
+msgid "Email field incorrect"
+msgstr "ईमेल फ़ील्ड गलत है"
+
+msgid "email_empty_incorrect"
+msgstr "ईमेल_खाली_गलत "
+
+msgid "pass_less_6_symbols"
+msgstr "पास _6_प्रतीक_से_कम"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "पासवर्ड में केवल लैटिन अक्षर, संख्या और विशेष चिह्न हो सकते हैं"
+
+msgid "currency_not_set"
+msgstr "मुद्रा__सेट_नहीं"
+
+msgid "Currency field is invalid"
+msgstr "मुद्रा क्षेत्र अमान्य है"
+
+msgid "reg_promo_is_invalid"
+msgstr "रजिस्टर_प्रोमो_अमान्य_है "
+
+msgid "email_already_registered"
+msgstr "ईमेल पहले से ही पंजीकृत है"
+
+msgid "login_already_registered"
+msgstr "लॉग इन_पहले_से_ही_पंजीकृत_है "
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "फोन पहले से पंजीकृत है"
+
+msgid "ip_fraud_blacklist"
+msgstr "आईपी_धोखा_ब्लैकलिस्ट "
+
+msgid "ip_fraud_check_error"
+msgstr "आईपी_धोखा_जाँच_त्रुटि"
+
+msgid "Activate your account"
+msgstr "अपना खाता सक्रिय करें"
+
+msgid "Registration confirmation is in progress"
+msgstr "पंजीकरण की पुष्टि जारी है"
+
+msgid "Unknown status"
+msgstr "अज्ञात स्थिति"
+
+msgid "first name"
+msgstr "पहला नाम"
+
+msgid "last name"
+msgstr "अंतिम नाम"
+
+msgid "birth date"
+msgstr "जन्म तिथि"
+
+msgid "sex"
+msgstr "लिंग"
+
+msgid "country"
+msgstr "देश"
+
+msgid "phone number"
+msgstr "फ़ोन नंबर"
+
+#, fuzzy, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "%S फ़ील्ड बदलने के लिए कृपया हमारे समर्थन से संपर्क करें"
+msgstr[1] "%S फ़ील्ड बदलने के लिए कृपया हमारे समर्थन से संपर्क करें"
+
+msgid "Email has invalid format"
+msgstr "ईमेल का प्रारूप अमान्य है"
+
+msgid "Repeat password field is empty"
+msgstr "रिपीट पासवर्ड फ़ील्ड खाली है"
+
+msgid "First name field is empty"
+msgstr "पहला नाम फ़ील्ड रिक्त है"
+
+msgid "First name must contain only letters"
+msgstr "पहले नाम में केवल अक्षर होना चाहिए"
+
+msgid "Last name field is empty"
+msgstr "अंतिम नाम फ़ील्ड रिक्त है"
+
+msgid "Last name must contain only letters"
+msgstr "अंतिम नाम में केवल अक्षर होना चाहिए"
+
+msgid "Gender field is empty"
+msgstr "लिंग फील्ड खाली है"
+
+msgid "Gender unallowed value"
+msgstr "लिंग का मान मान्य नहीं है "
+
+msgid "Currency field is empty"
+msgstr "मुद्रा फील्ड खाली है"
+
+msgid "Country code is empty"
+msgstr "देश कोड खाली है"
+
+msgid "Country code is invalid"
+msgstr "देश का कोड अमान्य है"
+
+msgid "Phone code is empty"
+msgstr "फोन कोड खाली है"
+
+msgid "Phone number field is empty"
+msgstr "फ़ोन नंबर फ़ील्ड खाली है"
+
+msgid "Phone number invalid format"
+msgstr "फ़ोन नंबर  प्रारूप अमान्य"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "फोन कोड खाली है"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "पासवर्ड कम से कम 6 अक्षरों का होना चाहिए"
+
+msgid "Wrong IBAN number"
+msgstr "गलत आईबीएएन नंबर"
+
+msgid "Wrong SWIFT number"
+msgstr "गलत स्विफ्ट नंबर"
+
+msgid "ID Number is not unique"
+msgstr "आईडी नंबर अद्वितीय नहीं है"
+
+msgid "Password field is empty"
+msgstr "पासवर्ड फ़ील्ड खाली है"
+
+msgid "New password field is empty"
+msgstr "नया पासवर्ड फ़ील्ड खाली है"
+
+msgid "New password must be at least 6 characters long"
+msgstr "नया पासवर्ड कम से कम 6 वर्ण लंबा होना चाहिए"
+
+msgid "New password strength is weak"
+msgstr "नई पासवर्ड की शक्ति कमजोर है"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "त्रुटि, इस ईमेल के साथ खाता मौजूद नहीं है।"
+
+msgid "Password strength is weak"
+msgstr "पासवर्ड की शक्ति कमजोर है"
+
+msgid "Login is already registered"
+msgstr "लॉग इन पहले से पंजीकृत है"
+
+msgid "Email is already registered"
+msgstr "ईमेल पहले से ही पंजीकृत है"
+
+msgid "Phone is already registered"
+msgstr "फोन पहले से पंजीकृत है"
+
+msgid "You are less than 18 year old"
+msgstr "आपकी आयु 18 वर्ष से कम है"
+
+msgid "As per our rules, you can create %s withdrawal requests in a day. Please, wait for the following date/time: %s"
+msgstr "हमारे नियमों के अनुसार, आप एक दिन में %s निकासी अनुरोध बना सकते हैं। कृपया, निम्नलिखित तिथि/समय की प्रतीक्षा करें: %s"
+
+msgid "You have exceeded the limit on the amount in withdrawal requests. Please, wait for the following date/time: %s"
+msgstr "आपने निकासी अनुरोधों की अधिकतम राशि की सीमा को पार कर दिया है। कृपया, निम्नलिखित तिथि/समय की प्रतीक्षा करें: %s"
+
+#~ msgid "Do you need to contact us?"
+#~ msgstr "क्या आपको हमसे संपर्क करने की आवश्यकता है?"
+
+#, fuzzy
+#~ msgid ""
+#~ "Due to legal reasons we can't accept players residing in the country you "
+#~ "are currently\n"
+#~ "            in."
+#~ msgstr ""
+#~ "कानूनी कारणों के कारण हम उस देश से खिलाड़ी स्वीकार नहीं रह सकते हैं जहाँ आप वर्तमान में "
+#~ "हैं।"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you’re using a proxy service or VPN to access casino, try turning it "
+#~ "off and reload the\n"
+#~ "            page."
+#~ msgstr ""
+#~ "यदि आप कैसीनो तक पहुँचने के लिए प्रॉक्सी सेवा या वीपीएन का उपयोग कर रहे हैं, तो इसे "
+#~ "बंद करने का प्रयास करें और पेज को पुनः लोड करें।"
+
+#~ msgid "Location restriction"
+#~ msgstr "स्थान प्रतिबंध"
+
+#~ msgid "Not in a restricted region"
+#~ msgstr "प्रतिबंधित क्षेत्र में नहीं"
+
+#, fuzzy
+#~ msgid ""
+#~ "Should you have any questions or feel that this block is affecting you "
+#~ "due to a technical error,\n"
+#~ "            please\n"
+#~ "            don't hesitate to contact us and we'll work it out together."
+#~ msgstr ""
+#~ "क्या आपको कोई प्रश्न पूछना है या आपको लगता है कि तकनीकि त्रुटि के कारण यह ब्लॉक "
+#~ "आपको प्रभावित कर रहा है, कृपया हमसे संपर्क करने में संकोच न करें और हम इस पर एक साथ "
+#~ "काम करेंगे।"
+
+#~ msgid "Withdraw is not available because bonus is not won back"
+#~ msgstr "निकासी उपलब्ध नहीं है क्योंकि बोनस वापस नहीं जीता गया है"

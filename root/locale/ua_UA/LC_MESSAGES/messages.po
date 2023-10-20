@@ -1,0 +1,1474 @@
+# Ukrainian translations for WLC_CORE package.
+# Copyright (C) 2019 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.1.93\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: 2019-03-26 11:12+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+
+msgid "Congratulations,"
+msgstr ""
+
+msgid "Dear"
+msgstr ""
+
+#, fuzzy
+msgid "Deposit confirmation"
+msgstr "спершу депозит"
+
+msgid "Deposit success notification. Your balance"
+msgstr ""
+
+#, fuzzy
+msgid "Finish registration link"
+msgstr "реєстрація"
+
+msgid "Greeting."
+msgstr ""
+
+msgid "Hello"
+msgstr ""
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr ""
+
+msgid "If you have any questions, please contact"
+msgstr ""
+
+#, fuzzy
+msgid "Link will be available for 30 minutes."
+msgstr ""
+"Листа надіслано, посилання для відновлення буде доступне протягом 30 хвилин"
+
+#, fuzzy
+msgid "Login"
+msgstr "логін"
+
+#, fuzzy
+msgid "Password"
+msgstr "Пароль порожній"
+
+#, fuzzy
+msgid "Password restore"
+msgstr "Відновлення паролю"
+
+msgid "Please click on the link below to finish registration:"
+msgstr ""
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+
+#, fuzzy
+msgid "Registration confirmation"
+msgstr "Триває підтвердження реєстрації"
+
+msgid "Restore your password by clicking the link below."
+msgstr ""
+
+#, fuzzy
+msgid "Social registration confirmation"
+msgstr "Триває підтвердження реєстрації"
+
+msgid "Thank you for validating your account."
+msgstr ""
+
+msgid "Thanks for registration on the website!"
+msgstr ""
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr ""
+
+msgid "Welcome to"
+msgstr ""
+
+msgid "With respect"
+msgstr ""
+
+msgid "You asked to link new social account to your current account"
+msgstr ""
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+
+msgid "casino_footer_copyright"
+msgstr ""
+
+msgid "casino_mail_info"
+msgstr ""
+
+#, fuzzy
+msgid "online support"
+msgstr "Метод не підтримується"
+
+msgid "controller_does_not_exists"
+msgstr "Контролер не існує"
+
+msgid "social_not_found"
+msgstr "Social not found"
+
+msgid "purchase_error"
+msgstr "Помилка придбання"
+
+msgid "game_added_to_favorites"
+msgstr "Гра додана до вибраного"
+
+#, fuzzy
+msgid "game_deleted_from_favorites"
+msgstr "Гра видалена з вибраного"
+
+msgid "must_login"
+msgstr "Повинен увійти"
+
+msgid "No bonus name"
+msgstr "Немає назви бонуса"
+
+msgid "No bonus descripton"
+msgstr "Немає опису бонусів"
+
+msgid "No user id"
+msgstr "Немає ідентифікатора користувача"
+
+msgid "No bonus id"
+msgstr "Немає ідентифікатора бонуса"
+
+msgid "No status"
+msgstr "Без статусу"
+
+msgid "Bonus not found"
+msgstr "Бонус не знайдено"
+
+msgid "Already have active"
+msgstr "Уже активний"
+
+msgid "Bonus is not available"
+msgstr "Бонус недоступний"
+
+msgid "First deposit, already deposited"
+msgstr "Перший депозит, вже здійснено"
+
+msgid "No loyalty record"
+msgstr "Немає запису про лояльність"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Не задовольняє бонусним умовам"
+
+msgid "Bonus used"
+msgstr "Бонус використано"
+
+msgid "Promo code needed"
+msgstr "Необхідно промо-код"
+
+msgid "Wrong promo code"
+msgstr "Неправильний промо-код"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Бонуси заборонені користувачеві"
+
+msgid "Already have an active bonus"
+msgstr "Уже активний"
+
+msgid "registration"
+msgstr "реєстрація"
+
+msgid "verification"
+msgstr "перевірка"
+
+msgid "sign up"
+msgstr "зареєструватися"
+
+msgid "store"
+msgstr "магазин"
+
+msgid "login"
+msgstr "логін"
+
+msgid "deposit"
+msgstr "депозит"
+
+msgid "deposit first"
+msgstr "спершу депозит"
+
+msgid "deposit sum"
+msgstr "сума депозиту"
+
+msgid "deposit repeated"
+msgstr "депозит повторено"
+
+msgid "bet"
+msgstr "ставка"
+
+msgid "bet sum"
+msgstr "сума ставки"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "сума депозиту"
+
+msgid "once"
+msgstr "один раз"
+
+msgid "day"
+msgstr "день"
+
+msgid "week"
+msgstr "тиждень"
+
+msgid "month"
+msgstr "місяць"
+
+msgid "all"
+msgstr "все"
+
+msgid "bonus"
+msgstr "бонус"
+
+msgid "win"
+msgstr "виграш"
+
+msgid "win and bonus"
+msgstr "виграш і бонус"
+
+msgid "winevent"
+msgstr "виграші та бонус"
+
+msgid "winbonusevent"
+msgstr "виграші + бонус + подія"
+
+msgid "none"
+msgstr "немає"
+
+msgid "balance"
+msgstr "баланс"
+
+msgid "experience"
+msgstr "досвід"
+
+msgid "loyalty"
+msgstr "лояльність"
+
+msgid "absolute"
+msgstr "абсолютний"
+
+msgid "relative"
+msgstr "відносний"
+
+msgid "bets"
+msgstr "ставки"
+
+msgid "wins"
+msgstr "виграші"
+
+msgid "turnover"
+msgstr "оборот"
+
+msgid "negative turnover"
+msgstr "негативний оборот"
+
+msgid "unlimited"
+msgstr "необмежений"
+
+msgid "one day"
+msgstr "один день"
+
+msgid "two days"
+msgstr "два дні"
+
+msgid "three days"
+msgstr "3 дні"
+
+msgid "seven days"
+msgstr "7 днів"
+
+msgid "ten days"
+msgstr "10 днів"
+
+msgid "fourteen days"
+msgstr "14 днів"
+
+msgid "thirty days"
+msgstr "30 днів"
+
+msgid "sixty days"
+msgstr "60 днів"
+
+msgid "ninety days"
+msgstr "90 днів"
+
+msgid "one week"
+msgstr "один тиждень"
+
+msgid "two weeks"
+msgstr "два тижні"
+
+msgid "one month"
+msgstr "один місяць"
+
+msgid "every day"
+msgstr "щодня"
+
+msgid "every week"
+msgstr "щотижня"
+
+msgid "every two weeks"
+msgstr "кожних два тижні"
+
+msgid "every month"
+msgstr "щомісяця"
+
+msgid "fee"
+msgstr "комісія"
+
+msgid "turnover and fee"
+msgstr "оборот і комісія"
+
+msgid "everyday"
+msgstr "кожен день"
+
+msgid "monday"
+msgstr "Понеділок"
+
+msgid "tuesday"
+msgstr "Вівторок"
+
+msgid "wednesday"
+msgstr "Середа"
+
+msgid "thursday"
+msgstr "Четвер"
+
+msgid "friday"
+msgstr "П'ятниця"
+
+msgid "saturday"
+msgstr "Субота"
+
+msgid "sunday"
+msgstr "Неділя"
+
+msgid "transaction_list_is_empty"
+msgstr "Список транзакцій порожній"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "Дата невірна, оскільки пізніше, ніж сьогодні."
+
+msgid "cancelled"
+msgstr "скасовано"
+
+msgid "rejected"
+msgstr "відхилено"
+
+msgid "error"
+msgstr "помилка"
+
+msgid "in_progress"
+msgstr "В процесі"
+
+msgid "confirmed"
+msgstr "підтверджено"
+
+#, fuzzy
+msgid "pending"
+msgstr "Закінчення"
+
+msgid "system_error"
+msgstr "Системна помилка"
+
+msgid "completed"
+msgstr "завершено"
+
+msgid "aborted"
+msgstr "перервано"
+
+msgid "credit"
+msgstr "кредит"
+
+msgid "debet"
+msgstr "дебет"
+
+msgid "withdraw_unavailable"
+msgstr "Виведення недоступне"
+
+msgid "withdraw_check_error"
+msgstr "Помилка перевірки виведення"
+
+msgid "set_amount"
+msgstr "Встановіть кількість"
+
+msgid "set_payment_system"
+msgstr "Set payment system"
+
+msgid "country_and_birth_date_required"
+msgstr "Потрібні країна та дата народження"
+
+msgid "payment_request_sent"
+msgstr "Відправлено запит на оплату"
+
+msgid "payment_request_error"
+msgstr "Помилка запиту на оплату"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Досягнуто максимальний ліміт виведення"
+
+msgid "sys_error_message"
+msgstr "Повідомлення про системну помилку"
+
+msgid "input_purse"
+msgstr "Вкажіть гаманець"
+
+msgid "payment_withdraw_sent"
+msgstr "Payment withdraw sent"
+
+msgid "New password is empty"
+msgstr "Новий пароль порожній"
+
+msgid "Repeat password is empty"
+msgstr "Поле повторного введення пароля порожнє"
+
+msgid "Code is empty"
+msgstr "Код порожній"
+
+msgid "Code is incorrect"
+msgstr "Код неправильний"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Пароль повинен містити принаймні 6 символів"
+
+msgid "pass_not_match"
+msgstr "Повторення пароля порожнє"
+
+msgid "Session expired"
+msgstr "Сеанс закінчився"
+
+msgid "social_account_expired"
+msgstr "Строк дії облікового запису у соцмережі закінчився"
+
+msgid "Empty to address"
+msgstr "Empty to address"
+
+msgid "Empty subject"
+msgstr "Пуста тема"
+
+msgid "Empty message"
+msgstr "Порожнє повідомлення"
+
+msgid "Empty required parameter"
+msgstr "Недійсні параметри запиту"
+
+msgid "Unknown error"
+msgstr "Невідома помилка"
+
+msgid "Not allowed player country"
+msgstr "Ви не можете грати в цю гру, оскільки це не дозволено у вашій країні."
+
+msgid "Demo not supported"
+msgstr "Метод не підтримується"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Ваша валюта не підтримується цим провайдером"
+
+msgid "Branded games are not enabled"
+msgstr "Брендові ігри не ввімкнено"
+
+msgid "Self exclusion date"
+msgstr "Дата самовиключення"
+
+msgid "Self exclusion"
+msgstr "Cамовиключення"
+
+msgid "does not exists"
+msgstr "не існує"
+
+msgid "Method is not supported"
+msgstr "Метод не підтримується"
+
+msgid "Data type is not found"
+msgstr "Тип даних не знайдено"
+
+msgid "Invalid request parameters"
+msgstr "Недійсні параметри запиту"
+
+msgid "No bonus description"
+msgstr "Немає опису бонусів"
+
+msgid "Selected"
+msgstr "Вибрано"
+
+msgid "Qualified"
+msgstr "Кваліфікований"
+
+msgid "Deleted"
+msgstr "Видалено"
+
+msgid "Deactivated"
+msgstr "Деактивовано"
+
+msgid "Canceled"
+msgstr "Скасовано"
+
+msgid "Ending"
+msgstr "Закінчення"
+
+msgid "Ended"
+msgstr "Закінчено"
+
+msgid "Loyalty API Failure"
+msgstr "Помилка API лояльності"
+
+msgid "Loyalty result not supported"
+msgstr "Результат лояльності не підтримується"
+
+msgid "User not found"
+msgstr "Користувача не знайдено"
+
+msgid "Unable fetch oauth access token"
+msgstr "Unable fetch oauth access token"
+
+msgid "Access token is missing"
+msgstr ""
+
+msgid "Empty access token user identifier"
+msgstr "Порожній ідентифікатор мерчанта"
+
+msgid "Empty access token identifier"
+msgstr "Порожній ідентифікатор мерчанта"
+
+msgid "Method not allowed"
+msgstr "Спосіб не допускається"
+
+msgid "Your country is on the forbidden list"
+msgstr "Ваша країна знаходиться в забороненому списку"
+
+msgid "User profile is incomplete"
+msgstr ""
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "Bonus result is not list"
+
+msgid "Unknown route path"
+msgstr "Unknown route path"
+
+msgid "Too many requests"
+msgstr "Забагато запитів"
+
+msgid "Code is not valid"
+msgstr "Код недійсний"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "Забагато запитів"
+
+msgid "Method Not Allowed"
+msgstr "Метод не дозволений"
+
+msgid "Api endpoint not found"
+msgstr "Api endpoint не знайдено"
+
+msgid "Confirm your email to start games"
+msgstr ""
+
+msgid "User not authorized"
+msgstr "Користувач не авторизований"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Система мерчанта не вибрана або недійсна"
+
+msgid "Amount is not selected or invalid"
+msgstr "Кількість не вибрана або недійсна"
+
+msgid "Bonus result is not list"
+msgstr "Bonus result is not list"
+
+msgid "Bonus ID Not found"
+msgstr "Бонус не знайдено"
+
+msgid "Bonus Selected Not found"
+msgstr "Бонус не знайдено"
+
+msgid "User is not authorized"
+msgstr "Користувач не авторизований"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "Пуста тема"
+
+#, fuzzy, php-format
+msgid "Deposit failed: %s"
+msgstr "спершу депозит"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "Встановіть кількість"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "Порожній код запуску"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "прізвище"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "прізвище"
+
+#, fuzzy
+msgid "Account type"
+msgstr "країна"
+
+#, fuzzy
+msgid "Account number"
+msgstr "номер телефону"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "номер телефону"
+
+#, fuzzy
+msgid "Uploadable files is empty"
+msgstr "Поле електронної пошти порожнє"
+
+msgid "Exceeds allowed file size"
+msgstr "Перевищення дозволеного розміру файлу"
+
+msgid "Mb"
+msgstr "Мб"
+
+#, fuzzy
+msgid "Document ID not found"
+msgstr "Турнір не знайдено"
+
+msgid "Request invalid. Error: "
+msgstr "Недійсний запит. Помилка: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr ""
+
+msgid "Empty launch code"
+msgstr "Порожній код запуску"
+
+msgid "Empty merchant identifier"
+msgstr "Порожній ідентифікатор мерчанта"
+
+msgid "Empty games catalog"
+msgstr "Каталог порожніх ігор"
+
+msgid "Unknown game launch code"
+msgstr "Невідомий код запуску гри"
+
+msgid "Not supported exception"
+msgstr "Не підтримуваний виняток"
+
+msgid "Bad request"
+msgstr "Bad request"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+#, fuzzy
+msgid "Unable find user identifier"
+msgstr "Порожній ідентифікатор мерчанта"
+
+#, fuzzy
+msgid "Unknown error occured"
+msgstr "Невідома помилка"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "Недійсний номер одержувача"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "Забагато запитів"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "Невідома помилка"
+
+msgid "Token not found"
+msgstr "Token not found"
+
+msgid "Invalid token provided"
+msgstr "Надано недійсний токен"
+
+msgid "Phone already verified"
+msgstr "Телефон уже підтверджено"
+
+msgid "Insufficient parameters"
+msgstr "Недостатні параметри"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "Помилка авторизації"
+
+msgid "Invalid verification code"
+msgstr "Недійсний код підтвердження"
+
+msgid "Empty phone number"
+msgstr "Порожній номер телефону"
+
+msgid "Invalid phone number"
+msgstr "Недійсний номер телефону"
+
+msgid "Anonymous"
+msgstr "Анонімний"
+
+msgid "Item not found"
+msgstr "Елемент не знайдено"
+
+msgid "Sent from web-form at"
+msgstr "Надіслано з веб-форми за адресою"
+
+msgid "Service not found"
+msgstr "Service not found"
+
+msgid "Unauthorized"
+msgstr "Не авторизовано"
+
+msgid "Tournaments history error"
+msgstr "Помилка історії турнірів"
+
+#, fuzzy
+msgid "Tournaments list not available"
+msgstr "Бонус недоступний"
+
+msgid "Tournaments type not found"
+msgstr "Тип турнірів не знайдено"
+
+msgid "Tournament not found"
+msgstr "Турнір не знайдено"
+
+msgid "Tournaments subscribe error"
+msgstr "Помилка підписки на турніри"
+
+#, fuzzy
+msgid "Insufficient monetary turnover"
+msgstr "Недостатні параметри"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr ""
+
+#, fuzzy
+msgid "Need verification"
+msgstr "перевірка"
+
+#, fuzzy
+msgid "Need additional verification"
+msgstr "Недійсний код підтвердження"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr ""
+"Листа надіслано, посилання для відновлення буде доступне протягом 30 хвилин"
+
+msgid "Password repeat is empty"
+msgstr "Повтор пароля порожній"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Новий пароль може містити лише латинські літери, цифри та спеціальні символи"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Пароль повинен містити латинські літери у верхньому та нижньому регістрі, "
+"цифри та спеціальні символи"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Пароль повинен містити латинські літери та цифри"
+
+msgid "Passwords do not match"
+msgstr "Паролі не збігаються"
+
+msgid "Password is empty"
+msgstr "Пароль порожній"
+
+msgid "Password is invalid"
+msgstr "Пароль недійсний"
+
+msgid "Code is invalid"
+msgstr "Код недійсний"
+
+msgid "Email change is not allowed"
+msgstr "Зміни електронної пошти заборонено"
+
+msgid "Email is required"
+msgstr "Потрібен email"
+
+msgid "User update failed"
+msgstr "Помилка оновлення користувача"
+
+#, fuzzy
+msgid "Registration data validation failed"
+msgstr "Триває підтвердження реєстрації"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "Недійсний код підтвердження"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "Порожній код запуску"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "Системна помилка"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"Код підтвердження електронної пошти не знайдено. Можливо, ви вже підтвердили "
+"свою електронну пошту. Перевірте, будь ласка, свою поштову скриньку."
+
+msgid "Registration_complete"
+msgstr "Реєстрація завершена"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+#, fuzzy
+msgid "Insufficient account balance"
+msgstr "Недостатні параметри"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Ви не зробили депозит через цю систему, тому ви не можете зняти кошти за "
+"допомогою це. Зробити депозит через цю систему, щоб вийти."
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "Стать не вибрана"
+
+msgid "Impossible to send email"
+msgstr "Неможливо надіслати листа"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "Недійсний код підтвердження"
+
+msgid "Server returned invalid response"
+msgstr "Сервер повернув недійсну відповідь"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "Невідома помилка"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "Невідомий статус"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "Метод не підтримується"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "Метод не підтримується"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "Метод не підтримується"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "Метод не підтримується"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "Недійсна команда"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "Недійсні параметри запиту"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "Недійсні параметри запиту"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "Недійсна команда"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "Недійсна команда"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "Unsupported authentication provider"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "Неправильна версія API в адресі"
+
+msgid "Not specified API key"
+msgstr "Не вказано ключ API"
+
+msgid "Incorrect API key"
+msgstr "Неправильний ключ API"
+
+msgid "Incorrect IP address client"
+msgstr "Неправильний клієнт IP-адреси"
+
+msgid "Invalid command"
+msgstr "Недійсна команда"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Зазначена команда не існує або недоступна"
+
+msgid "System error"
+msgstr "Системна помилка"
+
+msgid "Not specified the SMS identifier"
+msgstr "Не вказано ідентифікатор SMS"
+
+msgid "Sender address does not exist"
+msgstr "Адреса відправника не існує"
+
+msgid "Not specified content"
+msgstr "Не вказаний контент"
+
+msgid "Faulty or unsupported country code"
+msgstr "Неправильний або непідтримуваний код країни"
+
+msgid "Content is too long"
+msgstr "Контент задовгий"
+
+msgid "Incorrect encoding of the content"
+msgstr "Неправильне кодування контенту"
+
+msgid "Exceeded monthly limit"
+msgstr "Перевищений місячний ліміт"
+
+msgid "Batch ID does not exist"
+msgstr "Ідентифікатор пакету не існує"
+
+msgid "List recipients does not exist"
+msgstr "Список одержувачів не існує"
+
+msgid "Invalid recipient number"
+msgstr "Недійсний номер одержувача"
+
+msgid "No content"
+msgstr "Немає контенту"
+
+msgid "Wrong content"
+msgstr "Неправильний контент"
+
+msgid "Unable send message"
+msgstr "Не вдалося надіслати повідомлення"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+
+msgid "Unsupported authentication provider"
+msgstr "Unsupported authentication provider"
+
+msgid "connect_social_account_email_theme"
+msgstr "Тема электронної адреси для підключених соціальних мереж"
+
+msgid "not_logged_in"
+msgstr "Ви не увійшли"
+
+msgid "trying_delete_last_social"
+msgstr "Trying delete last social"
+
+msgid "please_set_email"
+msgstr "Будь ласка, зазначте електронну адресу."
+
+msgid "please_set_password"
+msgstr "Будь ласка, установіть пароль."
+
+msgid "Code incorrect, user not found"
+msgstr "Код неправильний, користувача не знайдено"
+
+msgid "email_has_been_verified"
+msgstr "Електронну пошту підтверджено"
+
+#, fuzzy
+msgid "Transaction value generation failed"
+msgstr "Триває підтвердження реєстрації"
+
+msgid "email_to_connect_social_sent"
+msgstr "Електронного листа для підключення через соціальну мережу надіслано"
+
+msgid "Registration complete"
+msgstr "Дата самовиключення"
+
+msgid "_ip_fraud_msg"
+msgstr "ip fraud message"
+
+msgid "Session is expired"
+msgstr "Сеанс закінчився"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "Ідентифікатор системи не вказано"
+
+msgid "System ID not specified"
+msgstr "Ідентифікатор системи не вказано"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "Неправильна адреса електронної пошти. Повторіть спробу спочатку"
+
+msgid "Email is empty"
+msgstr "Електронна пошта порожня"
+
+msgid "Error, account with this email does not exist."
+msgstr "Помилка, обліковий запис із цим повідомленням не існує."
+
+msgid "Unable generate temporary restore user code"
+msgstr "Unable generate temporary restore user code"
+
+msgid "Password recovery"
+msgstr "Відновлення паролю"
+
+msgid "current_password_empty"
+msgstr "Поточний пароль порожній"
+
+msgid "Current password is incorrect"
+msgstr "Поточний пароль порожній"
+
+msgid "day_not_set"
+msgstr "День не встановлено"
+
+msgid "month_not_set"
+msgstr "Місяць не встановлено"
+
+msgid "year_not_set"
+msgstr "Рік не встановлено"
+
+msgid "Country is not picked"
+msgstr "Країна не вибрана"
+
+msgid "Gender is not picked"
+msgstr "Стать не вибрана"
+
+msgid "input_repeated_password"
+msgstr "Введений пароль невірний"
+
+msgid "Password does not match"
+msgstr "Пароль не збігається"
+
+msgid "Email field is empty or incorrect"
+msgstr "Поле електронної пошти порожнє або неправильне"
+
+msgid "Email already in use"
+msgstr "E-mail вже використовується"
+
+msgid "Email field is incorrect"
+msgstr "Поле електронної пошти неправильне"
+
+msgid "Login field is empty"
+msgstr "Поле Логін пусте"
+
+msgid "Email field is empty"
+msgstr "Поле електронної пошти порожнє"
+
+msgid "login_already_in_use"
+msgstr "Логін вже використовується"
+
+msgid "phone_empty"
+msgstr "Телефон порожній"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Номер телефону неправильний. Повинно бути"
+
+msgid "Phone number too long"
+msgstr "Номер телефону занадто довгий"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Номер телефону неправильний: використані деякі заборонені символи."
+
+msgid "new_pass_less_6_symbols"
+msgstr "Новий пароль менше 6 символів"
+
+msgid "first_name_empty"
+msgstr "Ім'я пусте"
+
+msgid "last_name_empty"
+msgstr "Прізвище порожнє"
+
+msgid "New email field is incorrect"
+msgstr "Поле електронної пошти неправильне"
+
+msgid "User verification failed"
+msgstr "перевірка"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "Помилка авторизації"
+
+msgid "authorization_error"
+msgstr "Помилка авторизації"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "Сеанс закінчився"
+
+msgid "registration_in_progress"
+msgstr "Реєстрація триває"
+
+msgid "user_disabled"
+msgstr "Користувача заблоковано"
+
+msgid "Access forbidden"
+msgstr ""
+
+msgid "Email field incorrect"
+msgstr "Поле електронної пошти неправильне"
+
+msgid "email_empty_incorrect"
+msgstr "Поле електронної пошти неправильне"
+
+msgid "pass_less_6_symbols"
+msgstr "Пароль менше 6 символів"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "Пароль може містити лише латинські літери, цифри та спеціальні символи"
+
+msgid "currency_not_set"
+msgstr "Валюта не встановлена"
+
+msgid "Currency field is invalid"
+msgstr "Поле валюти недійсне"
+
+msgid "reg_promo_is_invalid"
+msgstr "Акція реєстрації недійсна"
+
+msgid "email_already_registered"
+msgstr "Електронна пошта вже зареєстрована"
+
+msgid "login_already_registered"
+msgstr "Логін вже зареєстровано"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "Електронна пошта вже зареєстрована"
+
+msgid "ip_fraud_blacklist"
+msgstr "ip fraud blacklist"
+
+msgid "ip_fraud_check_error"
+msgstr "ip fraud check error"
+
+msgid "Activate your account"
+msgstr "Активуйте обліковий запис"
+
+msgid "Registration confirmation is in progress"
+msgstr "Триває підтвердження реєстрації"
+
+msgid "Unknown status"
+msgstr "Невідомий статус"
+
+msgid "first name"
+msgstr "ім'я"
+
+msgid "last name"
+msgstr "прізвище"
+
+msgid "birth date"
+msgstr "день народження"
+
+msgid "sex"
+msgstr "стать"
+
+msgid "country"
+msgstr "країна"
+
+msgid "phone number"
+msgstr "номер телефону"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] ""
+"Щоб змінити %s поле, будь ласка, зверніться до нашої служби підтримки"
+msgstr[1] ""
+"Щоб змінити %s поле, будь ласка, зверніться до нашої служби підтримки "
+
+msgid "Email has invalid format"
+msgstr "Недійсний формат електронної пошти"
+
+msgid "Repeat password field is empty"
+msgstr "Поле повторного введення пароля порожнє"
+
+msgid "First name field is empty"
+msgstr "Поле \"Ім'я\" порожнє"
+
+msgid "First name must contain only letters"
+msgstr ""
+
+msgid "Last name field is empty"
+msgstr "Поле прізвища порожнє"
+
+#, fuzzy
+msgid "Last name must contain only letters"
+msgstr "Пароль повинен містити латинські літери та цифри"
+
+msgid "Gender field is empty"
+msgstr "Поле \"Стать\" порожнє"
+
+msgid "Gender unallowed value"
+msgstr ""
+
+msgid "Currency field is empty"
+msgstr "Поле валюти порожнє"
+
+msgid "Country code is empty"
+msgstr "Код країни порожній"
+
+#, fuzzy
+msgid "Country code is invalid"
+msgstr "Код недійсний"
+
+msgid "Phone code is empty"
+msgstr "Телефонний код порожній"
+
+msgid "Phone number field is empty"
+msgstr "Поле номера телефону порожнє"
+
+msgid "Phone number invalid format"
+msgstr "Недійсний формат номера телефону"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "Телефонний код порожній"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "Пароль повинен містити принаймні 6 символів"
+
+#, fuzzy
+msgid "Wrong IBAN number"
+msgstr "номер телефону"
+
+#, fuzzy
+msgid "Wrong SWIFT number"
+msgstr "номер телефону"
+
+msgid "ID Number is not unique"
+msgstr ""
+
+msgid "Password field is empty"
+msgstr "Поле пароля порожнє"
+
+#, fuzzy
+msgid "New password field is empty"
+msgstr "Поле пароля порожнє"
+
+#, fuzzy
+msgid "New password must be at least 6 characters long"
+msgstr "Пароль повинен містити принаймні 6 символів"
+
+#, fuzzy
+msgid "New password strength is weak"
+msgstr "Надійність паролю слабка"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "Помилка, обліковий запис із цим повідомленням не існує."
+
+msgid "Password strength is weak"
+msgstr "Надійність паролю слабка"
+
+msgid "Login is already registered"
+msgstr "Електронна пошта вже зареєстрована"
+
+msgid "Email is already registered"
+msgstr "Електронна пошта вже зареєстрована"
+
+msgid "Phone is already registered"
+msgstr "Електронна пошта вже зареєстрована"
+
+msgid "You are less than 18 year old"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Location restriction"
+#~ msgstr "Немає опису бонусів"
+
+#, fuzzy
+#~ msgid "Not in a restricted region"
+#~ msgstr "Немає опису бонусів"
+
+#~ msgid "Awaiting limits information"
+#~ msgstr ""
+#~ "Очікується інформація щодо лімітів. Будь ласка, повторіть спробу пізніше, "
+#~ "оскільки ми все ще чекаємо інформацію про поточні ліміти виведення."

@@ -1,0 +1,28 @@
+{
+  "name": "wlc_core",
+  "title": "wlc_core",
+  "description": "wlc_core",
+  "version": "1.75.1",
+  "repository": "git@vcsxa.egamings.com:wlc/core.git",
+  "readme": "README.md",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bower-install": "^1.6.0",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-msg-init-merge": "0.0.5",
+    "grunt-potomo": "~3.2.1",
+    "grunt-shell": "~1.1.2",
+    "grunt-text-replace": "^0.4.0",
+    "tmp": "~0.0.33"
+  },
+  "dependencies": {
+    "grunt-potomo": "^3.5.0"
+  },
+  "scripts": {
+    "dev-install": "bower install && npm install && grunt --no-color",
+    "dev-update": "bower update && npm update",
+    "docs": "grunt --no-color docs",
+    "dist": "grunt --no-color dist"
+  }
+}

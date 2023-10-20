@@ -1,0 +1,1459 @@
+# English translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.0.389\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: 2019-01-24 14:25+0200\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr "将我们的电子邮件添加到您的地址簿中，您将不会错过重要信息"
+
+msgid "Congratulations,"
+msgstr "恭喜,"
+
+msgid "Dear"
+msgstr "亲爱的"
+
+msgid "Deposit confirmation"
+msgstr "订金确认"
+
+msgid "Deposit success notification. Your balance"
+msgstr "订金付款成功通知。 您的余额"
+
+msgid "Finish registration link"
+msgstr "完成注册链接"
+
+msgid "Greeting."
+msgstr "欢呼."
+
+msgid "Hello"
+msgstr "您好"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "将我们的电子邮件添加到您的地址簿中，您将不会错过重要信息."
+
+msgid "If you have any questions, please contact"
+msgstr "如您有任何疑问，欢迎联系"
+
+msgid "Link will be available for 30 minutes."
+msgstr "链接有效期为30分钟."
+
+msgid "Login"
+msgstr "登陆"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Password restore"
+msgstr "密码找回"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "请点击以下链接完成注册:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr "请不要回复到这封邮件。 这封电子邮件是自动生成的，您将不会收到任何回复."
+
+msgid "Registration confirmation"
+msgstr "注册确认"
+
+msgid "Restore your password by clicking the link below."
+msgstr "点击下面的链接找回您的密码."
+
+msgid "Social registration confirmation"
+msgstr "社交媒体注册确认"
+
+msgid "Thank you for validating your account."
+msgstr "感谢您激活您的账号."
+
+msgid "Thanks for registration on the website!"
+msgstr "感谢您注册此网站!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "要完成您的帐户关联，请使用以下链接:"
+
+msgid "Welcome to"
+msgstr "欢迎来到"
+
+msgid "With respect"
+msgstr "尊重地"
+
+msgid "You asked to link new social account to your current account"
+msgstr "您需要将新的社交帐号链接到您当前的帐号"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"您已经迈出了第一步，体验了惊人的游戏之旅\n"
+"    和"
+
+msgid "casino_footer_copyright"
+msgstr "赌场_页脚_版权"
+
+msgid "casino_mail_info"
+msgstr "赌场_邮箱_信息"
+
+msgid "online support"
+msgstr "在线支持"
+
+msgid "controller_does_not_exists"
+msgstr "控制器不存在"
+
+msgid "social_not_found"
+msgstr "社交账号未找到"
+
+msgid "purchase_error"
+msgstr "购买错误"
+
+msgid "game_added_to_favorites"
+msgstr "游戏添加到收藏夹"
+
+msgid "game_deleted_from_favorites"
+msgstr "从游戏收藏夹中删除"
+
+msgid "must_login"
+msgstr "必须登陆"
+
+msgid "No bonus name"
+msgstr "没有奖励名称"
+
+msgid "No bonus descripton"
+msgstr "没有奖励说明"
+
+msgid "No user id"
+msgstr "没有用户ID"
+
+msgid "No bonus id"
+msgstr "没有奖金ID"
+
+msgid "No status"
+msgstr "未知状态"
+
+msgid "Bonus not found"
+msgstr "未找到奖金"
+
+msgid "Already have active"
+msgstr "已激活"
+
+msgid "Bonus is not available"
+msgstr "奖金不可用"
+
+msgid "First deposit, already deposited"
+msgstr "第一笔存款已存入"
+
+msgid "No loyalty record"
+msgstr "没有忠诚记录"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "不满足奖金条件"
+
+msgid "Bonus used"
+msgstr "使用奖金"
+
+msgid "Promo code needed"
+msgstr "需要促销代码"
+
+msgid "Wrong promo code"
+msgstr "错误的促销代码"
+
+msgid "Bonuses are forbidden for user"
+msgstr "禁止向用户发放红利奖金"
+
+msgid "Already have an active bonus"
+msgstr "已经有定期红利奖金"
+
+msgid "registration"
+msgstr "注册"
+
+msgid "verification"
+msgstr "验证"
+
+msgid "sign up"
+msgstr "注册"
+
+msgid "store"
+msgstr "商店"
+
+msgid "login"
+msgstr "登陆"
+
+msgid "deposit"
+msgstr "存款"
+
+# 1
+msgid "deposit first"
+msgstr "首先存款"
+
+msgid "deposit sum"
+msgstr "存款金额"
+
+msgid "deposit repeated"
+msgstr "重复存款"
+
+msgid "bet"
+msgstr "赌注"
+
+msgid "bet sum"
+msgstr "赌注总和"
+
+msgid "win sum"
+msgstr "赢得奖金总额"
+
+msgid "loss sum"
+msgstr "亏损总额"
+
+msgid "once"
+msgstr "一旦"
+
+msgid "day"
+msgstr "天"
+
+msgid "week"
+msgstr "周"
+
+msgid "month"
+msgstr "月"
+
+msgid "all"
+msgstr "所有"
+
+msgid "bonus"
+msgstr "奖励"
+
+msgid "win"
+msgstr "赢得"
+
+msgid "win and bonus"
+msgstr "赢得奖金"
+
+msgid "winevent"
+msgstr "胜利和事件"
+
+msgid "winbonusevent"
+msgstr "获胜+奖励+事件"
+
+msgid "none"
+msgstr "没有"
+
+msgid "balance"
+msgstr "平衡"
+
+msgid "experience"
+msgstr "经验"
+
+msgid "loyalty"
+msgstr "忠诚"
+
+msgid "absolute"
+msgstr "绝对"
+
+msgid "relative"
+msgstr "相对"
+
+msgid "bets"
+msgstr "赌注"
+
+msgid "wins"
+msgstr "获胜"
+
+msgid "turnover"
+msgstr "营业额"
+
+msgid "negative turnover"
+msgstr "负营业额"
+
+msgid "unlimited"
+msgstr "无限"
+
+msgid "one day"
+msgstr "一天"
+
+msgid "two days"
+msgstr "两天"
+
+msgid "three days"
+msgstr "三天"
+
+msgid "seven days"
+msgstr "七天"
+
+msgid "ten days"
+msgstr "十天"
+
+msgid "fourteen days"
+msgstr "十四天"
+
+msgid "thirty days"
+msgstr "三十天"
+
+msgid "sixty days"
+msgstr "六十天"
+
+msgid "ninety days"
+msgstr "九十天"
+
+msgid "one week"
+msgstr "一周"
+
+msgid "two weeks"
+msgstr "两周"
+
+msgid "one month"
+msgstr "一个月"
+
+msgid "every day"
+msgstr "每天"
+
+msgid "every week"
+msgstr "每周"
+
+msgid "every two weeks"
+msgstr "每两周"
+
+msgid "every month"
+msgstr "每个月"
+
+msgid "fee"
+msgstr "费用"
+
+msgid "turnover and fee"
+msgstr "营业额和费用"
+
+msgid "everyday"
+msgstr "每天"
+
+msgid "monday"
+msgstr "周一"
+
+msgid "tuesday"
+msgstr "周二"
+
+msgid "wednesday"
+msgstr "周三"
+
+msgid "thursday"
+msgstr "周四"
+
+msgid "friday"
+msgstr "周五"
+
+msgid "saturday"
+msgstr "周六"
+
+msgid "sunday"
+msgstr "周日"
+
+msgid "transaction_list_is_empty"
+msgstr "交易清单是空的"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "日期不正确，从高到低依次为"
+
+msgid "cancelled"
+msgstr "取消"
+
+msgid "rejected"
+msgstr "拒绝"
+
+msgid "error"
+msgstr "错误"
+
+msgid "in_progress"
+msgstr "进行中"
+
+msgid "confirmed"
+msgstr "确认"
+
+#, fuzzy
+msgid "pending"
+msgstr "结尾"
+
+msgid "system_error"
+msgstr "系统错误"
+
+msgid "completed"
+msgstr "完成"
+
+msgid "aborted"
+msgstr "中止"
+
+msgid "credit"
+msgstr "信用"
+
+msgid "debet"
+msgstr "借记"
+
+msgid "withdraw_unavailable"
+msgstr "撤销不可用"
+
+msgid "withdraw_check_error"
+msgstr "撤销检查错误"
+
+msgid "set_amount"
+msgstr "设定金额"
+
+msgid "set_payment_system"
+msgstr "设置支付系统"
+
+msgid "country_and_birth_date_required"
+msgstr "付款请求已发送"
+
+msgid "payment_request_sent"
+msgstr "付款请求已发送"
+
+msgid "payment_request_error"
+msgstr "付款请求错误"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "达到最大限额"
+
+msgid "sys_error_message"
+msgstr "系统错误消息"
+
+msgid "input_purse"
+msgstr "输入钱包"
+
+msgid "payment_withdraw_sent"
+msgstr "付款取消发送"
+
+msgid "New password is empty"
+msgstr "新密码为空"
+
+msgid "Repeat password is empty"
+msgstr "重复密码字段为空"
+
+msgid "Code is empty"
+msgstr "代码是空的"
+
+msgid "Code is incorrect"
+msgstr "代码不正确"
+
+msgid "Password must be at least 6 characters long"
+msgstr "密码至少有6个字符长"
+
+msgid "pass_not_match"
+msgstr "密码不匹配"
+
+msgid "Session expired"
+msgstr "会话过期"
+
+msgid "social_account_expired"
+msgstr "社交帐户已过期"
+
+msgid "Empty to address"
+msgstr "空白地址"
+
+msgid "Empty subject"
+msgstr "空白主题"
+
+msgid "Empty message"
+msgstr "空白消息"
+
+msgid "Empty required parameter"
+msgstr "清空所需的参数"
+
+msgid "Unknown error"
+msgstr "未知错误"
+
+msgid "Not allowed player country"
+msgstr "不允许的国家"
+
+msgid "Demo not supported"
+msgstr "不支持视频演示"
+
+msgid "Your currency is not supported by this provider"
+msgstr "此提供商不支持您所选择的货币"
+
+msgid "Branded games are not enabled"
+msgstr "未启用品牌游戏"
+
+msgid "Self exclusion date"
+msgstr "自愿禁制日期"
+
+msgid "Self exclusion"
+msgstr "自愿禁制"
+
+msgid "does not exists"
+msgstr "不存在"
+
+msgid "Method is not supported"
+msgstr "不支持该方法"
+
+msgid "Data type is not found"
+msgstr "数据类型未找到"
+
+msgid "Invalid request parameters"
+msgstr "无效的请求参数"
+
+msgid "No bonus description"
+msgstr "没有奖励说明"
+
+msgid "Selected"
+msgstr "选择"
+
+msgid "Qualified"
+msgstr "合格"
+
+msgid "Deleted"
+msgstr "删除"
+
+msgid "Deactivated"
+msgstr "停用"
+
+msgid "Canceled"
+msgstr "取消"
+
+msgid "Ending"
+msgstr "结尾"
+
+msgid "Ended"
+msgstr "截至"
+
+msgid "Loyalty API Failure"
+msgstr "忠诚度API失败"
+
+msgid "Loyalty result not supported"
+msgstr "忠诚度结果不受支持"
+
+msgid "User not found"
+msgstr "未找到该用户"
+
+msgid "Unable fetch oauth access token"
+msgstr "无法获取oauth访问令牌"
+
+msgid "Access token is missing"
+msgstr "缺少访问令牌"
+
+msgid "Empty access token user identifier"
+msgstr "清空访问令牌用户标识符"
+
+msgid "Empty access token identifier"
+msgstr "清空访问令牌标识符"
+
+msgid "Method not allowed"
+msgstr "方法不允许"
+
+msgid "Your country is on the forbidden list"
+msgstr "您的国家在禁止名单上"
+
+msgid "User profile is incomplete"
+msgstr "用户资料不完整"
+
+msgid "Achievement result is not list"
+msgstr "奖金结果未列出"
+
+msgid "Unknown route path"
+msgstr "未知路线路径"
+
+msgid "Too many requests"
+msgstr "错误的请求"
+
+msgid "Code is not valid"
+msgstr "代码无效"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "错误的请求"
+
+msgid "Method Not Allowed"
+msgstr "方法不允许"
+
+msgid "Api endpoint not found"
+msgstr "未找到Api端点"
+
+msgid "Confirm your email to start games"
+msgstr "确认您的电子邮箱来启动游戏"
+
+msgid "User not authorized"
+msgstr "用户未经授权"
+
+msgid "Merchant system not selected or invalid"
+msgstr "商家系统未选中或无效"
+
+msgid "Amount is not selected or invalid"
+msgstr "金额未选中或无效"
+
+msgid "Bonus result is not list"
+msgstr "奖金结果不是列表中"
+
+msgid "Bonus ID Not found"
+msgstr "奖金ID未找到"
+
+msgid "Bonus Selected Not found"
+msgstr "选定的奖金未找到"
+
+msgid "User is not authorized"
+msgstr "用户未被授权"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "空白主题"
+
+# 1
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "充值失败：%s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr "您已启用 %s 限制：%s %s 直到 %s。可用充值金额：%s %s"
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "设定金额"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "空的启动代码"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "姓"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "姓"
+
+#, fuzzy
+msgid "Account type"
+msgstr "国家"
+
+#, fuzzy
+msgid "Account number"
+msgstr "电话号码"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "电话号码"
+
+msgid "Uploadable files is empty"
+msgstr "可上传文件为空"
+
+msgid "Exceeds allowed file size"
+msgstr "超过允许的文件大小"
+
+msgid "Mb"
+msgstr "Mb（兆）"
+
+msgid "Document ID not found"
+msgstr "未找到文档 ID"
+
+msgid "Request invalid. Error: "
+msgstr "请求无效。错误: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr "游戏目录暂时不可用"
+
+msgid "Empty launch code"
+msgstr "空的启动代码"
+
+msgid "Empty merchant identifier"
+msgstr "清空商户标识符"
+
+msgid "Empty games catalog"
+msgstr "清空游戏目录"
+
+msgid "Unknown game launch code"
+msgstr "未知的游戏启动代码"
+
+msgid "Not supported exception"
+msgstr "不支持异常"
+
+msgid "Bad request"
+msgstr "错误的请求"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr "取自参数必须采用“Y-m-d H:i:s”格式或为空"
+
+msgid "Unable find user identifier"
+msgstr "无法找到用户标识符"
+
+msgid "Unknown error occured"
+msgstr "发生未知错误"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "收件人号码无效"
+
+msgid "Wrong request"
+msgstr "请求错误"
+
+msgid "Unknown provider"
+msgstr "未知提供商"
+
+# 2
+msgid "Token not found"
+msgstr "令牌未找到"
+
+msgid "Invalid token provided"
+msgstr "提供的令牌无效"
+
+msgid "Phone already verified"
+msgstr "电话已经验证"
+
+msgid "Insufficient parameters"
+msgstr "参数不足"
+
+msgid "Configuration error"
+msgstr "配置错误"
+
+msgid "Invalid verification code"
+msgstr "无效验证码"
+
+msgid "Empty phone number"
+msgstr "空的电话号码"
+
+msgid "Invalid phone number"
+msgstr "无效的电话号码"
+
+msgid "Anonymous"
+msgstr "匿名"
+
+msgid "Item not found"
+msgstr "项目未找到"
+
+msgid "Sent from web-form at"
+msgstr "以网页形式发送"
+
+msgid "Service not found"
+msgstr "服务未找到"
+
+msgid "Unauthorized"
+msgstr "未授权的"
+
+msgid "Tournaments history error"
+msgstr "比赛历史错误"
+
+msgid "Tournaments list not available"
+msgstr "竞赛列表不可用"
+
+msgid "Tournaments type not found"
+msgstr "未找到比赛类型"
+
+msgid "Tournament not found"
+msgstr "未找到比赛"
+
+msgid "Tournaments subscribe error"
+msgstr "比赛订阅错误"
+
+msgid "Insufficient monetary turnover"
+msgstr "货币周转不足"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "用户资料（个人资料）未填写"
+
+msgid "Need verification"
+msgstr "需验证"
+
+msgid "Need additional verification"
+msgstr "需额外验证"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "邮件已发送，恢复链接30分钟之内有效"
+
+msgid "Password repeat is empty"
+msgstr "密码重复是空的"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr "新密码可能只包含拉丁字母，数字和特殊符号"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr "密码必须包含大写和小写的拉丁字母，数字和特殊符号"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "密码必须包含拉丁字母和数字"
+
+msgid "Passwords do not match"
+msgstr "密码不匹配"
+
+msgid "Password is empty"
+msgstr "密码为空"
+
+msgid "Password is invalid"
+msgstr "密码无效"
+
+msgid "Code is invalid"
+msgstr "代码无效"
+
+msgid "Email change is not allowed"
+msgstr "电子邮件变更是不允许的"
+
+msgid "Email is required"
+msgstr "电子邮件是必需的"
+
+msgid "User update failed"
+msgstr "用户更新失败"
+
+msgid "Registration data validation failed"
+msgstr "注册数据验证失败"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "无效验证码"
+
+msgid "Empty unsubscribe code"
+msgstr "清空退订代码"
+
+msgid "Internal error"
+msgstr "内部错误"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr "找不到電子郵件驗證碼，也許您已經確認了您的電子郵件，請檢查您的郵箱"
+
+msgid "Registration_complete"
+msgstr "注册完成"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+msgid "Insufficient account balance"
+msgstr "账户余额不足"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"您没有通过此系统存款，因此您无法使用它提取资金。 通过此系统存款以便取款"
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "未选择性别"
+
+msgid "Impossible to send email"
+msgstr "无法发送电子邮件"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "无效验证码"
+
+msgid "Server returned invalid response"
+msgstr "服务器返回无效响应"
+
+msgid "Temporary routing error"
+msgstr "临时路径错误"
+
+msgid "Permanent routing error"
+msgstr "永久路径错误"
+
+msgid "Maximum throttling exceeded"
+msgstr "超过最大限制"
+
+msgid "Timeout"
+msgstr "超时"
+
+msgid "Operator unknown error"
+msgstr "运营商未知错误"
+
+msgid "Operator error"
+msgstr "运营商错误"
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr "内部错误（内部Link Mobility错误）"
+
+msgid "Sent (to operator)"
+msgstr "发送（给运营商）"
+
+msgid "Billed and delivered"
+msgstr "计费和交付"
+
+msgid "Expired"
+msgstr "已到期"
+
+msgid "Mobile full"
+msgstr "移动全屏"
+
+msgid "Queued"
+msgstr "排队等候中"
+
+msgid "Not delivered"
+msgstr "未交付"
+
+msgid "Delivered,Billed delayed"
+msgstr "已交付，延迟计费"
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr "计费完成（发送消息前收费完成）"
+
+msgid "Billed OK and NOT Delivered"
+msgstr "计费完成且未交付"
+
+msgid "Expired, absence of operator delivery report"
+msgstr "已过期，缺少运营商交付报告"
+
+msgid "Billed OK and sent (to operator)"
+msgstr "计费完成并发送（给运营商）"
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr "延迟（临时计费错误，系统会尝试重发）"
+
+msgid "Message sent to operator, Billdelayed"
+msgstr "消息发送给运营商，计费延迟"
+
+msgid "Service rejected by subscriber"
+msgstr "服务被订购者拒绝"
+
+msgid "Unknown subscriber"
+msgstr "未知订购者"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr "目的地被封锁（订购者被永久禁止）"
+
+msgid "Number error"
+msgstr "号码错误"
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr "目的地暂时被封锁（订购者暂时被封锁）"
+
+msgid "Charging error"
+msgstr "收费错误"
+
+msgid "Subscriber has low balance"
+msgstr "订购者余额不足"
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr "订购者因溢价（高级）消息而被禁止"
+
+msgid "Subscriber too young (for this particular content)"
+msgstr "订购者年龄太小（针对特定内容）"
+
+msgid "Prepaid subscriber not allowed"
+msgstr "不支持预付费订购用户"
+
+msgid "Subscriber not registered in payment system"
+msgstr "订购者未在支付系统中注册"
+
+msgid "Subscriber has reached max balance"
+msgstr "订购者已达到最大额度"
+
+msgid "GSM encoding is not supported"
+msgstr "不支持 GSM 编码"
+
+msgid "UCS2 encoding is not supported"
+msgstr "不支持 UCS2 编码"
+
+msgid "Binary encoding is not supported"
+msgstr "不支持二进制编码"
+
+msgid "Delivery report is not supported"
+msgstr "不支持交付报告"
+
+msgid "Invalid message content"
+msgstr "消息内容无效"
+
+msgid "Invalid tariff"
+msgstr "无效资费"
+
+msgid "Invalid user data"
+msgstr "无效的用户数据"
+
+msgid "Invalid user data header"
+msgstr "无效的用户数据标题"
+
+msgid "Invalid data coding"
+msgstr "无效的数据编码"
+
+msgid "Invalid VAT"
+msgstr "无效增值税费"
+
+msgid "Unsupported content for destination"
+msgstr "目标地不支持该内容"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr "未知错误。请联系技术支持团队并咨询您的整个交易流程"
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr "验证无效。请检查您的用户名和密码"
+
+msgid "Access denied. Please check your username and password"
+msgstr "拒绝访问。请检查您的用户名和密码"
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr "平台 ID 无效或缺失。请检查您的平台 ID"
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr "平台合作 ID 无效或缺失。请检查您的平台合作 ID "
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr "高级消息所使用货币无效或缺失。请检查您的价格和货币种类"
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr "没有可用的网关。请联系技术支持团队并咨询您的整个交易流程"
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr "指定的网关不可用。 请检查您的网关ID。"
+
+msgid "Incorrect version API in address"
+msgstr "地址中的版本API不正确"
+
+msgid "Not specified API key"
+msgstr "未指定API密钥"
+
+msgid "Incorrect API key"
+msgstr "不正确的API密钥"
+
+msgid "Incorrect IP address client"
+msgstr "IP地址客户端不正确"
+
+msgid "Invalid command"
+msgstr "命令无效"
+
+msgid "Specified command does not exist or is not available"
+msgstr "指定的命令不存在或不可用"
+
+msgid "System error"
+msgstr "系统错误"
+
+msgid "Not specified the SMS identifier"
+msgstr "未指定SMS标识符"
+
+msgid "Sender address does not exist"
+msgstr "发件人地址不存在"
+
+msgid "Not specified content"
+msgstr "未指定内容"
+
+msgid "Faulty or unsupported country code"
+msgstr "错误或不支持的国家代码"
+
+msgid "Content is too long"
+msgstr "内容太长"
+
+msgid "Incorrect encoding of the content"
+msgstr "内容编码不正确"
+
+msgid "Exceeded monthly limit"
+msgstr "超出每月限额"
+
+msgid "Batch ID does not exist"
+msgstr "批次ID不存在"
+
+msgid "List recipients does not exist"
+msgstr "列表收件人不存在"
+
+msgid "Invalid recipient number"
+msgstr "收件人号码无效"
+
+msgid "No content"
+msgstr "无内容"
+
+msgid "Wrong content"
+msgstr "错误内容"
+
+msgid "Unable send message"
+msgstr "无法发送消息"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr "已超出设定发送SMS短信时限。您可以在 %d 分钟后重试发送短信"
+
+msgid "Unsupported authentication provider"
+msgstr "不支持的身份验证程序"
+
+msgid "connect_social_account_email_theme"
+msgstr "连接_社交_账号_邮件_主题"
+
+msgid "not_logged_in"
+msgstr "未登陆"
+
+msgid "trying_delete_last_social"
+msgstr "尝试删除最后的社交"
+
+msgid "please_set_email"
+msgstr "请设置邮箱"
+
+msgid "please_set_password"
+msgstr "请设置密码"
+
+msgid "Code incorrect, user not found"
+msgstr "代码不正确，找不到用户"
+
+msgid "email_has_been_verified"
+msgstr "电子邮件已被验证"
+
+msgid "Transaction value generation failed"
+msgstr "交易总额生成失败"
+
+msgid "email_to_connect_social_sent"
+msgstr "连接至社交媒体的邮件已发送"
+
+msgid "Registration complete"
+msgstr "注册完成"
+
+msgid "_ip_fraud_msg"
+msgstr "IP欺诈消息"
+
+msgid "Session is expired"
+msgstr "会话已过期"
+
+msgid "Withdrawal ID not specified"
+msgstr "未指定提款ID"
+
+msgid "System ID not specified"
+msgstr "系统ID未指定"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "不正确的电子邮件，请从头开始再试"
+
+msgid "Email is empty"
+msgstr "电子邮件是空的"
+
+msgid "Error, account with this email does not exist."
+msgstr "错误，此邮件帐户不存在。"
+
+msgid "Unable generate temporary restore user code"
+msgstr "无法生成临时还原用户代码"
+
+msgid "Password recovery"
+msgstr "找回密码"
+
+msgid "current_password_empty"
+msgstr "当前密码为空"
+
+msgid "Current password is incorrect"
+msgstr "当前密码错误"
+
+msgid "day_not_set"
+msgstr "日期未设置"
+
+msgid "month_not_set"
+msgstr "月份未设置"
+
+msgid "year_not_set"
+msgstr "年份未设置"
+
+msgid "Country is not picked"
+msgstr "未选择国家"
+
+msgid "Gender is not picked"
+msgstr "未选择性别"
+
+msgid "input_repeated_password"
+msgstr "输入重复密码"
+
+msgid "Password does not match"
+msgstr "密码不匹配"
+
+msgid "Email field is empty or incorrect"
+msgstr "电子邮件字段为空或不正确"
+
+msgid "Email already in use"
+msgstr "电子邮件已在使用中"
+
+msgid "Email field is incorrect"
+msgstr "电子邮件字段不正确"
+
+msgid "Login field is empty"
+msgstr "登录字段为空"
+
+msgid "Email field is empty"
+msgstr "电子邮件字段为空"
+
+msgid "login_already_in_use"
+msgstr "已经登录"
+
+msgid "phone_empty"
+msgstr "电话号码为空"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "电话号码不正确。一定是"
+
+msgid "Phone number too long"
+msgstr "电话号码太长"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "电话号码不正确：使用了一些不允许使用的符号。"
+
+msgid "new_pass_less_6_symbols"
+msgstr "新密码少于6个符号"
+
+msgid "first_name_empty"
+msgstr "名字是空的"
+
+msgid "last_name_empty"
+msgstr "姓氏是空的"
+
+msgid "New email field is incorrect"
+msgstr "新邮件地址字段不正确"
+
+msgid "User verification failed"
+msgstr "用户验证失败"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "授权错误"
+
+msgid "authorization_error"
+msgstr "授权错误"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "Session expired"
+
+msgid "registration_in_progress"
+msgstr "注册正在进行中"
+
+msgid "user_disabled"
+msgstr "用户已禁用"
+
+msgid "Access forbidden"
+msgstr "禁止访问"
+
+msgid "Email field incorrect"
+msgstr "邮件地址字段不正确"
+
+msgid "email_empty_incorrect"
+msgstr "邮件地址为空且不正确"
+
+msgid "pass_less_6_symbols"
+msgstr "密码少于6个符号"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "新密码可能只包含拉丁字母，数字和特殊符号"
+
+msgid "currency_not_set"
+msgstr "币种未设置"
+
+msgid "Currency field is invalid"
+msgstr "货币字段无效"
+
+msgid "reg_promo_is_invalid"
+msgstr "注册促销无效"
+
+msgid "email_already_registered"
+msgstr "该邮件地址已经注册"
+
+# 1
+msgid "login_already_registered"
+msgstr "登录已经注册"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "手机已经注册"
+
+msgid "ip_fraud_blacklist"
+msgstr "ip诈骗黑名单"
+
+msgid "ip_fraud_check_error"
+msgstr "ip诈骗核实出错"
+
+msgid "Activate your account"
+msgstr "激活你的账号"
+
+msgid "Registration confirmation is in progress"
+msgstr "注册确认正在进行中"
+
+msgid "Unknown status"
+msgstr "未知状态"
+
+msgid "first name"
+msgstr "名字"
+
+msgid "last name"
+msgstr "姓"
+
+msgid "birth date"
+msgstr "生日"
+
+msgid "sex"
+msgstr "性别"
+
+msgid "country"
+msgstr "国家"
+
+msgid "phone number"
+msgstr "电话号码"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "To change %s field please contact our support at "
+
+msgid "Email has invalid format"
+msgstr "电子邮件格式无效"
+
+msgid "Repeat password field is empty"
+msgstr "重复密码字段为空"
+
+msgid "First name field is empty"
+msgstr "名字字段为空"
+
+msgid "First name must contain only letters"
+msgstr "名字只能包含字母"
+
+msgid "Last name field is empty"
+msgstr "姓氏字段为空"
+
+msgid "Last name must contain only letters"
+msgstr "姓氏只能包含字母"
+
+msgid "Gender field is empty"
+msgstr "性别字段为空"
+
+msgid "Gender unallowed value"
+msgstr "性别字段不适用"
+
+msgid "Currency field is empty"
+msgstr "货币字段为空"
+
+msgid "Country code is empty"
+msgstr "国家代码是空的"
+
+msgid "Country code is invalid"
+msgstr "国家代码无效"
+
+msgid "Phone code is empty"
+msgstr "电话代码是空的"
+
+msgid "Phone number field is empty"
+msgstr "电话号码字段为空"
+
+msgid "Phone number invalid format"
+msgstr "电话号码格式无效"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "电话代码是空的"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "密码至少有6个字符长"
+
+msgid "Wrong IBAN number"
+msgstr "IBAN号码错误"
+
+msgid "Wrong SWIFT number"
+msgstr "SWIFT号码错误的"
+
+msgid "ID Number is not unique"
+msgstr "身份证ID号码不是唯一的"
+
+msgid "Password field is empty"
+msgstr "密码为空"
+
+msgid "New password field is empty"
+msgstr "新密码字段为空"
+
+msgid "New password must be at least 6 characters long"
+msgstr "新密码的长度必须至少为 6 个字符"
+
+msgid "New password strength is weak"
+msgstr "新密码强度较弱"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "错误，此邮件帐户不存在。"
+
+msgid "Password strength is weak"
+msgstr "密码强度较弱"
+
+msgid "Login is already registered"
+msgstr "登录已经注册"
+
+msgid "Email is already registered"
+msgstr "电子邮件已经注册"
+
+msgid "Phone is already registered"
+msgstr "手机已经注册"
+
+msgid "You are less than 18 year old"
+msgstr "您未满18岁"
+
+#, fuzzy
+#~ msgid "Location restriction"
+#~ msgstr "没有奖励说明"
+
+#, fuzzy
+#~ msgid "Not in a restricted region"
+#~ msgstr "没有奖励说明"
+
+#~ msgid "Withdraw is not available because bonus is not won back"
+#~ msgstr "现在无法提款因为您的奖金仍然有效"
+
+#~ msgid "Awaiting limits information"
+#~ msgstr "等待权限信息"
+
+#~ msgid "cancel_error"
+#~ msgstr "取消错误"
+
+#~ msgid "select_error"
+#~ msgstr "选择错误"
+
+#, fuzzy
+#~ msgid "incorrect_registration_code"
+#~ msgstr "注册完成"
+
+#~ msgid "password_does_not_match"
+#~ msgstr "Password does not match"
+
+#~ msgid "new_pass_empty"
+#~ msgstr "New password is empty"
+
+#~ msgid "rep_password_empty"
+#~ msgstr "Repeated password is empty"
+
+#~ msgid "code_is_empty"
+#~ msgstr "Code is empty"
+
+#~ msgid "pass_must_be_least_six_long"
+#~ msgstr "Password must be least six long"
+
+#~ msgid "countrycode_field_is_empty"
+#~ msgstr "Country code is empty"
+
+#~ msgid "phonecode_field_is_empty"
+#~ msgstr "Phone code is empty"
+
+#~ msgid "password_field_is_empty"
+#~ msgstr "Password field is empty"
+
+#~ msgid "password_field_min_length_6"
+#~ msgstr "Password field must have min 6 length"

@@ -1,0 +1,37 @@
+image: dockerproxy.egamings.com/wlccore:latest
+
+services:
+  - name: dockerproxy.egamings.com/mysql
+    alias: mysql
+  - name: dockerproxy.egamings.com/nginx
+    alias: nginx
+  - name: dockerproxy.egamings.com/redis
+    alias: redis
+
+variables:
+  # Configure mysql service (https://hub.docker.com/_/mysql/)
+  MYSQL_DATABASE: wlc_test
+  MYSQL_ROOT_PASSWORD: mysql
+  REDIS_HOST: redis
+
+# Composer stores all downloaded packages in the vendor/ directory.
+# Do not use the following if the vendor/ directory is committed to
+# your git repository.
+cache:
+  paths:
+  - vendor/
+
+before_script:
+  # Install composer dependencies
+  - mkdir -p ~/.composer
+  - echo $COMPOSER_AUTH_CONFIG > ~/.composer/auth.json
+  - composer install
+
+stages:
+  - test
+
+lint_and_tests:
+  stage: test
+  script:
+    - composer run codecheck
+    - composer run tests

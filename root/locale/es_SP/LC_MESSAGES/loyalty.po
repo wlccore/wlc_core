@@ -1,0 +1,352 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2019-02-13 18:09+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es_SP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+
+msgid "Set transaction type"
+msgstr "Establecer el tipo de transaccin"
+
+msgid "No user id"
+msgstr "Sin identificacin de usuario"
+
+msgid "No amount"
+msgstr "No hay cantidad"
+
+msgid "No loyalty record"
+msgstr "Sin registro de lealtad"
+
+msgid "Wrong request path"
+msgstr "Ruta de solicitud incorrecta"
+
+msgid "Debet amount to big"
+msgstr "Gran cantidad de dbito"
+
+msgid "Wrong transaction type"
+msgstr "Tipo de transaccin incorrecto"
+
+msgid "Awaiting limits information"
+msgstr "Esperando lmites de informacin"
+
+msgid "Wrong currency"
+msgstr "Moneda incorrecta"
+
+msgid "Non existent level"
+msgstr "Nivel inexistente"
+
+msgid "No points"
+msgstr "Sin puntos"
+
+msgid "Set loyalty level"
+msgstr "Establecer nivel de lealtad"
+
+msgid "No bet"
+msgstr "Sin apuesta"
+
+msgid "No ID user"
+msgstr "Usuario sin identificacin"
+
+msgid "No ID bonus"
+msgstr "Sin bono de identificacin"
+
+msgid "Wrong amount"
+msgstr "Cantidad incorrecta"
+
+msgid "No bonus ID"
+msgstr "Sin identificacin de bonificacin"
+
+msgid "No user ID"
+msgstr "Sin identificacin de usuario"
+
+msgid "Wrong date format"
+msgstr "Formato de fecha incorrecta"
+
+msgid "Date must not be today"
+msgstr "La fecha no debe ser hoy"
+
+msgid "No bonus id"
+msgstr "Sin identificacin de bonificacin"
+
+msgid "No status"
+msgstr "Sin estado"
+
+msgid "Bonus not found"
+msgstr "Bonificacin no encontrada"
+
+msgid "Already have active"
+msgstr "Ya tengo activo"
+
+msgid "Bonus is not available"
+msgstr "El bono no est disponible"
+
+msgid "First deposit, already deposited"
+msgstr "Primer depsito, ya depositado"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "No cumples condiciones de bonificacin"
+
+msgid "Bonus used"
+msgstr "Bonificacin utilizada"
+
+msgid "Promo code needed"
+msgstr "Cdigo de promocin necesario"
+
+msgid "Wrong promo code"
+msgstr "Cdigo de promocin incorrecto"
+
+msgid "User ID not set"
+msgstr "Identificacin de usuario no establecida"
+
+msgid "Wrong bonus results value"
+msgstr "Valor de los resultados de bonificacin equivocados"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Los resultados de bonificacin de valor de rondas libres equivocados"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Los resultados de bono equivocados apostando el premio"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Tamao de trozo equivocado de resultados de bonificacin"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Los resultados de bonificacin equivocados lanzan apuestas"
+
+msgid "Bonus name required"
+msgstr "Nombre de bono requerido"
+
+msgid "Wrong bonus event"
+msgstr "Evento de bonificacin equivocado"
+
+msgid "Wrong bonus type"
+msgstr "Tipo de bono incorrecto"
+
+msgid "Wrong bonus repeat period"
+msgstr "Perodo de repeticin de bono incorrecto"
+
+msgid "Wrong bonus expire period"
+msgstr "Perodo de vencimiento de bonificacin incorrecto"
+
+msgid "Wrong bonus budget"
+msgstr "Presupuesto de bonificacin equivocado"
+
+msgid "Wrong bonus start date"
+msgstr "Fecha de inicio de bonificacin incorrecta"
+
+msgid "Wrong bonus end date"
+msgstr "Fecha de finalizacin de bono incorrecta"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Fecha de inicio de bonificacin incorrecta ms que la fecha de finalizacin"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Cantidad de condiciones de bono errneas minmas"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Cantidad de condiciones de bono equivocadas mximas"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Condiciones de bonificacin errneas cantidad minma. Ms cantidad mxima"
+
+msgid "Following codes are duplicated"
+msgstr "Los siguientes cdigos estn duplicados"
+
+msgid "Bonus name already exists"
+msgstr "Nombre de bono ya existe"
+
+msgid "Wrong bonus ID"
+msgstr "Identificacin de bono errnea"
+
+msgid "Activated bonuses"
+msgstr "Bonificaciones activadas"
+
+msgid "Can't delete"
+msgstr "No se puede eliminar"
+
+msgid "No bonus"
+msgstr "Sin bonificacin"
+
+msgid "Wrong store action"
+msgstr "Accin de la tienda incorrecta"
+
+msgid "No order id"
+msgstr "Sin identificacin de pedido"
+
+msgid "Order not found"
+msgstr "Orden no encontrada"
+
+msgid "No item id"
+msgstr "Ninguna identificacin del artculo"
+
+msgid "User not found"
+msgstr "Usuario no encontrado"
+
+msgid "Item not found"
+msgstr "Objeto no encontrado"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Precio del artculo no establecido para la moneda: LEALTAD"
+
+msgid "Not enough loyalty points"
+msgstr "No hay suficientes puntos de fidelidad"
+
+msgid "Item out of stock"
+msgstr "Artculo agotado"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Cantidad de evento de bonificacin equivocada del artculo"
+
+msgid "User not found in tournament"
+msgstr "Usuario no encontrado en torneo"
+
+msgid "Set codes count"
+msgstr "Establecer cdigos de conteo"
+
+msgid "Set batch name"
+msgstr "Establecer nombre de lote"
+
+msgid "Codes count exceeds 300 000"
+msgstr "El nmero de cdigos supera los 300 000"
+
+msgid "Wrong batch ID"
+msgstr "Identificacin de lote incorrecta"
+
+msgid "Codes not set"
+msgstr "Cdigos no establecidos"
+
+msgid "Modificator not found"
+msgstr "Modificador no encontrado"
+
+msgid "Set coefficient"
+msgstr "Establecer coeficiente"
+
+msgid "Set name"
+msgstr "Escoger un nombre"
+
+msgid "No levels defined"
+msgstr "No hay niveles definidos"
+
+msgid "Level not found"
+msgstr "Nivel no encontrado"
+
+msgid "Bad cronjob"
+msgstr "Mal trabajo"
+
+msgid "No category ID"
+msgstr "Sin identificacin de categora"
+
+msgid "Category not found"
+msgstr "Categora no encontrada"
+
+msgid "No category name"
+msgstr "Sin nombre de categora"
+
+msgid "Wrong category ID"
+msgstr "Identificacin de categora errnea"
+
+msgid "No category id"
+msgstr "Sin identificacin de categora"
+
+msgid "No item ID"
+msgstr "Sin identificacin de artculo"
+
+msgid "Wrong item ID"
+msgstr "Identificacin de artculo incorrecto"
+
+msgid "Item init error"
+msgstr "Error de inicio del artculo"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Cantidad de evento de bonificacin de artculo incorrecto"
+
+msgid "No item"
+msgstr "Sin objeto"
+
+msgid "Wrong tournament ID"
+msgstr "Identificacin de torneo incorrecta"
+
+msgid "Wrong Tournament ID"
+msgstr "Identificacin de torneo incorrecta"
+
+msgid "No ID tournament"
+msgstr "Sin identificacin de torneo"
+
+msgid "No tournament ID"
+msgstr "Sin identificacin del torneo"
+
+msgid "No tournament id"
+msgstr "Sin identificacin del torneo"
+
+msgid "No balance"
+msgstr "Sin equilibrar"
+
+msgid "Not enough balance"
+msgstr "No hay suficiente equilibrio"
+
+msgid "Tournament name required"
+msgstr "Nombre del torneo requerido"
+
+msgid "Wrong tournament winner by"
+msgstr "Ganador del torneo equivocado por"
+
+msgid "Wrong tournament period"
+msgstr "Perodo de torneo equivocado"
+
+msgid "Wrong tournament repeat"
+msgstr "Repeticin errnea del torneo"
+
+msgid "Wrong tournament start date"
+msgstr "Fecha de inicio incorrecta del torneo"
+
+msgid "Tournament not found"
+msgstr "Torneo no encontrado"
+
+msgid "Activated Tournaments"
+msgstr "Torneos activados"
+
+msgid "No tournament"
+msgstr "Sin torneo"
+
+msgid "Wrong event type"
+msgstr "Tipo de evento incorrecto"
+
+msgid "No event id"
+msgstr "Sin identificacin de evento"
+
+msgid "Empty data"
+msgstr "Datos vacios"
+
+msgid "No data"
+msgstr "Sin datos"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Los bonos estn prohibidos para el usuario"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Los torneos estn prohibidos para el usuario"
+
+msgid "Bonus pending cancellation"
+msgstr "Bonificacin pendiente de cancelacin"
+
+msgid "Cancel not supported"
+msgstr "Cancelar no es compatible"
+
+msgid "Awaiting limits information, try later"
+msgstr "En espera de informacin de lmites, intenta ms tarde"
+
+msgid "Error cancellation of the bonus"
+msgstr "Error de cancelacin de la bonificacin"

@@ -1,0 +1,351 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2018-03-01 14:51+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Set transaction type"
+msgstr "กำหนดประเภทธุรกรรม"
+
+msgid "No user id"
+msgstr "ไม่มี ID ผู้ใช้"
+
+msgid "No amount"
+msgstr "ไม่มีจำนวน"
+
+msgid "No loyalty record"
+msgstr "ไม่มีบันทึกรอยัลตี"
+
+msgid "Wrong request path"
+msgstr "เส้นทางคำขอไม่ถูกต้อง"
+
+msgid "Debet amount to big"
+msgstr "จำนวนเดบิตมากเกินไป"
+
+msgid "Wrong transaction type"
+msgstr "ประเภทธุรกรรมไม่ถูกต้อง"
+
+msgid "Awaiting limits information"
+msgstr "กำลังรอข้อมูลขีดจำกัด"
+
+msgid "Wrong currency"
+msgstr "สกุลเงินไม่ถูกต้อง"
+
+msgid "Non existent level"
+msgstr "ระดับนี้ไม่มีอยู่"
+
+msgid "No points"
+msgstr "ไม่มีคะแนน"
+
+msgid "Set loyalty level"
+msgstr "ตั้งค่าระดับรอยัลตี"
+
+msgid "No bet"
+msgstr "ไม่มีเดิมพัน"
+
+msgid "No ID user"
+msgstr "ไม่มีผู้ใช้ ID"
+
+msgid "No ID bonus"
+msgstr "ไม่มีโบนัส ID"
+
+msgid "Wrong amount"
+msgstr "จำนวนเงินไม่ถูกต้อง"
+
+msgid "No bonus ID"
+msgstr "ไม่มี ID โบนัส"
+
+msgid "No user ID"
+msgstr "ไม่มี ID ผู้ใช้"
+
+msgid "Wrong date format"
+msgstr "รูปแบบวันที่ไม่ถูกต้อง"
+
+msgid "Date must not be today"
+msgstr "วันที่ต้องไม่ใช่วันนี้"
+
+msgid "No bonus id"
+msgstr "ไม่มี ID โบนัส"
+
+msgid "No status"
+msgstr "ไม่มีสถานะ"
+
+msgid "Bonus not found"
+msgstr "ไม่พบโบนัส"
+
+msgid "Already have active"
+msgstr "มีการใช้งานอยู่แล้ว"
+
+msgid "Bonus is not available"
+msgstr "โบนัสไม่พร้อมใช้งาน"
+
+msgid "First deposit, already deposited"
+msgstr "เงินฝากครั้งแรกถูกฝากแล้ว"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "ไม่เป็นไปตามเงื่อนไขโบนัส"
+
+msgid "Bonus used"
+msgstr "โบนัสที่ถูกใช้"
+
+msgid "Promo code needed"
+msgstr "จำเป็นต้องมีรหัสโปรโมชั่น"
+
+msgid "Wrong promo code"
+msgstr "รหัสโปรโมชั่นไม่ถูกต้อง"
+
+msgid "User ID not set"
+msgstr "ไม่ได้ตั้ง ID ผู้ใช้"
+
+msgid "Wrong bonus results value"
+msgstr "ค่าผลโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "ค่ารอบอิสระผลโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus results award wagering"
+msgstr "รางวัลการเดิมพันผลโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus results chunk size"
+msgstr "ขนาดก้อนผลโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus results release wagering"
+msgstr "การปล่อยการเดิมพันผลโบนัสไม่ถูกต้อง"
+
+msgid "Bonus name required"
+msgstr "จำเป็นต้องระบุชื่อโบนัส"
+
+msgid "Wrong bonus event"
+msgstr "อีเวนต์โบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus type"
+msgstr "ประเภทโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus repeat period"
+msgstr "ระยะเวลาการซ้ำโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus expire period"
+msgstr "ระยะเวลาการหมดอายุโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus budget"
+msgstr "งบประมาณโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus start date"
+msgstr "วันที่เริ่มต้นโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus end date"
+msgstr "วันที่สิ้นสุดโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "วันที่เริ่มต้นโบนัสมากกว่าวันที่สิ้นสุดไม่ถูกต้อง"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "จำนวนขั้นต่ำสุดของเงื่อนไขโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "จำนวนขั้นสูงสุดของเงื่อนไขโบนัสไม่ถูกต้อง"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "จำนวนขั้นต่ำสุดของเงื่อนไขโบนัสมากกว่าจำนวนขั้นสูงสุดไม่ถูกต้อง"
+
+msgid "Following codes are duplicated"
+msgstr "รหัสต่อไปนี้ซ้ำกัน"
+
+msgid "Bonus name already exists"
+msgstr "ชื่อโบนัสนี้มีอยู่แล้ว"
+
+msgid "Wrong bonus ID"
+msgstr "ID โบนัสไม่ถูกต้อง"
+
+msgid "Activated bonuses"
+msgstr "โบนัสที่ถูกเปิดใช้งาน"
+
+msgid "Can't delete"
+msgstr "ไม่สามารถลบได้"
+
+msgid "No bonus"
+msgstr "ไม่มีโบนัส"
+
+msgid "Wrong store action"
+msgstr "การดำเนินการร้านค้าไม่ถูกต้อง"
+
+msgid "No order id"
+msgstr "ไม่มี ID คำสั่งซื้อ"
+
+msgid "Order not found"
+msgstr "ไม่พบคำสั่งซื้อ"
+
+msgid "No item id"
+msgstr "ไม่มี ID รายการ"
+
+msgid "User not found"
+msgstr "ไม่พบผู้ใช้"
+
+msgid "Item not found"
+msgstr "ไม่พบรายการ"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "ไม่ได้กำหนดราคาสินค้าสำหรับสกุลเงิน: ลอยัลตี้"
+
+msgid "Not enough loyalty points"
+msgstr "คะแนนลอยัลตี้ไม่เพียงพอ"
+
+msgid "Item out of stock"
+msgstr "รายการหมดจากสต็อก"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "จำนวนอีเวนต์โบนัสของรายการไม่ถูกต้อง"
+
+msgid "User not found in tournament"
+msgstr "ไม่พบผู้ใช้ในทัวร์นาเมนต์"
+
+msgid "Set codes count"
+msgstr "กำหนดจำนวนรหัส"
+
+msgid "Set batch name"
+msgstr "กำหนดชื่อแบตช์"
+
+msgid "Codes count exceeds 300 000"
+msgstr "จำนวนรหัสเกิน 300,000"
+
+msgid "Wrong batch ID"
+msgstr "ID แบตช์ไม่ถูกต้อง"
+
+msgid "Codes not set"
+msgstr "ไม่ได้กำหนดรหัส"
+
+msgid "Modificator not found"
+msgstr "ไม่พบตัวปรับเปลี่ยน"
+
+msgid "Set coefficient"
+msgstr "กำหนดค่าสัมประสิทธิ์"
+
+msgid "Set name"
+msgstr "กำหนดชื่อ"
+
+msgid "No levels defined"
+msgstr "ไม่มีการกำหนดระดับ"
+
+msgid "Level not found"
+msgstr "ไม่พบระดับ"
+
+msgid "Bad cronjob"
+msgstr "cronjob ไม่ถูกต้อง"
+
+msgid "No category ID"
+msgstr "ไม่มี ID หมวดหมู่"
+
+msgid "Category not found"
+msgstr "ไม่พบหมวดหมู่"
+
+msgid "No category name"
+msgstr "ไม่มีชื่อหมวดหมู่"
+
+msgid "Wrong category ID"
+msgstr "ID หมวดหมู่ไม่ถูกต้อง"
+
+msgid "No category id"
+msgstr "ไม่มี ID หมวดหมู่"
+
+msgid "No item ID"
+msgstr "ไม่มี ID รายการ"
+
+msgid "Wrong item ID"
+msgstr "ID รายการไม่ถูกต้อง"
+
+msgid "Item init error"
+msgstr "เกิดข้อผิดพลาดในการเริ่มต้นรายการ"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "จำนวนอีเวนต์โบนัสรายการไม่ถูกต้อง"
+
+msgid "No item"
+msgstr "ไม่มีรายการ"
+
+msgid "Wrong tournament ID"
+msgstr "ID ทัวร์นาเมนต์ไม่ถูกต้อง"
+
+msgid "Wrong Tournament ID"
+msgstr "ID ทัวร์นาเมนต์ไม่ถูกต้อง"
+
+msgid "No ID tournament"
+msgstr "ไม่มี ID ทัวร์นาเมนต์"
+
+msgid "No tournament ID"
+msgstr "ไม่มี ID ทัวร์นาเมนต์"
+
+msgid "No tournament id"
+msgstr "ไม่มี ID ทัวร์นาเมนต์"
+
+msgid "No balance"
+msgstr "ไม่มียอดคงเหลือ"
+
+msgid "Not enough balance"
+msgstr "ยอดคงเหลือไม่เพียงพอ"
+
+msgid "Tournament name required"
+msgstr "จำเป็นต้องระบุชื่อทัวร์นาเมนต์"
+
+msgid "Wrong tournament winner by"
+msgstr "ผู้ชนะทัวร์นาเมนต์ไม่ถูกต้อง"
+
+msgid "Wrong tournament period"
+msgstr "ระยะเวลาทัวร์นาเมนต์ไม่ถูกต้อง"
+
+msgid "Wrong tournament repeat"
+msgstr "การซ้ำทัวร์นาเมนต์ไม่ถูกต้อง"
+
+msgid "Wrong tournament start date"
+msgstr "วันเริ่มต้นทัวร์นาเมนต์ไม่ถูกต้อง"
+
+msgid "Tournament not found"
+msgstr "ไม่พบทัวร์นาเมนต์"
+
+msgid "Activated Tournaments"
+msgstr "ทัวร์นาเมนต์ที่ถูกเปิดใช้งาน"
+
+msgid "No tournament"
+msgstr "ไม่มีทัวร์นาเมนต์"
+
+msgid "Wrong event type"
+msgstr "ประเภทอีเวนต์ไม่ถูกต้อง"
+
+msgid "No event id"
+msgstr "ไม่มี ID อีเวนต์"
+
+msgid "Empty data"
+msgstr "ข้อมูลว่างเปล่า"
+
+msgid "No data"
+msgstr "ไม่มีข้อมูล"
+
+msgid "Bonuses are forbidden for user"
+msgstr "โบนัสถูกห้ามสำหรับผู้ใช้"
+
+msgid "Tournaments are forbidden for user"
+msgstr "ทัวร์นาเมนต์ถูกห้ามสำหรับผู้ใช้"
+
+msgid "Bonus pending cancellation"
+msgstr "โบนัสกำลังรอการยกเลิก"
+
+msgid "Cancel not supported"
+msgstr "ไม่รองรับการยกเลิก"
+
+msgid "Awaiting limits information, try later"
+msgstr "กำลังรอข้อมูลขีดจำกัด โปรดลองในภายหลัง"
+
+msgid "Error cancellation of the bonus"
+msgstr "เกิดข้อผิดพลาดในการยกเลิกโบนัส"

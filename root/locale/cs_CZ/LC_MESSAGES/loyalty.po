@@ -1,0 +1,358 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2021-05-09 21:15+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "Set transaction type"
+msgstr "Nastavit typ transakce"
+
+msgid "No user id"
+msgstr "Žádné ID uživatele"
+
+msgid "No amount"
+msgstr "Žádná částka"
+
+msgid "No loyalty record"
+msgstr "Žádné věrnostní záznamy"
+
+msgid "Wrong request path"
+msgstr "Nesprávná cesta požadavku"
+
+msgid "Debet amount to big"
+msgstr "Částka k odepsání je příliš vysoká"
+
+msgid "Wrong transaction type"
+msgstr "Nesprávný typ transakce"
+
+msgid "Awaiting limits information"
+msgstr "Čekání na informace o limitech"
+
+msgid "Wrong currency"
+msgstr "Nesprávná měna"
+
+msgid "Non existent level"
+msgstr "Neexistující úroveň"
+
+msgid "No points"
+msgstr "Žádné body"
+
+msgid "Set loyalty level"
+msgstr "Nastavit věrnostní úroveň"
+
+msgid "No bet"
+msgstr "Žádná sázka"
+
+msgid "No ID user"
+msgstr "Žádné ID uživatele"
+
+msgid "No ID bonus"
+msgstr "Žádné ID bonusu"
+
+msgid "Wrong amount"
+msgstr "Nesprávná částka"
+
+msgid "No bonus ID"
+msgstr "Žádné bonusové ID"
+
+msgid "No user ID"
+msgstr "Žádné uživatelské ID"
+
+msgid "Wrong date format"
+msgstr "Nesprávný formát data"
+
+msgid "Date must not be today"
+msgstr "Nesmí být dnešní datum"
+
+msgid "No bonus id"
+msgstr "Žádné ID bonusu"
+
+msgid "No status"
+msgstr "Žádný stav"
+
+msgid "Bonus not found"
+msgstr "Bonus nenalezen"
+
+msgid "Already have active"
+msgstr "Již aktivní"
+
+msgid "Bonus is not available"
+msgstr "Bonus není dostupný"
+
+msgid "First deposit, already deposited"
+msgstr "První vklad, již vloženo"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Nesplněny podmínky čerpání bonusu"
+
+msgid "Bonus used"
+msgstr "Bonus již použitý"
+
+msgid "Promo code needed"
+msgstr "Je třeba promo kód"
+
+msgid "Wrong promo code"
+msgstr "Nesprávný promo kód"
+
+msgid "User ID not set"
+msgstr "ID uživatele nenastaveno"
+
+msgid "Wrong bonus results value"
+msgstr "Nesprávná hodnota výsledků bonusu"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Nesprávná hodnota výsledků volných kol bonusu"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Nesprávné výsledky bonusu odměna za sázení"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Nesprávné výsledky bonusu velikost části"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Nesprávné výsledky bonusu uvolňovací sázka"
+
+msgid "Bonus name required"
+msgstr "Název bonusu je povinný"
+
+msgid "Wrong bonus event"
+msgstr "Nesprávná bonusová událost"
+
+msgid "Wrong bonus type"
+msgstr "Nesprávný typ bonusu"
+
+msgid "Wrong bonus repeat period"
+msgstr "Nesprávné období pro opakování bonusu"
+
+msgid "Wrong bonus expire period"
+msgstr "Nesprávná platnost bonusu"
+
+msgid "Wrong bonus budget"
+msgstr "Nesprávný rozpočet bonusu"
+
+msgid "Wrong bonus start date"
+msgstr "Nesprávné datum zahájení bonusu"
+
+msgid "Wrong bonus end date"
+msgstr "Nesprávné datum ukončení bonusu"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Datum zahájení bonusu je později, než datum jeho ukončení"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Nesprávné podmínky bonusu - minimální částka"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Nesprávná podmínka maximální částky bonusu"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Nesprávné podmínky bonusu - minimální částka je vyšší než maximální"
+
+msgid "Following codes are duplicated"
+msgstr "Následující kódy jsou duplicitní"
+
+msgid "Bonus name already exists"
+msgstr "Název bonusu už existuje"
+
+msgid "Wrong bonus ID"
+msgstr "Nesprávné ID bonusu"
+
+msgid "Activated bonuses"
+msgstr "Aktivované bonusy"
+
+msgid "Can't delete"
+msgstr "Nelze smazat"
+
+msgid "No bonus"
+msgstr "Žádný bonus"
+
+msgid "Wrong store action"
+msgstr "Nesprávná akce obchodu"
+
+msgid "No order id"
+msgstr "Žádné ID objednávky"
+
+msgid "Order not found"
+msgstr "Objednávka nenalezena"
+
+msgid "No item id"
+msgstr "Žádné ID položky"
+
+msgid "User not found"
+msgstr "Uživatel nenalezen"
+
+msgid "Item not found"
+msgstr "Položka nenalezena"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Cena položky není nastavena pro měnu: VĚRNOST"
+
+msgid "Not enough loyalty points"
+msgstr "Nedostatek věrnostních bodů"
+
+msgid "Item out of stock"
+msgstr "Položka není skladem"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Nesprávná hodnota položky BonusEventAmount"
+
+msgid "User not found in tournament"
+msgstr "Uživatel v turnaji nenalezen"
+
+msgid "Set codes count"
+msgstr "Nastavit počítadlo kódů"
+
+msgid "Set batch name"
+msgstr "Nastavit jméno sady"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Počítadlo kódů překračuje hodnotu 300 000"
+
+msgid "Wrong batch ID"
+msgstr "Nesprávné ID sady"
+
+msgid "Codes not set"
+msgstr "Kódy nejsou nastaveny"
+
+msgid "Modificator not found"
+msgstr "Modifikátor nenalezen"
+
+msgid "Set coefficient"
+msgstr "Nastavit koeficient"
+
+msgid "Set name"
+msgstr "Nastavit jméno"
+
+msgid "No levels defined"
+msgstr "Nejsou definovány žádné úrovně"
+
+msgid "Level not found"
+msgstr "Úroveň nenalezena"
+
+msgid "Bad cronjob"
+msgstr "Nesprávný cronjob"
+
+msgid "No category ID"
+msgstr "Žádné ID kategorie"
+
+msgid "Category not found"
+msgstr "Kategorie nenalezena"
+
+msgid "No category name"
+msgstr "Žádný název kategorie"
+
+msgid "Wrong category ID"
+msgstr "Nesprávné ID kategorie"
+
+msgid "No category id"
+msgstr "Žádné ID kategorie"
+
+msgid "No item ID"
+msgstr "Žádné ID položky"
+
+msgid "Wrong item ID"
+msgstr "Nesprávné ID položky"
+
+msgid "Item init error"
+msgstr "Chyba inicializace položky"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Nesprávná položka BonusEventAmount"
+
+msgid "No item"
+msgstr "Žádná položka"
+
+msgid "Wrong tournament ID"
+msgstr "Nesprávné ID turnaje"
+
+msgid "Wrong Tournament ID"
+msgstr "Nesprávné ID turnaje"
+
+msgid "No ID tournament"
+msgstr "Žádné ID turnaje"
+
+msgid "No tournament ID"
+msgstr "Žádné ID turnaje"
+
+msgid "No tournament id"
+msgstr "Žádné ID turnaje"
+
+msgid "No balance"
+msgstr "Žádný zůstatek"
+
+msgid "Not enough balance"
+msgstr "Nedostatečný zůstatek"
+
+msgid "Tournament name required"
+msgstr "Název turnaje je povinný"
+
+msgid "Wrong tournament winner by"
+msgstr "Nesprávný vítěz turnaje"
+
+msgid "Wrong tournament period"
+msgstr "Nesprávné období turnaje"
+
+msgid "Wrong tournament repeat"
+msgstr "Nesprávné opakování turnaje"
+
+msgid "Wrong tournament start date"
+msgstr "Nesprávné datum zahájení turnaje"
+
+msgid "Tournament not found"
+msgstr "Turnaj nenalezen"
+
+msgid "Activated Tournaments"
+msgstr "Aktivované turnaje"
+
+msgid "No tournament"
+msgstr "Žádný turnaj"
+
+msgid "Wrong event type"
+msgstr "Nesprávný typ události"
+
+msgid "No event id"
+msgstr "Žádné ID události"
+
+msgid "Empty data"
+msgstr "Prázdná data"
+
+msgid "No data"
+msgstr "Žádná data"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonusy jsou pro uživatele zakázané"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Turnaje jsou pro uživatele zakázané"
+
+msgid "Bonus pending cancellation"
+msgstr "Bonus čeká na zrušení"
+
+msgid "Cancel not supported"
+msgstr "Zrušení nepodporováno"
+
+msgid "Awaiting limits information, try later"
+msgstr "Čekání na informace limitech, zkuste to znovu později"
+
+msgid "Error cancellation of the bonus"
+msgstr "Chyba při rušení bonusu"
+
+msgid "Purchase is not possible - the item has been disabled"
+msgstr "Nákup není možný - položka byla zakázaná"
+
+msgid "Purchase is not possible - the item has been deleted"
+msgstr "Nákup není možný - položka byla odstraněna"

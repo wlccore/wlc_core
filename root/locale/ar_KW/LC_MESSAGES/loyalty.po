@@ -1,0 +1,352 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2021-01-13 18:30+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "Set transaction type"
+msgstr "حدد نوع المعاملة"
+
+msgid "No user id"
+msgstr "معرف المستخدم غير موجود"
+
+msgid "No amount"
+msgstr "لا يوجد مبلغ"
+
+msgid "No loyalty record"
+msgstr "لا يوجد سجل ولاء"
+
+msgid "Wrong request path"
+msgstr "مسار الطلب خاطئ"
+
+msgid "Debet amount to big"
+msgstr "مبلغ الدين كبير"
+
+msgid "Wrong transaction type"
+msgstr "نوع المعاملة غير صحيح"
+
+msgid "Awaiting limits information"
+msgstr "في إنتظار حدود المعلومات"
+
+msgid "Wrong currency"
+msgstr "عملة خاطئة"
+
+msgid "Non existent level"
+msgstr "مستوى غير موجود"
+
+msgid "No points"
+msgstr "لا يوجد نقاط"
+
+msgid "Set loyalty level"
+msgstr "حدد مستوى الولاء"
+
+msgid "No bet"
+msgstr "لا يوجد رهان"
+
+msgid "No ID user"
+msgstr "معرف المستخدم غير موجود"
+
+msgid "No ID bonus"
+msgstr "معرف المكافأة غير موجود"
+
+msgid "Wrong amount"
+msgstr "مبلغ خاطئ"
+
+msgid "No bonus ID"
+msgstr "معرف المكافأة غير موجود"
+
+msgid "No user ID"
+msgstr "معرف المستخدم غير موجود"
+
+msgid "Wrong date format"
+msgstr "تنسيق التاريخ غير صحيح"
+
+msgid "Date must not be today"
+msgstr "يجب ألا يكون التاريخ اليوم"
+
+msgid "No bonus id"
+msgstr "معرف مكافأة غير موجود"
+
+msgid "No status"
+msgstr "لا توجد حالة"
+
+msgid "Bonus not found"
+msgstr "لم يتم العثور على المكافأة"
+
+msgid "Already have active"
+msgstr "نشطة بالفعل"
+
+msgid "Bonus is not available"
+msgstr "المكافأة غير متوفرة"
+
+msgid "First deposit, already deposited"
+msgstr "أول إيداع تم إيداعه بالفعل"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "لا تفي بشروط المكافأة"
+
+msgid "Bonus used"
+msgstr "تم إستخدام المكافأة"
+
+msgid "Promo code needed"
+msgstr "الكود الترويجي مطلوب"
+
+msgid "Wrong promo code"
+msgstr "كود ترويجى خاطئ"
+
+msgid "User ID not set"
+msgstr "لم يتم تعيين معرف المستخدم"
+
+msgid "Wrong bonus results value"
+msgstr "قيمة نتائج المكافأة خاطئة"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "قيمة نتائج الجولات الحرة للمكافأة خاطئة"
+
+msgid "Wrong bonus results award wagering"
+msgstr "جائزة الرهان على نتائج المكافة خاطئة"
+
+msgid "Wrong bonus results chunk size"
+msgstr "حجم قطعة المكافأة خط"
+
+msgid "Wrong bonus results release wagering"
+msgstr "نتائج مكافأة رهان خاطئة "
+
+msgid "Bonus name required"
+msgstr "اسم المكافأة مطلوب"
+
+msgid "Wrong bonus event"
+msgstr "حدث مكافأة خاطئ"
+
+msgid "Wrong bonus type"
+msgstr "نوع المكافأة خاطئ"
+
+msgid "Wrong bonus repeat period"
+msgstr "فترة تكرار المكافأة خاطئة"
+
+msgid "Wrong bonus expire period"
+msgstr "فترة إنتهاء صلاحية مكافأة خاطئة"
+
+msgid "Wrong bonus budget"
+msgstr "ميزانية المكافأة خاطئة"
+
+msgid "Wrong bonus start date"
+msgstr "تاريخ بدء المكافأة خطأ"
+
+msgid "Wrong bonus end date"
+msgstr "تاريخ إنتهاء المكافأة خطأ"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "تاريخ بدء المكافأة خطأ أكثر من تاريخ الإنتهاء"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "الحد الأدنى لمبلغ شروط المكافأة خاطئ"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "الحد الأقصى لمبلغ شروط المكافأة خاطئ"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "الحد الأدنى لمبلغ شروط المكافأة اكثر من الحد الأقصى"
+
+msgid "Following codes are duplicated"
+msgstr "الأكواد التالية مكررة"
+
+msgid "Bonus name already exists"
+msgstr "اسم المكافأة موجود بالفعل"
+
+msgid "Wrong bonus ID"
+msgstr "معرف المكافأة خاطئ"
+
+msgid "Activated bonuses"
+msgstr "تنشيط المكافآت"
+
+msgid "Can't delete"
+msgstr "لا يمكن الحذف"
+
+msgid "No bonus"
+msgstr "لا يوجد مكافأة"
+
+msgid "Wrong store action"
+msgstr "إجراء متجر خاطئ"
+
+msgid "No order id"
+msgstr "معرف الطلب غير موجود"
+
+msgid "Order not found"
+msgstr "لم يتم العثور على الطلب"
+
+msgid "No item id"
+msgstr "معرف العنصر غير موجود"
+
+msgid "User not found"
+msgstr "لم يتم العثور على المستخدم"
+
+msgid "Item not found"
+msgstr "لم يتم العثور على العنصر"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "لم يتم تعيين سعر العنصر للعملة: LOYALTY"
+
+msgid "Not enough loyalty points"
+msgstr "لا توجد نقاط ولاء كافية"
+
+msgid "Item out of stock"
+msgstr "نفذ العنصر من المخزون"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "خطأ BonusEventAmount في العنصر"
+
+msgid "User not found in tournament"
+msgstr "لم يتم العثور على المستخدم في الدورة"
+
+msgid "Set codes count"
+msgstr "تعيين عدد الأكواد"
+
+msgid "Set batch name"
+msgstr "ضبط إسم الدفعة"
+
+msgid "Codes count exceeds 300 000"
+msgstr "تجاوز عدد الأكواد  300000"
+
+msgid "Wrong batch ID"
+msgstr "معرف دفعة خاطئ"
+
+msgid "Codes not set"
+msgstr "لم يتم تعيين الأكواد"
+
+msgid "Modificator not found"
+msgstr "الوسيط غير موجود"
+
+msgid "Set coefficient"
+msgstr "ضبط الدرجة"
+
+msgid "Set name"
+msgstr "ضبط الإسم"
+
+msgid "No levels defined"
+msgstr "لم يتم تحديد المستويات"
+
+msgid "Level not found"
+msgstr "لم يتم العثور على المستوى"
+
+msgid "Bad cronjob"
+msgstr " cronjob خطأ"
+
+msgid "No category ID"
+msgstr "معرف الفئة غير موجود"
+
+msgid "Category not found"
+msgstr "لم يتم العثور على الفئة"
+
+msgid "No category name"
+msgstr "إسم الفئة غير موجود"
+
+msgid "Wrong category ID"
+msgstr "معرف فئة خاطئ"
+
+msgid "No category id"
+msgstr "معرف الفئة غير موجود"
+
+msgid "No item ID"
+msgstr "معرف العنصر غير موجود"
+
+msgid "Wrong item ID"
+msgstr "معرف عنصر خاطئ"
+
+msgid "Item init error"
+msgstr "خطأ في تهيئة العنصر"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "عنصر خطأ BonusEventAmount"
+
+msgid "No item"
+msgstr "لا يوجد عناصر"
+
+msgid "Wrong tournament ID"
+msgstr "معرف الدورة خاطئ"
+
+msgid "Wrong Tournament ID"
+msgstr "معرف الدورة خاطئ"
+
+msgid "No ID tournament"
+msgstr "معرف الدورة غير موجود"
+
+msgid "No tournament ID"
+msgstr "معرف الدورة غير موجود"
+
+msgid "No tournament id"
+msgstr "معرف الدورة غير موجود"
+
+msgid "No balance"
+msgstr "لا يوجد رصيد"
+
+msgid "Not enough balance"
+msgstr "لا يوجد رصيد كافٍ"
+
+msgid "Tournament name required"
+msgstr "اسم الدورة مطلوب"
+
+msgid "Wrong tournament winner by"
+msgstr "الفائز بالبطولة الخطأ"
+
+msgid "Wrong tournament period"
+msgstr "فترة الدورة خاطئة"
+
+msgid "Wrong tournament repeat"
+msgstr "تكرار الدورة خاطئ"
+
+msgid "Wrong tournament start date"
+msgstr "تاريخ بدء الدورة خاطئ"
+
+msgid "Tournament not found"
+msgstr "الدورة عير موجودة"
+
+msgid "Activated Tournaments"
+msgstr "دورات نشطة"
+
+msgid "No tournament"
+msgstr "لا يوجد دورة"
+
+msgid "Wrong event type"
+msgstr "نوع الحدث خاطئ"
+
+msgid "No event id"
+msgstr "معرف الحدث غير موجود"
+
+msgid "Empty data"
+msgstr "بيانات فارغة"
+
+msgid "No data"
+msgstr "لا يوجد بيانات"
+
+msgid "Bonuses are forbidden for user"
+msgstr "المكافآت ممنوعة على المستخدم"
+
+msgid "Tournaments are forbidden for user"
+msgstr "الدورات ممنوعة على المستخدم"
+
+msgid "Bonus pending cancellation"
+msgstr "مكافأة معلقة الإلغاء"
+
+msgid "Cancel not supported"
+msgstr "إلغاء غير مدعوم"
+
+msgid "Awaiting limits information, try later"
+msgstr "في انتظار حدود المعلومات, حاول لاحقًا"
+
+msgid "Error cancellation of the bonus"
+msgstr "خطأ في إلغاء المكافأة"

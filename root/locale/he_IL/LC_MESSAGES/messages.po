@@ -1,0 +1,1383 @@
+# Hebrew translations for WLC_CORE package.
+# Copyright (C) 2021 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.4.71\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  messages_tpl.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  messages_code.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+
+msgid "Congratulations,"
+msgstr ""
+
+msgid "Dear"
+msgstr ""
+
+msgid "Deposit confirmation"
+msgstr ""
+
+msgid "Deposit success notification. Your balance"
+msgstr ""
+
+msgid "Finish registration link"
+msgstr ""
+
+msgid "Greeting."
+msgstr ""
+
+msgid "Hello"
+msgstr ""
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr ""
+
+msgid "If you have any questions, please contact"
+msgstr ""
+
+msgid "Link will be available for 30 minutes."
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password restore"
+msgstr ""
+
+msgid "Please click on the link below to finish registration:"
+msgstr ""
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+
+msgid "Registration confirmation"
+msgstr ""
+
+msgid "Restore your password by clicking the link below."
+msgstr ""
+
+msgid "Social registration confirmation"
+msgstr ""
+
+msgid "Thank you for validating your account."
+msgstr ""
+
+msgid "Thanks for registration on the website!"
+msgstr ""
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr ""
+
+msgid "Welcome to"
+msgstr ""
+
+msgid "With respect"
+msgstr ""
+
+msgid "You asked to link new social account to your current account"
+msgstr ""
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+
+msgid "casino_footer_copyright"
+msgstr ""
+
+msgid "casino_mail_info"
+msgstr ""
+
+msgid "online support"
+msgstr ""
+
+msgid "controller_does_not_exists"
+msgstr ""
+
+msgid "social_not_found"
+msgstr ""
+
+msgid "purchase_error"
+msgstr ""
+
+msgid "game_added_to_favorites"
+msgstr ""
+
+msgid "game_deleted_from_favorites"
+msgstr ""
+
+msgid "must_login"
+msgstr ""
+
+msgid "No bonus name"
+msgstr ""
+
+msgid "No bonus descripton"
+msgstr ""
+
+msgid "No user id"
+msgstr ""
+
+msgid "No bonus id"
+msgstr ""
+
+msgid "No status"
+msgstr ""
+
+msgid "Bonus not found"
+msgstr ""
+
+msgid "Already have active"
+msgstr ""
+
+msgid "Bonus is not available"
+msgstr ""
+
+msgid "First deposit, already deposited"
+msgstr ""
+
+msgid "No loyalty record"
+msgstr ""
+
+msgid "Dont satisfy bonus conditions"
+msgstr ""
+
+msgid "Bonus used"
+msgstr ""
+
+msgid "Promo code needed"
+msgstr ""
+
+msgid "Wrong promo code"
+msgstr ""
+
+msgid "Bonuses are forbidden for user"
+msgstr ""
+
+msgid "Already have an active bonus"
+msgstr ""
+
+msgid "registration"
+msgstr ""
+
+msgid "verification"
+msgstr ""
+
+msgid "sign up"
+msgstr ""
+
+msgid "store"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "deposit"
+msgstr ""
+
+msgid "deposit first"
+msgstr ""
+
+msgid "deposit sum"
+msgstr ""
+
+msgid "deposit repeated"
+msgstr ""
+
+msgid "bet"
+msgstr ""
+
+msgid "bet sum"
+msgstr ""
+
+msgid "win sum"
+msgstr ""
+
+msgid "loss sum"
+msgstr ""
+
+msgid "once"
+msgstr ""
+
+msgid "day"
+msgstr ""
+
+msgid "week"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "bonus"
+msgstr ""
+
+msgid "win"
+msgstr ""
+
+msgid "win and bonus"
+msgstr ""
+
+msgid "winevent"
+msgstr ""
+
+msgid "winbonusevent"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "balance"
+msgstr ""
+
+msgid "experience"
+msgstr ""
+
+msgid "loyalty"
+msgstr ""
+
+msgid "absolute"
+msgstr ""
+
+msgid "relative"
+msgstr ""
+
+msgid "bets"
+msgstr ""
+
+msgid "wins"
+msgstr ""
+
+msgid "turnover"
+msgstr ""
+
+msgid "negative turnover"
+msgstr ""
+
+msgid "unlimited"
+msgstr ""
+
+msgid "one day"
+msgstr ""
+
+msgid "two days"
+msgstr ""
+
+msgid "three days"
+msgstr ""
+
+msgid "seven days"
+msgstr ""
+
+msgid "ten days"
+msgstr ""
+
+msgid "fourteen days"
+msgstr ""
+
+msgid "thirty days"
+msgstr ""
+
+msgid "sixty days"
+msgstr ""
+
+msgid "ninety days"
+msgstr ""
+
+msgid "one week"
+msgstr ""
+
+msgid "two weeks"
+msgstr ""
+
+msgid "one month"
+msgstr ""
+
+msgid "every day"
+msgstr ""
+
+msgid "every week"
+msgstr ""
+
+msgid "every two weeks"
+msgstr ""
+
+msgid "every month"
+msgstr ""
+
+msgid "fee"
+msgstr ""
+
+msgid "turnover and fee"
+msgstr ""
+
+msgid "everyday"
+msgstr ""
+
+msgid "monday"
+msgstr ""
+
+msgid "tuesday"
+msgstr ""
+
+msgid "wednesday"
+msgstr ""
+
+msgid "thursday"
+msgstr ""
+
+msgid "friday"
+msgstr ""
+
+msgid "saturday"
+msgstr ""
+
+msgid "sunday"
+msgstr ""
+
+msgid "transaction_list_is_empty"
+msgstr ""
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr ""
+
+msgid "cancelled"
+msgstr ""
+
+msgid "rejected"
+msgstr ""
+
+msgid "error"
+msgstr ""
+
+msgid "in_progress"
+msgstr ""
+
+msgid "confirmed"
+msgstr ""
+
+msgid "pending"
+msgstr ""
+
+msgid "system_error"
+msgstr ""
+
+msgid "completed"
+msgstr ""
+
+msgid "aborted"
+msgstr ""
+
+msgid "credit"
+msgstr ""
+
+msgid "debet"
+msgstr ""
+
+msgid "withdraw_unavailable"
+msgstr ""
+
+msgid "withdraw_check_error"
+msgstr ""
+
+msgid "set_amount"
+msgstr ""
+
+msgid "set_payment_system"
+msgstr ""
+
+msgid "country_and_birth_date_required"
+msgstr ""
+
+msgid "payment_request_sent"
+msgstr ""
+
+msgid "payment_request_error"
+msgstr ""
+
+msgid "max_limit_of_withdraw_reached"
+msgstr ""
+
+msgid "sys_error_message"
+msgstr ""
+
+msgid "input_purse"
+msgstr ""
+
+msgid "payment_withdraw_sent"
+msgstr ""
+
+msgid "New password is empty"
+msgstr ""
+
+msgid "Repeat password is empty"
+msgstr ""
+
+msgid "Code is empty"
+msgstr ""
+
+msgid "Code is incorrect"
+msgstr ""
+
+msgid "Password must be at least 6 characters long"
+msgstr ""
+
+msgid "pass_not_match"
+msgstr ""
+
+msgid "Session expired"
+msgstr ""
+
+msgid "social_account_expired"
+msgstr ""
+
+msgid "Empty to address"
+msgstr ""
+
+msgid "Empty subject"
+msgstr ""
+
+msgid "Empty message"
+msgstr ""
+
+msgid "Empty required parameter"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Not allowed player country"
+msgstr ""
+
+msgid "Demo not supported"
+msgstr ""
+
+msgid "Your currency is not supported by this provider"
+msgstr ""
+
+msgid "Branded games are not enabled"
+msgstr ""
+
+msgid "Self exclusion date"
+msgstr ""
+
+msgid "Self exclusion"
+msgstr ""
+
+msgid "does not exists"
+msgstr ""
+
+msgid "Method is not supported"
+msgstr ""
+
+msgid "Data type is not found"
+msgstr ""
+
+msgid "Invalid request parameters"
+msgstr ""
+
+msgid "No bonus description"
+msgstr ""
+
+msgid "Selected"
+msgstr ""
+
+msgid "Qualified"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Deactivated"
+msgstr ""
+
+msgid "Canceled"
+msgstr ""
+
+msgid "Ending"
+msgstr ""
+
+msgid "Ended"
+msgstr ""
+
+msgid "Loyalty API Failure"
+msgstr ""
+
+msgid "Loyalty result not supported"
+msgstr ""
+
+msgid "User not found"
+msgstr ""
+
+msgid "Unable fetch oauth access token"
+msgstr ""
+
+msgid "Access token is missing"
+msgstr ""
+
+msgid "Empty access token user identifier"
+msgstr ""
+
+msgid "Empty access token identifier"
+msgstr ""
+
+msgid "Method not allowed"
+msgstr ""
+
+msgid "Your country is on the forbidden list"
+msgstr ""
+
+msgid "User profile is incomplete"
+msgstr ""
+
+msgid "Achievement result is not list"
+msgstr ""
+
+msgid "Unknown route path"
+msgstr ""
+
+msgid "Too many requests"
+msgstr ""
+
+msgid "Code is not valid"
+msgstr ""
+
+msgid "Too many requests. Captcha required"
+msgstr ""
+
+msgid "Method Not Allowed"
+msgstr ""
+
+msgid "Api endpoint not found"
+msgstr ""
+
+msgid "Confirm your email to start games"
+msgstr ""
+
+msgid "User not authorized"
+msgstr ""
+
+msgid "Merchant system not selected or invalid"
+msgstr ""
+
+msgid "Amount is not selected or invalid"
+msgstr ""
+
+msgid "Bonus result is not list"
+msgstr ""
+
+msgid "Bonus ID Not found"
+msgstr ""
+
+msgid "Bonus Selected Not found"
+msgstr ""
+
+msgid "User is not authorized"
+msgstr ""
+
+msgid "Empty cashback id"
+msgstr ""
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr ""
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Branch code"
+msgstr ""
+
+msgid "Bank name"
+msgstr ""
+
+msgid "Branch name"
+msgstr ""
+
+msgid "Account type"
+msgstr ""
+
+msgid "Account number"
+msgstr ""
+
+msgid "Account name"
+msgstr ""
+
+msgid "Reference number"
+msgstr ""
+
+msgid "Uploadable files is empty"
+msgstr ""
+
+msgid "Exceeds allowed file size"
+msgstr ""
+
+msgid "Mb"
+msgstr ""
+
+msgid "Document ID not found"
+msgstr ""
+
+msgid "Request invalid. Error: "
+msgstr ""
+
+msgid "Games catalog is temporary unavailable"
+msgstr ""
+
+msgid "Empty launch code"
+msgstr ""
+
+msgid "Empty merchant identifier"
+msgstr ""
+
+msgid "Empty games catalog"
+msgstr ""
+
+msgid "Unknown game launch code"
+msgstr ""
+
+msgid "Not supported exception"
+msgstr ""
+
+msgid "Bad request"
+msgstr ""
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+msgid "Unable find user identifier"
+msgstr ""
+
+msgid "Unknown error occured"
+msgstr ""
+
+msgid "Limit not provided "
+msgstr ""
+
+msgid "Invalid Limit value "
+msgstr ""
+
+msgid "Wrong request"
+msgstr ""
+
+msgid "Unknown provider"
+msgstr ""
+
+msgid "Token not found"
+msgstr ""
+
+msgid "Invalid token provided"
+msgstr ""
+
+msgid "Phone already verified"
+msgstr ""
+
+msgid "Insufficient parameters"
+msgstr ""
+
+msgid "Configuration error"
+msgstr ""
+
+msgid "Invalid verification code"
+msgstr ""
+
+msgid "Empty phone number"
+msgstr ""
+
+msgid "Invalid phone number"
+msgstr ""
+
+msgid "Anonymous"
+msgstr ""
+
+msgid "Item not found"
+msgstr ""
+
+msgid "Sent from web-form at"
+msgstr ""
+
+msgid "Service not found"
+msgstr ""
+
+msgid "Unauthorized"
+msgstr ""
+
+msgid "Tournaments history error"
+msgstr ""
+
+msgid "Tournaments list not available"
+msgstr ""
+
+msgid "Tournaments type not found"
+msgstr ""
+
+msgid "Tournament not found"
+msgstr ""
+
+msgid "Tournaments subscribe error"
+msgstr ""
+
+msgid "Insufficient monetary turnover"
+msgstr ""
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr ""
+
+msgid "Need verification"
+msgstr ""
+
+msgid "Need additional verification"
+msgstr ""
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr ""
+
+msgid "Password repeat is empty"
+msgstr ""
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+
+msgid "Password must contain latin letters and numbers"
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr ""
+
+msgid "Password is empty"
+msgstr ""
+
+msgid "Password is invalid"
+msgstr ""
+
+msgid "Code is invalid"
+msgstr ""
+
+msgid "Email change is not allowed"
+msgstr ""
+
+msgid "Email is required"
+msgstr ""
+
+msgid "User update failed"
+msgstr ""
+
+msgid "Registration data validation failed"
+msgstr ""
+
+msgid "Invalid validation code"
+msgstr ""
+
+msgid "Empty unsubscribe code"
+msgstr ""
+
+msgid "Internal error"
+msgstr ""
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+
+msgid "Registration_complete"
+msgstr ""
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+msgid "Insufficient account balance"
+msgstr ""
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+
+msgid "Zendesk not configured"
+msgstr ""
+
+msgid "Impossible to send email"
+msgstr ""
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+msgid "Invalid confirmation code"
+msgstr ""
+
+msgid "Server returned invalid response"
+msgstr ""
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+msgid "Operator unknown error"
+msgstr ""
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+msgid "Unknown subscriber"
+msgstr ""
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+msgid "GSM encoding is not supported"
+msgstr ""
+
+msgid "UCS2 encoding is not supported"
+msgstr ""
+
+msgid "Binary encoding is not supported"
+msgstr ""
+
+msgid "Delivery report is not supported"
+msgstr ""
+
+msgid "Invalid message content"
+msgstr ""
+
+msgid "Invalid tariff"
+msgstr ""
+
+msgid "Invalid user data"
+msgstr ""
+
+msgid "Invalid user data header"
+msgstr ""
+
+msgid "Invalid data coding"
+msgstr ""
+
+msgid "Invalid VAT"
+msgstr ""
+
+msgid "Unsupported content for destination"
+msgstr ""
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr ""
+
+msgid "Not specified API key"
+msgstr ""
+
+msgid "Incorrect API key"
+msgstr ""
+
+msgid "Incorrect IP address client"
+msgstr ""
+
+msgid "Invalid command"
+msgstr ""
+
+msgid "Specified command does not exist or is not available"
+msgstr ""
+
+msgid "System error"
+msgstr ""
+
+msgid "Not specified the SMS identifier"
+msgstr ""
+
+msgid "Sender address does not exist"
+msgstr ""
+
+msgid "Not specified content"
+msgstr ""
+
+msgid "Faulty or unsupported country code"
+msgstr ""
+
+msgid "Content is too long"
+msgstr ""
+
+msgid "Incorrect encoding of the content"
+msgstr ""
+
+msgid "Exceeded monthly limit"
+msgstr ""
+
+msgid "Batch ID does not exist"
+msgstr ""
+
+msgid "List recipients does not exist"
+msgstr ""
+
+msgid "Invalid recipient number"
+msgstr ""
+
+msgid "No content"
+msgstr ""
+
+msgid "Wrong content"
+msgstr ""
+
+msgid "Unable send message"
+msgstr ""
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+
+msgid "Unsupported authentication provider"
+msgstr ""
+
+msgid "connect_social_account_email_theme"
+msgstr ""
+
+msgid "not_logged_in"
+msgstr ""
+
+msgid "trying_delete_last_social"
+msgstr ""
+
+msgid "please_set_email"
+msgstr ""
+
+msgid "please_set_password"
+msgstr ""
+
+msgid "Code incorrect, user not found"
+msgstr ""
+
+msgid "email_has_been_verified"
+msgstr ""
+
+msgid "Transaction value generation failed"
+msgstr ""
+
+msgid "email_to_connect_social_sent"
+msgstr ""
+
+msgid "Registration complete"
+msgstr ""
+
+msgid "_ip_fraud_msg"
+msgstr ""
+
+msgid "Session is expired"
+msgstr ""
+
+msgid "Withdrawal ID not specified"
+msgstr ""
+
+msgid "System ID not specified"
+msgstr ""
+
+msgid "Incorrect email, please try again from the start"
+msgstr ""
+
+msgid "Email is empty"
+msgstr ""
+
+msgid "Error, account with this email does not exist."
+msgstr ""
+
+msgid "Unable generate temporary restore user code"
+msgstr ""
+
+msgid "Password recovery"
+msgstr ""
+
+msgid "current_password_empty"
+msgstr ""
+
+msgid "Current password is incorrect"
+msgstr ""
+
+msgid "day_not_set"
+msgstr ""
+
+msgid "month_not_set"
+msgstr ""
+
+msgid "year_not_set"
+msgstr ""
+
+msgid "Country is not picked"
+msgstr ""
+
+msgid "Gender is not picked"
+msgstr ""
+
+msgid "input_repeated_password"
+msgstr ""
+
+msgid "Password does not match"
+msgstr ""
+
+msgid "Email field is empty or incorrect"
+msgstr ""
+
+msgid "Email already in use"
+msgstr ""
+
+msgid "Email field is incorrect"
+msgstr ""
+
+msgid "Login field is empty"
+msgstr ""
+
+msgid "Email field is empty"
+msgstr ""
+
+msgid "login_already_in_use"
+msgstr ""
+
+msgid "phone_empty"
+msgstr ""
+
+msgid "Phone number is incorrect. Must be"
+msgstr ""
+
+msgid "Phone number too long"
+msgstr ""
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr ""
+
+msgid "new_pass_less_6_symbols"
+msgstr ""
+
+msgid "first_name_empty"
+msgstr ""
+
+msgid "last_name_empty"
+msgstr ""
+
+msgid "New email field is incorrect"
+msgstr ""
+
+msgid "User verification failed"
+msgstr ""
+
+msgid "authorization_error_sms"
+msgstr ""
+
+msgid "authorization_error"
+msgstr ""
+
+msgid "You have to verify your email first"
+msgstr ""
+
+msgid "password_expired"
+msgstr ""
+
+msgid "registration_in_progress"
+msgstr ""
+
+msgid "user_disabled"
+msgstr ""
+
+msgid "Access forbidden"
+msgstr ""
+
+msgid "Email field incorrect"
+msgstr ""
+
+msgid "email_empty_incorrect"
+msgstr ""
+
+msgid "pass_less_6_symbols"
+msgstr ""
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr ""
+
+msgid "currency_not_set"
+msgstr ""
+
+msgid "Currency field is invalid"
+msgstr ""
+
+msgid "reg_promo_is_invalid"
+msgstr ""
+
+msgid "email_already_registered"
+msgstr ""
+
+msgid "login_already_registered"
+msgstr ""
+
+msgid "Phone number already registered"
+msgstr ""
+
+msgid "ip_fraud_blacklist"
+msgstr ""
+
+msgid "ip_fraud_check_error"
+msgstr ""
+
+msgid "Activate your account"
+msgstr ""
+
+msgid "Registration confirmation is in progress"
+msgstr ""
+
+msgid "Unknown status"
+msgstr ""
+
+msgid "first name"
+msgstr ""
+
+msgid "last name"
+msgstr ""
+
+msgid "birth date"
+msgstr ""
+
+msgid "sex"
+msgstr ""
+
+msgid "country"
+msgstr ""
+
+msgid "phone number"
+msgstr ""
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Email has invalid format"
+msgstr ""
+
+msgid "Repeat password field is empty"
+msgstr ""
+
+msgid "First name field is empty"
+msgstr ""
+
+msgid "First name must contain only letters"
+msgstr ""
+
+msgid "Last name field is empty"
+msgstr ""
+
+msgid "Last name must contain only letters"
+msgstr ""
+
+msgid "Gender field is empty"
+msgstr ""
+
+msgid "Gender unallowed value"
+msgstr ""
+
+msgid "Currency field is empty"
+msgstr ""
+
+msgid "Country code is empty"
+msgstr ""
+
+msgid "Country code is invalid"
+msgstr ""
+
+msgid "Phone code is empty"
+msgstr ""
+
+msgid "Phone number field is empty"
+msgstr ""
+
+msgid "Phone number invalid format"
+msgstr ""
+
+msgid "Validation code is empty"
+msgstr ""
+
+msgid "Password must not be equal to login"
+msgstr ""
+
+msgid "Wrong IBAN number"
+msgstr ""
+
+msgid "Wrong SWIFT number"
+msgstr ""
+
+msgid "ID Number is not unique"
+msgstr ""
+
+msgid "Password field is empty"
+msgstr ""
+
+msgid "New password field is empty"
+msgstr ""
+
+msgid "New password must be at least 6 characters long"
+msgstr ""
+
+msgid "New password strength is weak"
+msgstr ""
+
+msgid "An account with such personal details already exists"
+msgstr ""
+
+msgid "Password strength is weak"
+msgstr ""
+
+msgid "Login is already registered"
+msgstr ""
+
+msgid "Email is already registered"
+msgstr ""
+
+msgid "Phone is already registered"
+msgstr ""
+
+msgid "You are less than 18 year old"
+msgstr ""

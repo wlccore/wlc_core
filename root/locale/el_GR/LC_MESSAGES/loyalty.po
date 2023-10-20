@@ -1,0 +1,352 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2021-01-26 14:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "Set transaction type"
+msgstr "Ορισμός τύπου συναλλαγής"
+
+msgid "No user id"
+msgstr "Δεν υπάρχει αναγνωριστικό χρήστη"
+
+msgid "No amount"
+msgstr "Δεν υπάρχει ποσό"
+
+msgid "No loyalty record"
+msgstr "Δεν υπάρχει ιστορικό επιβράβευσης αφοσίωσης"
+
+msgid "Wrong request path"
+msgstr "Εσφαλμένη διαδρομή αιτήματος"
+
+msgid "Debet amount to big"
+msgstr "Το ποσό του στοιχήματος είναι πολύ μεγάλο"
+
+msgid "Wrong transaction type"
+msgstr "Εσφαλμένος τύπος συναλλαγής"
+
+msgid "Awaiting limits information"
+msgstr "Εν αναμονή των πληροφοριών σχετικά με τα όρια"
+
+msgid "Wrong currency"
+msgstr "Λάθος νόμισμα"
+
+msgid "Non existent level"
+msgstr "Ανύπαρκτο επίπεδο"
+
+msgid "No points"
+msgstr "Χωρίς πόντους"
+
+msgid "Set loyalty level"
+msgstr "Ορισμός επιπέδου επιβράβευσης αφοσίωσης"
+
+msgid "No bet"
+msgstr "Δεν υπάρχει στοίχημα"
+
+msgid "No ID user"
+msgstr "Δεν υπάρχει αναγνωριστικό χρήστη"
+
+msgid "No ID bonus"
+msgstr "Δεν υπάρχει αναγνωριστικό μπόνους"
+
+msgid "Wrong amount"
+msgstr "Λάθος ποσό"
+
+msgid "No bonus ID"
+msgstr "Δεν υπάρχει αναγνωριστικό μπόνους"
+
+msgid "No user ID"
+msgstr "Δεν υπάρχει αναγνωριστικό χρήστη"
+
+msgid "Wrong date format"
+msgstr "Εσφαλμένη μορφή ημερομηνίας"
+
+msgid "Date must not be today"
+msgstr "Η ημερομηνία δεν πρέπει να είναι σήμερα"
+
+msgid "No bonus id"
+msgstr "Δεν υπάρχει αναγνωριστικό μπόνους"
+
+msgid "No status"
+msgstr "Δεν υπάρχει κατάσταση"
+
+msgid "Bonus not found"
+msgstr "Το μπόνους δεν βρέθηκε"
+
+msgid "Already have active"
+msgstr "Ήδη ενεργό"
+
+msgid "Bonus is not available"
+msgstr "Το μπόνους δεν είναι διαθέσιμο"
+
+msgid "First deposit, already deposited"
+msgstr "Έχει ήδη πραγματοποιηθεί η πρώτη κατάθεση"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Δεν πληροί τις προϋποθέσεις του μπόνους"
+
+msgid "Bonus used"
+msgstr "Το μπόνους χρησιμοποιήθηκε"
+
+msgid "Promo code needed"
+msgstr "Απαιτείται προωθητικός κωδικός"
+
+msgid "Wrong promo code"
+msgstr "Εσφαλμένος προωθητικός κωδικός"
+
+msgid "User ID not set"
+msgstr "Δεν έχει οριστεί το αναγνωριστικό χρήστη"
+
+msgid "Wrong bonus results value"
+msgstr "Εσφαλμένη τιμή αποτελεσμάτων μπόνους"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Εσφαλμένη τιμή αποτελεσμάτων μπόνους για τους δωρεάν γύρους"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Εσφαλμένα αποτελέσματα για την απονομή του στοιχήματος"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Εσφαλμένο μέγεθος αποτελεσμάτων μπόνους"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Εσφαλμένα αποτελέσματα μπόνους για το στοίχημα"
+
+msgid "Bonus name required"
+msgstr "Απαιτείται το όνομα του μπόνους"
+
+msgid "Wrong bonus event"
+msgstr "Εσφαλμένη εκδήλωση μπόνους"
+
+msgid "Wrong bonus type"
+msgstr "Εσφαλμένος τύπος μπόνους"
+
+msgid "Wrong bonus repeat period"
+msgstr "Εσφαλμένη περίοδος επανάληψης μπόνους"
+
+msgid "Wrong bonus expire period"
+msgstr "Εσφαλμένη περίοδος λήξης μπόνους"
+
+msgid "Wrong bonus budget"
+msgstr "Εσφαλμένο ποσό μπόνους"
+
+msgid "Wrong bonus start date"
+msgstr "Εσφαλμένη ημερομηνία έναρξης μπόνους"
+
+msgid "Wrong bonus end date"
+msgstr "Εσφαλμένη ημερομηνία λήξης μπόνους"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Λάθος ημερομηνία έναρξης μπόνους, καθώς είναι μεταγενέστερη από την ημερομηνία λήξης"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Εσφαλμένο ελάχιστο όριο μπόνους σύμφωνα με τις προϋποθέσεις"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Εσφαλμένο μέγιστο όριο μπόνους σύμφωνα με τις προϋποθέσεις"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Εσφαλμένο ποσό μπόνους σύμφωνα με τις προϋποθέσεις: το ελάχιστο ποσό είναι μεγαλύτερο από το μέγιστο"
+
+msgid "Following codes are duplicated"
+msgstr "Οι ακόλουθοι κωδικοί είναι διπλοί"
+
+msgid "Bonus name already exists"
+msgstr "Το όνομα του μπόνους υπάρχει ήδη"
+
+msgid "Wrong bonus ID"
+msgstr "Λάθος αναγνωριστικό μπόνους"
+
+msgid "Activated bonuses"
+msgstr "Ενεργοποιημένα μπόνους"
+
+msgid "Can't delete"
+msgstr "Δεν είναι δυνατή η διαγραφή"
+
+msgid "No bonus"
+msgstr "Δεν υπάρχει μπόνους"
+
+msgid "Wrong store action"
+msgstr "Εσφαλμένη ενέργεια καταστήματος"
+
+msgid "No order id"
+msgstr "Δεν υπάρχει αναγνωριστικό παραγγελίας"
+
+msgid "Order not found"
+msgstr "Η παραγγελία δεν βρέθηκε"
+
+msgid "No item id"
+msgstr "Δεν υπάρχει αναγνωριστικό στοιχείου"
+
+msgid "User not found"
+msgstr "Ο χρήστης δεν βρέθηκε"
+
+msgid "Item not found"
+msgstr "Το στοιχείο δεν βρέθηκε"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Η τιμή του είδους δεν έχει οριστεί για το νόμισμα: ΕΠΙΒΡΑΒΕΥΣΗ ΑΦΟΣΙΩΣΗΣ"
+
+msgid "Not enough loyalty points"
+msgstr "Δεν υπάρχουν αρκετοί πόντοι επιβράβευσης αφοσίωσης"
+
+msgid "Item out of stock"
+msgstr "Είδος εκτός αποθέματος"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Εσφαλμένο ποσό μπόνους εκδήλωσης για το στοιχείο"
+
+msgid "User not found in tournament"
+msgstr "Ο χρήστης που δεν βρέθηκε στο τουρνουά"
+
+msgid "Set codes count"
+msgstr "Ορισμός καταμέτρησης κωδικών"
+
+msgid "Set batch name"
+msgstr "Ορισμός ονόματος δέσμης"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Ο αριθμός κωδικών υπερβαίνει τα 300 000"
+
+msgid "Wrong batch ID"
+msgstr "Εσφαλμένο αναγνωριστικό δέσμης"
+
+msgid "Codes not set"
+msgstr "Οι κωδικοί δεν έχουν οριστεί"
+
+msgid "Modificator not found"
+msgstr "Η τροποποίηση δεν βρέθηκε"
+
+msgid "Set coefficient"
+msgstr "Ορισμός συντελεστή"
+
+msgid "Set name"
+msgstr "Ορισμός ονόματος"
+
+msgid "No levels defined"
+msgstr "Δεν έχουν οριστεί επίπεδα"
+
+msgid "Level not found"
+msgstr "Το επίπεδο δεν βρέθηκε"
+
+msgid "Bad cronjob"
+msgstr "Δεν υπάρχει εργασία cron"
+
+msgid "No category ID"
+msgstr "Δεν υπάρχει αναγνωριστικό κατηγορίας"
+
+msgid "Category not found"
+msgstr "Η κατηγορία δεν βρέθηκε"
+
+msgid "No category name"
+msgstr "Δεν υπάρχει όνομα κατηγορίας"
+
+msgid "Wrong category ID"
+msgstr "Εσφαλμένο αναγνωριστικό κατηγορίας"
+
+msgid "No category id"
+msgstr "Δεν υπάρχει αναγνωριστικό κατηγορίας"
+
+msgid "No item ID"
+msgstr "Δεν υπάρχει αναγνωριστικό στοιχείου"
+
+msgid "Wrong item ID"
+msgstr "Εσφαλμένο αναγνωριστικό στοιχείου"
+
+msgid "Item init error"
+msgstr "Εσφαλμένο στοιχείο init"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Εσφαλμένο είδος ποσού μπόνους εκδήλωσης"
+
+msgid "No item"
+msgstr "Δεν βρέθηκε στοιχείο"
+
+msgid "Wrong tournament ID"
+msgstr "Εσφαλμένο αναγνωριστικό τουρνουά"
+
+msgid "Wrong Tournament ID"
+msgstr "Το αναγνωριστικό του τουρνουά δεν βρέθηκε"
+
+msgid "No ID tournament"
+msgstr "Δεν υπάρχει αναγνωριστικό τουρνουά"
+
+msgid "No tournament ID"
+msgstr "Δεν υπάρχει αναγνωριστικό τουρνουά"
+
+msgid "No tournament id"
+msgstr "Δεν υπάρχει αναγνωριστικό τουρνουά"
+
+msgid "No balance"
+msgstr "Δεν υπάρχει υπόλοιπο"
+
+msgid "Not enough balance"
+msgstr "Δεν υπάρχει αρκετό υπόλοιπο"
+
+msgid "Tournament name required"
+msgstr "Απαιτείται το όνομα του τουρνουά"
+
+msgid "Wrong tournament winner by"
+msgstr "Εσφαλμένος νικητής τουρνουά από"
+
+msgid "Wrong tournament period"
+msgstr "Εσφαλμένη περίοδος τουρνουά"
+
+msgid "Wrong tournament repeat"
+msgstr "Εσφαλμένη επανάληψη τουρνουά"
+
+msgid "Wrong tournament start date"
+msgstr "Εσφαλμένη ημερομηνία έναρξης του τουρνουά"
+
+msgid "Tournament not found"
+msgstr "Το τουρνουά δεν βρέθηκε"
+
+msgid "Activated Tournaments"
+msgstr "Ενεργοποιημένα τουρνουά"
+
+msgid "No tournament"
+msgstr "Δεν υπάρχει τουρνουά"
+
+msgid "Wrong event type"
+msgstr "Εσφαλμένος τύπος εκδήλωσης"
+
+msgid "No event id"
+msgstr "Δεν υπάρχει αναγνωριστικό συμβάντος"
+
+msgid "Empty data"
+msgstr "Κενά δεδομένα"
+
+msgid "No data"
+msgstr "Δεν υπάρχουν δεδομένα"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Τα μπόνους απαγορεύονται για τον χρήστη"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Τα τουρνουά απαγορεύονται για τον χρήστη"
+
+msgid "Bonus pending cancellation"
+msgstr "Μπόνους εν αναμονή ακύρωσης"
+
+msgid "Cancel not supported"
+msgstr "Δεν υποστηρίζεται η ακύρωση"
+
+msgid "Awaiting limits information, try later"
+msgstr "Εν αναμονή των πληροφοριών για να όρια. Προσπαθήστε αργότερα."
+
+msgid "Error cancellation of the bonus"
+msgstr "Σφάλμα ακύρωσης του μπόνους"

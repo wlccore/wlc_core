@@ -1,0 +1,334 @@
+# Korean translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2018-06-25 17:02+0900\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.8\n"
+
+msgid "Set transaction type"
+msgstr "거래 타입 설정"
+
+msgid "No user id"
+msgstr "사용자 ID 없음"
+
+msgid "No amount"
+msgstr "금액 없음"
+
+msgid "No loyalty record"
+msgstr "로열티 기록 없음"
+
+msgid "Wrong request path"
+msgstr "잘못된 요청 경로"
+
+msgid "Debet amount to big"
+msgstr "큰 금액으로 재배팅하기"
+
+msgid "Wrong transaction type"
+msgstr "잘못된 거래 유형"
+
+msgid "Awaiting limits information"
+msgstr "대기 한도 정보"
+
+msgid "Wrong currency"
+msgstr "잘못된 통화"
+
+msgid "Non existent level"
+msgstr "존재하지 않는 레벨"
+
+msgid "No points"
+msgstr "점수 없음"
+
+msgid "Set loyalty level"
+msgstr "로열티 레벨 설정"
+
+msgid "No bet"
+msgstr "배팅 없음"
+
+msgid "No ID user"
+msgstr "사용자 ID 없음"
+
+msgid "No ID bonus"
+msgstr "보너스 ID 없음"
+
+msgid "Wrong amount"
+msgstr "잘못된 금액"
+
+msgid "No bonus ID"
+msgstr "보너스 ID 없음"
+
+msgid "No user ID"
+msgstr "사용자 ID 없음"
+
+msgid "Wrong date format"
+msgstr "잘못된 날짜 형식"
+
+msgid "Date must not be today"
+msgstr "날짜는 오늘이 되어서는 안됩니다"
+
+msgid "No bonus id"
+msgstr "보너스 ID 없음"
+
+msgid "No status"
+msgstr "상태 없음"
+
+msgid "Bonus not found"
+msgstr "보너스 찾을 수 없음"
+
+msgid "Already have active"
+msgstr "이미 활성화됨"
+
+msgid "Bonus is not available"
+msgstr "보너스를 사용할 수 없음"
+
+msgid "First deposit, already deposited"
+msgstr "첫입금이 이미 완료되었습니다"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "보너스 조건을 충족하지 않음"
+
+msgid "Bonus used"
+msgstr "보너스 사용됨"
+
+msgid "Promo code needed"
+msgstr "프로모션 코드 필요"
+
+msgid "Wrong promo code"
+msgstr "잘못된 프로모션 코드"
+
+msgid "User ID not set"
+msgstr "사용자 ID 설정되지 않음"
+
+msgid "Wrong bonus results value"
+msgstr "잘못된 보너스 결과값"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "잘못된 보너스 결과 프리라운드 값"
+
+msgid "Wrong bonus results award wagering"
+msgstr "잘못된 보너스 결과 상금 베팅"
+
+msgid "Wrong bonus results chunk size"
+msgstr "잘못된 보너스 결과 청크 사이즈"
+
+msgid "Wrong bonus results release wagering"
+msgstr "잘못된 보너스 결과 개봉 베팅"
+
+msgid "Bonus name required"
+msgstr "보너스 이름 요청됨"
+
+msgid "Wrong bonus event"
+msgstr "잘못된 보너스 이벤트"
+
+msgid "Wrong bonus type"
+msgstr "잘못된 보너스 타입"
+
+msgid "Wrong bonus repeat period"
+msgstr "잘못된 보너스 반복기간"
+
+msgid "Wrong bonus expire period"
+msgstr "잘못된 보너스 만료기간"
+
+msgid "Wrong bonus budget"
+msgstr "잘못된 보너스 예산"
+
+msgid "Wrong bonus start date"
+msgstr "잘못된 보너스 시작일"
+
+msgid "Wrong bonus end date"
+msgstr "잘못된 보너스 종료일"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "보너스 시작일이 종료일과 맞지 않습니다"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "잘못된 최소금액 보너스 조건"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "잘못된 최고금액 보너스 조건"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "잘못된 보너스 조건 최소금액이 최고금액보다 높습니다"
+
+msgid "Following codes are duplicated"
+msgstr "다음 코드가 복사되었습니다"
+
+msgid "Bonus name already exists"
+msgstr "보너스 이름이 이미 존재합니다"
+
+msgid "Wrong bonus ID"
+msgstr "잘못된 보너스 ID"
+
+msgid "Activated bonuses"
+msgstr "활성화된 보너스"
+
+msgid "Can't delete"
+msgstr "삭제할 수 없음"
+
+msgid "No bonus"
+msgstr "보너스 없음"
+
+msgid "Wrong store action"
+msgstr "잘못된 스토어 액션"
+
+msgid "No order id"
+msgstr "주문 아이디 없음"
+
+msgid "Order not found"
+msgstr "주문 찾을 수 없음"
+
+msgid "No item id"
+msgstr "아이템 ID 없음"
+
+msgid "User not found"
+msgstr "사용자를 찾을 수 없음"
+
+msgid "Item not found"
+msgstr "아이템을 찾을 수 없음"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "아이템 가격이 통화로 설정되지 않음:로열티"
+
+msgid "Not enough loyalty points"
+msgstr "로열티 포인트가 부족합니다"
+
+msgid "Item out of stock"
+msgstr "아이템 재고 없음"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "잘못된 보너스 이벤트 아이템 품목 수"
+
+msgid "User not found in tournament"
+msgstr "경기에서 사용자 찾을 수 없음"
+
+msgid "Set codes count"
+msgstr "코드 산출 설정"
+
+msgid "Set batch name"
+msgstr "배치 이름 설정"
+
+msgid "Codes count exceeds 300 000"
+msgstr "코드 산출이 300 000을 초과합니다"
+
+msgid "Wrong batch ID"
+msgstr "잘못된 배치 ID"
+
+msgid "Codes not set"
+msgstr "코드가 설정되지 않음"
+
+msgid "Modificator not found"
+msgstr "수정자 찾을 수 없음"
+
+msgid "Set coefficient"
+msgstr "계수 설정"
+
+msgid "Set name"
+msgstr "이름 설정"
+
+msgid "No levels defined"
+msgstr "레벨이 정확하지 않음"
+
+msgid "Level not found"
+msgstr "레벨을 찾을 수 없음"
+
+msgid "Bad cronjob"
+msgstr "잘못된 작업"
+
+msgid "No category ID"
+msgstr "카테고리 ID 없음"
+
+msgid "Category not found"
+msgstr "카테고리를 찾을 수 없음"
+
+msgid "No category name"
+msgstr "카테고리 이름이 없음"
+
+msgid "Wrong category ID"
+msgstr "잘못된 카테고리 이름"
+
+msgid "No category id"
+msgstr "카테고리 id 없음"
+
+msgid "No item ID"
+msgstr "아이템 ID 없음"
+
+msgid "Wrong item ID"
+msgstr "잘못된 아이템 ID"
+
+msgid "Item init error"
+msgstr "아이템 한도 오류"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "잘못된 아이템 보너스 이벤트 금액"
+
+msgid "No item"
+msgstr "아이템 없음"
+
+msgid "Wrong tournament ID"
+msgstr "잘못된 토너먼트 ID"
+
+msgid "Wrong Tournament ID"
+msgstr "잘못된 토너먼트 ID"
+
+msgid "No ID tournament"
+msgstr "토너먼트 ID 없음"
+
+msgid "No tournament ID"
+msgstr "토너먼트 ID 없음"
+
+msgid "No tournament id"
+msgstr "토너먼트 id 없음"
+
+msgid "No balance"
+msgstr "잔고 없음"
+
+msgid "Not enough balance"
+msgstr "잔고가 부족합니다"
+
+msgid "Tournament name required"
+msgstr "토너먼트 이름이 필요합니다"
+
+msgid "Wrong tournament winner by"
+msgstr "잘못된 토너먼트 승자"
+
+msgid "Wrong tournament period"
+msgstr "잘못된 토너먼트 기간"
+
+msgid "Wrong tournament repeat"
+msgstr "잘못된 토너먼트 반복"
+
+msgid "Wrong tournament start date"
+msgstr "잘못된 토너먼트 시작일"
+
+msgid "Tournament not found"
+msgstr "토너먼트ㄹ 찾을 수 없음"
+
+msgid "Activated Tournaments"
+msgstr "활성화된 토너먼트"
+
+msgid "No tournament"
+msgstr "토너먼트 없음"
+
+msgid "Wrong event type"
+msgstr "잘못된 이벤트 타입"
+
+msgid "No event id"
+msgstr "이벤트 id 없음"
+
+msgid "Empty data"
+msgstr "데이터 비었음"
+
+msgid "No data"
+msgstr "데이터 없음"

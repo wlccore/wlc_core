@@ -1,0 +1,352 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2019-02-03 05:19+0100\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: Asbjørn Stokka <asstokka@online.no>\n"
+"Language: no\n"
+
+msgid "Set transaction type"
+msgstr "Velg transaksjonstype"
+
+msgid "No user id"
+msgstr "Ingen bruker id"
+
+msgid "No amount"
+msgstr "Ingen sum"
+
+msgid "No loyalty record"
+msgstr "Ingen lojalitetsverdi"
+
+msgid "Wrong request path"
+msgstr "Feil forespørselsbane"
+
+msgid "Debet amount to big"
+msgstr "Innskuddssum for høy"
+
+msgid "Wrong transaction type"
+msgstr "Feil transaksjonstype"
+
+msgid "Awaiting limits information"
+msgstr "Venter grenseinformasjon"
+
+msgid "Wrong currency"
+msgstr "Feil valuta"
+
+msgid "Non existent level"
+msgstr "Ikke-eksisterende nivå"
+
+msgid "No points"
+msgstr "Ingen poeng"
+
+msgid "Set loyalty level"
+msgstr "Sett lojalitetsnivå"
+
+msgid "No bet"
+msgstr "Ingen bet"
+
+msgid "No ID user"
+msgstr "Ingen ID bruker"
+
+msgid "No ID bonus"
+msgstr "Ingen ID bonus"
+
+msgid "Wrong amount"
+msgstr "Feil sum"
+
+msgid "No bonus ID"
+msgstr "Ingen bonus ID"
+
+msgid "No user ID"
+msgstr "Ingen bruker ID"
+
+msgid "Wrong date format"
+msgstr "Feil datoformat"
+
+msgid "Date must not be today"
+msgstr "Dato kan ikke være i dag"
+
+msgid "No bonus id"
+msgstr "Ingen bonus id"
+
+msgid "No status"
+msgstr "Ingen status"
+
+msgid "Bonus not found"
+msgstr "Ingen bonus funnet"
+
+msgid "Already have active"
+msgstr "Har allerede aktiv"
+
+msgid "Bonus is not available"
+msgstr "Bonus er ikke tilgjengelig"
+
+msgid "First deposit, already deposited"
+msgstr "Første innskudd, allereie innskutt"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Tilfredstiller ikke bonusvilkår"
+
+msgid "Bonus used"
+msgstr "Brukt bonus"
+
+msgid "Promo code needed"
+msgstr "Kampanjekode kreves"
+
+msgid "Wrong promo code"
+msgstr "Feil kampanjekode"
+
+msgid "User ID not set"
+msgstr "Bruker ID ikke satt"
+
+msgid "Wrong bonus results value"
+msgstr "Feil bonusresultatverdi"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Feil bonusresultat gratisrundeverdi"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Feil bonusresultat prisbelønning"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Feil bonusresultat chunk-størrelse"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Feil bonusresultat meldingssatser"
+
+msgid "Bonus name required"
+msgstr "Bonusnavn er påkrevd"
+
+msgid "Wrong bonus event"
+msgstr "Feil bonushendelse"
+
+msgid "Wrong bonus type"
+msgstr "Feil bonustype"
+
+msgid "Wrong bonus repeat period"
+msgstr "Feil bonus gjentakelsesperiode"
+
+msgid "Wrong bonus expire period"
+msgstr "Feil bonus utløpsperiode"
+
+msgid "Wrong bonus budget"
+msgstr "Feil bonusbudsjett"
+
+msgid "Wrong bonus start date"
+msgstr "Feil bonus startdato"
+
+msgid "Wrong bonus end date"
+msgstr "Feil bonus avsluttningsdato"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Feil bonus startdato etter avsluttningsdato"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Feil bonus minimummengdesvilkår"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Feil bonus maksimalmengdevilkår"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Feil bonus mengdevilkår, minimum høyere enn maksimal mengde"
+
+msgid "Following codes are duplicated"
+msgstr "Følgende koder er duplikater"
+
+msgid "Bonus name already exists"
+msgstr "Bonusnavn eksisterer allerede"
+
+msgid "Wrong bonus ID"
+msgstr "Feil bonus ID"
+
+msgid "Activated bonuses"
+msgstr "Aktiverte bonuser"
+
+msgid "Can't delete"
+msgstr "Kan ikke slette"
+
+msgid "No bonus"
+msgstr "Ingen bonus"
+
+msgid "Wrong store action"
+msgstr "Feil butikkhandling"
+
+msgid "No order id"
+msgstr "Ingen ordre-id"
+
+msgid "Order not found"
+msgstr "Fant ikke ordren"
+
+msgid "No item id"
+msgstr "Ingen enhets-id"
+
+msgid "User not found"
+msgstr "Fant ikke bruker"
+
+msgid "Item not found"
+msgstr "Fant ikke enhet"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Enhetspris er ikke satt for valuta: LOJALITET"
+
+msgid "Not enough loyalty points"
+msgstr "Ikke nok lojalitetspoeng"
+
+msgid "Item out of stock"
+msgstr "Ikke flere enheter på lager"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Feil BonusHendelsesMengde av enhet"
+
+msgid "User not found in tournament"
+msgstr "Bruker ikke funnet i turnering"
+
+msgid "Set codes count"
+msgstr "Sett teller for koder"
+
+msgid "Set batch name"
+msgstr "Sett partinavn"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Kodeteller overskred 300 000"
+
+msgid "Wrong batch ID"
+msgstr "Feil parti-ID"
+
+msgid "Codes not set"
+msgstr "Koder er ikke satt"
+
+msgid "Modificator not found"
+msgstr "Modifiserer ikke funnet"
+
+msgid "Set coefficient"
+msgstr "Sett koeffisient"
+
+msgid "Set name"
+msgstr "Sett navn"
+
+msgid "No levels defined"
+msgstr "Ingen nivå definert"
+
+msgid "Level not found"
+msgstr "Fant ikke nivå"
+
+msgid "Bad cronjob"
+msgstr "Feil med cronjobb"
+
+msgid "No category ID"
+msgstr "Ingen kategori-ID"
+
+msgid "Category not found"
+msgstr "Kategori ikke funnet"
+
+msgid "No category name"
+msgstr "Ingen kategorinavn"
+
+msgid "Wrong category ID"
+msgstr "Feil kategori ID"
+
+msgid "No category id"
+msgstr "Ingen kategori id"
+
+msgid "No item ID"
+msgstr "Ingen enhets-ID"
+
+msgid "Wrong item ID"
+msgstr "Feil enhet-ID"
+
+msgid "Item init error"
+msgstr "Enhets init feil"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Feil enhet BonusHendelseMengde"
+
+msgid "No item"
+msgstr "Ingen enhet"
+
+msgid "Wrong tournament ID"
+msgstr "Feil turnerings-ID"
+
+msgid "Wrong Tournament ID"
+msgstr "Feil Turnerings-ID"
+
+msgid "No ID tournament"
+msgstr "Ingen ID turnering"
+
+msgid "No tournament ID"
+msgstr "Ingen turnering ID"
+
+msgid "No tournament id"
+msgstr "Ingen turnering id"
+
+msgid "No balance"
+msgstr "Ingen balanse"
+
+msgid "Not enough balance"
+msgstr "Ikke høy nok balanse"
+
+msgid "Tournament name required"
+msgstr "Turneringsnavns er påkrevd"
+
+msgid "Wrong tournament winner by"
+msgstr "Feil turneringsvinner av"
+
+msgid "Wrong tournament period"
+msgstr "Feil turneringsperiode"
+
+msgid "Wrong tournament repeat"
+msgstr "Feil turneringsgjentakelse"
+
+msgid "Wrong tournament start date"
+msgstr "Feil startdato for turnering"
+
+msgid "Tournament not found"
+msgstr "Finner ikke turnering"
+
+msgid "Activated Tournaments"
+msgstr "Aktiverte Turneringer"
+
+msgid "No tournament"
+msgstr "Ingen turnering"
+
+msgid "Wrong event type"
+msgstr "Feil hendelsestype"
+
+msgid "No event id"
+msgstr "Ingen hendelses-id"
+
+msgid "Empty data"
+msgstr "Tomme data"
+
+msgid "No data"
+msgstr "Ingen data"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonuser er forbudt for bruker"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Turneringer er forbudt for bruker"
+
+msgid "Bonus pending cancellation"
+msgstr "Bonus avventer kansellering"
+
+msgid "Cancel not supported"
+msgstr "Støtter ikke kansellering"
+
+msgid "Awaiting limits information, try later"
+msgstr "Venter informasjon om grenseverdier, prøv igjen"
+
+msgid "Error cancellation of the bonus"
+msgstr "Feil med kansellering av bonusen"

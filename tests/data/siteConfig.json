@@ -1,0 +1,484 @@
+{
+	"languages": {
+		"1": {
+			"ID": "1",
+			"Code": "en",
+			"Name": "English",
+			"NameEn": "English"
+		},
+		"2": {
+			"ID": "2",
+			"Code": "ru",
+			"Name": "Русский",
+			"NameEn": "Russian"
+		},
+		"17": {
+			"ID": "17",
+			"Code": "fi",
+			"Name": "Suomi",
+			"NameEn": "Finnish"
+		},
+		"38": {
+			"ID": "38",
+			"Code": "sv",
+			"Name": "Svenska",
+			"NameEn": "Swedish"
+		},
+		"40": {
+			"ID": "40",
+			"Code": "tr",
+			"Name": "Türkçe",
+			"NameEn": "Turkish"
+		}
+	},
+	"currencies": {
+		"103": {
+			"ID": "103",
+			"Name": "LT1",
+			"ExRate": "15.25178466",
+			"registration": true,
+			"Alias": "LT1"
+		},
+		"48": {
+			"ID": "48",
+			"Name": "LTC",
+			"ExRate": "0.02612330",
+			"registration": true,
+			"Alias": "LTC"
+		},
+		"43": {
+			"ID": "43",
+			"Name": "MBC",
+			"ExRate": "0.13672359",
+			"registration": true,
+			"Alias": "MBC"
+		},
+		"6": {
+			"ID": "6",
+			"Name": "PLN",
+			"ExRate": "4.33044781",
+			"registration": true,
+			"Alias": "PLN"
+		},
+		"7": {
+			"ID": "7",
+			"Name": "SEK",
+			"ExRate": "10.47645887",
+			"registration": true,
+			"Alias": "SEK"
+		},
+		"3": {
+			"ID": "3",
+			"Name": "USD",
+			"ExRate": "1.12950191",
+			"registration": true,
+			"Alias": "USD"
+		},
+        "1": {
+            "ID": "1",
+            "Name": "EUR",
+            "ExRate": "1.00",
+			"registration": true,
+            "Alias": "EUR"
+        }
+	},
+	"exclude_countries": [
+		"aus",
+		"aut",
+		"aze",
+		"alb",
+		"dza",
+		"asm",
+		"blz",
+		"bmu",
+		"vgb",
+		"vir",
+		"dnk",
+		"dma",
+		"dom",
+		"nld",
+		"atg",
+		"asc",
+		"abw",
+		"ggy",
+		"iot",
+		"fra",
+		"guf",
+		"pyf",
+		"jey",
+		"myt",
+		"gbr",
+		"usa",
+		"umi",
+		"lva"
+	],
+	"exclude_countries": [
+	],
+	"footerText": {
+		"en": "The Website is owned by Triumphbet group of companies. The group includes Triumphbet Company LP, registration no. LP1480, address Office 29 Clifton House Fitzwilliam Street Lower Dublin 2,Republic of Ireland and Triumphbet Company N.V., registration no. 140804, registered address is at E-Commecre Park Vredenberg, Curacao, license no. 8048\/JAZ2016-055. The division of competence of group companies is detailed in «Terms and Conditions».",
+		"ru": "Правообладателем сайта является группа компаний Triumphbet Company. В состав группы компаний входит Triumphbet Company LP, регистрационный номер LP1480, юридический адрес Офис 29, Клифтон Хаус, Фицвиллиам стрит Аппер, Дублин 2, Ирландия и компания Triumphbet Company N.V., регистрационный номер 140804, юридический адрес Кюрасао, Нидерландские Антильские острова, Е-коммерс Парк Вреденберг, номер лицензии 8048\/JAZ2016-055. Права и полномочия компаний подробно изложены в разделе «Условия и положения».",
+		"fi": "",
+		"sv": "",
+		"tr": ""
+	},
+	"paymentText": {
+		"en": "",
+		"ru": "",
+		"fi": "",
+		"sv": "",
+		"tr": ""
+	},
+	"systemsGamePlayInfo": {
+		"989": {
+			"Name": "Amatic",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"975": {
+			"Name": "AmaticDirect",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"950": {
+			"Name": "Apollo",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"967": {
+			"Name": "AsiaGaming",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"966": {
+			"Name": "AsiaLiveTech",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"971": {
+			"Name": "AuthenticGaming",
+			"Fields": [
+				"Country"
+			],
+			"WalletType": "seamless"
+		},
+		"956": {
+			"Name": "Belatra",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"993": {
+			"Name": "BetConstruct",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"991": {
+			"Name": "BetSoft",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"952": {
+			"Name": "BetradarVS",
+			"Fields": [
+				"Country"
+			],
+			"WalletType": "seamless"
+		},
+		"977": {
+			"Name": "BoomingGames",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"973": {
+			"Name": "Endorphina",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"965": {
+			"Name": "Enterra",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"998": {
+			"Name": "EvoSW",
+			"Fields": [
+				"Name",
+				"LastName",
+				"Country"
+			],
+			"WalletType": "seamless"
+		},
+		"961": {
+			"Name": "ExtremeLive",
+			"Fields": [
+				"Country"
+			],
+			"WalletType": "seamless"
+		},
+		"983": {
+			"Name": "Ezugi",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"955": {
+			"Name": "GameArt",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"976": {
+			"Name": "Habanero",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"963": {
+			"Name": "ISoftBet",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"974": {
+			"Name": "Kiron",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"980": {
+			"Name": "LuckyStreak",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"997": {
+			"Name": "MG",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"986": {
+			"Name": "MrSlotty",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"992": {
+			"Name": "NetEnt",
+			"Fields": [
+				"DateOfBirth",
+				"Country",
+				"Gender"
+			],
+			"WalletType": "seamless"
+		},
+		"970": {
+			"Name": "OneXTwoNetwork",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"978": {
+			"Name": "PariPlay",
+			"Fields": [
+				"Country"
+			],
+			"WalletType": "seamless"
+		},
+		"949": {
+			"Name": "Platipus",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"944": {
+			"Name": "PlaynGo",
+			"Fields": [
+				"Country",
+				"DateOfBirth"
+			],
+			"WalletType": "seamless"
+		},
+		"943": {
+			"Name": "PlaysonDirect",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"981": {
+			"Name": "PokerBets",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"960": {
+			"Name": "PragmaticPlay",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"969": {
+			"Name": "Quickspin",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"968": {
+			"Name": "SAGaming",
+			"Fields": [
+				"Name",
+				"LastName"
+			],
+			"WalletType": "seamless"
+		},
+		"959": {
+			"Name": "Spinomenal",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"701": {
+			"Name": "TestCallbackMerchant",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"987": {
+			"Name": "TomHorn",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"946": {
+			"Name": "WACS",
+			"Fields": [],
+			"WalletType": "seamless"
+		},
+		"979": {
+			"Name": "WorldMatch",
+			"Fields": [],
+			"WalletType": "seamless"
+		}
+	},
+	"depositOnlyFullUserData": "1",
+	"MaskTypeForNameAndLastName": "Initials",
+	"payment_systems": [
+		{
+			"Name": "Paypal",
+			"Init": "Paypal",
+			"Alias": ""
+		},
+		{
+			"Name": "Paypal",
+			"Init": "Paypal",
+			"Alias": ""
+		},
+		{
+			"Name": "Wire transfer",
+			"Init": "Wire",
+			"Alias": null
+		},
+		{
+			"Name": "Wire Card",
+			"Init": "Wirecard",
+			"Alias": "{\"en\":\"\",\"ru\":\"\"}"
+		},
+		{
+			"Name": "Neteller",
+			"Init": "Neteller",
+			"Alias": ""
+		},
+		{
+			"Name": "Webmoney",
+			"Init": "Wm",
+			"Alias": "{\"en\":\"\",\"ru\":\"\"}"
+		},
+		{
+			"Name": "Skrill",
+			"Init": "Moneybookers",
+			"Alias": "{\"en\":\"\",\"ru\":\"\"}"
+		},
+		{
+			"Name": "Moneta yandex",
+			"Init": "Moneta",
+			"Alias": null
+		},
+		{
+			"Name": "Moneta.ru",
+			"Init": "Moneta",
+			"Alias": "{\"en\":\"\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "Wire Card",
+			"Init": "Wirecard",
+			"Alias": "{\"en\":\"\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "CardPay",
+			"Init": "Cardpay",
+			"Alias": "{\"en\":\"Pay with card\",\"ru\":\"\"}"
+		},
+		{
+			"Name": "Wire Card",
+			"Init": "Wirecard",
+			"Alias": "{\"en\":\"\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "Wire transfer",
+			"Init": "Wire",
+			"Alias": null
+		},
+		{
+			"Name": "Bank Wire transfer",
+			"Init": "BankWire",
+			"Alias": "{\"en\":\"\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "Bank Wire transfer",
+			"Init": "BankWire",
+			"Alias": "{\"en\":\"\",\"ru\":\"\"}"
+		},
+		{
+			"Name": "Neteller",
+			"Init": "Neteller",
+			"Alias": ""
+		},
+		{
+			"Name": "CardPay",
+			"Init": "Cardpay",
+			"Alias": null
+		},
+		{
+			"Name": "Cubits",
+			"Init": "Cubits",
+			"Alias": "{\"en\":\"Cubits\",\"ru\":\"Cubits\"}"
+		},
+		{
+			"Name": "TestSystem",
+			"Init": "TestSystem",
+			"Alias": "{\"en\":\"\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "ApcoPay",
+			"Init": "ApcoPay",
+			"Alias": "{\"en\":\"11\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "PayCryptos Bitcoin",
+			"Init": "Cryptspay",
+			"Alias": "{\"en\":\"\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "PayCryptos Ethereum",
+			"Init": "Cryptspay",
+			"Alias": "{\"en\":\"\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "testsystem",
+			"Init": "DirectBankPay",
+			"Alias": "{\"en\":\"\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "PayCryptos Litecoin",
+			"Init": "Cryptspay",
+			"Alias": "{\"en\":\"\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "OrangePay",
+			"Init": "OrangePay",
+			"Alias": "{\"en\":\"ApelsinPay\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "ApcoPay Flutterwave",
+			"Init": "APCOPay",
+			"Alias": "{\"en\":\"ApcoPay Flutterwave\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		},
+		{
+			"Name": "Trustly",
+			"Init": "Trustly",
+			"Alias": "{\"en\":\"TestDelete\",\"ru\":\"\",\"fi\":\"\",\"sv\":\"\",\"tr\":\"\"}"
+		}
+	]
+}

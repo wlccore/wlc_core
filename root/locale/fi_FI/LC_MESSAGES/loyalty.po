@@ -1,0 +1,352 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2019-01-30 11:38+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.4\n"
+
+msgid "Set transaction type"
+msgstr "Aseta tapahtumatyyppi"
+
+msgid "No user id"
+msgstr "Ei k‰ytt‰j‰tunnusta"
+
+msgid "No amount"
+msgstr "Ei m‰‰r‰‰"
+
+msgid "No loyalty record"
+msgstr "Ei lojaalisuustietoja"
+
+msgid "Wrong request path"
+msgstr "V‰‰r‰ pyyntˆpolku"
+
+msgid "Debet amount to big"
+msgstr "Veloitusm‰‰r‰ liian suuri"
+
+msgid "Wrong transaction type"
+msgstr "V‰‰r‰ tapahtumatyyppi"
+
+msgid "Awaiting limits information"
+msgstr "Odottaa rajoitustietoja"
+
+msgid "Wrong currency"
+msgstr "V‰‰r‰ valuutta"
+
+msgid "Non existent level"
+msgstr "Olematon taso"
+
+msgid "No points"
+msgstr "Ei pisteit‰"
+
+msgid "Set loyalty level"
+msgstr "Aseta lojaalisuustaso"
+
+msgid "No bet"
+msgstr "Ei panostusta"
+
+msgid "No ID user"
+msgstr "Ei tunnusk‰ytt‰j‰‰"
+
+msgid "No ID bonus"
+msgstr "Ei tunnusbonusta"
+
+msgid "Wrong amount"
+msgstr "V‰‰r summa"
+
+msgid "No bonus ID"
+msgstr "Ei bonustunnusta"
+
+msgid "No user ID"
+msgstr "Ei k‰ytt‰j‰tunnusta"
+
+msgid "Wrong date format"
+msgstr "V‰‰r‰ p‰iv‰yksen muoto"
+
+msgid "Date must not be today"
+msgstr "P‰iv‰ys ei voi olla t‰n‰‰n"
+
+msgid "No bonus id"
+msgstr "Ei bonustunnusta"
+
+msgid "No status"
+msgstr "Ei asemaa"
+
+msgid "Bonus not found"
+msgstr "Bonusta ei lˆytynyt"
+
+msgid "Already have active"
+msgstr "On jo aktiivinen"
+
+msgid "Bonus is not available"
+msgstr "Bonus ei ole saatavilla"
+
+msgid "First deposit, already deposited"
+msgstr "Ensitalletus jo talletettu"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Et t‰yt‰ bonusehtoja"
+
+msgid "Bonus used"
+msgstr "Bonus k‰ytetty"
+
+msgid "Promo code needed"
+msgstr "Kampanjakoodi vaaditaan"
+
+msgid "Wrong promo code"
+msgstr "V‰‰r‰ kampanjakoodi"
+
+msgid "User ID not set"
+msgstr "K‰ytt‰j‰tunnusta ei asetettu"
+
+msgid "Wrong bonus results value"
+msgstr "V‰‰r‰ bonustulosten arvo"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "V‰‰r‰ bonustulosten ilmaiskierrosten arvo"
+
+msgid "Wrong bonus results award wagering"
+msgstr "V‰‰r‰ bonustulosten palkinnon kierr‰tys"
+
+msgid "Wrong bonus results chunk size"
+msgstr "V‰‰r‰ bonustulosten p‰tk‰koko"
+
+msgid "Wrong bonus results release wagering"
+msgstr "V‰‰r‰ bonustulosten vapautuksen kierr‰tys"
+
+msgid "Bonus name required"
+msgstr "Bonuksen nimi vaaditaan"
+
+msgid "Wrong bonus event"
+msgstr "V‰‰r‰ bonustapahtuma"
+
+msgid "Wrong bonus type"
+msgstr "V‰‰r‰ bonustyyppi"
+
+msgid "Wrong bonus repeat period"
+msgstr "V‰‰r‰ bonuksen toistoajanjakso"
+
+msgid "Wrong bonus expire period"
+msgstr "V‰‰r‰ bonuksen vanhentumisajanjakso"
+
+msgid "Wrong bonus budget"
+msgstr "V‰‰r‰ bonusbudjetti"
+
+msgid "Wrong bonus start date"
+msgstr "V‰‰r‰ bonuksen aloitusp‰iv‰"
+
+msgid "Wrong bonus end date"
+msgstr "V‰‰r‰ bonuksen p‰‰ttymisp‰iv‰"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "V‰‰r‰ bonuksen alkamisp‰iv‰ enemm‰n kuin p‰‰ttymisp‰iv‰"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "V‰‰r‰t bonusehdot minimim‰‰r‰"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "V‰‰r‰t bonusehdot maksimim‰‰r‰"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "V‰‰r‰t  bonusehdot minimim‰‰r‰ enemm‰in kuin maksimim‰‰r‰"
+
+msgid "Following codes are duplicated"
+msgstr "Seuraavat koodit ovat samoja"
+
+msgid "Bonus name already exists"
+msgstr "Bonuksen nimi on jo olemassa"
+
+msgid "Wrong bonus ID"
+msgstr "V‰‰r‰ bonustunnus"
+
+msgid "Activated bonuses"
+msgstr "Aktivoidut bonukset"
+
+msgid "Can't delete"
+msgstr "Ei voida poistaa"
+
+msgid "No bonus"
+msgstr "Ei bonusta"
+
+msgid "Wrong store action"
+msgstr "V‰‰r‰ kaupan toiminto"
+
+msgid "No order id"
+msgstr "Ei tilaustunnusta"
+
+msgid "Order not found"
+msgstr "Tilausta ei lˆytynyt"
+
+msgid "No item id"
+msgstr "Ei kohdetunnusta"
+
+msgid "User not found"
+msgstr "K‰ytt‰j‰‰ ei lˆytynyt"
+
+msgid "Item not found"
+msgstr "Kohdetta ei lˆytynyt"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Kohteen hintaa ei asetettu valuutalle: LOJAALISUUS"
+
+msgid "Not enough loyalty points"
+msgstr "Ei riitt‰v‰sti lojaalisuuspisteit‰"
+
+msgid "Item out of stock"
+msgstr "Kohde loppu varastosta"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "V‰‰r‰ kohteen bonustapahtumasumma"
+
+msgid "User not found in tournament"
+msgstr "K‰ytt‰j‰‰ ei lˆytynyt turnauksessa"
+
+msgid "Set codes count"
+msgstr "Aseta koodien m‰‰r‰"
+
+msgid "Set batch name"
+msgstr "Aseta er‰n nimi"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Koodien m‰‰r‰ ylitt‰‰ 300 000"
+
+msgid "Wrong batch ID"
+msgstr "V‰‰r‰ er‰tunnus"
+
+msgid "Codes not set"
+msgstr "Koodeja ei asetettu"
+
+msgid "Modificator not found"
+msgstr "Modifikaattoria ei lˆytynyt"
+
+msgid "Set coefficient"
+msgstr "Aseta kerroin"
+
+msgid "Set name"
+msgstr "Aseta nimi"
+
+msgid "No levels defined"
+msgstr "Tasoja ei m‰‰ritetty"
+
+msgid "Level not found"
+msgstr "Tasoa ei lˆytynyt"
+
+msgid "Bad cronjob"
+msgstr "Kelpaamaton cronjob"
+
+msgid "No category ID"
+msgstr "Ei kategoriatunnusta"
+
+msgid "Category not found"
+msgstr "Kategoriaa ei lˆytynyt"
+
+msgid "No category name"
+msgstr "Ei kategorian nime‰"
+
+msgid "Wrong category ID"
+msgstr "V‰‰r‰ kategoriatunnus"
+
+msgid "No category id"
+msgstr "Ei kategoriatunnusta"
+
+msgid "No item ID"
+msgstr "Ei kohdetunnusta"
+
+msgid "Wrong item ID"
+msgstr "V‰‰r‰ kohdetunnus"
+
+msgid "Item init error"
+msgstr "Kohteen init-virhe"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "V‰‰r‰ bonustapahtumasumma"
+
+msgid "No item"
+msgstr "Ei kohdetta"
+
+msgid "Wrong tournament ID"
+msgstr "V‰‰r‰ turnaustunnus"
+
+msgid "Wrong Tournament ID"
+msgstr "V‰‰r‰ turnaustunnus"
+
+msgid "No ID tournament"
+msgstr "Ei tunnusta turnaukselle"
+
+msgid "No tournament ID"
+msgstr "Ei turnaustunnusta"
+
+msgid "No tournament id"
+msgstr "Ei turnaustunnusta"
+
+msgid "No balance"
+msgstr "Ei tasetta"
+
+msgid "Not enough balance"
+msgstr "Ei riitt‰v‰sti tasetta"
+
+msgid "Tournament name required"
+msgstr "Turnauksen nimi vaaditaan"
+
+msgid "Wrong tournament winner by"
+msgstr "V‰‰r‰ turnauksen voittaja"
+
+msgid "Wrong tournament period"
+msgstr "V‰‰r‰ turnauksen ajanjakso"
+
+msgid "Wrong tournament repeat"
+msgstr "V‰‰r‰ turnauksen toisto"
+
+msgid "Wrong tournament start date"
+msgstr "V‰‰r‰ turnauksen alkamisp‰iv‰"
+
+msgid "Tournament not found"
+msgstr "Turnausta ei lˆytynyt"
+
+msgid "Activated Tournaments"
+msgstr "Aktivoidut turnaukset"
+
+msgid "No tournament"
+msgstr "Ei turnausta"
+
+msgid "Wrong event type"
+msgstr "V‰‰r‰ tapahtumatyyppi"
+
+msgid "No event id"
+msgstr "Ei tapahtumatunnusta"
+
+msgid "Empty data"
+msgstr "Tyhj‰t tiedot"
+
+msgid "No data"
+msgstr "Ei tietoja"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonukset ovat kiellettyj‰ k‰ytt‰j‰lle"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Turnaukset ovat kiellettyj‰ k‰ytt‰j‰lle"
+
+msgid "Bonus pending cancellation"
+msgstr "Bonuksen odotuksen peruutus"
+
+msgid "Cancel not supported"
+msgstr "Peruutusta ei tueta"
+
+msgid "Awaiting limits information, try later"
+msgstr "Odottaa rajoitustietoja, yrit‰ myˆhemmin"
+
+msgid "Error cancellation of the bonus"
+msgstr "Virhe bonuksen perumisessa"

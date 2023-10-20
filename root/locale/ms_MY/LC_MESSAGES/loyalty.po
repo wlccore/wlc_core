@@ -1,0 +1,366 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: [wlc_core] (en comments) loyalty for ms_MY\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "Set transaction type"
+msgstr "Tetapkan jenis transaksi"
+
+msgid "No user id"
+msgstr "Tiada ID pengguna"
+
+msgid "No amount"
+msgstr "Tiada amaun"
+
+msgid "No loyalty record"
+msgstr "Tiada rekod kesetiaan"
+
+msgid "Wrong request path"
+msgstr "Laluan permintaan salah"
+
+msgid "Debet amount to big"
+msgstr "Amaun debet terlalu besar"
+
+msgid "Wrong transaction type"
+msgstr "Jenis transaksi salah"
+
+msgid "Awaiting limits information"
+msgstr "Menunggu maklumat had"
+
+msgid "Wrong currency"
+msgstr "Mata wang salah"
+
+msgid "Non existent level"
+msgstr "Tahap ini tidak wujud"
+
+msgid "No points"
+msgstr "Tiada mata"
+
+msgid "Set loyalty level"
+msgstr "Tetapkan tahap kesetiaan"
+
+msgid "No bet"
+msgstr "Tiada taruhan"
+
+msgid "No ID user"
+msgstr "Tiada ID pengguna"
+
+msgid "No ID bonus"
+msgstr "Tiada ID bonus"
+
+msgid "Wrong amount"
+msgstr "Amaun salah"
+
+msgid "No bonus ID"
+msgstr "Tiada ID bonus"
+
+msgid "No user ID"
+msgstr "Tiada ID pengguna"
+
+msgid "Wrong date format"
+msgstr "Format tarikh salah"
+
+msgid "Date must not be today"
+msgstr "Tarikh perlulah bukan hari ini"
+
+msgid "No bonus id"
+msgstr "Tiada ID bonus"
+
+msgid "No status"
+msgstr "Tiada status"
+
+msgid "Bonus not found"
+msgstr "Bonus tidak dijumpai"
+
+msgid "Already have active"
+msgstr "Anda telah mempunyai bonus aktif"
+
+msgid "Bonus is not available"
+msgstr "Bonus tidak tersedia"
+
+msgid "First deposit, already deposited"
+msgstr "Deposit pertama telah didepositkan"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Bonus tidak memenuhi syarat set"
+
+msgid "Bonus used"
+msgstr "Bonus telah digunakan"
+
+msgid "Promo code needed"
+msgstr "Kod promo diperlukan"
+
+msgid "Wrong promo code"
+msgstr "Kod promo salah"
+
+msgid "User ID not set"
+msgstr "ID pengguna tidak ditetapkan"
+
+msgid "Wrong bonus results value"
+msgstr "Nilai keputusan bonus tidak betul"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Keputusan bonus nilai pusingan percuma tidak betul"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Pertaruhan anugerah keputusan bonus tidak betul"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Keputusan bonus saiz bahagian tidak betul"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Pertaruhan pelepasan keputusan bonus adalah tidak betul"
+
+msgid "Bonus name required"
+msgstr "Nama bonus diperlukan"
+
+msgid "Wrong bonus event"
+msgstr "Acara bonus salah"
+
+msgid "Wrong bonus type"
+msgstr "Jenis bonus salah"
+
+msgid "Wrong bonus repeat period"
+msgstr "Tempoh ulangan bonus salah"
+
+msgid "Wrong bonus expire period"
+msgstr "Tempoh luput bonus salah"
+
+msgid "Wrong bonus budget"
+msgstr "Bajet bonus salah"
+
+msgid "Wrong bonus start date"
+msgstr "Tarikh mula bonus salah"
+
+msgid "Wrong bonus end date"
+msgstr "Tarikh akhir bonus salah"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Tarikh mula bonus tidak betul: tarikh mula tidak boleh selepas tarikh akhir"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Syarat bonus tidak betul: amaun minimum tidak betul"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Syarat bonus tidak betul: amaun maksimum tidak betul"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Syarat bonus tidak betul: amaun minimum set tidak boleh lebih besar daripada amaun maksimum"
+
+msgid "Following codes are duplicated"
+msgstr "Kod berikut telah diduakan"
+
+msgid "Bonus name already exists"
+msgstr "Nama bonus telah wujud"
+
+msgid "Wrong bonus ID"
+msgstr "ID bonus salah"
+
+msgid "Activated bonuses"
+msgstr "Bonus diaktifkan"
+
+msgid "Can't delete"
+msgstr "Tidak boleh dipadam"
+
+msgid "No bonus"
+msgstr "Tiada bonus"
+
+msgid "Wrong store action"
+msgstr "Tindakan stor salah"
+
+msgid "No order id"
+msgstr "Tiada ID pesanan"
+
+msgid "Order not found"
+msgstr "Pesanan masih belum dijumpai"
+
+msgid "No item id"
+msgstr "Tiada ID item"
+
+msgid "User not found"
+msgstr "Pengguna masih belum dijumpai"
+
+msgid "Item not found"
+msgstr "Item masih belum dijumpai"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Harga item tidak ditetapkan untuk mata wang: KESETIAAN"
+
+msgid "Not enough loyalty points"
+msgstr "Mata kesetiaan tidak mencukupi"
+
+msgid "Item out of stock"
+msgstr "Item tiada stok"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Ralat acara bonus item"
+
+msgid "User not found in tournament"
+msgstr "Pengguna tidak dijumpai dalam kejohanan"
+
+msgid "Set codes count"
+msgstr "Tetapkan kiraan kod"
+
+msgid "Set batch name"
+msgstr "Tetapkan nama kelompok"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Kiraan kod melebihi 300 000"
+
+msgid "Wrong batch ID"
+msgstr "ID kelompok salah"
+
+msgid "Codes not set"
+msgstr "Kod tidak ditetapkan"
+
+msgid "Modificator not found"
+msgstr "Pengubahsuai tidak dijumpai"
+
+msgid "Set coefficient"
+msgstr "Set pekali"
+
+msgid "Set name"
+msgstr "Tetapkan nama"
+
+msgid "No levels defined"
+msgstr "Tiada tahap dinyatakan"
+
+msgid "Level not found"
+msgstr "Tahap tidak dijumpai"
+
+msgid "Bad cronjob"
+msgstr "Cronjob teruk"
+
+msgid "No category ID"
+msgstr "Tiada ID kategori"
+
+msgid "Category not found"
+msgstr "Kategori tidak dijumpai"
+
+msgid "No category name"
+msgstr "Tiada nama kategori"
+
+msgid "Wrong category ID"
+msgstr "ID kategori salah"
+
+msgid "No category id"
+msgstr "Tiada id kategori"
+
+msgid "No item ID"
+msgstr "Tiada ID item"
+
+msgid "Wrong item ID"
+msgstr "ID item salah"
+
+msgid "Item init error"
+msgstr "Ralat permulaan item"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Acara bonus item tidak betul"
+
+msgid "No item"
+msgstr "Tiada item"
+
+msgid "Wrong tournament ID"
+msgstr "ID kejohanan salah"
+
+msgid "Wrong Tournament ID"
+msgstr "ID Kejohanan salah"
+
+msgid "No ID tournament"
+msgstr "Tiada kejohanan ID"
+
+msgid "No tournament ID"
+msgstr "Tiada ID kejohanan"
+
+msgid "No tournament id"
+msgstr "Tiada ID kejohanan"
+
+msgid "No balance"
+msgstr "Tiada baki"
+
+msgid "Not enough balance"
+msgstr "Baki tidak mencukupi"
+
+msgid "Tournament name required"
+msgstr "Nama kejohanan diperlukan"
+
+msgid "Wrong tournament winner by"
+msgstr "Pemenang kejohanan tidak betul"
+
+msgid "Wrong tournament period"
+msgstr "Tempoh kejohanan salah"
+
+msgid "Wrong tournament repeat"
+msgstr "Ulangan kejohanan salah"
+
+msgid "Wrong tournament start date"
+msgstr "Tarikh mula kejohanan salah"
+
+msgid "Tournament not found"
+msgstr "Kejohanan tidak dijumpai"
+
+msgid "Activated Tournaments"
+msgstr "Kejohanan diaktifkan"
+
+msgid "No tournament"
+msgstr "Tiada kejohanan"
+
+msgid "Wrong event type"
+msgstr "Jenis acara salah"
+
+msgid "No event id"
+msgstr "Tiada ID acara"
+
+msgid "Empty data"
+msgstr "Data kosong"
+
+msgid "No data"
+msgstr "Tiada data"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonus adalah dilarang untuk pengguna"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Kejohanan adalah dilarang untuk pengguna"
+
+msgid "Bonus pending cancellation"
+msgstr "Pembatalan bonus belum selesai"
+
+msgid "Cancel not supported"
+msgstr "Bonus tidak boleh dibatalkan"
+
+msgid "Awaiting limits information, try later"
+msgstr "Menunggu maklumat had, cuba sebentar lagi"
+
+msgid "Error cancellation of the bonus"
+msgstr "Ralat telah berlaku semasa pembatalan bonus"
+
+msgid "Purchase is not possible - the item has been disabled"
+msgstr "Tidak dapat membeli - item telah dinyahbolehkan"
+
+msgid "Purchase is not possible - the item has been deleted"
+msgstr "Tidak dapat membeli - item telah dipadam"
+
+msgid "Wait for the calculation of the previous tournament to complete"
+msgstr "Menunggu perkiraan untuk menyelesaikan kejohanan sebelum ini"
+
+msgid "Item temporarily unavailable"
+msgstr "Item tidak tersedia buat masa ini"
+
+msgid "There is already an active tournament"
+msgstr "Terdapat kejohanan aktif"
+
+msgid "No client"
+msgstr "Klien tidak tersedia"
+
+msgid "Bonus selection is already in process"
+msgstr "Pemilihan bonus sedang dalam proses"

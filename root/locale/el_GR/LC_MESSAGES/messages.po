@@ -1,0 +1,1508 @@
+# English translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.0.389\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: 2021-01-27 01:20+0200\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Προσθέστε το email μας στο βιβλίο διευθύνσεών σας για να μην χάσετε "
+"σημαντικές πληροφορίες από"
+
+msgid "Congratulations,"
+msgstr "Συγχαρητήρια,"
+
+msgid "Dear"
+msgstr "Αγαπητέ/ή"
+
+msgid "Deposit confirmation"
+msgstr "Επιβεβαίωση κατάθεσης"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Ειδοποίηση επιτυχούς κατάθεσης. Το υπόλοιπό σας"
+
+msgid "Finish registration link"
+msgstr "Σύνδεσμος ολοκλήρωσης εγγραφής"
+
+msgid "Greeting."
+msgstr "Χαιρετισμός."
+
+msgid "Hello"
+msgstr "Γεια σας"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr ""
+"Εάν αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου δεν εμφανίζεται σωστά, ανοίξτε "
+"το στο πρόγραμμα περιήγησης."
+
+msgid "If you have any questions, please contact"
+msgstr "Εάν έχετε οποιεσδήποτε ερωτήσεις, επικοινωνήστε με"
+
+msgid "Link will be available for 30 minutes."
+msgstr "Ο σύνδεσμος θα είναι διαθέσιμος για 30 λεπτά."
+
+msgid "Login"
+msgstr "Σύνδεση"
+
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "Password restore"
+msgstr "Επαναφορά κωδικού πρόσβασης"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Κάντε κλικ στον παρακάτω σύνδεσμο για να ολοκληρώσετε την εγγραφή:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Μην απαντήσετε σε αυτό το email. Αυτό το μemail δημιουργείται αυτόματα και "
+"δεν θα λάβετε απάντηση."
+
+msgid "Registration confirmation"
+msgstr "Επιβεβαίωση εγγραφής"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Επαναφέρετε τον κωδικό πρόσβασης κάνοντας κλικ στον παρακάτω σύνδεσμο."
+
+msgid "Social registration confirmation"
+msgstr "Επιβεβαίωση εγγραφής μέσω κοινωνικού δικτύου"
+
+msgid "Thank you for validating your account."
+msgstr "Σας ευχαριστούμε για την επαλήθευση του λογαριασμού σας."
+
+msgid "Thanks for registration on the website!"
+msgstr "Σας ευχαριστούμε που εγγραφήκατε στην ιστοσελίδα μας!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr ""
+"Για να ολοκληρώσετε τη σύνδεση των λογαριασμών σας, χρησιμοποιήστε αυτόν τον "
+"σύνδεσμο:"
+
+msgid "Welcome to"
+msgstr "Καλωσήρθατε στο"
+
+msgid "With respect"
+msgstr "Φιλικά,"
+
+msgid "You asked to link new social account to your current account"
+msgstr ""
+"Ζητήσατε να συνδέσετε έναν νέο λογαριασμό κοινωνικού δικτύου με τον τρέχοντα "
+"λογαριασμό σας"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Έχετε κάνει το πρώτο βήμα για να ζήσετε ένα καταπληκτικό ταξίδι παιχνιδιού\n"
+"    με"
+
+msgid "casino_footer_copyright"
+msgstr "Υποσέλιδο πνευματικά δικαιώματα καζίνο"
+
+msgid "casino_mail_info"
+msgstr "Πληροφορίες email casino"
+
+msgid "online support"
+msgstr "ηλεκτρονική υποστήριξη"
+
+msgid "controller_does_not_exists"
+msgstr "Ο ελεγκτής δεν υπάρχει"
+
+msgid "social_not_found"
+msgstr "Το κοινωνικό δίκτυο δεν βρέθηκε"
+
+msgid "purchase_error"
+msgstr "Σφάλμα αφοράς"
+
+msgid "game_added_to_favorites"
+msgstr "Το παιχνίδι προστέθηκε στα αγαπημένα"
+
+msgid "game_deleted_from_favorites"
+msgstr "Το παιχνίδι διαγράφηκε στα αγαπημένα"
+
+msgid "must_login"
+msgstr "Πρέπει να συνδεθείτε"
+
+msgid "No bonus name"
+msgstr "Δεν υπάρχει όνομα μπόνους"
+
+msgid "No bonus descripton"
+msgstr "Δεν υπάρχει περιγραφή μπόνους"
+
+msgid "No user id"
+msgstr "Δεν υπάρχει αναγνωριστικό χρήστη"
+
+msgid "No bonus id"
+msgstr "Δεν υπάρχει αναγνωριστικό μπόνους"
+
+msgid "No status"
+msgstr "Άγνωστη κατάσταση"
+
+msgid "Bonus not found"
+msgstr "Το μπόνους δεν βρέθηκε"
+
+msgid "Already have active"
+msgstr "Υπάρχει ήδη ενεργό"
+
+msgid "Bonus is not available"
+msgstr "Το μπόνους δεν είναι διαθέσιμο"
+
+msgid "First deposit, already deposited"
+msgstr "Έχει ήδη πραγματοποιηθεί η πρώτη κατάθεση"
+
+msgid "No loyalty record"
+msgstr "Δεν υπάρχει ιστορικό επιβράβευσης αφοσίωσης"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Δεν πληροί τους όρους του μπόνους"
+
+msgid "Bonus used"
+msgstr "Μπόνους που χρησιμοποιείται"
+
+msgid "Promo code needed"
+msgstr "Απαιτείται πρωοθητικός κωδικός"
+
+msgid "Wrong promo code"
+msgstr "Εσφαλμένος προωθητικός κωδικός"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Τα μπόνους απαγορεύονται για τον χρήστη"
+
+msgid "Already have an active bonus"
+msgstr "Έχετε ήδη ένα ενεργό μπόνους"
+
+msgid "registration"
+msgstr "εγγραφή"
+
+msgid "verification"
+msgstr "επαλήθευση"
+
+msgid "sign up"
+msgstr "εγγραφή"
+
+msgid "store"
+msgstr "κατάστημα"
+
+msgid "login"
+msgstr "σύνδεση"
+
+msgid "deposit"
+msgstr "κατάθεση"
+
+msgid "deposit first"
+msgstr "θα πρέπει να κάνετε κατάθεση πρώτα"
+
+msgid "deposit sum"
+msgstr "ποσό κατάθεσης"
+
+msgid "deposit repeated"
+msgstr "επαναλαμβανόμενη κατάθεση"
+
+msgid "bet"
+msgstr "στοίχημα"
+
+msgid "bet sum"
+msgstr "ποσό στοιχήματος"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "ποσό κατάθεσης"
+
+msgid "once"
+msgstr "μία φορά"
+
+msgid "day"
+msgstr "ημέρα"
+
+msgid "week"
+msgstr "εβδομάδα"
+
+msgid "month"
+msgstr "μήνας"
+
+msgid "all"
+msgstr "όλα"
+
+msgid "bonus"
+msgstr "μπόνους"
+
+msgid "win"
+msgstr "νίκη"
+
+msgid "win and bonus"
+msgstr "νίκες και μπόνους"
+
+msgid "winevent"
+msgstr "νίκες και εκδήλωση"
+
+msgid "winbonusevent"
+msgstr "νίκες + μπόνους + εκδηλώσεις"
+
+msgid "none"
+msgstr "ουδέν"
+
+msgid "balance"
+msgstr "υπόλοιπο"
+
+msgid "experience"
+msgstr "εμπειρία"
+
+msgid "loyalty"
+msgstr "αφοσίωση"
+
+msgid "absolute"
+msgstr "απόλυτο"
+
+msgid "relative"
+msgstr "σχετικό"
+
+msgid "bets"
+msgstr "στοιχήματα"
+
+msgid "wins"
+msgstr "νίκες"
+
+msgid "turnover"
+msgstr "τζίρος"
+
+msgid "negative turnover"
+msgstr "αρνητικός τζίρος"
+
+msgid "unlimited"
+msgstr "απεριόριστα"
+
+msgid "one day"
+msgstr "μία ημέρα"
+
+msgid "two days"
+msgstr "δύο ημέρες"
+
+msgid "three days"
+msgstr "3 ημέρες"
+
+msgid "seven days"
+msgstr "7 ημέρες"
+
+msgid "ten days"
+msgstr "10 ημέρες"
+
+msgid "fourteen days"
+msgstr "14 ημέρες"
+
+msgid "thirty days"
+msgstr "30 ημέρες"
+
+msgid "sixty days"
+msgstr "60 ημέρες"
+
+msgid "ninety days"
+msgstr "90 ημέρες"
+
+msgid "one week"
+msgstr "μία εβδομάδα"
+
+msgid "two weeks"
+msgstr "δύο εβδομάδες"
+
+msgid "one month"
+msgstr "ένας μήνας"
+
+msgid "every day"
+msgstr "καθημερινά"
+
+msgid "every week"
+msgstr "κάθε εβδομάδα"
+
+msgid "every two weeks"
+msgstr "κάθε δύο εβδομάδες"
+
+msgid "every month"
+msgstr "κάθε μήνα"
+
+msgid "fee"
+msgstr "χρέωση"
+
+msgid "turnover and fee"
+msgstr "τζίρος και χρέωση"
+
+msgid "everyday"
+msgstr "κάθε μέρα"
+
+msgid "monday"
+msgstr "Δευτέρα"
+
+msgid "tuesday"
+msgstr "Τρίτη"
+
+msgid "wednesday"
+msgstr "Τετάρτη"
+
+msgid "thursday"
+msgstr "Πέμπτη"
+
+msgid "friday"
+msgstr "Παρασκευή"
+
+msgid "saturday"
+msgstr "Σάββατο"
+
+msgid "sunday"
+msgstr "Κυριακή"
+
+msgid "transaction_list_is_empty"
+msgstr "Ο κατάλογος συναλλαγών είναι άδειος"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr ""
+"Εσφαλμένη ημερομηνία: η ημερομηνία έναρξης είναι μεταγενέστερη από την "
+"ημερομηνία λήξης"
+
+msgid "cancelled"
+msgstr "ακυρώθηκε"
+
+msgid "rejected"
+msgstr "απορρίφθηκε"
+
+msgid "error"
+msgstr "σφάλμα"
+
+msgid "in_progress"
+msgstr "Σε εξέλιξη"
+
+msgid "confirmed"
+msgstr "επιβεβαιώθηκε"
+
+#, fuzzy
+msgid "pending"
+msgstr "Τελειώνει"
+
+msgid "system_error"
+msgstr "Σφάλμα συστήματος"
+
+msgid "completed"
+msgstr "ολοκληρώθηκε"
+
+msgid "aborted"
+msgstr "ματαιώθηκε"
+
+msgid "credit"
+msgstr "πιστωτική"
+
+msgid "debet"
+msgstr "χρεωστική"
+
+msgid "withdraw_unavailable"
+msgstr "Η ανάληψη δεν είναι διαθέσιμη"
+
+msgid "withdraw_check_error"
+msgstr "Σφάλμα ελέγχου ανάληψης"
+
+msgid "set_amount"
+msgstr "Ορισμός ποσού"
+
+msgid "set_payment_system"
+msgstr "Ορισμός συστήματος πληρωμής"
+
+msgid "country_and_birth_date_required"
+msgstr "Η χώρα και η ημερομηνία γέννησης είναι υποχρεωτικές"
+
+msgid "payment_request_sent"
+msgstr "Το αίτημα πληρωμής εστάλη"
+
+msgid "payment_request_error"
+msgstr "Σφάλμα αιτήματος πληρωμής"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Επιτεύχθη το μέγιστο όριο ανάληψης"
+
+msgid "sys_error_message"
+msgstr "Μήνυμα σφάλματος συστήματος"
+
+msgid "input_purse"
+msgstr "Εισαγωγή πορτοφολιού"
+
+msgid "payment_withdraw_sent"
+msgstr "Η πληρωμή ανάληψης εστάλη"
+
+msgid "New password is empty"
+msgstr "Ο νέος κωδικός πρόσβασης είναι κενός"
+
+msgid "Repeat password is empty"
+msgstr "Το πεδίο της επανάληψης του κωδικού πρόσβασης είναι κενό"
+
+msgid "Code is empty"
+msgstr "Ο κωδικός είναι κενός"
+
+msgid "Code is incorrect"
+msgstr "Ο κωδικός είναι εσφαλμένος"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Ο κωδικός πρόσβασης πρέπει να έχει μήκος τουλάχιστον 6 χαρακτήρες"
+
+msgid "pass_not_match"
+msgstr "Οι κωδικοί πρόσβασης δεν ταιριάζουν"
+
+msgid "Session expired"
+msgstr "Η συνεδρία έληξε"
+
+msgid "social_account_expired"
+msgstr "Το κοινωνικό δίκτυο έληξε"
+
+msgid "Empty to address"
+msgstr "Κενή διεύθυνση αποστολής"
+
+msgid "Empty subject"
+msgstr "Κενό θέμα"
+
+msgid "Empty message"
+msgstr "Κενό μήνυμα"
+
+msgid "Empty required parameter"
+msgstr "Μη έγκυρη απαιτούμενη παράμετρος"
+
+msgid "Unknown error"
+msgstr "Άγνωστο σφάλμα"
+
+msgid "Not allowed player country"
+msgstr ""
+"Δεν μπορείτε να παίξετε αυτό το παιχνίδι γιατί δεν επιτρέπεται στη χώρα σας."
+
+msgid "Demo not supported"
+msgstr "Η λειτουργία επιδείξηςεν υποστηρίζεται"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Το νόμισμά σας δεν υποστηρίζεται από αυό τον πάροχο"
+
+msgid "Branded games are not enabled"
+msgstr "Τα επώνυμα παιχνίδια δεν είναι ενεργοποιημένα"
+
+msgid "Self exclusion date"
+msgstr "ημερομηνία αυτό-αποκλεισμού"
+
+msgid "Self exclusion"
+msgstr "αυτο-αποκλεισμός"
+
+msgid "does not exists"
+msgstr "δεν υπάρχει"
+
+msgid "Method is not supported"
+msgstr "Η μέθοδος δεν υποστηρίζεται"
+
+msgid "Data type is not found"
+msgstr "Ο τύπος δεδομένων δεν βρέθηκε"
+
+msgid "Invalid request parameters"
+msgstr "Μη έγκυρες παράμετροι αιτήματος"
+
+msgid "No bonus description"
+msgstr "Δεν υπάρχει περιγραφή τουνους"
+
+msgid "Selected"
+msgstr "Επιλεγμένο"
+
+msgid "Qualified"
+msgstr "Αναγνωρισμένο"
+
+msgid "Deleted"
+msgstr "Διαγραμμένο"
+
+msgid "Deactivated"
+msgstr "Απενεργοποιημένο"
+
+msgid "Canceled"
+msgstr "Ακυρωμένο"
+
+msgid "Ending"
+msgstr "Τελειώνει"
+
+msgid "Ended"
+msgstr "Τελείωσε"
+
+msgid "Loyalty API Failure"
+msgstr "Αποτυχία API αφοσίωσης"
+
+msgid "Loyalty result not supported"
+msgstr "Το αποτέλεσμα αφοσίωσης δεν υποστηρίζεται"
+
+msgid "User not found"
+msgstr "Ο χρήστης δεν βρέθηκε"
+
+msgid "Unable fetch oauth access token"
+msgstr "Δεν είναι δυνατή η λήψη διακριτικού πρόσβασης oauth"
+
+msgid "Access token is missing"
+msgstr "Λείπει το διακριτικό πρόσβασης"
+
+msgid "Empty access token user identifier"
+msgstr "Κενό αναγνωριστικό χρήστη διακριτικού πρόσβασης"
+
+msgid "Empty access token identifier"
+msgstr "Κενό αναγνωριστικό διακριτικού πρόσβασης"
+
+msgid "Method not allowed"
+msgstr "Η μέθοδος δεν επιτρέπεται"
+
+msgid "Your country is on the forbidden list"
+msgstr "Η χώρα σας είναι στην απαγορευμένη λίστα"
+
+msgid "User profile is incomplete"
+msgstr "Το προφίλ χρήστη δεν είναι πλήρες"
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "Το αποτέλεσμα του μπόνους δεν είναι στη λίστα"
+
+msgid "Unknown route path"
+msgstr "Άγνωστη διαδρομή"
+
+msgid "Too many requests"
+msgstr "Υπερβολικά πολλά αιτήματα"
+
+msgid "Code is not valid"
+msgstr "Ο κωδικός είναι εσφαλμένος"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "Υπερβολικά πολλά αιτήματα"
+
+msgid "Method Not Allowed"
+msgstr "Η μέθοδος δεν επιτρέπεται"
+
+msgid "Api endpoint not found"
+msgstr "Το τελικό σημείο API δεν βρέθηκε"
+
+msgid "Confirm your email to start games"
+msgstr "Επιβεβαιώστε το email σας για να ξεκινήσετε να παίζετε"
+
+msgid "User not authorized"
+msgstr "Μη εξουσιοδοτημένος χρήστης"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Το εμπορικό σύστημα δεν έχει επιλεγεί ή δεν είναι έγκυρο"
+
+msgid "Amount is not selected or invalid"
+msgstr "Το ποσό δεν είναι επιλεγμένο ή δεν είναι έγκυρο"
+
+msgid "Bonus result is not list"
+msgstr "Το αποτέλεσμα του μπόνους δεν είναι στη λίστα"
+
+msgid "Bonus ID Not found"
+msgstr "Το αναγνωριστικό του μπόνους δεν βρέθηκε"
+
+msgid "Bonus Selected Not found"
+msgstr "Το επιλεγμένο μπόνους δεν βρέθηκε"
+
+msgid "User is not authorized"
+msgstr "Ο χρήστης δεν είναι εξουσιοδοτημένος"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "Κενό θέμα"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "Η κατάθεση απέτυχε: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+"Έχετε ενεργοποιήσει το όριο %s: %s %s μέχρι %s. Διαθέσιμο ποσό κατάθεσης: %s "
+"%s"
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "Ορισμός ποσού"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "Κενός κωδικός εκκίνησης"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "επίθετο"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "επίθετο"
+
+#, fuzzy
+msgid "Account type"
+msgstr "χώρα"
+
+#, fuzzy
+msgid "Account number"
+msgstr "αριθμό τηλεφώνου"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "αριθμό τηλεφώνου"
+
+msgid "Uploadable files is empty"
+msgstr "Το πεδίο email είναι κενό"
+
+msgid "Exceeds allowed file size"
+msgstr "Υπερβαίνει το επιτρεπόμενο μέγεθος αρχείου"
+
+msgid "Mb"
+msgstr "Mb"
+
+msgid "Document ID not found"
+msgstr "Το αναγνωριστικό εγγράφου δεν βρέθηκε"
+
+msgid "Request invalid. Error: "
+msgstr "Το αίτημα δεν είναι έγκυρο. Σφάλμα: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr "Ο κατάλογος παιχνιδιών δεν είναι διαθέσιμος προσωρινά"
+
+msgid "Empty launch code"
+msgstr "Κενός κωδικός εκκίνησης"
+
+msgid "Empty merchant identifier"
+msgstr "Κενό αναγνωριστικό εμπόρου"
+
+msgid "Empty games catalog"
+msgstr "Κενός κατάλογος παιχνιδιών"
+
+msgid "Unknown game launch code"
+msgstr "Άγνωστος κωδικός εκκίνησης παιχνιδιού"
+
+msgid "Not supported exception"
+msgstr "Δεν υποστηρίζεται η εξαίρεση"
+
+msgid "Bad request"
+msgstr "Εσφαλμένο αίτημα"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+msgid "Unable find user identifier"
+msgstr "Δεν είναι δυνατή η εύρεση του αναγνωριστικού χρήστη"
+
+msgid "Unknown error occured"
+msgstr "Παρουσιάστηκε άγνωστο σφάλμα"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "Ο αριθμός παραλήπτη δεν είναι έγκυρος"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "Υπερβολικά πολλά αιτήματα"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "Άγνωστο σφάλμα"
+
+msgid "Token not found"
+msgstr "Το διακριτικό δεν βρέθηκε"
+
+msgid "Invalid token provided"
+msgstr "Το διακριτικό που δόθηκε δεν είναι έγκυρο"
+
+msgid "Phone already verified"
+msgstr "Το τηλέφωνο έχει ήδη επαληθευτεί"
+
+msgid "Insufficient parameters"
+msgstr "Ανεπαρκείς παράμετροι"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "Υπήρξε σφάλμα κατά την διαδικασία σύνδεσης. Σφάλμα επαλήθευσης."
+
+msgid "Invalid verification code"
+msgstr "Ο κωδικός επαλήθευσης δεν είναι έγκυρος"
+
+msgid "Empty phone number"
+msgstr "Κενός αριθμός τηλεφώνου"
+
+msgid "Invalid phone number"
+msgstr "Μη έγκυρος αριθμός τηλεφώνου"
+
+msgid "Anonymous"
+msgstr "Ανώνυμος"
+
+msgid "Item not found"
+msgstr "Το στοιχείο δεν βρέθηκε"
+
+msgid "Sent from web-form at"
+msgstr "Αποστέλλεται από τη φόρμα web στη διεύθυνση"
+
+msgid "Service not found"
+msgstr "Η υπηρεσία δεν βρέθηκε"
+
+msgid "Unauthorized"
+msgstr "Μη εξουσιοδοτημένος"
+
+msgid "Tournaments history error"
+msgstr "Σφάλμα ιστορικού τουρνουά"
+
+msgid "Tournaments list not available"
+msgstr "Η λίστα τουρνουά δεν είναι διαθέσιμη"
+
+msgid "Tournaments type not found"
+msgstr "Ο τύπος τουρνουά δεν βρέθηκε"
+
+msgid "Tournament not found"
+msgstr "Το τουρνουά δεν βρέθηκε"
+
+msgid "Tournaments subscribe error"
+msgstr "Σφάλμα εγγραφής στο τουρνουά"
+
+msgid "Insufficient monetary turnover"
+msgstr "Ανεπαρκής χρηματικός τζίρος"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "Το προφίλ του χρήστη (προσωπικά δεδομένα) δεν έχουν συμπληρωθεί"
+
+msgid "Need verification"
+msgstr "Απαιτείται επαλήθευση"
+
+msgid "Need additional verification"
+msgstr "Απαιτείται πρόσθετη επαλήθευση"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr ""
+"Το email εστάλη. Ο σύνδεσμος ανάκτησης θα είναι διαθέσιμος για 30 λεπτά"
+
+msgid "Password repeat is empty"
+msgstr "Το πεδίο επανάληψης του κωδικού πρόσβασης είναι κενό"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Ο νέος κωδικός πρόσβασης μπορεί να περιέχει μόνο λατινικά γράμματα, αριθμούς "
+"και ειδικά σύμβολα"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Ο κωδικός πρόσβασης πρέπει να περιέχει λατινικά γράμματα με κεφαλαία και "
+"πεζά, αριθμούς και ειδικά σύμβολα"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Ο κωδικός πρόσβασης πρέπει να περιέχει λατινικά γράμματα και αριθμούς"
+
+msgid "Passwords do not match"
+msgstr "Οι κωδικοί πρόσβασης δεν ταιριάζουν"
+
+msgid "Password is empty"
+msgstr "Ο κωδικός πρόσβασης είναι κενός"
+
+msgid "Password is invalid"
+msgstr "Ο κωδικός πρόσβασης δεν είναι έγκυρος"
+
+msgid "Code is invalid"
+msgstr "Ο κώωδικός δεν είναι έγκυρος"
+
+msgid "Email change is not allowed"
+msgstr "Δεν επιτρέπεται η αλλαγή ηλεκτρονικού ταχυδρομείου"
+
+msgid "Email is required"
+msgstr "Απαιτείται διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+msgid "User update failed"
+msgstr "Η ενημέρωση χρήστη απέτυχε"
+
+msgid "Registration data validation failed"
+msgstr "Η επαλήθευση των δεδομένων εγγραφής απέτυχε"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "Ο κωδικός επαλήθευσης δεν είναι έγκυρος"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "Κενός κωδικός εκκίνησης"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "Σφάλμα συστήματος"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"Ο κωδικός επαλήθευσης του email δεν βρέθηκε. Ίσως έχετε ήδη επιβεβαιώσει το "
+"email σας, ελέγξτε τα εισερχόμενά σας"
+
+msgid "Registration_complete"
+msgstr "Η εγγραφή ολοκληρώθηκε"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+msgid "Insufficient account balance"
+msgstr "Ανεπαρκές υπόλοιπο λογαριασμού"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Δεν έχετε καταθέσει μέσω αυτού του συστήματος και δεν μπορείτε να κάνετε "
+"ανάληψη κεφαλαίων χρησιμοποιώντας το. Κάντε μια κατάθεση μέσω αυτού του "
+"συστήματος για να κάνετε ανάληψη."
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "Δεν έχει επιλεγεί φύλο"
+
+msgid "Impossible to send email"
+msgstr "Δεν είναι δυνατή η αποστολή του email"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "Ο κωδικός επαλήθευσης δεν είναι έγκυρος"
+
+msgid "Server returned invalid response"
+msgstr "Ο διακομιστής επέστρεψε μη έγκυρη απόκριση"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "Άγνωστο σφάλμα"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "Άγνωστη κατάσταση"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "Η μέθοδος δεν υποστηρίζεται"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "Η μέθοδος δεν υποστηρίζεται"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "Η μέθοδος δεν υποστηρίζεται"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "Η μέθοδος δεν υποστηρίζεται"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "Μη έγκυρη εντολή"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "Μη έγκυρες παράμετροι αιτήματος"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "Μη έγκυρες παράμετροι αιτήματος"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "Μη έγκυρη εντολή"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "Μη έγκυρη εντολή"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "Ο πάροχος ελέγχου ταυτότητας δεν υποστηρίζεται"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "Εσφαλμένη έκδοση API στη διεύθυνση"
+
+msgid "Not specified API key"
+msgstr "Δεν έχει καθοριστεί κλειδί API"
+
+msgid "Incorrect API key"
+msgstr "Εσφαλμένο κλειδί API"
+
+msgid "Incorrect IP address client"
+msgstr "Εσφαλμένη διεύθυνση IP πελάτη"
+
+msgid "Invalid command"
+msgstr "Μη έγκυρη εντολή"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Η καθορισμένη εντολή δεν υπάρχει ή δεν είναι διαθέσιμη"
+
+msgid "System error"
+msgstr "Σφάλμα συστήματος"
+
+msgid "Not specified the SMS identifier"
+msgstr "Δεν έχει καθοριστεί το αναγνωριστικό SMS"
+
+msgid "Sender address does not exist"
+msgstr "Η διεύθυνση αποστολέα δεν υπάρχει"
+
+msgid "Not specified content"
+msgstr "Δεν έχει καθοριστεί το περιεχόμενο"
+
+msgid "Faulty or unsupported country code"
+msgstr "Ελαττωματικός ή μη υποστηριζόμενος κωδικός χώρας"
+
+msgid "Content is too long"
+msgstr "Το περιεχόμενο είναι πολύ μεγάλο"
+
+msgid "Incorrect encoding of the content"
+msgstr "Εσφαλμένη κωδικοποίηση του περιεχομένου"
+
+msgid "Exceeded monthly limit"
+msgstr "Υπέρβαση μηνιαίου ορίου"
+
+msgid "Batch ID does not exist"
+msgstr "Το αναγνωριστικό δέσμης δεν υπάρχει"
+
+msgid "List recipients does not exist"
+msgstr "Οι παραλήπτες της λίστας δεν υπάρχουν"
+
+msgid "Invalid recipient number"
+msgstr "Ο αριθμός παραλήπτη δεν είναι έγκυρος"
+
+msgid "No content"
+msgstr "Δεν υπάρχει περιεχόμενο"
+
+msgid "Wrong content"
+msgstr "Εσφαλμένο περιεχόμενο"
+
+msgid "Unable send message"
+msgstr "Δεν είναι δυνατή η αποστολή του μηνύματος"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+"Έγινε υπέρβαση του χρονικού ορίου SMS. Μπορείτε να επαναλάβετε την αποστολή "
+"SMS σε %d λεπτά"
+
+msgid "Unsupported authentication provider"
+msgstr "Ο πάροχος ελέγχου ταυτότητας δεν υποστηρίζεται"
+
+msgid "connect_social_account_email_theme"
+msgstr "Σύνδεση email κοινωνικού δικτύου"
+
+msgid "not_logged_in"
+msgstr "Δεν έχετε συνδεθεί"
+
+msgid "trying_delete_last_social"
+msgstr "Δοκιμάστε να διαγράψετε το τελευταίο κοινωνικό δίκτυο"
+
+msgid "please_set_email"
+msgstr "Ορίστε το email"
+
+msgid "please_set_password"
+msgstr "Ορίστε τον κωδικό πρόσβασης"
+
+msgid "Code incorrect, user not found"
+msgstr "Ο κωδικός είναι εσφαλμένος, ο χρήστης δεν βρέθηκε"
+
+msgid "email_has_been_verified"
+msgstr "Το email επιβεβαιώθηκε"
+
+msgid "Transaction value generation failed"
+msgstr "Η δημιουργία της τιμής συναλλαγής απέτυχε"
+
+msgid "email_to_connect_social_sent"
+msgstr "Το email για τη σύνδεση με το κοινωνικό δίκτυο εστάλη"
+
+msgid "Registration complete"
+msgstr "Η εγγραφή ολοκληρώθηκε"
+
+msgid "_ip_fraud_msg"
+msgstr "μήνυμα απάτης ip"
+
+msgid "Session is expired"
+msgstr "Η συνεδρία έχει λήξει"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "Το αναγνωριστικό συστήματος δεν έχει καθοριστεί"
+
+msgid "System ID not specified"
+msgstr "Το αναγνωριστικό συστήματος δεν έχει καθοριστεί"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "Εσφαλμένο email, προσπαθήστε ξανά από την αρχή"
+
+msgid "Email is empty"
+msgstr "Το email είναι κενό"
+
+msgid "Error, account with this email does not exist."
+msgstr "Σφάλμα, ο λογαριασμός με αυτό τοemail δεν υπάρχει."
+
+msgid "Unable generate temporary restore user code"
+msgstr "Δεν είναι δυνατή η δημιουργία του προσωρινού κωδικού επαναφοράς χρήστη"
+
+msgid "Password recovery"
+msgstr "Ανάκτηση κωδικού πρόσβασης"
+
+msgid "current_password_empty"
+msgstr "Το πεδίο τρέχων κωδικός πρόσβασης είναι κενό"
+
+msgid "Current password is incorrect"
+msgstr "Ο τρέχων κωδικός πρόσβασης είναι εσφαλμένος"
+
+msgid "day_not_set"
+msgstr "Η ημέρα δεν ορίστηκε"
+
+msgid "month_not_set"
+msgstr "Ο μήνας δεν ορίστηκε"
+
+msgid "year_not_set"
+msgstr "Το έτος δεν ορίστηκε"
+
+msgid "Country is not picked"
+msgstr "Δεν έχει επιλεγεί χώρα"
+
+msgid "Gender is not picked"
+msgstr "Δεν έχει επιλεγεί φύλο"
+
+msgid "input_repeated_password"
+msgstr "Εισαγωγή επαλήθευσης κωδικού πρόσβασης"
+
+msgid "Password does not match"
+msgstr "Οι κωδικοί πρόσβασης δεν ταιριάζουν"
+
+msgid "Email field is empty or incorrect"
+msgstr "Το πεδίο email είναι κενό ή εσφαλμένο"
+
+msgid "Email already in use"
+msgstr "Το email χρησιμοποιείται ήδη"
+
+msgid "Email field is incorrect"
+msgstr "Το πεδίο email είναι εσφαλμένο"
+
+msgid "Login field is empty"
+msgstr "Το πεδίο ονόματος σύνδεσης είναι κενό"
+
+msgid "Email field is empty"
+msgstr "Το πεδίο email είναι κενό"
+
+msgid "login_already_in_use"
+msgstr "Τα στοιχεία σύνδεσης χρησιμοποιούνται ήδη"
+
+msgid "phone_empty"
+msgstr "Το τηλέφωνο είναι κενό"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Ο αριθμός τηλεφώνου είναι εσφαλμένος. Πρέπει να είναι"
+
+msgid "Phone number too long"
+msgstr "Ο αριθμός τηλεφώνου είναι πολύ μεγάλος"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr ""
+"Ο αριθμός τηλεφώνου είναι εσφαλμένος: χρησιμοποιούνται ορισμένα απαγορευμένα "
+"σύμβολα."
+
+msgid "new_pass_less_6_symbols"
+msgstr "Ο νέος κωδικός πρόσβασης έχει λιγότερα από 6 σύμβολα"
+
+msgid "first_name_empty"
+msgstr "Το όνομα είναι κενό"
+
+msgid "last_name_empty"
+msgstr "Το επίθετο είναι κενό"
+
+msgid "New email field is incorrect"
+msgstr "Το πεδίο νέου email είναι εσφαλμένο"
+
+msgid "User verification failed"
+msgstr "Η επαλήθευση χρήστη απέτυχε"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "Υπήρξε σφάλμα κατά την διαδικασία σύνδεσης. Σφάλμα επαλήθευσης."
+
+msgid "authorization_error"
+msgstr "Υπήρξε σφάλμα κατά την διαδικασία σύνδεσης. Σφάλμα επαλήθευσης."
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "Η συνεδρία έληξε"
+
+msgid "registration_in_progress"
+msgstr "Η εγγραφή είναι σε εξέλιξη"
+
+msgid "user_disabled"
+msgstr "Ο χρήστης έχει απενεργοποιηθεί"
+
+msgid "Access forbidden"
+msgstr "Απαγορεύεται η πρόσβαση"
+
+msgid "Email field incorrect"
+msgstr "Το πεδίο email είναι εσφαλμένο"
+
+msgid "email_empty_incorrect"
+msgstr "Το email είναι κενό"
+
+msgid "pass_less_6_symbols"
+msgstr "Ο κωδικός πρόσβασης έχει λιγότερα από 6 σύμβολα"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Ο κωδικός πρόσβασης μπορεί να περιέχει μόνο λατινικά γράμματα, αριθμούς και "
+"ειδικά σύμβολα"
+
+msgid "currency_not_set"
+msgstr "Δεν έχει οριστεί το νόμισμα"
+
+msgid "Currency field is invalid"
+msgstr "Το πεδίο νομίσματος δεν είναι έγκυρο"
+
+msgid "reg_promo_is_invalid"
+msgstr "Η προσφορά εγγραφής δεν είναι έγκυρη"
+
+msgid "email_already_registered"
+msgstr "Το email χρησιμοποιείται ήδη"
+
+msgid "login_already_registered"
+msgstr "Τα στοιχεία σύνδεσης χρησιμοποιούνται ήδη"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "Το τηλέφωνο είναι ήδη καταχωρηθεί"
+
+msgid "ip_fraud_blacklist"
+msgstr "μαύρη λίστα ip απάτης"
+
+msgid "ip_fraud_check_error"
+msgstr "σφάλμα ελέγχου ip απάτης"
+
+msgid "Activate your account"
+msgstr "Ενεργοποιήστε τον λογαριασμό σας"
+
+msgid "Registration confirmation is in progress"
+msgstr "Η επιβεβαίωση εγγραφής βρίσκεται σε εξέλιξη"
+
+msgid "Unknown status"
+msgstr "Άγνωστη κατάσταση"
+
+msgid "first name"
+msgstr "όνομα"
+
+msgid "last name"
+msgstr "επίθετο"
+
+msgid "birth date"
+msgstr "ημερομηνία γέννησης"
+
+msgid "sex"
+msgstr "φύλο"
+
+msgid "country"
+msgstr "χώρα"
+
+msgid "phone number"
+msgstr "αριθμό τηλεφώνου"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] ""
+"Για να αλλάξετε  το πεδίο %s , επικοινωνήστε με την υποστήριξή μας στο "
+msgstr[1] "To change %s fields please contact our support at "
+
+msgid "Email has invalid format"
+msgstr "Το email έχει μη έγκυρη μορφή"
+
+msgid "Repeat password field is empty"
+msgstr "Το πεδίο \"Επανάληψη κωδικού πρόσβασης\" είναι κενό"
+
+msgid "First name field is empty"
+msgstr "Το πεδίο ονόματος είναι κενό"
+
+msgid "First name must contain only letters"
+msgstr "Το όνομα πρέπει να περιέχει μόνο γράμματα"
+
+msgid "Last name field is empty"
+msgstr "Το πεδίο Επώνυμο είναι κενό"
+
+msgid "Last name must contain only letters"
+msgstr "Το επίθετο πρέπει να περιέχει μόνο γράμματα"
+
+msgid "Gender field is empty"
+msgstr "Το πεδίο Φύλο είναι κενό"
+
+msgid "Gender unallowed value"
+msgstr "Το φύλο έχει απαγορευμένη τιμή"
+
+msgid "Currency field is empty"
+msgstr "Το πεδίο Νόσμισμα είναι κενό"
+
+msgid "Country code is empty"
+msgstr "Ο κωδικός χώρας είναι κενός"
+
+msgid "Country code is invalid"
+msgstr "Ο κωδικός χώρας δεν είναι έγκυρος"
+
+msgid "Phone code is empty"
+msgstr "Ο κωδικός τηλεφώνου είναι κενός"
+
+msgid "Phone number field is empty"
+msgstr "Το πεδίο αριθμού τηλεφώνου είναι κενό"
+
+msgid "Phone number invalid format"
+msgstr "Μη έγκυρη μορφή αριθμού τηλεφώνου"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "Ο κωδικός τηλεφώνου είναι κενός"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "Ο κωδικός πρόσβασης πρέπει να έχει μήκος τουλάχιστον 6 χαρακτήρες"
+
+msgid "Wrong IBAN number"
+msgstr "Εσφαλμένος αριθμός IBAN"
+
+msgid "Wrong SWIFT number"
+msgstr "Εσφαλμένος αριθμός SWIFT"
+
+msgid "ID Number is not unique"
+msgstr "Ο αριθμός αναγνωριστικού δεν είναι μοναδικός"
+
+msgid "Password field is empty"
+msgstr "Το πεδίο κωδικού πρόσβασης είναι κενό"
+
+msgid "New password field is empty"
+msgstr "Το πεδίου νέου κωδικού πρόσβασης είναι κενό"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Ο νέος κωδικός πρόσβασης πρέπει να έχει μήκος τουλάχιστον 6 χαρακτήρες"
+
+msgid "New password strength is weak"
+msgstr "Η ισχύς του νέου κωδικού πρόσβασης είναι χαμηλή"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "Σφάλμα, ο λογαριασμός με αυτό τοemail δεν υπάρχει."
+
+msgid "Password strength is weak"
+msgstr "Η ισχύς του κωδικού πρόσβασης είναι χαμηλή"
+
+msgid "Login is already registered"
+msgstr "Τα στοιχεία σύνδεσης χρησιμοποιούνται ήδη"
+
+msgid "Email is already registered"
+msgstr "Το email έχει ήδη καταχωρηθεί"
+
+msgid "Phone is already registered"
+msgstr "Το τηλέφωνο είναι ήδη καταχωρηθεί"
+
+msgid "You are less than 18 year old"
+msgstr "Είστε κάτω των 18 ετών"
+
+msgid "As per our rules, you can create %s withdrawal requests in a day. Please, wait for the following date/time: %s"
+msgstr "Σύμφωνα με τους κανόνες μας, μπορείτε να δημιουργήσετε %s αιτήσεις ανάληψης μέσα σε μια ημέρα. Παρακαλώ, περιμένετε μέχρι την ακόλουθη ημερομηνία/ώρα: %s"
+
+msgid "You have exceeded the limit on the amount in withdrawal requests. Please, wait for the following date/time: %s"
+msgstr "Υπερέβαλατε το όριο στο ποσό των αιτημάτων ανάληψης. Παρακαλώ, περιμένετε μέχρι την ακόλουθη ημερομηνία/ώρα: %s"
+
+#~ msgid "Do you need to contact us?"
+#~ msgstr "Θέλετε να επικοινωνήσετε μαζί μας;"
+
+#~ msgid ""
+#~ "Due to legal reasons we can't accept players residing in the country you "
+#~ "are currently\n"
+#~ "            in."
+#~ msgstr ""
+#~ "Για νομικούς λόγους δεν μπορούμε να δεχτούμε παίκτες που διαμένουν στη "
+#~ "χώρα που βρίσκεστε αυτή τη στιγμή."
+
+#~ msgid ""
+#~ "If you’re using a proxy service or VPN to access casino, try turning it "
+#~ "off and reload the\n"
+#~ "            page."
+#~ msgstr ""
+#~ "Αν χρησιμοποιείτε υπηρεσία μεσολάβησης ή VPN για πρόσβαση στο καζίνο, "
+#~ "δοκιμάστε να το απενεργοποιήσετε και να\n"
+#~ "            Σελίδα."
+
+#~ msgid "Location restriction"
+#~ msgstr "Περιορισμός τοποθεσίας"
+
+#~ msgid "Not in a restricted region"
+#~ msgstr "Όχι σε απαγορευμένη περιοχή"
+
+#~ msgid ""
+#~ "Should you have any questions or feel that this block is affecting you "
+#~ "due to a technical error,\n"
+#~ "            please\n"
+#~ "            don't hesitate to contact us and we'll work it out together."
+#~ msgstr ""
+#~ "Σε περίπτωση που έχετε οποιεσδήποτε ερωτήσεις ή αισθάνεστε ότι αυτός ο "
+#~ "περιορισμός σας επηρεάζει λόγω τεχνικού σφάλματος,\n"
+#~ "            Μην διστάσετε\n"
+#~ "             να επικοινωνήσετε και θα το λύσουμε μαζί."
+
+#~ msgid "Awaiting limits information"
+#~ msgstr "Εν αναμονή των πληροφοριών σχετικά με τα όρια"
+
+#~ msgid "cancel_error"
+#~ msgstr "cancel error"
+
+#~ msgid "select_error"
+#~ msgstr "select error"

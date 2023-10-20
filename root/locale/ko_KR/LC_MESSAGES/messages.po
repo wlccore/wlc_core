@@ -1,0 +1,1513 @@
+# Korean translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.0.389\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: 2019-01-24 14:23+0200\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr "이메일을 추가하여 중요한 정보를 놓치지 마세요"
+
+msgid "Congratulations,"
+msgstr "축하합니다,"
+
+msgid "Dear"
+msgstr "친애하는"
+
+msgid "Deposit confirmation"
+msgstr "예금 확인"
+
+msgid "Deposit success notification. Your balance"
+msgstr "예금 성공 알림  귀하의 잔액은"
+
+msgid "Finish registration link"
+msgstr "등록 완료 링크"
+
+msgid "Greeting."
+msgstr "환영인사."
+
+msgid "Hello"
+msgstr "안녕하세요"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr ""
+"이 이메일이 제대로 열리지 않으면 다른 브라우저에서 열어보시길 바랍니다."
+
+msgid "If you have any questions, please contact"
+msgstr "질문이 있으시면, 다음으로 연락하세요"
+
+msgid "Link will be available for 30 minutes."
+msgstr "링크의 유효시간은 30분입니다."
+
+msgid "Login"
+msgstr "로그인"
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Password restore"
+msgstr "비밀번호 복구"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "등록을 완료하려면 아래의 링크를 클릭하세요."
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr "이 이메일은 자동생성되었으며 회신이 불가능 합니다."
+
+msgid "Registration confirmation"
+msgstr "등록 확인"
+
+msgid "Restore your password by clicking the link below."
+msgstr "비밀번호를 복구하려면 아래의 링크를 클릭하세요."
+
+msgid "Social registration confirmation"
+msgstr "소셜등록 확인"
+
+msgid "Thank you for validating your account."
+msgstr "계정을 인증해주셔서 감사합니다."
+
+msgid "Thanks for registration on the website!"
+msgstr "웹사이트에 등록해주셔서 감사합니다!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "계정 연결을 마무리하려면 이 링크를 이용하세요:"
+
+msgid "Welcome to"
+msgstr "에 오신것을 환영합니다"
+
+msgid "With respect"
+msgstr "죄송하지만"
+
+msgid "You asked to link new social account to your current account"
+msgstr "새 소셜 계정을 현재 계정과 연동할것을 문의하셨습니다"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr "당신은 놀라운 게임 여정을 경험하기 위해 첫발을 내디뎠다."
+
+msgid "casino_footer_copyright"
+msgstr "카지노 하단 저작권"
+
+msgid "casino_mail_info"
+msgstr "카지노 메일 정보"
+
+msgid "online support"
+msgstr "온라인 지원"
+
+msgid "controller_does_not_exists"
+msgstr "컨트롤러 존재하지 않음"
+
+msgid "social_not_found"
+msgstr "소셜 확인되지 않음"
+
+msgid "purchase_error"
+msgstr "구매 에러"
+
+msgid "game_added_to_favorites"
+msgstr "게임이 즐겨찾기에 추가됨"
+
+msgid "game_deleted_from_favorites"
+msgstr "게임이 즐겨찾기에서 삭제됨"
+
+msgid "must_login"
+msgstr "로그인이 필요합니다."
+
+msgid "No bonus name"
+msgstr "보너스 이름 없음"
+
+msgid "No bonus descripton"
+msgstr "보너스 설명 없음"
+
+msgid "No user id"
+msgstr "사용자 아이디 없음"
+
+msgid "No bonus id"
+msgstr "보너스 아이디 없음"
+
+msgid "No status"
+msgstr "상태 없음"
+
+msgid "Bonus not found"
+msgstr "보너스 찾을 수 없음"
+
+msgid "Already have active"
+msgstr "이미 활성화되었습니다."
+
+msgid "Bonus is not available"
+msgstr "보너스가 없습니다"
+
+msgid "First deposit, already deposited"
+msgstr "첫 입금이 이미 완료되었습니다"
+
+msgid "No loyalty record"
+msgstr "로열티 기록 없음"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "보너스 조건을 완료하지 못했습니다"
+
+msgid "Bonus used"
+msgstr "보너스 사용됨"
+
+msgid "Promo code needed"
+msgstr "프로모션 코드가 필요합니다"
+
+msgid "Wrong promo code"
+msgstr "잘못된 프로모션 코드입니다"
+
+msgid "Bonuses are forbidden for user"
+msgstr "사용자에게 보너스는 금지됨"
+
+msgid "Already have an active bonus"
+msgstr "이미 활성 보너스가 있음"
+
+msgid "registration"
+msgstr "등록"
+
+msgid "verification"
+msgstr "인증"
+
+msgid "sign up"
+msgstr "회원가입하기"
+
+msgid "store"
+msgstr "스토어"
+
+msgid "login"
+msgstr "로그인"
+
+msgid "deposit"
+msgstr "입금"
+
+msgid "deposit first"
+msgstr "첫 입금"
+
+msgid "deposit sum"
+msgstr "총 입금액"
+
+msgid "deposit repeated"
+msgstr "반복 입금"
+
+msgid "bet"
+msgstr "베팅"
+
+msgid "bet sum"
+msgstr "총 베팅액"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "총 입금액"
+
+msgid "once"
+msgstr "한 번"
+
+msgid "day"
+msgstr "일"
+
+msgid "week"
+msgstr "주"
+
+msgid "month"
+msgstr "달"
+
+msgid "all"
+msgstr "전부"
+
+msgid "bonus"
+msgstr "보너스"
+
+msgid "win"
+msgstr "승리"
+
+msgid "win and bonus"
+msgstr "승리와 보너스"
+
+msgid "winevent"
+msgstr "승리이벤트"
+
+msgid "winbonusevent"
+msgstr "당첨 + 보너스 + 이벤트"
+
+msgid "none"
+msgstr "없음"
+
+msgid "balance"
+msgstr "잔고"
+
+msgid "experience"
+msgstr "경험"
+
+msgid "loyalty"
+msgstr "로열티"
+
+msgid "absolute"
+msgstr "절대값"
+
+msgid "relative"
+msgstr "관련있는"
+
+msgid "bets"
+msgstr "베팅"
+
+msgid "wins"
+msgstr "당첨액"
+
+msgid "turnover"
+msgstr "회전율"
+
+msgid "negative turnover"
+msgstr "네거티브 회전율"
+
+msgid "unlimited"
+msgstr "무제한"
+
+msgid "one day"
+msgstr "하루"
+
+msgid "two days"
+msgstr "이틀"
+
+msgid "three days"
+msgstr "3일"
+
+msgid "seven days"
+msgstr "7일"
+
+msgid "ten days"
+msgstr "10일"
+
+msgid "fourteen days"
+msgstr "14일"
+
+msgid "thirty days"
+msgstr "30일"
+
+msgid "sixty days"
+msgstr "60일"
+
+msgid "ninety days"
+msgstr "90일"
+
+msgid "one week"
+msgstr "1 주"
+
+msgid "two weeks"
+msgstr "2주"
+
+msgid "one month"
+msgstr "1달"
+
+msgid "every day"
+msgstr "매일"
+
+msgid "every week"
+msgstr "매주"
+
+msgid "every two weeks"
+msgstr "격주에 한 번"
+
+msgid "every month"
+msgstr "매 달"
+
+msgid "fee"
+msgstr "수수료"
+
+msgid "turnover and fee"
+msgstr "회전율과 수수료"
+
+msgid "everyday"
+msgstr "매일"
+
+msgid "monday"
+msgstr "월요일"
+
+msgid "tuesday"
+msgstr "화요일"
+
+msgid "wednesday"
+msgstr "수요일"
+
+msgid "thursday"
+msgstr "목요일"
+
+msgid "friday"
+msgstr "금요일"
+
+msgid "saturday"
+msgstr "토요일"
+
+msgid "sunday"
+msgstr "일요일"
+
+msgid "transaction_list_is_empty"
+msgstr "입출금 내역이 없습니다"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "날짜가 올바르지 않습니다 시작 날짜가 마지막 날짜보다 이후입니다"
+
+msgid "cancelled"
+msgstr "취소됨"
+
+msgid "rejected"
+msgstr "거부됨"
+
+msgid "error"
+msgstr "오류"
+
+msgid "in_progress"
+msgstr "처리 중"
+
+msgid "confirmed"
+msgstr "확인"
+
+#, fuzzy
+msgid "pending"
+msgstr "끝"
+
+msgid "system_error"
+msgstr "시스템 오류"
+
+msgid "completed"
+msgstr "완료"
+
+msgid "aborted"
+msgstr "중단"
+
+msgid "credit"
+msgstr "크레딧"
+
+msgid "debet"
+msgstr "debet"
+
+msgid "withdraw_unavailable"
+msgstr "출금 불가"
+
+msgid "withdraw_check_error"
+msgstr "출금 체크 오류"
+
+msgid "set_amount"
+msgstr "금액 설정"
+
+msgid "set_payment_system"
+msgstr "지불 시스템 설정"
+
+msgid "country_and_birth_date_required"
+msgstr "국가 및 생년월일 필요"
+
+msgid "payment_request_sent"
+msgstr "지불 요청 전송"
+
+msgid "payment_request_error"
+msgstr "지불 요청 오류"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "제한 출금액 도달"
+
+msgid "sys_error_message"
+msgstr "시스템 오류 메시지"
+
+msgid "input_purse"
+msgstr "입력 지갑"
+
+msgid "payment_withdraw_sent"
+msgstr "지불 출금 전송"
+
+msgid "New password is empty"
+msgstr "새 비밀번호란이 비었습니다"
+
+msgid "Repeat password is empty"
+msgstr "비밀번호 재입력란이 비었습니다"
+
+msgid "Code is empty"
+msgstr "코드가 비었습니다"
+
+msgid "Code is incorrect"
+msgstr "코드가 올바르지 않습니다"
+
+msgid "Password must be at least 6 characters long"
+msgstr "비밀번호는 최소 6자 이상이어야 합니다"
+
+msgid "pass_not_match"
+msgstr "비밀번호가 서로 맞지 않습니다"
+
+msgid "Session expired"
+msgstr "세션 만료"
+
+msgid "social_account_expired"
+msgstr "소셜 계정 만료됨"
+
+msgid "Empty to address"
+msgstr "주소 비워두기"
+
+msgid "Empty subject"
+msgstr "제목 비우기"
+
+msgid "Empty message"
+msgstr "메시지 비우기"
+
+msgid "Empty required parameter"
+msgstr "한도 요청이 입력되지 않았습니다"
+
+msgid "Unknown error"
+msgstr "알 수 없는 에러"
+
+msgid "Not allowed player country"
+msgstr "허용되지 않은 국가"
+
+msgid "Demo not supported"
+msgstr "데모가 지원되지 않습니다"
+
+msgid "Your currency is not supported by this provider"
+msgstr "이 공급자가 당신의 통화를 지원하지 않는다."
+
+msgid "Branded games are not enabled"
+msgstr "브랜드 게임이 활성화되지 않음"
+
+msgid "Self exclusion date"
+msgstr "자기배제일자"
+
+msgid "Self exclusion"
+msgstr "자기 배제"
+
+msgid "does not exists"
+msgstr "존재하지 않음"
+
+msgid "Method is not supported"
+msgstr "지원되지 않는 방식입니다"
+
+msgid "Data type is not found"
+msgstr "데이터 타입 찾을 수 없음"
+
+msgid "Invalid request parameters"
+msgstr "유효하지 않은 한도 요구"
+
+msgid "No bonus description"
+msgstr "보너스 설명 없음"
+
+msgid "Selected"
+msgstr "선택됨"
+
+msgid "Qualified"
+msgstr "적격"
+
+msgid "Deleted"
+msgstr "삭제됨"
+
+msgid "Deactivated"
+msgstr "비활성화됨"
+
+msgid "Canceled"
+msgstr "취소됨"
+
+msgid "Ending"
+msgstr "끝"
+
+msgid "Ended"
+msgstr "끝남"
+
+msgid "Loyalty API Failure"
+msgstr "로열티 API 실패"
+
+msgid "Loyalty result not supported"
+msgstr "로열티 결과 지원되지 않음"
+
+msgid "User not found"
+msgstr "사용자 확인할 수 없음"
+
+msgid "Unable fetch oauth access token"
+msgstr "제3자 액세스 불러올 수 없음"
+
+msgid "Access token is missing"
+msgstr "Access token is missing"
+
+msgid "Empty access token user identifier"
+msgstr "Empty access token user identifier"
+
+msgid "Empty access token identifier"
+msgstr "Empty access token identifier"
+
+msgid "Method not allowed"
+msgstr "허용되지 않은 방법"
+
+msgid "Your country is on the forbidden list"
+msgstr "귀하의 국가는 금지 국가입니다"
+
+msgid "User profile is incomplete"
+msgstr ""
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "보너스 결과가 리스트에 없습니다"
+
+msgid "Unknown route path"
+msgstr "알려지지 않은 경로"
+
+msgid "Too many requests"
+msgstr "올바르지 않은 요청"
+
+msgid "Code is not valid"
+msgstr "코드가 유효하지 않습니다"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "올바르지 않은 요청"
+
+msgid "Method Not Allowed"
+msgstr "인증되지 않은 방법입니다"
+
+msgid "Api endpoint not found"
+msgstr "Api endpoint not found"
+
+msgid "Confirm your email to start games"
+msgstr ""
+
+msgid "User not authorized"
+msgstr "인증되지 않은 사용자입니다"
+
+msgid "Merchant system not selected or invalid"
+msgstr "상업 시스템이 선택되지 않았거나 유효하지 않습니다"
+
+msgid "Amount is not selected or invalid"
+msgstr "금액이 선택되지 않았거나 유효하지 않습니다"
+
+msgid "Bonus result is not list"
+msgstr "보너스 결과가 리스트에 없습니다"
+
+msgid "Bonus ID Not found"
+msgstr "보너스 ID를 찾을 수 없음"
+
+msgid "Bonus Selected Not found"
+msgstr "선택한 보너스를 찾을 수 없음"
+
+msgid "User is not authorized"
+msgstr "인증되지 않음"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "제목 비우기"
+
+#, fuzzy, php-format
+msgid "Deposit failed: %s"
+msgstr "첫 입금"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "금액 설정"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "런치 코드가 비었습니다"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "성"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "성"
+
+#, fuzzy
+msgid "Account type"
+msgstr "국가"
+
+#, fuzzy
+msgid "Account number"
+msgstr "전화번호"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "전화번호"
+
+#, fuzzy
+msgid "Uploadable files is empty"
+msgstr "이메일 란이 비었습니다"
+
+msgid "Exceeds allowed file size"
+msgstr ""
+
+msgid "Mb"
+msgstr ""
+
+#, fuzzy
+msgid "Document ID not found"
+msgstr "토너먼트 찾을 수 없음"
+
+msgid "Request invalid. Error: "
+msgstr "요청사항이 올바르지 않습니다."
+
+msgid "Games catalog is temporary unavailable"
+msgstr ""
+
+msgid "Empty launch code"
+msgstr "런치 코드가 비었습니다"
+
+msgid "Empty merchant identifier"
+msgstr "Empty merchant identifier"
+
+msgid "Empty games catalog"
+msgstr "빈 게임 카탈로그"
+
+msgid "Unknown game launch code"
+msgstr "알 수없는 게임 실행 코드"
+
+msgid "Not supported exception"
+msgstr "지원되지 않은 제외사항"
+
+msgid "Bad request"
+msgstr "올바르지 않은 요청"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+#, fuzzy
+msgid "Unable find user identifier"
+msgstr "Empty access token user identifier"
+
+#, fuzzy
+msgid "Unknown error occured"
+msgstr "알 수 없는 에러"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "유효하지 않은 수신자 번호"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "올바르지 않은 요청"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "알 수 없는 에러"
+
+msgid "Token not found"
+msgstr "토큰을 찾을 수 없습니다"
+
+msgid "Invalid token provided"
+msgstr "유효하지 않은 토큰"
+
+msgid "Phone already verified"
+msgstr "이미 전화가 인증되었습니다"
+
+msgid "Insufficient parameters"
+msgstr "한도가 부족합니다"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "인증 실패"
+
+msgid "Invalid verification code"
+msgstr "유효하지 않은 인증 코드"
+
+msgid "Empty phone number"
+msgstr "전화번호가 입력되지 않았습니다"
+
+msgid "Invalid phone number"
+msgstr "유효하지 않은 전화번호"
+
+msgid "Anonymous"
+msgstr "익명"
+
+msgid "Item not found"
+msgstr "아이템 찾을 수 없음"
+
+msgid "Sent from web-form at"
+msgstr "웹 형식으로부터 전송됨"
+
+msgid "Service not found"
+msgstr "서비스를 찾을 수 없습니다"
+
+msgid "Unauthorized"
+msgstr "인증되지 않음"
+
+msgid "Tournaments history error"
+msgstr "토너먼트 기록 오류"
+
+#, fuzzy
+msgid "Tournaments list not available"
+msgstr "보너스가 없습니다"
+
+msgid "Tournaments type not found"
+msgstr "토너먼트 타입 찾을 수 없음"
+
+msgid "Tournament not found"
+msgstr "토너먼트 찾을 수 없음"
+
+msgid "Tournaments subscribe error"
+msgstr "토너먼트 구독 오류"
+
+#, fuzzy
+msgid "Insufficient monetary turnover"
+msgstr "한도가 부족합니다"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr ""
+
+#, fuzzy
+msgid "Need verification"
+msgstr "인증"
+
+#, fuzzy
+msgid "Need additional verification"
+msgstr "유효하지 않은 인증 코드"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "이메일이 전송되었습니다  복구 링크는 30분동안 유효합니다"
+
+msgid "Password repeat is empty"
+msgstr "비밀번호 재입력란이 비었습니다"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr "새 비밀번호는 영어 알파벳과 숫자 그리고 특수문자만 가능합니다"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"비밀번호는 영어 알파벳 대문자, 소문자, 숫자 그리고 특수문자가 반드시 포함되어"
+"야 합니다"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "비밀번호는 영어 알파벳과 숫자가 반드시 포함되어야 합니다"
+
+msgid "Passwords do not match"
+msgstr "비밀번호가 서로 맞지 않습니다"
+
+msgid "Password is empty"
+msgstr "비밀번호가 비었습니다"
+
+msgid "Password is invalid"
+msgstr "비밀번호가 유효하지 않습니다"
+
+msgid "Code is invalid"
+msgstr "코드가 유효하지 않습니다"
+
+msgid "Email change is not allowed"
+msgstr "이메일 교환은 불가합니다"
+
+msgid "Email is required"
+msgstr "이메일은 필수입력사항입니다"
+
+msgid "User update failed"
+msgstr "사용자 업데이트 실패"
+
+msgid "Registration data validation failed"
+msgstr "등록 데이터 유효성 확인 실패"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "유효하지 않은 인증 코드"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "런치 코드가 비었습니다"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "시스템 오류"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"이메일 확인 코드를 찾을 수 없습니다. 이미 이메일을 확인 했으므로 사서함을 확"
+"인하십시오"
+
+msgid "Registration_complete"
+msgstr "등록 완료"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+#, fuzzy
+msgid "Insufficient account balance"
+msgstr "한도가 부족합니다"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"이 시스템을 통해 입금하지 않았으므로 자금을 인출 할 수 없습니다. 철수하기 위"
+"해이 시스템을 통해 입금하십시오."
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "성별이 선택되지 않았습니다"
+
+msgid "Impossible to send email"
+msgstr "이메일을 보낼 수 없습니다"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "유효하지 않은 인증 코드"
+
+msgid "Server returned invalid response"
+msgstr "서버에서 유효하지 않은 회신을 보냈습니다"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "알 수 없는 에러"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "알려지지 않은 상태"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "지원되지 않는 방식입니다"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "지원되지 않는 방식입니다"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "지원되지 않는 방식입니다"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "지원되지 않는 방식입니다"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "유효하지 않은 명령"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "유효하지 않은 한도 요구"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "유효하지 않은 한도 요구"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "유효하지 않은 명령"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "유효하지 않은 명령"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "지원되지 않은 인증 제공자"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "옳지 않은 API 주소 버전입니다"
+
+msgid "Not specified API key"
+msgstr "정확하지 않은 API 키 입니다"
+
+msgid "Incorrect API key"
+msgstr "올바르지 않은 API 키 입니다"
+
+msgid "Incorrect IP address client"
+msgstr "클라이언트의 IP 주소가 올바르지 않습니다"
+
+msgid "Invalid command"
+msgstr "유효하지 않은 명령"
+
+msgid "Specified command does not exist or is not available"
+msgstr "구체적인 명령이 존재하지 않거나 불가능합니다"
+
+msgid "System error"
+msgstr "시스템 오류"
+
+msgid "Not specified the SMS identifier"
+msgstr "SMS 식별이 정확하지 않습니다"
+
+msgid "Sender address does not exist"
+msgstr "전송자 주소가 존재하지 않습니다"
+
+msgid "Not specified content"
+msgstr "정확하지 않은 내용"
+
+msgid "Faulty or unsupported country code"
+msgstr "잘못되었거나 지원되지 않는 국가 코드"
+
+msgid "Content is too long"
+msgstr "내용이 너무 깁니다"
+
+msgid "Incorrect encoding of the content"
+msgstr "내용 코딩이 잘못되었습니다"
+
+msgid "Exceeded monthly limit"
+msgstr "월별 한도 초과"
+
+msgid "Batch ID does not exist"
+msgstr "배치 계정이 존재하지 않습니다"
+
+msgid "List recipients does not exist"
+msgstr "수신자 목록이 존재하지 않습니다"
+
+msgid "Invalid recipient number"
+msgstr "유효하지 않은 수신자 번호"
+
+msgid "No content"
+msgstr "내용 없음"
+
+msgid "Wrong content"
+msgstr "올바르지 않은 내용"
+
+msgid "Unable send message"
+msgstr "메시지 전송할 수 없음"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+
+msgid "Unsupported authentication provider"
+msgstr "지원되지 않은 인증 제공자"
+
+msgid "connect_social_account_email_theme"
+msgstr "소셜 계정 이메일 테마 연결하기"
+
+msgid "not_logged_in"
+msgstr "로그인되지 않음"
+
+msgid "trying_delete_last_social"
+msgstr "최근 소셜계정 삭제중"
+
+msgid "please_set_email"
+msgstr "이메일을 설정해 주세요"
+
+msgid "please_set_password"
+msgstr "비밀번호를 설정해주세요"
+
+msgid "Code incorrect, user not found"
+msgstr "올바르지 않은 코드, 사용자 찾을 수 없음"
+
+msgid "email_has_been_verified"
+msgstr "이메일이 인증되었습니다"
+
+#, fuzzy
+msgid "Transaction value generation failed"
+msgstr "등록 데이터 유효성 확인 실패"
+
+msgid "email_to_connect_social_sent"
+msgstr "소셜 연결 이메일이 전송되었습니다"
+
+msgid "Registration complete"
+msgstr "등록 완료"
+
+msgid "_ip_fraud_msg"
+msgstr "가짜IP메시지"
+
+msgid "Session is expired"
+msgstr "세션이 만료되었습니다"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "시스템 ID가 정확하지 않습니다"
+
+msgid "System ID not specified"
+msgstr "시스템 ID가 정확하지 않습니다"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "이메일이 올바르지 않습니다, 처음부터 다시 시작하세요"
+
+msgid "Email is empty"
+msgstr "이메일 란이 비었습니다"
+
+msgid "Error, account with this email does not exist."
+msgstr "해당 메일의 계정이 존재하지 않습니다."
+
+msgid "Unable generate temporary restore user code"
+msgstr "일시 사용자 복구 코드 생성 중단"
+
+msgid "Password recovery"
+msgstr "비밀번호 복구"
+
+msgid "current_password_empty"
+msgstr "현재 비밀번호가 입력되지 않았습니다"
+
+msgid "Current password is incorrect"
+msgstr "현재 비밀번호가 올바르지 않습니다"
+
+msgid "day_not_set"
+msgstr "일이 설정되지 않았습니다"
+
+msgid "month_not_set"
+msgstr "월이 설정되지 않았습니다"
+
+msgid "year_not_set"
+msgstr "연도가 설정되지 않았습니다"
+
+msgid "Country is not picked"
+msgstr "국가가 선택되지 않았습니다"
+
+msgid "Gender is not picked"
+msgstr "성별이 선택되지 않았습니다"
+
+msgid "input_repeated_password"
+msgstr "비밀번호를 재입력하세요"
+
+msgid "Password does not match"
+msgstr "비밀번호가 서로 맞지 않습니다"
+
+msgid "Email field is empty or incorrect"
+msgstr "이메일 란이 비었거나 올바르지 않습니다"
+
+msgid "Email already in use"
+msgstr "이미 사용중인 이메일입니다."
+
+msgid "Email field is incorrect"
+msgstr "이메일 란이 올바르지 않습니다"
+
+msgid "Login field is empty"
+msgstr "로그인 란이 비었습니다"
+
+msgid "Email field is empty"
+msgstr "이메일 란이 비었습니다"
+
+msgid "login_already_in_use"
+msgstr "이미 로그인되어 있음"
+
+msgid "phone_empty"
+msgstr "전화 입력 안됨"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "전화번호가 올바르지 않습니다. 다음과 같아야 합니다"
+
+msgid "Phone number too long"
+msgstr "전화번호가 너무 깁니다"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "전화번호가 올바르지 않습니다: 허용되지 않은 문자가 포함되어 있습니다."
+
+msgid "new_pass_less_6_symbols"
+msgstr "새 비밀번호는 6자 이하여야 합니다"
+
+msgid "first_name_empty"
+msgstr "이름란이 비었습니다"
+
+msgid "last_name_empty"
+msgstr "성 란이 비었습니다"
+
+msgid "New email field is incorrect"
+msgstr "새 이메일 란이 올바르지 않습니다"
+
+msgid "User verification failed"
+msgstr "사용자 인증 실패"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "인증 실패"
+
+msgid "authorization_error"
+msgstr "인증 실패"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "Session expired"
+
+msgid "registration_in_progress"
+msgstr "등록 진행중"
+
+msgid "user_disabled"
+msgstr "사용자 비활성화됨"
+
+msgid "Access forbidden"
+msgstr ""
+
+msgid "Email field incorrect"
+msgstr "이메일 필드가 올바르지 않습니다"
+
+msgid "email_empty_incorrect"
+msgstr "이메일이 올바르지 않습니다"
+
+msgid "pass_less_6_symbols"
+msgstr "비밀번호는 6자 이하여야 합니다"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "비밀번호는 영어 알파벳, 숫자 그리고 특수문자만 입력 가능합니다"
+
+msgid "currency_not_set"
+msgstr "화폐설정되지 않음"
+
+msgid "Currency field is invalid"
+msgstr "화폐의 형식이 올바르지 않습니다"
+
+msgid "reg_promo_is_invalid"
+msgstr "등록 프로모션 코드가 올바르지 않습니다"
+
+msgid "email_already_registered"
+msgstr "이메일이 이미 사용중입니다"
+
+msgid "login_already_registered"
+msgstr "이미 로그인되어있습니다"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "전화가 이미 등록되었습니다"
+
+msgid "ip_fraud_blacklist"
+msgstr "가짜 IP주소 블랙리스트"
+
+msgid "ip_fraud_check_error"
+msgstr "가짜 IP주소 체크 오류"
+
+msgid "Activate your account"
+msgstr "계정을 활성화하세요"
+
+msgid "Registration confirmation is in progress"
+msgstr "등록확인 처리 중"
+
+msgid "Unknown status"
+msgstr "알려지지 않은 상태"
+
+msgid "first name"
+msgstr "이름"
+
+msgid "last name"
+msgstr "성"
+
+msgid "birth date"
+msgstr "생일"
+
+msgid "sex"
+msgstr "성별"
+
+msgid "country"
+msgstr "국가"
+
+msgid "phone number"
+msgstr "전화번호"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "%s 필드를 바꾸려면 다음에 연락하십시오  "
+msgstr[1] "To change %s fields please contact our support at "
+
+msgid "Email has invalid format"
+msgstr "이메일의 형식이 잘못되었습니다"
+
+msgid "Repeat password field is empty"
+msgstr "비밀번호 재입력이 되지 않았습니다"
+
+msgid "First name field is empty"
+msgstr "이름 란이 비었습니다"
+
+msgid "First name must contain only letters"
+msgstr ""
+
+msgid "Last name field is empty"
+msgstr "성 란이 비었습니다"
+
+#, fuzzy
+msgid "Last name must contain only letters"
+msgstr "비밀번호는 영어 알파벳과 숫자가 반드시 포함되어야 합니다"
+
+msgid "Gender field is empty"
+msgstr "성별 란이 비었습니다"
+
+msgid "Gender unallowed value"
+msgstr ""
+
+msgid "Currency field is empty"
+msgstr "화폐 란이 비었습니다"
+
+msgid "Country code is empty"
+msgstr "국가 코드가 비었습니다"
+
+msgid "Country code is invalid"
+msgstr "국가 코드가 유효하지 않습니다"
+
+msgid "Phone code is empty"
+msgstr "전화 코드가 비었습니다"
+
+msgid "Phone number field is empty"
+msgstr "전화번호 란이 비었습니다"
+
+msgid "Phone number invalid format"
+msgstr "전화번호의 형식이 올바르지 않습니다"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "전화 코드가 비었습니다"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "비밀번호는 최소 6자 이상이어야 합니다"
+
+#, fuzzy
+msgid "Wrong IBAN number"
+msgstr "전화번호"
+
+#, fuzzy
+msgid "Wrong SWIFT number"
+msgstr "전화번호"
+
+msgid "ID Number is not unique"
+msgstr ""
+
+msgid "Password field is empty"
+msgstr "비밀번호가 입력되지 않았습니다"
+
+#, fuzzy
+msgid "New password field is empty"
+msgstr "비밀번호가 입력되지 않았습니다"
+
+#, fuzzy
+msgid "New password must be at least 6 characters long"
+msgstr "비밀번호는 최소 6자 이상이어야 합니다"
+
+#, fuzzy
+msgid "New password strength is weak"
+msgstr "암호 강도가 약함"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "해당 메일의 계정이 존재하지 않습니다."
+
+msgid "Password strength is weak"
+msgstr "암호 강도가 약함"
+
+msgid "Login is already registered"
+msgstr "로그인이 이미 등록되었습니다"
+
+msgid "Email is already registered"
+msgstr "이미 등록 된 이메일입니다"
+
+msgid "Phone is already registered"
+msgstr "전화가 이미 등록되었습니다"
+
+msgid "You are less than 18 year old"
+msgstr "당신은 18세 이하 입니다."
+
+#~ msgid "Do you need to contact us?"
+#~ msgstr "도움이 필요하십니까?"
+
+#~ msgid ""
+#~ "Due to legal reasons we can't accept players residing in the country you "
+#~ "are currently\n"
+#~ "            in."
+#~ msgstr "법적인 이유로 해당 국가의 IP로는 접속할 수 없습니다."
+
+#~ msgid ""
+#~ "If you’re using a proxy service or VPN to access casino, try turning it "
+#~ "off and reload the\n"
+#~ "            page."
+#~ msgstr ""
+#~ "프록시 서비스 또는 VPN을 사용하여 카지노에 액세스하는 경우 해당 서비스를 "
+#~ "끄고 페이지를 다시 로드해 보십시오."
+
+#~ msgid "Location restriction"
+#~ msgstr "제한 지역(국가)"
+
+#~ msgid "Not in a restricted region"
+#~ msgstr "제한된 지역이 아닙니다"
+
+#~ msgid ""
+#~ "Should you have any questions or feel that this block is affecting you "
+#~ "due to a technical error,\n"
+#~ "            please\n"
+#~ "            don't hesitate to contact us and we'll work it out together."
+#~ msgstr ""
+#~ "기술적 오류로 인해 이 블록이 귀하에게 영향을 미치고 있다고 생각되거나 질문"
+#~ "이 있을 경우 주저하지 말고 연락하십시오. "
+
+#~ msgid "Awaiting limits information"
+#~ msgstr "한도 정보 대기중"
+
+#~ msgid "cancel_error"
+#~ msgstr "취소 오류"
+
+#~ msgid "select_error"
+#~ msgstr "선택 오류"
+
+#~ msgid "password_does_not_match"
+#~ msgstr "Password does not match"
+
+#~ msgid "new_pass_empty"
+#~ msgstr "New password is empty"
+
+#~ msgid "rep_password_empty"
+#~ msgstr "Repeated password is empty"
+
+#~ msgid "code_is_empty"
+#~ msgstr "Code is empty"
+
+#~ msgid "pass_must_be_least_six_long"
+#~ msgstr "Password must be least six long"
+
+#~ msgid "countrycode_field_is_empty"
+#~ msgstr "Country code is empty"
+
+#~ msgid "phonecode_field_is_empty"
+#~ msgstr "Phone code is empty"
+
+#~ msgid "password_field_is_empty"
+#~ msgstr "Password field is empty"
+
+#~ msgid "password_field_min_length_6"
+#~ msgstr "Password field must have min 6 length"

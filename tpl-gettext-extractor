@@ -1,0 +1,8 @@
+#!/usr/bin/env php
+<?php
+
+$fileName = 'messages_tpl.pot';
+$to = __DIR__ . '/../../../temp/' . $fileName;
+$from = __DIR__ . '/' . $fileName;
+
+copy($from, $to);

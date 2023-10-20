@@ -1,0 +1,461 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: wlc_core_loyalty_\n"
+"Language: hu\n"
+
+#: 
+msgid "Set transaction type"
+msgstr "Átutalás típusa"
+
+#: 
+msgid "No user id"
+msgstr "Felhasználói azonosító nincs megadva!"
+
+#: 
+msgid "No amount"
+msgstr "Összeg nincs megadva!"
+
+#: 
+msgid "No loyalty record"
+msgstr "Nincsen hűségnyilvántartás"
+
+#: 
+msgid "Wrong request path"
+msgstr "Hibás kérési útvonal"
+
+#: 
+msgid "Debet amount to big"
+msgstr "Túl nagy összegű terhelés"
+
+#: 
+msgid "Wrong transaction type"
+msgstr "Az átutalás típusa nem megfelelő!"
+
+#: 
+msgid "Awaiting limits information"
+msgstr "Várakozás a limit információkra"
+
+#: 
+msgid "Wrong currency"
+msgstr "Nem megfelelő pénznem"
+
+#: 
+msgid "Non existent level"
+msgstr "Nem létező szint"
+
+#: 
+msgid "No points"
+msgstr "Nincsenek pontok"
+
+#: 
+msgid "Set loyalty level"
+msgstr "Hűségszint beállítása"
+
+#: 
+msgid "No bet"
+msgstr "Nincs megadott tét"
+
+#: 
+msgid "No ID user"
+msgstr "Nincs az azonosítóhoz társítva felhasználó!"
+
+#: 
+msgid "No ID bonus"
+msgstr "Nincs bónusz azonosító"
+
+#: 
+msgid "Wrong amount"
+msgstr "Nem megfelelő összeg"
+
+#: 
+msgid "No bonus ID"
+msgstr "Nincs bónusz azonosító"
+
+#: 
+msgid "No user ID"
+msgstr "Nincs megadott felhasználói azonosító"
+
+#: 
+msgid "Wrong date format"
+msgstr "Helytelen dátumformátum"
+
+#: 
+msgid "Date must not be today"
+msgstr "A dátum nem lehet a mai nap"
+
+#: 
+msgid "No bonus id"
+msgstr "Nincs bónusz azonosító"
+
+#: 
+msgid "No status"
+msgstr "Nincs megadott státusz"
+
+#: 
+msgid "Bonus not found"
+msgstr "Nem található bónusz"
+
+#: 
+msgid "Already have active"
+msgstr "Már aktiválva van"
+
+#: 
+msgid "Bonus is not available"
+msgstr "A bónusz nem elérhető"
+
+#: 
+msgid "First deposit, already deposited"
+msgstr "Az első befizetés már be van fizetve"
+
+#: 
+msgid "Dont satisfy bonus conditions"
+msgstr "Nem felel meg a bónuszfeltételeknek"
+
+#: 
+msgid "Bonus used"
+msgstr "Bónusz felhasználva"
+
+#: 
+msgid "Promo code needed"
+msgstr "Promóciós kód szükséges"
+
+#: 
+msgid "Wrong promo code"
+msgstr "Helytelen promóciós kód"
+
+#: 
+msgid "User ID not set"
+msgstr "A felhasználói azonosító nincs beállítva"
+
+#: 
+msgid "Wrong bonus results value"
+msgstr "Helytelen bónusz eredmény érték"
+
+#: 
+msgid "Wrong bonus results freerounds value"
+msgstr "Helytelen bónusz eredmény a szabad pörgetés értékében"
+
+#: 
+msgid "Wrong bonus results award wagering"
+msgstr "Helytelen bónusz eredmény a fogadás díjában"
+
+#: 
+msgid "Wrong bonus results chunk size"
+msgstr "Helytelen bónusz eredmény a darabszámokban"
+
+#: 
+msgid "Wrong bonus results release wagering"
+msgstr "Helytelen bónusz eredmény a fogadás elengedésében"
+
+#: 
+msgid "Bonus name required"
+msgstr "Bónusz név szükséges"
+
+#: 
+msgid "Wrong bonus event"
+msgstr "Helytelen bónusz esemény"
+
+#: 
+msgid "Wrong bonus type"
+msgstr "Helytelen bónusz típus"
+
+#: 
+msgid "Wrong bonus repeat period"
+msgstr "Érvénytelen bónusz ismétlési időszak"
+
+#: 
+msgid "Wrong bonus expire period"
+msgstr "Érvénytelen bónusz lejárati időszak"
+
+#: 
+msgid "Wrong bonus budget"
+msgstr "Érvénytelen bónusz költségvetés"
+
+#: 
+msgid "Wrong bonus start date"
+msgstr "Érvénytelen bónusz kezdő dátum"
+
+#: 
+msgid "Wrong bonus end date"
+msgstr "Érvénytelen bónusz végdátum"
+
+#: 
+msgid "Wrong bonus start date more than end date"
+msgstr "Érvénytelen bónusz a kezdő dátum későbbi, mint a végdátum"
+
+#: 
+msgid "Wrong bonus conditions amount min"
+msgstr "Helytelen bónusz feltételek minimum összeg"
+
+#: 
+msgid "Wrong bonus conditions amount max"
+msgstr "Helytelen bónusz feltételek maximum összeg"
+
+#: 
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Helytelen bónusz feltételek a minimum összeg nagyobb, mint a maximum"
+
+#: 
+msgid "Following codes are duplicated"
+msgstr "A következő kódok meg vannak duplázva"
+
+#: 
+msgid "Bonus name already exists"
+msgstr "A bónusznév már létezik"
+
+#: 
+msgid "Wrong bonus ID"
+msgstr "Helytelen bónusz azonosító"
+
+#: 
+msgid "Activated bonuses"
+msgstr "Aktivált bónuszok"
+
+#: 
+msgid "Can't delete"
+msgstr "Nem törölhető"
+
+#: 
+msgid "No bonus"
+msgstr "Nincs bónusz"
+
+#: 
+msgid "Wrong store action"
+msgstr "Érvénytelen vásárlási akció"
+
+#: 
+msgid "No order id"
+msgstr "Nincs megrendelési azonosító"
+
+#: 
+msgid "Order not found"
+msgstr "A megrendelés nem található"
+
+#: 
+msgid "No item id"
+msgstr "Nincs tételazonosító"
+
+#: 
+msgid "User not found"
+msgstr "A felhasználó nem található"
+
+#: 
+msgid "Item not found"
+msgstr "A tétel nem található"
+
+#: 
+msgid "Item price not set for currency: LOYALTY"
+msgstr "A tétel nem a pénznemhez van beállítva: HŰSÉG"
+
+#: 
+msgid "Not enough loyalty points"
+msgstr "Nincs elég hűségpontod"
+
+#: 
+msgid "Item out of stock"
+msgstr "A tétel elfogyott"
+
+#: 
+msgid "Wrong BonusEventAmount of item"
+msgstr "Érvénytelen BónuszEseményMennyiség a tételsorban"
+
+#: 
+msgid "User not found in tournament"
+msgstr "A bajnokságon nem található ilyen felhasználó"
+
+#: 
+msgid "Set codes count"
+msgstr "Kódok számának beállítása"
+
+#: 
+msgid "Set batch name"
+msgstr "Tétel nevének beállítása"
+
+#: 
+msgid "Codes count exceeds 300 000"
+msgstr "A kódok száma túllépte a 300 000-et"
+
+#: 
+msgid "Wrong batch ID"
+msgstr "Helytelen tétel azonosító"
+
+#: 
+msgid "Codes not set"
+msgstr "Nincsenek beállítva kódok"
+
+#: 
+msgid "Modificator not found"
+msgstr "Módosító nem található"
+
+#: 
+msgid "Set coefficient"
+msgstr "Együttható beállítása"
+
+#: 
+msgid "Set name"
+msgstr "Név beállítása"
+
+#: 
+msgid "No levels defined"
+msgstr "Nincsenek szintek beállítva"
+
+#: 
+msgid "Level not found"
+msgstr "Szintek nem találhatók"
+
+#: 
+msgid "Bad cronjob"
+msgstr "Rossz cronjob"
+
+#: 
+msgid "No category ID"
+msgstr "Nincs kategória azonosító"
+
+#: 
+msgid "Category not found"
+msgstr "Kategória nem található"
+
+#: 
+msgid "No category name"
+msgstr "Nincs kategória név"
+
+#: 
+msgid "Wrong category ID"
+msgstr "Helytelen kategória azonosító"
+
+#: 
+msgid "No category id"
+msgstr "Nincs kategória azonosító"
+
+#: 
+msgid "No item ID"
+msgstr "Nincs tételazonosító"
+
+#: 
+msgid "Wrong item ID"
+msgstr "Érvénytelen tételazonosító"
+
+#: 
+msgid "Item init error"
+msgstr "Tétel kezdeményezési hiba"
+
+#: 
+msgid "Wrong item BonusEventAmount"
+msgstr "Érvénytelen tétel BónuszEseményMennyiség"
+
+#: 
+msgid "No item"
+msgstr "Nincs tétel"
+
+#: 
+msgid "Wrong tournament ID"
+msgstr "Helytelen bajnokság azonosító"
+
+#: 
+msgid "Wrong Tournament ID"
+msgstr "Helytelen bajnokság azonosító"
+
+#: 
+msgid "No ID tournament"
+msgstr "Nincs bajnokság azonosító"
+
+#: 
+msgid "No tournament ID"
+msgstr "Nincs bajnokság azonosító"
+
+#: 
+msgid "No tournament id"
+msgstr "Nincs bajnokság azonosító"
+
+#: 
+msgid "No balance"
+msgstr "Nincs egyenleg"
+
+#: 
+msgid "Not enough balance"
+msgstr "Nem elegendő egyenleg"
+
+#: 
+msgid "Tournament name required"
+msgstr "Add meg a torna nevét!"
+
+#: 
+msgid "Wrong tournament winner by"
+msgstr "Téves bajnokság győztes"
+
+#: 
+msgid "Wrong tournament period"
+msgstr "Helytelen bajnokságidőszak"
+
+#: 
+msgid "Wrong tournament repeat"
+msgstr "Helytelen bajnokságismétlés"
+
+#: 
+msgid "Wrong tournament start date"
+msgstr "Helytelen bajnokság kezdő dátum"
+
+#: 
+msgid "Tournament not found"
+msgstr "Nem található bajnokság"
+
+#: 
+msgid "Activated Tournaments"
+msgstr "Aktív bajnokságok"
+
+#: 
+msgid "No tournament"
+msgstr "Nincs bajnokság"
+
+#: 
+msgid "Wrong event type"
+msgstr "Nem megfelelő eseménytípus"
+
+#: 
+msgid "No event id"
+msgstr "Nincs esemény azonosító"
+
+#: 
+msgid "Empty data"
+msgstr "Üres adat"
+
+#: 
+msgid "No data"
+msgstr "Nincs adat"
+
+#: 
+msgid "Bonuses are forbidden for user"
+msgstr "A bónuszok le vannak tiltva a felhasználó számára"
+
+#: 
+msgid "Tournaments are forbidden for user"
+msgstr "A bajnokságok le vannak tiltva a felhasználó számára"
+
+#: 
+msgid "Bonus pending cancellation"
+msgstr "Bónusz függőben lévő törlése"
+
+#: 
+msgid "Cancel not supported"
+msgstr "A visszavonás nem támogatott"
+
+#: 
+msgid "Awaiting limits information, try later"
+msgstr "Várakozás a korlátokra vonatkozó információkra, próbálkozz később"
+
+#: 
+msgid "Error cancellation of the bonus"
+msgstr "Hiba a bónusz visszavonásakor"
+
+#: 
+msgid "Purchase is not possible - the item has been disabled"
+msgstr "A vásárlás nem lehetséges - A tétel le lett tiltva"
+
+#: 
+msgid "Purchase is not possible - the item has been deleted"
+msgstr "A vásárlás nem lehetséges - A tétel törlésre került"
+

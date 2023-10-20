@@ -1,0 +1,1451 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: messages\n"
+"Language: tt_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+" Мөһим мәгълүматны ычкындырмас өчен безнең email, сезнең адресны китапка өстәгез"
+
+msgid "Congratulations,"
+msgstr "Котлыйбыз,"
+
+msgid "Limits can be increased no more than once every 7 days. Try again at the earliest X"
+msgstr "Лимитлар атнага бер тапкырдан да ешрак үзгәрә алмый. Тагын бер тапкыр эшләп карагыз, ләкин  иртәрәк түгел"
+
+msgid "Dear"
+msgstr "Дорогой"
+
+msgid "Deposit confirmation"
+msgstr "Депозитны раслау"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Уңышлы депозит турында белдерү. Сезнең баланс"
+
+msgid "Do you need to contact us?"
+msgstr ""
+
+msgid ""
+"Due to legal reasons we can't accept players residing in the country you are "
+"currently"
+"            in."
+msgstr ""
+
+msgid "Finish registration link"
+msgstr "Теркелүне раслау сылтамасы"
+
+msgid "Greeting."
+msgstr "Сәламләү."
+
+msgid "Hello"
+msgstr "Сәлам"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "Әгәр бу хат дөрес түгел икән, аны браузерда ачыгыз."
+
+msgid "If you have any questions, please contact"
+msgstr "Әгәр сезнең нинди дә булса сорауларыгыз булса, зинһар, элемтәгә керегез"
+
+msgid ""
+"If you’re using a proxy service or VPN to access casino, try turning it off "
+"and reload the"
+"            page."
+msgstr ""
+
+msgid "Link will be available for 30 minutes."
+msgstr "Сылтама 30 минуттан әзер була."
+
+msgid "Location restriction"
+msgstr "Ил буенча чикләү"
+
+msgid "Login"
+msgstr "Логин"
+
+msgid "Not in a restricted region"
+msgstr "Шектеулі аймақта емес"
+
+msgid "Password"
+msgstr "Серсүзе"
+
+msgid "Password restore"
+msgstr "Серсүзе торгызу"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Зинһар, теркәлүне тәмамлау өчен, түбәндәге сылтамага басыгыз:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Зинһар, бу хатка җавап бирмәгез. Бу хәбәр автомат рәвештә формалаштырылган "
+"һәм сез җавап алмаячаксыз."
+
+msgid "Registration confirmation"
+msgstr "Теркелүне раслау"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Серсүзне түбәндәрәк сылтамага җибәрегез."
+
+msgid ""
+"Should you have any questions or feel that this block is affecting you due "
+"to a technical error,"
+"            please"
+"            don't hesitate to contact us and we'll work it out together."
+msgstr ""
+
+msgid "Social registration confirmation"
+msgstr "Теркәлүне социаль челтәр аша раслагыз"
+
+msgid "Thank you for validating your account."
+msgstr "Исәп язуыгызны раславыгыз өчен рәхмәт."
+
+msgid "Thanks for registration on the website!"
+msgstr "Сайтта теркәлү өчен рәхмәт!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr ""
+"Сезнең аккаунтыгызны бәйләүне төгәлләү өчен, зинһар, бу сылтаманы кулланыгыз:"
+
+msgid "Welcome to"
+msgstr "Рәхим итегез"
+
+msgid "With respect"
+msgstr "Хөрмәт белән"
+
+msgid "You asked to link new social account to your current account"
+msgstr "Сез Сезнең аккаунтыгызны яңа социаль челтәр белән бәйләүне сорадыгыз"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Сез гаҗәеп уен сәяхәтенә беренче адым ясадыгыз"
+
+msgid "casino_footer_copyright"
+msgstr ""
+
+msgid "casino_mail_info"
+msgstr ""
+
+msgid "online support"
+msgstr "онлайн ярдәм"
+
+msgid "controller_does_not_exists"
+msgstr "Контроллер табылмады"
+
+msgid "social_not_found"
+msgstr "Социаль челтәр табылмады"
+
+msgid "purchase_error"
+msgstr "Сатып алу хатасы"
+
+msgid "game_added_to_favorites"
+msgstr "Уен сайланган уенга өстәлде"
+
+msgid "game_deleted_from_favorites"
+msgstr "Ойын таңдаулылардан жойылған"
+
+msgid "must_login"
+msgstr "Авторизацияләнергә кирәк"
+
+msgid "No bonus name"
+msgstr "Бонус исеме юк"
+
+msgid "No bonus descripton"
+msgstr "Бонус тасвирламасы юк"
+
+msgid "No user id"
+msgstr "Кулланучы id юк"
+
+msgid "No bonus id"
+msgstr "Id бонус юк"
+
+msgid "No status"
+msgstr "Билгесез статус"
+
+msgid "Bonus not found"
+msgstr "Бонус табылмады"
+
+msgid "Already have active"
+msgstr "Актив бар инде"
+
+msgid "Bonus is not available"
+msgstr "Бонус мөмкин түгел"
+
+msgid "First deposit, already deposited"
+msgstr ""
+
+msgid "No loyalty record"
+msgstr "Лояльлек язмалары юк"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Бонуслар шартларын канәгатьләндерми"
+
+msgid "Bonus used"
+msgstr "Бонус инде кулланылган"
+
+msgid "Promo code needed"
+msgstr "Промокод кирәк"
+
+msgid "Wrong promo code"
+msgstr "Ялгыш промокод"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Кулланучыга бонуслар куллану тыела"
+
+msgid "Already have an active bonus"
+msgstr "Актив бонус инде бар"
+
+msgid "registration"
+msgstr "теркәлү"
+
+msgid "verification"
+msgstr "тикшерү"
+
+msgid "sign up"
+msgstr "язылу"
+
+msgid "store"
+msgstr "сатып алу"
+
+msgid "login"
+msgstr "логин"
+
+msgid "deposit"
+msgstr "счетны тулыландыру"
+
+msgid "deposit first"
+msgstr "счетларны беренче тапкыр тулыландыру"
+
+msgid "deposit sum"
+msgstr "счетны тулыландыру суммасы"
+
+msgid "deposit repeated"
+msgstr "счетны кабат тулыландыру"
+
+msgid "bet"
+msgstr "ставка"
+
+msgid "bet sum"
+msgstr "савкалар суммасы"
+
+msgid "win sum"
+msgstr ""
+
+msgid "loss sum"
+msgstr "шығын сомасы"
+
+msgid "once"
+msgstr "бер тапкыр"
+
+msgid "day"
+msgstr "көн"
+
+msgid "week"
+msgstr "атна"
+
+msgid "month"
+msgstr "ай"
+
+msgid "all"
+msgstr "барысы"
+
+msgid "bonus"
+msgstr "бонус"
+
+msgid "win"
+msgstr "җиңү"
+
+msgid "win and bonus"
+msgstr "җиңү һәм бонус"
+
+msgid "winevent"
+msgstr "җиңү һәм вакыйга суммасы"
+
+msgid "winbonusevent"
+msgstr "бонус + җиңү + вакыйга суммасы"
+
+msgid "none"
+msgstr "юк"
+
+msgid "balance"
+msgstr "баланс"
+
+msgid "experience"
+msgstr "тәҗрибә баллы"
+
+msgid "loyalty"
+msgstr "лояльлек баллы"
+
+msgid "absolute"
+msgstr "абсолютный"
+
+msgid "relative"
+msgstr "относительный"
+
+msgid "bets"
+msgstr "ставки"
+
+msgid "wins"
+msgstr "җиңүләр"
+
+msgid "turnover"
+msgstr "отыш"
+
+msgid "negative turnover"
+msgstr "чыгым"
+
+msgid "unlimited"
+msgstr "вакыты чикләнмәгән"
+
+msgid "one day"
+msgstr "бер көн"
+
+msgid "two days"
+msgstr "ике көн"
+
+msgid "three days"
+msgstr "3 көн"
+
+msgid "seven days"
+msgstr "7 көн"
+
+msgid "ten days"
+msgstr "10 көн"
+
+msgid "fourteen days"
+msgstr "14 көн"
+
+msgid "thirty days"
+msgstr "30 көн"
+
+msgid "sixty days"
+msgstr "60 көн"
+
+msgid "ninety days"
+msgstr "90 көн"
+
+msgid "one week"
+msgstr "бер атна"
+
+msgid "two weeks"
+msgstr "ике атна"
+
+msgid "one month"
+msgstr "бер ай"
+
+msgid "every day"
+msgstr "һәр ай"
+
+msgid "every week"
+msgstr "һәр атна"
+
+msgid "every two weeks"
+msgstr "һәр ике атна"
+
+msgid "every month"
+msgstr "һәр ай"
+
+msgid "fee"
+msgstr "түләүләр"
+
+msgid "turnover and fee"
+msgstr "түләүләр һәм кулланыш"
+
+msgid "everyday"
+msgstr "һәр көн"
+
+msgid "monday"
+msgstr "дүшәмбе"
+
+msgid "tuesday"
+msgstr "сишәмбе"
+
+msgid "wednesday"
+msgstr "чәршәмбе"
+
+msgid "thursday"
+msgstr "пәнҗешәмбе"
+
+msgid "friday"
+msgstr "җомга"
+
+msgid "saturday"
+msgstr "шимбә"
+
+msgid "sunday"
+msgstr "якшәмбе"
+
+msgid "transaction_list_is_empty"
+msgstr "Күчерешләр исемлеге буш"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "Көн дөрес түгел"
+
+msgid "cancelled"
+msgstr "Кире кагылган"
+
+msgid "pending"
+msgstr "Көтүдә"
+
+msgid "rejected"
+msgstr "Баш тартылган"
+
+msgid "error"
+msgstr "Хата"
+
+msgid "in_progress"
+msgstr "Процеста"
+
+msgid "confirmed"
+msgstr "Расланган"
+
+msgid "system_error"
+msgstr "Система хатасы"
+
+msgid "completed"
+msgstr "Бетте"
+
+msgid "aborted"
+msgstr "Өзелгән"
+
+msgid "credit"
+msgstr "Кредит"
+
+msgid "debet"
+msgstr "Дебет"
+
+msgid "withdraw_unavailable"
+msgstr "Чыгару мөмкин түгел"
+
+msgid "withdraw_check_error"
+msgstr "Чыгару хатасы"
+
+msgid "set_amount"
+msgstr "Сумманы билгеләргә"
+
+msgid "set_payment_system"
+msgstr "Түләү системасын күрсәтегез"
+
+msgid "country_and_birth_date_required"
+msgstr "Ил һәм туган көн тутыру өчен мәҗбүри"
+
+msgid "payment_request_sent"
+msgstr "Түләүгә сорау җибәрелде"
+
+msgid "payment_request_error"
+msgstr "Түләү хатасы"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Нәтиҗәгә ихтыяҗның максималь лимиты җитәчәк"
+
+msgid "sys_error_message"
+msgstr "Cистема хатасы"
+
+msgid "input_purse"
+msgstr "Сумманы языгыз"
+
+msgid "payment_withdraw_sent"
+msgstr "Чыгаруга сорау җибәрелде"
+
+msgid "New password is empty"
+msgstr "\"яңа пароль\" кыры тулмаган"
+
+msgid "Repeat password is empty"
+msgstr "\"яңа пароль\" кыры тулмаган"
+
+msgid "Code is empty"
+msgstr "Код буш"
+
+msgid "Code is incorrect"
+msgstr "Ялгыш код"
+
+msgid "Invalid confirmation code"
+msgstr "Раслау коды дөрес түгел"
+
+msgid "Сode accepted, the device has been added"
+msgstr "Код кабул ителде, җайланма өстәлде"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Серсүзе кимендә 6 символ булырга тиеш"
+
+msgid "pass_not_match"
+msgstr "Серсүзләр туры килми"
+
+msgid "Session expired"
+msgstr "Сессияның вакыты чыкты"
+
+msgid "social_account_expired"
+msgstr "авторизациянең вакыты узган"
+
+msgid "Empty to address"
+msgstr "Хатның адресы кертелмәгән"
+
+msgid "Empty subject"
+msgstr "Хатның темасы кертелмәгән"
+
+msgid "Empty message"
+msgstr "Хат язылмаган"
+
+msgid "Empty required parameter"
+msgstr "Сорау параметрлары күрсәтелмәгән"
+
+msgid "Unknown error"
+msgstr "Билгесез хата"
+
+msgid "Not allowed player country"
+msgstr ""
+"Сез бу уенда уйный алмыйсыз, чөнки ул сезнең илдә тыелган."
+
+msgid "Demo not supported"
+msgstr "Демо режим хупланмый"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Сезнең акча берәмлеге провайдер белән хупланмый"
+
+msgid "Branded games are not enabled"
+msgstr "Бренд уеннары кабызылмаган"
+
+msgid "Self exclusion date"
+msgstr ""
+"Сездә үз-үзегезне чикләү урнаштырылган. Уен # DATE # детальле мәгълүмат алу "
+"өчен ярдәм хезмәтенә мөрәҗәгать итегез"
+
+msgid "Self exclusion"
+msgstr ""
+"Сездә үз-үзен чикләү урнаштырылган. детальле мәгълүмат алу өчен ярдәм "
+"хезмәтенә мөрәҗәгать итегез"
+
+msgid "does not exists"
+msgstr "балыкта юк"
+
+msgid "Method is not supported"
+msgstr "Метод хупланмый"
+
+msgid "Data type is not found"
+msgstr "Мәгълүматлар тибы табылмады"
+
+msgid "Invalid request parameters"
+msgstr "Сорауның корректлы булмаган параметрлары"
+
+msgid "Loyalty result not supported"
+msgstr "Метод хупланмый"
+
+msgid "No bonus description"
+msgstr "Бонус тасвирламасы юк"
+
+msgid "Selected"
+msgstr "Сайланган"
+
+msgid "Qualified"
+msgstr "Туры килгән"
+
+msgid "Deleted"
+msgstr "Бетерелгән"
+
+msgid "Deactivated"
+msgstr "Деактивлашкан"
+
+msgid "Canceled"
+msgstr "Гамәлдән чыгарылган"
+
+msgid "Ending"
+msgstr "Бетү"
+
+msgid "Ended"
+msgstr "Бетерелгән"
+
+msgid "Loyalty API Failure"
+msgstr "Лояльлек хатасы"
+
+msgid "User not found"
+msgstr "Кулланучы табылмады"
+
+msgid "Unable fetch oauth access token"
+msgstr "Керү токен алып булмый"
+
+msgid "Access token is missing"
+msgstr ""
+
+msgid "Empty access token user identifier"
+msgstr ""
+
+msgid "Empty access token identifier"
+msgstr ""
+
+msgid "Method not allowed"
+msgstr "Метод мөмкин түгел"
+
+msgid "Your country is on the forbidden list"
+msgstr "Сезнең ил тыелган исемлектә"
+
+msgid "Achievement result is not list"
+msgstr "Жетістік нәтижесі тізім емес"
+
+msgid "Too many requests"
+msgstr "Системага кергәндә хата булды. Сораулар лимиты артып киткән"
+
+msgid "Method Not Allowed"
+msgstr "Метод мөмкин түгел"
+
+msgid "Unknown route path"
+msgstr "Билгесез юл"
+
+msgid "Api endpoint not found"
+msgstr "API чакыруы дөрес түгел"
+
+msgid "Confirm your email to start games"
+msgstr "Уеннарны эшләтеп җибәрү почтасын раслагыз"
+
+msgid "User not authorized"
+msgstr "Кулланучы кертелмәгән"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Түләү системасы сайланырга тиеш"
+
+msgid "Amount is not selected or invalid"
+msgstr ""
+
+msgid "Bonus result is not list"
+msgstr "Бонус табылмады"
+
+msgid "Bonus ID Not found"
+msgstr "ID бонусы табылмады"
+
+msgid "Bonus Selected Not found"
+msgstr "Сайланган бонус табылмаган"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "Депозит хатасы: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+""
+
+msgid "User is not authorized"
+msgstr "Кулланучы кертелмәгән"
+
+msgid "Uploadable files is empty"
+msgstr "Жүктеп салуға болатын файлдар бос"
+
+msgid "Exceeds allowed file size"
+msgstr "Файлның мөмкин булган күләме арттырылган"
+
+msgid "Mb"
+msgstr "Мб"
+
+msgid "Document ID not found"
+msgstr "Құжат идентификаторы табылмады"
+
+msgid "Request invalid. Error: "
+msgstr "Коррект булмаган сорау. Хата:"
+
+msgid "Games catalog is temporary unavailable"
+msgstr ""
+
+msgid "Empty launch code"
+msgstr "Җибәрү бушлай коды"
+
+msgid "Empty merchant identifier"
+msgstr ""
+
+msgid "Empty games catalog"
+msgstr "Уеннар каталогы буш"
+
+msgid "Unknown game launch code"
+msgstr "Уенны эшләтеп җибәрүнең билгесез коды"
+
+msgid "Not supported exception"
+msgstr "Тоткарланмый торган искәрмә"
+
+msgid "Bad request"
+msgstr "Сорау хатасы"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+msgid "Unable find user identifier"
+msgstr ""
+
+msgid "Unknown error occured"
+msgstr "Белгісіз қате орын алды"
+
+msgid "Wrong request"
+msgstr "Қате сұрау"
+
+msgid "Unknown provider"
+msgstr "Белгісіз провайдер"
+
+msgid "Token not found"
+msgstr "Токен табылмады"
+
+msgid "Invalid token provided"
+msgstr "Коррект булмаган токен"
+
+msgid "Phone already verified"
+msgstr "Телефон инде верификацияләнгән"
+
+msgid "Insufficient parameters"
+msgstr "Коррект булмаган параметрлар"
+
+msgid "Configuration error"
+msgstr "Конфигурация қатесі"
+
+msgid "Invalid verification code"
+msgstr "Раслау коды дөрес түгел"
+
+msgid "Empty phone number"
+msgstr "телефон номеры күрсәтелмәгән"
+
+msgid "Invalid phone number"
+msgstr "Телефонның ялгыш номеры"
+
+msgid "Anonymous"
+msgstr "Аноним"
+
+msgid "Item not found"
+msgstr "Элемент табылмады"
+
+msgid "Sent from web-form at"
+msgstr "Веб-форма аша сайттан аерылган"
+
+msgid "Service not found"
+msgstr "Сервис табылмады"
+
+msgid "Unauthorized"
+msgstr "Кертелмәгән"
+
+msgid "Tournaments history error"
+msgstr "Турнирлар тарихы хатасы"
+
+msgid "Tournaments list not available"
+msgstr "Турнирлар исемлеге мөмкин түгел"
+
+msgid "Tournaments type not found"
+msgstr "Турнир төре табылмады"
+
+msgid "Tournament not found"
+msgstr "Турнир табылмады"
+
+msgid "Tournaments subscribe error"
+msgstr "Турнирга язылу хатасы"
+
+msgid "Insufficient monetary turnover"
+msgstr "Акчаларның җитмәслек әйләнеше"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "Кулланучының профиле тутырылмаган (шәхси мәгълүматлар)"
+
+msgid "Need verification"
+msgstr "Верификация кирәк"
+
+msgid "Need additional verification"
+msgstr "Өстәмә верификация кирәк"
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "Хат җибәрелгән, кире кайтуга сылтама 30 минут."
+
+msgid "Password repeat is empty"
+msgstr "яңа серсүзне кабатлагыз кыры тулмаган"
+
+msgid "Code is not valid"
+msgstr "Код гамәлдә түгел"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Яңа серсүз латин алфавиты хәрефләре, саннар һәм пунктуация билгеләреннән "
+"генә булырга мөмкин"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Пароль өске һәм аскы регистрда,саннар һәм махсус символларда хәрефләр "
+"булырга тиеш."
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Серсүзе хәрефләр һәм саннардан торырга тиеш"
+
+msgid "Passwords do not match"
+msgstr "Серсүзләре туры килми"
+
+msgid "Password is empty"
+msgstr "серсүзе кыры тулмаган"
+
+msgid "Password is invalid"
+msgstr "Коррект булмаган серсүзе"
+
+msgid "Code is invalid"
+msgstr "Коррект булмаган код"
+
+msgid "Email change is not allowed"
+msgstr "Email алмашынуы тыелган"
+
+msgid "Email is required"
+msgstr "Email мәҗбүри"
+
+msgid "First name is required"
+msgstr "Исем мәҗбүри"
+
+msgid "Last name is required"
+msgstr "Фамилиясе мәҗбүри"
+
+msgid "Birth year is required"
+msgstr "Туу елы мәҗбүри"
+
+msgid "Birth month is required"
+msgstr "Туу ае мәҗбүри"
+
+msgid "Birth day is required"
+msgstr "Туу көне мәҗбүри"
+
+msgid "Country is required"
+msgstr "Ил мәҗбүри"
+
+msgid "City is required"
+msgstr "Шәһәр мәҗбүри"
+
+msgid "Address is required"
+msgstr "Адрес мәҗбүри"
+
+msgid "An account with such personal details already exists"
+msgstr "Мондый шәхси мәгълүматлар белән акаунт инде бар"
+
+msgid "User update failed"
+msgstr "Кулланучының профилен яңарту хатасы"
+
+msgid "Registration data validation failed"
+msgstr "Теркәлү мәгълүматларын тикшерү хатасы"
+
+msgid "Empty unsubscribe code"
+msgstr "Жазылымнан бас тарту кодын бос"
+
+msgid "Internal error"
+msgstr "Ішкі қате"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"Электрон почтаны раслау коды табылмады, бәлки, сез инде электрон почта "
+"адресын раслагансыздыр, зинһар, үзегезнең почта ящигыгызны тикшерегез."
+
+msgid "Registration_complete"
+msgstr "Теркәлү тәмамланды"
+
+msgid "Insufficient account balance"
+msgstr "Счетта акча җитәрлек түгел"
+
+msgid "User profile is incomplete"
+msgstr ""
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Әлеге түләүле системадан бер генә депозит та эшләнмәгән, шуңа күрә аны чыгару "
+"мөмкин түгел. Әлеге түләүле системаны акчаларны чыгару өчен файдаланып, "
+"балансны тулыландырыгыз."
+
+msgid "Server returned invalid response"
+msgstr "Серверның коррект булмаган җавабы"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+msgid "Operator unknown error"
+msgstr "Оператордың белгісіз қатесі"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+msgid "Unknown subscriber"
+msgstr "Белгісіз жазылушы"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+msgid "GSM encoding is not supported"
+msgstr "GSM кодтауына қолдау көрсетілмейді"
+
+msgid "UCS2 encoding is not supported"
+msgstr "UCS2 кодтауына қолдау көрсетілмейді"
+
+msgid "Binary encoding is not supported"
+msgstr "Екілік кодтауға қолдау көрсетілмейді"
+
+msgid "Delivery report is not supported"
+msgstr "Жеткізу есебіне қолдау көрсетілмейді"
+
+msgid "Invalid message content"
+msgstr ""
+
+msgid "Invalid tariff"
+msgstr "Жарамсыз тариф"
+
+msgid "Invalid user data"
+msgstr "Жарамсыз пайдаланушы деректері"
+
+msgid "Invalid user data header"
+msgstr "Жарамсыз пайдаланушы деректерінің тақырыбы"
+
+msgid "Invalid data coding"
+msgstr "Жарамсыз деректерді кодтау"
+
+msgid "Invalid VAT"
+msgstr "Жарамсыз ҚҚС"
+
+msgid "Unsupported content for destination"
+msgstr ""
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "API адресында коррект булмаган версия"
+
+msgid "Not specified API key"
+msgstr "API ачкычы күрсәтелмәгән"
+
+msgid "Incorrect API key"
+msgstr "API коррект булмаган ачкыч"
+
+msgid "Incorrect IP address client"
+msgstr "Клиентның корректлы булмаган IP адресы"
+
+msgid "Invalid command"
+msgstr "Коррект булмаган команда"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Күрсәтелгән команда юк яки мөмкин түгел"
+
+msgid "System error"
+msgstr "Система хатасы"
+
+msgid "Not specified the SMS identifier"
+msgstr "SMS идентификатор күрсәтелмәгән"
+
+msgid "Sender address does not exist"
+msgstr "Җибәрүче адресы юк"
+
+msgid "Not specified content"
+msgstr "Эчтәлек юк"
+
+msgid "Faulty or unsupported country code"
+msgstr "Илнең төзексез яки тотып булмый торган коды"
+
+msgid "Content is too long"
+msgstr "Артык зур контент"
+
+msgid "Incorrect encoding of the content"
+msgstr "Контентның ялгыш кодировкасы"
+
+msgid "Exceeded monthly limit"
+msgstr "Айлык лимит артып киткән"
+
+msgid "Batch ID does not exist"
+msgstr "Команданың идефикаторы юк"
+
+msgid "List recipients does not exist"
+msgstr "Алучылар исемлеге юк"
+
+msgid "Invalid recipient number"
+msgstr "Алучының  номеры ялгыш"
+
+msgid "No content"
+msgstr "Контент юк"
+
+msgid "Wrong content"
+msgstr "Ялгыш контент"
+
+msgid "Unable send message"
+msgstr "Хатны җибәреп булмый"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+"SMSның шәхси квотасы арттырылган. Сез %d минуттан SMS җибәрүне кабатлый "
+"аласыз"
+
+msgid "Unsupported authentication provider"
+msgstr ""
+
+msgid "connect_social_account_email_theme"
+msgstr "социаль челтәргә тоташтыру, почта элемтәсе темасы"
+
+msgid "not_logged_in"
+msgstr "кермәдегез"
+
+msgid "trying_delete_last_social"
+msgstr ""
+
+msgid "please_set_email"
+msgstr "зинһар, email күрсәтегез"
+
+msgid "please_set_password"
+msgstr "зинһар, серсүзен күрсәтегез"
+
+msgid "Code incorrect, user not found"
+msgstr "Ялгыш код, кулланучы табылмаган"
+
+msgid "email_has_been_verified"
+msgstr "email адрес расланмаган"
+
+msgid "Transaction value generation failed"
+msgstr "Күчерү генерациясенең мәгънә хатасы"
+
+msgid "email_to_connect_social_sent"
+msgstr "хат җибәрелгән"
+
+msgid "Registration complete"
+msgstr "Теркәлү тәмамланды"
+
+msgid "_ip_fraud_msg"
+msgstr "IP адрес коррект түгел"
+
+msgid "Session is expired"
+msgstr "Сессияның вакыты бетте"
+
+msgid "Withdrawal ID not specified"
+msgstr "ID түләве күрсәтелмәгән"
+
+msgid "System ID not specified"
+msgstr "ID системасы күрсәтелмәгән"
+
+msgid "Incorrect email, please try again from the start"
+msgstr ""
+"Электрон почтаның дөрес адресын, зинһар, иң баштан ук тагын бер тапкыр "
+"татып карагыз әле."
+
+msgid "Email is empty"
+msgstr "Email күрсәтелмәгән"
+
+msgid "Error, account with this email does not exist."
+msgstr "Хата, күрсәтелгән email адрес белән аккаунт табылмады"
+
+msgid "Unable generate temporary restore user code"
+msgstr "Кулланучыны торгызу кодын булдырып булмады"
+
+msgid "Password recovery"
+msgstr "Серсүзне торгызу"
+
+msgid "Impossible to send email"
+msgstr "Хатны җибәреп булмый"
+
+msgid "current_password_empty"
+msgstr "Хәзерге серсүзе күрсәтелмәгән"
+
+msgid "Current password is incorrect"
+msgstr "Хәзерге серсүзе дөрес күрсәтелмәгән"
+
+msgid "day_not_set"
+msgstr "туган көн күрсәтелмәгән"
+
+msgid "month_not_set"
+msgstr "туу ае күрсәтелмәгән"
+
+msgid "year_not_set"
+msgstr "туу елы күрсәтелмәгән"
+
+msgid "Country is not picked"
+msgstr "Ил сайланмаган"
+
+msgid "Gender is not picked"
+msgstr "Җенес сайланмаган"
+
+msgid "input_repeated_password"
+msgstr "яңа серсүзен кабатлагыз кыры тулмаган"
+
+msgid "Password does not match"
+msgstr "Серсүзләр туры килми"
+
+msgid "Email field is empty or incorrect"
+msgstr "email кыры тутырылмаган яки дөрес түгел"
+
+msgid "Email already in use"
+msgstr "Email адресы алынган"
+
+msgid "Email field is incorrect"
+msgstr "email кыры дөрес түгел"
+
+msgid "Login field is empty"
+msgstr "логин кыры тутырылмаган"
+
+msgid "Email field is empty"
+msgstr "email кыры тутырылмаган"
+
+msgid "login_already_in_use"
+msgstr "Логин алынган"
+
+msgid "phone_empty"
+msgstr "Телефон күрсәтелмәгән"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Телефон номеры коррект түгел. Булырга тиеш"
+
+msgid "Phone number too long"
+msgstr "Телефон номеры артык зур"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Коррект булмаган телефон номеры: ярамый торган символлар кулланылган."
+
+msgid "new_pass_less_6_symbols"
+msgstr "Яңа серсүзе 6 символдан ким"
+
+msgid "first_name_empty"
+msgstr "Исем күрсәтелмәгән"
+
+msgid "last_name_empty"
+msgstr "Фамилия күрсәтелмәгән"
+
+msgid "New email field is incorrect"
+msgstr "email кыры дөрес күрсәтелмәгән"
+
+msgid "User verification failed"
+msgstr "Кулланучыны тикшерү хатасы"
+
+msgid "authorization_error"
+msgstr "Эл.почта/логин яки серсүзе адресы дөрес кертелмәгән. Авторизация хатасы"
+
+msgid "password_expired"
+msgstr "Сезнең серсүзе вакыты чыкты, зинһар, яңа пароль ясагыз."
+
+msgid "authorization_error_sms"
+msgstr "Телефон номеры һәм/яки раслау коды дөрес кертелмәгән. Авторизация хатасы"
+
+msgid "Phone number already registered"
+msgstr "Мондый номерлы кулланучы теркәлгән инде"
+
+msgid "Invalid validation code"
+msgstr "Раслау коды ялгыш"
+
+msgid "Validation code is empty"
+msgstr "Код күрсәтелмәгән"
+
+msgid "registration_in_progress"
+msgstr "Теркәләү процесста"
+
+msgid "user_disabled"
+msgstr "Кулланучы сүндереслгән"
+
+msgid "Access forbidden"
+msgstr ""
+
+msgid "Email field incorrect"
+msgstr "email кыры дөрес тутырылмаган"
+
+msgid "email_empty_incorrect"
+msgstr "email кыры дөрес тутырылмаган"
+
+msgid "pass_less_6_symbols"
+msgstr "Серсүзе 6 символдан ким"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Серсүзне латин алфавиты хәрефләре, саннар һәм махсус символлар гына "
+"тәшкил итә ала."
+
+msgid "currency_not_set"
+msgstr "Акча берәмлеге күрсәтелмәгән"
+
+msgid "Currency field is invalid"
+msgstr "Акча берәмлеге дөрес күрсәтелмәгән"
+
+msgid "reg_promo_is_invalid"
+msgstr "Ялгыш промокод"
+
+msgid "email_already_registered"
+msgstr "Эл. почта инде кулланыда"
+
+msgid "login_already_registered"
+msgstr "Логин инде теркәлгән"
+
+msgid "ip_fraud_blacklist"
+msgstr "IP адресы кара исемлектәге"
+
+msgid "ip_fraud_check_error"
+msgstr "IP адресы тикшерү узмаган"
+
+msgid "Activate your account"
+msgstr "Аккаунтыгызны активлаштырыгыз"
+
+msgid "Registration confirmation is in progress"
+msgstr "Процесста теркәлүне раслау"
+
+msgid "Unknown status"
+msgstr "Билгесез статус"
+
+msgid "first name"
+msgstr "исем"
+
+msgid "last name"
+msgstr "фамилия"
+
+msgid "birth date"
+msgstr "туган көн"
+
+msgid "sex"
+msgstr "җенес"
+
+msgid "country"
+msgstr "ил"
+
+msgid "phone number"
+msgstr "телефон номеры"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "Кырны алыштыру өчен %s ны техник ярдәмгә языгыз "
+msgstr[1] "Кырны алыштыру өчен %s ны техник ярдәмгә языгыз "
+msgstr[2] "Кырны алыштыру өчен %s ны техник ярдәмгә языгыз "
+
+msgid "Email has invalid format"
+msgstr "email кыры дөрес тутырылмаган"
+
+msgid "Repeat password field is empty"
+msgstr "серсүзе кыры тутырылмаган"
+
+msgid "First name field is empty"
+msgstr "Исем күрсәтелмәгән"
+
+msgid "First name must contain only letters"
+msgstr ""
+
+msgid "Last name field is empty"
+msgstr "Фамилия күрсәтелмәгән"
+
+msgid "Last name must contain only letters"
+msgstr "Тегі тек әріптерден тұруы керек"
+
+msgid "Gender field is empty"
+msgstr "Җенес сайланмаган"
+
+msgid "Gender unallowed value"
+msgstr ""
+
+msgid "Currency field is empty"
+msgstr "Акча берәмлеге күрсәтелмәгән"
+
+msgid "Country code is empty"
+msgstr "Ил коды күрсәтелмәгән"
+
+msgid "Country code is invalid"
+msgstr "Ил коды дөрес күрсәтелмәгән"
+
+msgid "Phone code is empty"
+msgstr "Телефон коды күрсәтелмәгән"
+
+msgid "Phone number field is empty"
+msgstr "Телефон күрсәтелмәгән"
+
+msgid "Phone number invalid format"
+msgstr "Телефон номеры форматы ялгыш"
+
+msgid "Wrong IBAN number"
+msgstr "IBAN номеры ялгыш"
+
+msgid "Wrong SWIFT number"
+msgstr "SWIFT номеры ялгыш"
+
+msgid "Password field is empty"
+msgstr "серсүзе кыры тутырылмаган"
+
+msgid "New password field is empty"
+msgstr "яңа серсүзе кыры тутырылмаган"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Серсүзе 6 символдан ким булмаска тиеш"
+
+msgid "New password strength is weak"
+msgstr "Серсүзе ышанычлы түгел"
+
+msgid "ID Number is not unique"
+msgstr ""
+
+msgid "Password strength is weak"
+msgstr "Серсүзе ышанычлы түгел"
+
+msgid "Login is already registered"
+msgstr "Логин инде теркәлгән"
+
+msgid "Email is already registered"
+msgstr "Email инде теркәлгән"
+
+msgid "Phone is already registered"
+msgstr "Телефон номеры инде теркәлгән"
+
+msgid "You are less than 18 year old"
+msgstr "Сезгә 18 әзрәк"
+
+msgid "To complete the deposit, make a bank transfer using the following details"
+msgstr "Депозитны тәмамлау өчен реквизитлар буенча түләүне башкарыгыз"
+
+msgid "Amount"
+msgstr "Сумм"
+
+msgid "Branch code"
+msgstr "Филиал коды"
+
+msgid "Bank name"
+msgstr "Банк исеме"
+
+msgid "Branch name"
+msgstr "Филилал исеме"
+
+msgid "Account type"
+msgstr "Хисап төре"
+
+msgid "Account number"
+msgstr "Хисап номеры"
+
+msgid "Account name"
+msgstr "Хисап исеме"
+
+msgid "Reference number"
+msgstr "Хисап сылтамасы"
+
+msgid "Cashback not available"
+msgstr "Кэшбэк мөмкин түгел"
+
+#~ msgid "Withdraw is not available because bonus is not won back"
+#~ msgstr ""
+#~ "Акчаны чыгару мөмкин түгел - сезнең акчаларны чыгаруны тыя торган актив "
+#~ "бонусыгыз бар"
+
+#~ msgid "Awaiting limits information"
+#~ msgstr ""
+#~ "Соңыннан тырышып карагыз, чөнки агымдагы лимитлар буенча мәгълүматны "
+#~ "һаман да көтәбез."
+
+#~ msgid "Bonus selection is already in process"
+#~ msgstr "бонуска язылу инде эшкәртелә"
+
+#~ msgid "Wrong merchant access"
+#~ msgstr "Провайдерга ялгыш керү"
+
+#~ msgid "cancel_error"
+#~ msgstr "Кире кагу хатасы"
+
+#~ msgid "select_error"
+#~ msgstr "Сайлау хатасы"

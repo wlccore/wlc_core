@@ -1,0 +1,1463 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: messages\n"
+"Language: uz\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Muhim ma'lumotni boy bermaslik uchun elektron pochtangizni manzillar "
+"kitobiga qo'shing"
+
+msgid "Congratulations,"
+msgstr "Tabriklaymiz,"
+
+msgid "Limits can be increased no more than once every 7 days. Try again at the earliest X"
+msgstr "Cheklovlar haftasiga bir martadan tez-tez o'zgartirib bo'lmaydi. %s keyin harakat qilib ko'ring"
+
+msgid "Dear"
+msgstr "Qimmat"
+
+msgid "Deposit confirmation"
+msgstr "Depozitni tasdiqlash"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Muvaffaqiyatli depozit haqida xabarnoma. Balansingiz"
+
+msgid "Do you need to contact us?"
+msgstr ""
+
+msgid ""
+"Due to legal reasons we can't accept players residing in the country you are "
+"currently\n"
+"            in."
+msgstr ""
+
+msgid "Finish registration link"
+msgstr "Ro'yxatga olishni tasdiqlash havolasi"
+
+msgid "Greeting."
+msgstr "Xush kelibsiz."
+
+msgid "Hello"
+msgstr "Salom"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "ЕAgar ushbu xat noto'g'ri ko'rsatilsa, uni brauzerda oching."
+
+msgid "If you have any questions, please contact"
+msgstr "Agar biron-bir savol bo'lsa, murojaat qiling"
+
+msgid ""
+"If you’re using a proxy service or VPN to access casino, try turning it off "
+"and reload the\n"
+"            page."
+msgstr ""
+
+msgid "Link will be available for 30 minutes."
+msgstr "Havola 30 daqiqa davomida mavjud bo'ladi."
+
+msgid "Location restriction"
+msgstr "Mamlakat tomonidan cheklash"
+
+msgid "Login"
+msgstr "Kirish"
+
+msgid "Not in a restricted region"
+msgstr ""
+
+msgid "Password"
+msgstr "Parol"
+
+msgid "Password restore"
+msgstr "Parolni tiklash"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Ro'yxatga olishni tugatish uchun quyidagi havolasini bosing:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Iltimos, ushbu elektron pochtaga javob bermang. Ushbu xabar avtomatik "
+"ravishda ishlab chiqariladi va siz javob olmaysiz."
+
+msgid "Registration confirmation"
+msgstr "Ro'yxatga olishni tasdiqlash"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Quyidagi havolani bosish orqali parolingizni qayta tiklang."
+
+msgid ""
+"Should you have any questions or feel that this block is affecting you due "
+"to a technical error,\n"
+"            please\n"
+"            don't hesitate to contact us and we'll work it out together."
+msgstr ""
+
+msgid "Social registration confirmation"
+msgstr "Ijtimoiy tarmoq orqali ro'yxatdan o'tishni tasdiqlash"
+
+msgid "Thank you for validating your account."
+msgstr "Hisobingizni tasdiqlaganingiz uchun tashakkur."
+
+msgid "Thanks for registration on the website!"
+msgstr "Saytda ro'yxatdan o'tganingiz uchun tashakkur!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr ""
+"Hisobingizni bog'lashni yakunlash uchun ushbu havoladan foydalaning:"
+
+msgid "Welcome to"
+msgstr "Xush kelibsiz"
+
+msgid "With respect"
+msgstr "Hurmat bilan"
+
+msgid "You asked to link new social account to your current account"
+msgstr "Hisobingizni yangi ijtimoiy tarmoq bilan bog'lashni so'ragansiz"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Siz ajoyib o'yin safariga birinchi qadam qo'ydingiz"
+
+msgid "casino_footer_copyright"
+msgstr ""
+
+msgid "casino_mail_info"
+msgstr ""
+
+msgid "online support"
+msgstr "onlayn qo'llab-quvvatlash"
+
+msgid "controller_does_not_exists"
+msgstr "Nazoratchi topilmadi"
+
+msgid "social_not_found"
+msgstr "Ijtimoiy tarmoq topilmadi"
+
+msgid "purchase_error"
+msgstr "Sotib olish xatosi"
+
+msgid "game_added_to_favorites"
+msgstr "O'yin sevimlilarga qo'shiladi"
+
+msgid "game_deleted_from_favorites"
+msgstr "O'yin Sevimlilardan olib tashlandi"
+
+msgid "must_login"
+msgstr "Kirish kerak"
+
+msgid "No bonus name"
+msgstr "Bonus nomi yo'q"
+
+msgid "No bonus descripton"
+msgstr "Hech qanday bonus ta'rifi yo'q"
+
+msgid "No user id"
+msgstr "Foydalanuvchi id yo'q"
+
+msgid "No bonus id"
+msgstr "Bonus id yo'q"
+
+msgid "No status"
+msgstr "Noma'lum holat"
+
+msgid "Bonus not found"
+msgstr "Bonus topilmadi"
+
+msgid "Already have active"
+msgstr "Allaqachon faol"
+
+msgid "Bonus is not available"
+msgstr "Bonus mavjud emas"
+
+msgid "First deposit, already deposited"
+msgstr ""
+
+msgid "No loyalty record"
+msgstr "Sodiqlik yozuvi yo'q"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Bonus shartlariga javob bermaydi"
+
+msgid "Bonus used"
+msgstr "Bonus allaqachon ishlatilgan"
+
+msgid "Promo code needed"
+msgstr "Sizga promo-kod kerak"
+
+msgid "Wrong promo code"
+msgstr "Noto'g'ri promo kodi"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Foydalanuvchiga bonuslardan foydalanish taqiqlanadi"
+
+msgid "Already have an active bonus"
+msgstr "Faol bonus allaqachon mavjud"
+
+msgid "registration"
+msgstr "ro'yxatdan o'tish"
+
+msgid "verification"
+msgstr "tekshirish"
+
+msgid "sign up"
+msgstr "obuna"
+
+msgid "store"
+msgstr "sotib olish"
+
+msgid "login"
+msgstr "kirish"
+
+msgid "deposit"
+msgstr "hisobni to'ldirish"
+
+msgid "deposit first"
+msgstr "birinchi hisob to'ldirish"
+
+msgid "deposit sum"
+msgstr "hisobni to'ldirish miqdori"
+
+msgid "deposit repeated"
+msgstr "hisobni qayta to'ldirish"
+
+msgid "bet"
+msgstr "tikish"
+
+msgid "bet sum"
+msgstr "tikish miqdori"
+
+msgid "win sum"
+msgstr ""
+
+msgid "loss sum"
+msgstr ""
+
+msgid "once"
+msgstr "bir marta"
+
+msgid "day"
+msgstr "kun"
+
+msgid "week"
+msgstr "hafta"
+
+msgid "month"
+msgstr "oy"
+
+msgid "all"
+msgstr "hammasi"
+
+msgid "bonus"
+msgstr "bonus"
+
+msgid "win"
+msgstr "yutuq"
+
+msgid "win and bonus"
+msgstr "yutuq va bonus"
+
+msgid "winevent"
+msgstr "yutuq va voqea miqdori"
+
+msgid "winbonusevent"
+msgstr "bonus + yutuq + voqea miqdori"
+
+msgid "none"
+msgstr "yo'q"
+
+msgid "balance"
+msgstr "balans"
+
+msgid "experience"
+msgstr "tajriba ballari"
+
+msgid "loyalty"
+msgstr "sodiqlik ballari"
+
+msgid "absolute"
+msgstr "mutlaq"
+
+msgid "relative"
+msgstr "nisbiy"
+
+msgid "bets"
+msgstr "tikish o'yinlari"
+
+msgid "wins"
+msgstr "g'alaba"
+
+msgid "turnover"
+msgstr "foyda"
+
+msgid "negative turnover"
+msgstr "xarajatlar"
+
+msgid "unlimited"
+msgstr "cheksiz"
+
+msgid "one day"
+msgstr "bir kun"
+
+msgid "two days"
+msgstr "ikki kun"
+
+msgid "three days"
+msgstr "3 kun"
+
+msgid "seven days"
+msgstr "7 kun"
+
+msgid "ten days"
+msgstr "10 kun"
+
+msgid "fourteen days"
+msgstr "14 kun"
+
+msgid "thirty days"
+msgstr "30 kun"
+
+msgid "sixty days"
+msgstr "60 kun"
+
+msgid "ninety days"
+msgstr "90 kun"
+
+msgid "one week"
+msgstr "bir hafta"
+
+msgid "two weeks"
+msgstr "ikki hafta"
+
+msgid "one month"
+msgstr "bir oy"
+
+msgid "every day"
+msgstr "har kuni"
+
+msgid "every week"
+msgstr "har hafta"
+
+msgid "every two weeks"
+msgstr "har ikki hafta"
+
+msgid "every month"
+msgstr "har oy"
+
+msgid "fee"
+msgstr "to'lov"
+
+msgid "turnover and fee"
+msgstr "to'lov va aylanmalar"
+
+msgid "everyday"
+msgstr "har kuni"
+
+msgid "monday"
+msgstr "dushanba"
+
+msgid "tuesday"
+msgstr "seshanba"
+
+msgid "wednesday"
+msgstr "chorshanba"
+
+msgid "thursday"
+msgstr "payshanba"
+
+msgid "friday"
+msgstr "juma"
+
+msgid "saturday"
+msgstr "shanba"
+
+msgid "sunday"
+msgstr "yakshanba"
+
+msgid "transaction_list_is_empty"
+msgstr "Bitimlar ro'yxati bo'sh"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "Sana noto'g'ri"
+
+msgid "cancelled"
+msgstr "Bekor qilindi"
+
+msgid "pending"
+msgstr "Kutish"
+
+msgid "rejected"
+msgstr "Rad etildi"
+
+msgid "error"
+msgstr "Xato"
+
+msgid "in_progress"
+msgstr "Jarayonda"
+
+msgid "confirmed"
+msgstr "Tasdiqlangan"
+
+msgid "system_error"
+msgstr "Tizim xatosi"
+
+msgid "completed"
+msgstr "Yakunlandi"
+
+msgid "aborted"
+msgstr "To'xtatildi"
+
+msgid "credit"
+msgstr "Kredit"
+
+msgid "debet"
+msgstr "Debet"
+
+msgid "withdraw_unavailable"
+msgstr "Chiqish mavjud emas"
+
+msgid "withdraw_check_error"
+msgstr "Chiqish xatosi"
+
+msgid "set_amount"
+msgstr "Miqdorini belgilash"
+
+msgid "set_payment_system"
+msgstr "To'lov tizimini ko'rsating"
+
+msgid "country_and_birth_date_required"
+msgstr "Mamlakat va tug'ilgan kun to'ldirish uchun majburiydir"
+
+msgid "payment_request_sent"
+msgstr "To'lov uchun so'rov yuborildi"
+
+msgid "payment_request_error"
+msgstr "To'lov xatosi"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Chiqish so'rovlarining maksimal limitiga erishildi"
+
+msgid "sys_error_message"
+msgstr "Tizim xatosi"
+
+msgid "input_purse"
+msgstr "Miqdorini kiriting"
+
+msgid "payment_withdraw_sent"
+msgstr "Chiqish so'rovi yuborildi"
+
+msgid "New password is empty"
+msgstr "Maydon \"yangi parol\" to'ldirilmagan"
+
+msgid "Repeat password is empty"
+msgstr "Maydon \"yangi parol\" to'ldirilmagan"
+
+msgid "Code is empty"
+msgstr "Kod bo'sh"
+
+msgid "Code is incorrect"
+msgstr "Noto'g'ri kod"
+
+msgid "Invalid confirmation code"
+msgstr "Tasdiqlash kodi haqiqiy emas"
+
+msgid "Code accepted, the device has been added"
+msgstr "Kod qabul qilinadi, qurilma qo'shiladi"
+
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+msgid "Password must be at least 6 characters long"
+msgstr "Parol kamida 6 belgi bo'lishi kerak"
+
+msgid "pass_not_match"
+msgstr "parollar mos kelmayapti"
+
+msgid "Session expired"
+msgstr "Sessiya muddati tugadi"
+
+msgid "social_account_expired"
+msgstr "avtorizatsiya muddati o'tgan"
+
+msgid "Empty to address"
+msgstr "Xabar manzili kiritilmadi"
+
+msgid "Empty subject"
+msgstr "Xabar mavzusi kiritilmadi"
+
+msgid "Empty message"
+msgstr "Xabar yozilmagan"
+
+msgid "Empty required parameter"
+msgstr "So'rov parametrlari ko'rsatilmagan"
+
+msgid "Unknown error"
+msgstr "Noma'lum xato"
+
+msgid "Not allowed player country"
+msgstr ""
+"Siz bu o'yinni o'ynay olmaysiz, chunki u sizning mamlakatingizda taqiqlangan."
+
+msgid "Demo not supported"
+msgstr "Demo rejimi mavjud emas"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Sizning valyuta provayder tomonidan qo'llab-quvvatlanmaydi"
+
+msgid "Branded games are not enabled"
+msgstr "Brand o'yinlari kiritilmagan"
+
+msgid "Self exclusion date"
+msgstr ""
+"O'z-o'zini cheklash bor. O'yin #DATE # mavjud bo'ladi. Batafsil ma'lumot "
+"uchun qo'llab-quvvatlash xizmatiga murojaat qiling"
+
+msgid "Self exclusion"
+msgstr ""
+"O'z-o'zini cheklash bor. Batafsil ma'lumot uchun qo'llab-quvvatlash "
+"xizmatiga murojaat qiling"
+
+msgid "does not exists"
+msgstr "mavjud emas"
+
+msgid "Method is not supported"
+msgstr "Usul qo'llab-quvvatlanmaydi"
+
+msgid "Data type is not found"
+msgstr "Ma'lumotlar turi topilmadi"
+
+msgid "Invalid request parameters"
+msgstr "Noto'g'ri talab parametrlari"
+
+msgid "Loyalty result not supported"
+msgstr "Usul qo'llab-quvvatlanmaydi"
+
+msgid "No bonus description"
+msgstr "Hech qanday bonus ta'rifi yo'q"
+
+msgid "Selected"
+msgstr "Tanlangan"
+
+msgid "Qualified"
+msgstr "Muvofiq"
+
+msgid "Deleted"
+msgstr "Olib tashlandi"
+
+msgid "Deactivated"
+msgstr "O'chirilgan"
+
+msgid "Canceled"
+msgstr "Bekor qilindi"
+
+msgid "Ending"
+msgstr "Oxiri"
+
+msgid "Ended"
+msgstr "Tugadi"
+
+msgid "Loyalty API Failure"
+msgstr "Sadoqat xatosi"
+
+msgid "User not found"
+msgstr "Foydalanuvchi topilmadi"
+
+msgid "Unable fetch oauth access token"
+msgstr "Kirish tokenini olish mumkin emas"
+
+msgid "Access token is missing"
+msgstr ""
+
+msgid "Empty access token user identifier"
+msgstr ""
+
+msgid "Empty access token identifier"
+msgstr ""
+
+msgid "Method not allowed"
+msgstr "Usul mavjud emas"
+
+msgid "Your country is on the forbidden list"
+msgstr "Mamlakatingiz taqiqlangan ro'yxatda"
+
+msgid "Achievement result is not list"
+msgstr ""
+
+msgid "Too many requests"
+msgstr "Tizimga kirishda xatolik yuz berdi. So'rovlar chegarasi oshib ketdi"
+
+msgid "Method Not Allowed"
+msgstr "Usul mavjud emas"
+
+msgid "Unknown route path"
+msgstr "Noma'lum yo'nalish"
+
+msgid "Api endpoint not found"
+msgstr "Noto'g'ri API qo'ng'iroq qilish"
+
+msgid "Confirm your email to start games"
+msgstr "O'yinlarni boshlash uchun elektron pochtangizni tasdiqlang"
+
+msgid "User not authorized"
+msgstr "Foydalanuvchi vakolatli emas"
+
+msgid "Merchant system not selected or invalid"
+msgstr "To'lov tizimi tanlanishi kerak"
+
+msgid "Amount is not selected or invalid"
+msgstr ""
+
+msgid "Bonus result is not list"
+msgstr "Bonus topilmadi"
+
+msgid "Bonus ID Not found"
+msgstr "Bonus ID topilmadi"
+
+msgid "Bonus Selected Not found"
+msgstr "Tanlangan bonus topilmadi"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "Depozit xatosi: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+
+msgid "User is not authorized"
+msgstr "Foydalanuvchi vakolatli emas"
+
+msgid "Uploadable files is empty"
+msgstr ""
+
+msgid "Exceeds allowed file size"
+msgstr "Ruxsat etilgan fayl hajmi oshdi"
+
+msgid "Mb"
+msgstr "MB"
+
+msgid "Document ID not found"
+msgstr ""
+
+msgid "Request invalid. Error: "
+msgstr "Noto'g'ri talab. Xato: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr ""
+
+msgid "Empty launch code"
+msgstr "Bo'sh ishga tushirish kodi"
+
+msgid "Empty merchant identifier"
+msgstr ""
+
+msgid "Empty games catalog"
+msgstr "O'yinlar katalogi ruxsat bering"
+
+msgid "Unknown game launch code"
+msgstr "O'yinni ishga tushirish uchun noma'lum kod"
+
+msgid "Not supported exception"
+msgstr "Qo'llab-quvvatlanmaydigan istisno"
+
+msgid "Bad request"
+msgstr "So'rov xatosi"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+msgid "Unable find user identifier"
+msgstr ""
+
+msgid "Unknown error occured"
+msgstr ""
+
+msgid "Wrong request"
+msgstr ""
+
+msgid "Unknown provider"
+msgstr ""
+
+msgid "Token not found"
+msgstr "Token topilmadi"
+
+msgid "Invalid token provided"
+msgstr "Noto'g'ri token"
+
+msgid "Phone already verified"
+msgstr "Telefon allaqachon tasdiqlangan"
+
+msgid "Insufficient parameters"
+msgstr "Noto'g'ri parametrlar"
+
+msgid "Configuration error"
+msgstr ""
+
+msgid "Invalid verification code"
+msgstr "Noto'g'ri tasdiqlash kodi"
+
+msgid "Empty phone number"
+msgstr "telefon raqami ko'rsatilmagan"
+
+msgid "Invalid phone number"
+msgstr "Noto'g'ri telefon raqami"
+
+msgid "Anonymous"
+msgstr "Anonim"
+
+msgid "Item not found"
+msgstr "Element topilmadi"
+
+msgid "Sent from web-form at"
+msgstr "Saytdan veb-shakl orqali otoslano"
+
+msgid "Service not found"
+msgstr "Xizmat topilmadi"
+
+msgid "Unauthorized"
+msgstr "Vakolatli emas"
+
+msgid "Tournaments history error"
+msgstr "Turnir tarixi xatosi"
+
+msgid "Tournaments list not available"
+msgstr "Turnirlar ro'yxati mavjud emas"
+
+msgid "Tournaments type not found"
+msgstr "Turnir turi topilmadi"
+
+msgid "Tournament not found"
+msgstr "Turnir topilmadi"
+
+msgid "Tournaments subscribe error"
+msgstr "Turnirga obuna bo'lish xatosi"
+
+msgid "Insufficient monetary turnover"
+msgstr "Mablag'larning kam aylanmasi"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "Foydalanuvchi profili to'ldirilmagan (shaxsiy ma'lumotlar)"
+
+msgid "Need verification"
+msgstr "Tekshirish kerak"
+
+msgid "Need additional verification"
+msgstr "Qo'shimcha tekshirish kerak"
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "Xat yuborilgan, tiklash havolasi 30 daqiqa mavjud"
+
+msgid "Password repeat is empty"
+msgstr "Maydon \"yangi parolni takrorlang\" to'ldirilmagan"
+
+msgid "Code is not valid"
+msgstr "Kod haqiqiy emas"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Yangi parol faqat lotin alifbosidagi harflar, raqamlar va tinish "
+"belgilarini o'z ichiga olishi mumkin"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Parolda yuqori va kichik harflar, raqamlar va maxsus belgilar bo'lishi kerak"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Parol harflar va raqamlarni o'z ichiga olishi kerak"
+
+msgid "Passwords do not match"
+msgstr "Parollar bir xil emas"
+
+msgid "Password is empty"
+msgstr "Maydon \"parol\" to'liq emas"
+
+msgid "Password is invalid"
+msgstr "Noto'g'ri parol"
+
+msgid "Code is invalid"
+msgstr "Noto'g'ri kod"
+
+msgid "Email change is not allowed"
+msgstr "Elektron pochtani o'zgartirish taqiqlangan"
+
+msgid "Email is required"
+msgstr "Elektron pochta majburiy"
+
+msgid "First name is required"
+msgstr "Ism majburiy"
+
+msgid "Last name is required"
+msgstr "Familiya majburiy"
+
+msgid "Birth year is required"
+msgstr "Tug'ilgan yili majburiy"
+
+msgid "Birth month is required"
+msgstr "Tug'ilgan oy majburiy"
+
+msgid "Birth day is required"
+msgstr "Tug'ilgan kun majburiy"
+
+msgid "Country is required"
+msgstr "Mamlakat majburiydir"
+
+msgid "City is required"
+msgstr "Shahar majburiy"
+
+msgid "Address is required"
+msgstr "Manzil majburiy"
+
+msgid "An account with such personal details already exists"
+msgstr "Bunday shaxsiy ma'lumotlar bilan hisob allaqachon mavjud"
+
+msgid "User update failed"
+msgstr "Foydalanuvchi profilini yangilash xatosi"
+
+msgid "Registration data validation failed"
+msgstr "Ro'yxatga olish ma'lumotlarini tekshirish xatosi"
+
+msgid "Empty unsubscribe code"
+msgstr ""
+
+msgid "Internal error"
+msgstr ""
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"E-pochtani tasdiqlash kodi topilmadi, ehtimol siz allaqachon elektron pochta "
+"manzilingizni tasdiqlagansiz, iltimos, pochta qutingizni tekshiring"
+
+msgid "Registration_complete"
+msgstr "Ro'yxatga olish tugallandi"
+
+msgid "Insufficient account balance"
+msgstr "Hisobdagi mablag ' etarli emas"
+
+msgid "User profile is incomplete"
+msgstr ""
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Ushbu to'lov tizimidan hech qanday depozit yo'q edi, shuning uchun uni olib "
+"tashlash mumkin emas. Pul mablag'larini olish uchun ushbu to'lov tizimidan "
+"foydalanib balansni to'ldiring."
+
+msgid "Server returned invalid response"
+msgstr "Noto'g'ri server javobi"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+msgid "Operator unknown error"
+msgstr ""
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+msgid "Unknown subscriber"
+msgstr ""
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+msgid "GSM encoding is not supported"
+msgstr ""
+
+msgid "UCS2 encoding is not supported"
+msgstr ""
+
+msgid "Binary encoding is not supported"
+msgstr ""
+
+msgid "Delivery report is not supported"
+msgstr ""
+
+msgid "Invalid message content"
+msgstr ""
+
+msgid "Invalid tariff"
+msgstr ""
+
+msgid "Invalid user data"
+msgstr ""
+
+msgid "Invalid user data header"
+msgstr ""
+
+msgid "Invalid data coding"
+msgstr ""
+
+msgid "Invalid VAT"
+msgstr ""
+
+msgid "Unsupported content for destination"
+msgstr ""
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "Manzildagi API ning noto'g'ri versiyasi"
+
+msgid "Not specified API key"
+msgstr "Belgilangan API kaliti yo'q"
+
+msgid "Incorrect API key"
+msgstr "Noto'g'ri API kaliti"
+
+msgid "Incorrect IP address client"
+msgstr "Mijozning noto'g'ri IP-manzili"
+
+msgid "Invalid command"
+msgstr "Noto'g'ri buyruq"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Belgilangan buyruq mavjud emas yoki mavjud emas"
+
+msgid "System error"
+msgstr "Tizim xatosi"
+
+msgid "Not specified the SMS identifier"
+msgstr "SMS identifikatori ko'rsatilmagan"
+
+msgid "Sender address does not exist"
+msgstr "Yuboruvchining manzili mavjud emas"
+
+msgid "Not specified content"
+msgstr "Kontent yo'q"
+
+msgid "Faulty or unsupported country code"
+msgstr "Noto'g'ri yoki qo'llab-quvvatlanmaydigan mamlakat kodi"
+
+msgid "Content is too long"
+msgstr "Juda katta tarkib"
+
+msgid "Incorrect encoding of the content"
+msgstr "Tarkibni noto'g'ri kodlash"
+
+msgid "Exceeded monthly limit"
+msgstr "Oylik limitdan oshdi"
+
+msgid "Batch ID does not exist"
+msgstr "Buyruq identifikatori mavjud emas"
+
+msgid "List recipients does not exist"
+msgstr "Qabul qiluvchilar ro'yxati mavjud emas"
+
+msgid "Invalid recipient number"
+msgstr "Qabul qiluvchining noto'g'ri raqami"
+
+msgid "No content"
+msgstr "Tarkib yo'q"
+
+msgid "Wrong content"
+msgstr "Noto'g'ri tarkib"
+
+msgid "Unable send message"
+msgstr "Xabarni yuborish mumkin emas"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+"ЧSMS soat kvotasi oshib ketdi. Sms-xabarni %d daqiqada takrorlashingiz mumkin"
+
+msgid "Unsupported authentication provider"
+msgstr ""
+
+msgid "connect_social_account_email_theme"
+msgstr "ijtimoiy tarmoqqa ulanish, pochta aloqasi mavzusi"
+
+msgid "not_logged_in"
+msgstr "kirmagan"
+
+msgid "trying_delete_last_social"
+msgstr ""
+
+msgid "please_set_email"
+msgstr "iltimos, elektron pochta orqali xabar bering"
+
+msgid "please_set_password"
+msgstr "iltimos, parolni kiriting"
+
+msgid "Code incorrect, user not found"
+msgstr "Noto'g'ri kod, foydalanuvchi topilmadi"
+
+msgid "email_has_been_verified"
+msgstr "elektron pochta manzili tasdiqlangan"
+
+msgid "Transaction value generation failed"
+msgstr "Tranzaksiya qiymatini yaratish xatosi"
+
+msgid "email_to_connect_social_sent"
+msgstr "xat yuborildi"
+
+msgid "Registration complete"
+msgstr "Ro'yxatga olish tugallandi"
+
+msgid "_ip_fraud_msg"
+msgstr "Noto'g'ri IP-manzil"
+
+msgid "Session is expired"
+msgstr "Sessiya tugadi"
+
+msgid "Withdrawal ID not specified"
+msgstr "To'lov ID ko'rsatilmagan"
+
+msgid "System ID not specified"
+msgstr "Tizim ID ko'rsatilmagan."
+
+msgid "Incorrect email, please try again from the start"
+msgstr ""
+"Noto'g'ri elektron pochta manzili, iltimos, boshidan yana urinib ko'ring."
+
+msgid "Email is empty"
+msgstr "Elektron pochta ko'rsatilmagan"
+
+msgid "Error, account with this email does not exist."
+msgstr "Xato, ko'rsatilgan elektron pochta manzili bilan hisob topilmadi"
+
+msgid "Unable generate temporary restore user code"
+msgstr "Foydalanuvchi qutqarish kodini yaratish mumkin emas edi"
+
+msgid "Password recovery"
+msgstr "Parolni tiklash"
+
+msgid "Impossible to send email"
+msgstr "Xat yuborish mumkin emas"
+
+msgid "current_password_empty"
+msgstr "Joriy parol ko'rsatilmagan"
+
+msgid "Current password is incorrect"
+msgstr "Joriy parol noto'g'ri ko'rsatilgan"
+
+msgid "day_not_set"
+msgstr "tug'ilgan kun ko'rsatilgan"
+
+msgid "month_not_set"
+msgstr "tug'ilgan oy ko'rsatilgan"
+
+msgid "year_not_set"
+msgstr "tug'ilgan yili ko'rsatilgan"
+
+msgid "Country is not picked"
+msgstr "Mamlakat tanlanmagan"
+
+msgid "Gender is not picked"
+msgstr "Jins tanlanmagan"
+
+msgid "input_repeated_password"
+msgstr "Maydon \"Yangi parolni takrorlang\" to'ldirilmagan"
+
+msgid "Password does not match"
+msgstr "parollar mos kelmayapti"
+
+msgid "Email field is empty or incorrect"
+msgstr "Maydon \"Elektron pochta\" to'ldirilmagan yoki noto'g'ri"
+
+msgid "Email already in use"
+msgstr "Elektron pochta manzili band"
+
+msgid "Email field is incorrect"
+msgstr "Maydon \"email\" noto'g'ri ko'rsatilgan"
+
+msgid "Login field is empty"
+msgstr "Maydon \"kirish\" to'ldirilmagan"
+
+msgid "Email field is empty"
+msgstr "Maydon \"email\" to'ldirilmagan"
+
+msgid "login_already_in_use"
+msgstr "Kirish band"
+
+msgid "phone_empty"
+msgstr "Telefon ko'rsatilmagan"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Telefon raqami noto'g'ri. Bo'lishi kerak"
+
+msgid "Phone number too long"
+msgstr "Telefon raqami juda katta"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Noto'g'ri telefon raqami: qabul qilinadigan belgilar ishlatilgan."
+
+msgid "new_pass_less_6_symbols"
+msgstr "Yangi parol 6 belgidan kam"
+
+msgid "first_name_empty"
+msgstr "Ism ko'rsatilmagan"
+
+msgid "last_name_empty"
+msgstr "Familiya ko'rsatilmagan"
+
+msgid "New email field is incorrect"
+msgstr "Maydon \"email\" noto'g'ri ko'rsatilgan"
+
+msgid "User verification failed"
+msgstr "Foydalanuvchi tekshiruvi xatosi"
+
+msgid "authorization_error"
+msgstr "Elektron manzil noto'g'ri kiritilgan.pochta / Login yoki parol. "
+"Avtorizatsiya xatosi"
+
+msgid "password_expired"
+msgstr "Parolingizning amal qilish muddati tugadi, iltimos, yangi parol "
+"yarating."
+
+msgid "authorization_error_sms"
+msgstr "Telefon raqami va/yoki tasdiqlash kodi noto'g'ri kiritilgan. "
+"Avtorizatsiya xatosi"
+
+msgid "Phone number already registered"
+msgstr "Ushbu telefon raqamiga ega foydalanuvchi allaqachon "
+"ro'yxatdan o'tgan"
+
+msgid "Invalid validation code"
+msgstr "Noto'g'ri tasdiqlash kodi"
+
+msgid "Validation code is empty"
+msgstr "Kod aniqlanmagan"
+
+msgid "registration_in_progress"
+msgstr "Jarayonda ro'yxatdan o'tish"
+
+msgid "user_disabled"
+msgstr "Foydalanuvchi o'chirilgan"
+
+msgid "Access forbidden"
+msgstr ""
+
+msgid "Email field incorrect"
+msgstr "Maydon \"email\" noto'g'ri to'ldirilgan"
+
+msgid "email_empty_incorrect"
+msgstr "Maydon \"email\" noto'g'ri to'ldirilgan"
+
+msgid "pass_less_6_symbols"
+msgstr "Parol 6 belgidan kam"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Parol faqat lotin alifbosidagi harflar, raqamlar va maxsus belgilar "
+"bo'lishi mumkin"
+
+msgid "currency_not_set"
+msgstr "Valyuta ko'rsatilmagan"
+
+msgid "Currency field is invalid"
+msgstr "Valyuta noto'g'ri ko'rsatilgan"
+
+msgid "reg_promo_is_invalid"
+msgstr "Noto'g'ri promo kodi"
+
+msgid "email_already_registered"
+msgstr "Elektron pochta allaqachon ishlatilgan"
+
+msgid "login_already_registered"
+msgstr "Kirish allaqachon ro'yxatdan o'tgan"
+
+msgid "ip_fraud_blacklist"
+msgstr "IP-manzil qora ro'yxatda"
+
+msgid "ip_fraud_check_error"
+msgstr "IP-manzil tekshiruvdan o'tmadi"
+
+msgid "Activate your account"
+msgstr "Hisobingizni faollashtiring"
+
+msgid "Registration confirmation is in progress"
+msgstr "Jarayonda ro'yxatdan o'tishni tasdiqlash"
+
+msgid "Unknown status"
+msgstr "Noma'lum status"
+
+msgid "first name"
+msgstr "ism"
+
+msgid "last name"
+msgstr "familiya"
+
+msgid "birth date"
+msgstr "tug'ilgan sana"
+
+msgid "sex"
+msgstr "jins"
+
+msgid "country"
+msgstr "mamlakat"
+
+msgid "phone number"
+msgstr "telefon raqami"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "%s maydonini o'zgartirish uchun texnik yordamga yozing"
+msgstr[1] "%s maydonlarni o'zgartirish uchun texnik yordamga yozing"
+msgstr[2] "%s maydonlarni o'zgartirish uchun texnik yordamga yozing"
+
+msgid "Email has invalid format"
+msgstr "Maydon \"email\" noto'g'ri to'ldirilgan"
+
+msgid "Repeat password field is empty"
+msgstr "Maydon \"yangi parol\" to'ldirilmagan"
+
+msgid "First name field is empty"
+msgstr "Ism ko'rsatilmagan"
+
+msgid "First name must contain only letters"
+msgstr ""
+
+msgid "Last name field is empty"
+msgstr "Familiya ko'rsatilmagan"
+
+msgid "Last name must contain only letters"
+msgstr ""
+
+msgid "Gender field is empty"
+msgstr "Jins ko'rsatilmagan"
+
+msgid "Gender unallowed value"
+msgstr ""
+
+msgid "Currency field is empty"
+msgstr "Valyuta ko'rsatilmagan"
+
+msgid "Country code is empty"
+msgstr "Mamlakat kodi ko'rsatilmagan"
+
+msgid "Country code is invalid"
+msgstr "Mamlakatning noto'g'ri kodi"
+
+msgid "Phone code is empty"
+msgstr "Telefon kodi ko'rsatilmagan"
+
+msgid "Phone number field is empty"
+msgstr "Telefon ko'rsatilmagan"
+
+msgid "Phone number invalid format"
+msgstr "Telefon raqamining noto'g'ri formati"
+
+msgid "Wrong IBAN number"
+msgstr "Noto'g'ri IBAN raqami"
+
+msgid "Wrong SWIFT number"
+msgstr "Noto'g'ri SWIFT raqami"
+
+msgid "Password field is empty"
+msgstr "Maydon \"parol\" to'ldirilmagan"
+
+msgid "New password field is empty"
+msgstr "Maydon \"yangi parol\" to'ldirilmagan"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Parol kamida 6 belgi bo'lishi kerak"
+
+msgid "New password strength is weak"
+msgstr "Parol ishonchli emas"
+
+msgid "ID Number is not unique"
+msgstr ""
+
+msgid "Password strength is weak"
+msgstr "Parol ishonchli emas"
+
+msgid "Login is already registered"
+msgstr "Kirish allaqachon ro'yxatdan o'tgan"
+
+msgid "Email is already registered"
+msgstr "Elektron pochta allaqachon ro'yxatdan o'tgan"
+
+msgid "Phone is already registered"
+msgstr "Telefon raqami allaqachon ro'yxatdan o'tgan"
+
+msgid "You are less than 18 year old"
+msgstr "Siz 18 yildan kam yoshda"
+
+msgid "To complete the deposit, make a bank transfer using the following details"
+msgstr "Depozitni to'ldirish uchun ushbu tafsilotlar bo'yicha "
+"to'lovni amalga oshiring"
+
+msgid "Amount"
+msgstr "Miqdori"
+
+msgid "Branch code"
+msgstr "Filial kodi"
+
+msgid "Bank name"
+msgstr "Bankning nomi"
+
+msgid "Branch name"
+msgstr "Filial nomi"
+
+msgid "Account type"
+msgstr "Hisob turi"
+
+msgid "Account number"
+msgstr "Hisob raqami"
+
+msgid "Account name"
+msgstr "Hisob nomi"
+
+msgid "Reference number"
+msgstr "Havola raqami"
+
+msgid "Cashback not available"
+msgstr "Cashback mavjud emas"
+
+#~ msgid "Withdraw is not available because bonus is not won back"
+#~ msgstr ""
+#~ "Pul mablag'larini qaytarib olish mumkin emas - sizda pul olishni "
+#~ "taqiqlovchi faol bonus mavjud"
+
+
+#~ msgid "Awaiting limits information"
+#~ msgstr ""
+#~ "Iltimos, keyinroq harakat qilib ko'ring, chunki biz hali ham mavjud "
+#~ "pul olish chegarasi haqida ma'lumot kutmoqdamiz"
+
+#~ msgid "Bonus selection is already in process"
+#~ msgstr "Bonusga obuna allaqachon qayta ishlangan"
+
+#~ msgid "Wrong merchant access"
+#~ msgstr "Provayderga noto'g'ri kirish"
+
+#~ msgid "cancel_error"
+#~ msgstr "Bekor qilish xatosi"
+
+#~ msgid "select_error"
+#~ msgstr "Tanlash xatosi"
+
+msgid "sms_registration"
+msgstr ""
+"Loginingiz: %s \n"
+"Parolingiz: %s \n"
+"Sizga yaxshi o'yin tilaymiz!"

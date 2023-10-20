@@ -1,0 +1,1373 @@
+# English translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.0.389\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-30 12:55+0000\n"
+"PO-Revision-Date: 2022-01-19 15:40+0300\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Thêm email của chúng tôi vào sổ địa chỉ của bạn để không bỏ lỡ thông tin quan trọng từ"
+
+msgid "Congratulations,"
+msgstr "Xin chúc mừng,"
+
+msgid "Dear"
+msgstr "Kính thưa"
+
+msgid "Deposit confirmation"
+msgstr "Xác nhận nạp tiền"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Thông báo nạp tiền thành công. Số dư của bạn"
+
+msgid "Do you need to contact us?"
+msgstr "Bạn có nhu cầu liên hệ với chúng tôi?"
+
+msgid ""
+"Due to legal reasons we can't accept players residing in the country you are "
+"currently\n"
+"            in."
+msgstr ""
+"Vì lý do pháp lý, chúng tôi không thể chấp nhận người chơi cư trú tại quốc gia hiện bạn đang\n"
+"            sinh sống."
+
+msgid "Finish registration link"
+msgstr "Hoàn thành liên kết đăng ký"
+
+msgid "Greeting."
+msgstr "Lời chào mừng."
+
+msgid "Hello"
+msgstr "Xin chào"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "Nếu email này không hiển thị chính xác, hãy mở trong trình duyệt của bạn."
+
+msgid "If you have any questions, please contact"
+msgstr "Nếu bạn có thắc mắc, vui lòng liên hệ"
+
+msgid ""
+"If you’re using a proxy service or VPN to access casino, try turning it off "
+"and reload the\n"
+"            page."
+msgstr ""
+"Nếu bạn đang sử dụng dịch vụ proxy hoặc VPN để truy cập sòng bạc, hãy thử tắt các dịch vụ đó và tải lại\n"
+"            trang."
+
+msgid "Link will be available for 30 minutes."
+msgstr "Liên kết sẽ khả dụng trong 30 phút."
+
+msgid "Location restriction"
+msgstr "Hạn chế về vị trí"
+
+msgid "Login"
+msgstr "Đăng nhập"
+
+msgid "Not in a restricted region"
+msgstr "Không nằm trong khu vực bị hạn chế"
+
+msgid "Password"
+msgstr "Mật khẩu"
+
+msgid "Password restore"
+msgstr "Khôi phục mật khẩu"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Vui lòng nhấp vào liên kết dưới đây để hoàn tất đăng ký:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Vui lòng không trả lời email này. Đây là email được tạo tự động và bạn sẽ không nhận được phản hồi."
+
+msgid "Registration confirmation"
+msgstr "Xác nhận đăng ký"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Khôi phục mật khẩu của bạn bằng cách nhấp vào liên kết bên dưới."
+
+msgid ""
+"Should you have any questions or feel that this block is affecting you due "
+"to a technical error,\n"
+"            please\n"
+"            don't hesitate to contact us and we'll work it out together."
+msgstr ""
+"Nếu bạn có thắc mắc hoặc cảm thấy rằng khối này đang ảnh hưởng đến mình do lỗi kỹ thuật,\n"
+"            vui lòng\n"
+"            liên hệ với chúng tôi và chúng ta sẽ cùng nhau giải quyết."
+
+msgid "Social registration confirmation"
+msgstr "Xác nhận đăng ký qua mạng xã hội"
+
+msgid "Thank you for validating your account."
+msgstr "Cảm ơn bạn đã xác thực tài khoản."
+
+msgid "Thanks for registration on the website!"
+msgstr "Cảm ơn bạn đã đăng ký trên trang web!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "Để hoàn tất việc liên kết các tài khoản của bạn, vui lòng sử dụng liên kết sau:"
+
+msgid "Welcome to"
+msgstr "Chào mừng bạn đến với"
+
+msgid "With respect"
+msgstr "Với sự kính trọng"
+
+msgid "You asked to link new social account to your current account"
+msgstr "Bạn đã yêu cầu liên kết tài khoản mạng xã hội mới với tài khoản hiện tại của mình"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Bạn đã hoàn tất bước đầu tiên để trải nghiệm một hành trình chơi game tuyệt vời\n"
+"    với"
+
+msgid "casino_footer_copyright"
+msgstr "casino_footer_copyright"
+
+msgid "casino_mail_info"
+msgstr "casino_mail_info"
+
+msgid "online support"
+msgstr "hỗ trợ trực tuyến"
+
+msgid "controller_does_not_exists"
+msgstr "controller_does_not_exists"
+
+msgid "social_not_found"
+msgstr "social_not_found"
+
+msgid "purchase_error"
+msgstr "purchase_error"
+
+msgid "game_added_to_favorites"
+msgstr "game_added_to_favorites"
+
+msgid "game_deleted_from_favorites"
+msgstr "game_deleted_from_favorites"
+
+msgid "must_login"
+msgstr "must_login"
+
+msgid "No bonus name"
+msgstr "Không có tên phần thưởng"
+
+msgid "No bonus descripton"
+msgstr "Không có nội dung mô tả phần thưởng"
+
+msgid "No user id"
+msgstr "Không có id người dùng"
+
+msgid "No bonus id"
+msgstr "Không có id thưởng"
+
+msgid "No status"
+msgstr "Không có trạng thái"
+
+msgid "Bonus not found"
+msgstr "Không tìm thấy phần thưởng"
+
+msgid "Already have active"
+msgstr "Đã hoạt động"
+
+msgid "Bonus is not available"
+msgstr "Phần thưởng không khả dụng"
+
+msgid "First deposit, already deposited"
+msgstr "Nạp lần đầu, đã nạp"
+
+msgid "No loyalty record"
+msgstr "Không có bản ghi điểm khách hàng thân thiết"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Không đáp ứng các điều kiện thưởng"
+
+msgid "Bonus used"
+msgstr "Phần thưởng đã sử dụng"
+
+msgid "Promo code needed"
+msgstr "Cần có mã khuyến mãi"
+
+msgid "Wrong promo code"
+msgstr "Mã khuyến mãi không chính xác"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Phần thưởng bị cấm đối với người dùng"
+
+msgid "Already have an active bonus"
+msgstr "Đã có một phần thưởng đang hoạt động"
+
+msgid "registration"
+msgstr "đăng ký"
+
+msgid "verification"
+msgstr "xác minh"
+
+msgid "sign up"
+msgstr "đăng ký"
+
+msgid "store"
+msgstr "lưu trữ"
+
+msgid "login"
+msgstr "đăng nhập"
+
+msgid "deposit"
+msgstr "nạp tiền"
+
+msgid "deposit first"
+msgstr "nạp lần đầu"
+
+msgid "deposit sum"
+msgstr "số tiền nạp"
+
+msgid "deposit repeated"
+msgstr "nạp lại"
+
+msgid "bet"
+msgstr "đặt cược"
+
+msgid "bet sum"
+msgstr "số tiền đặt cược"
+
+msgid "win sum"
+msgstr "số tiền thắng cược"
+
+msgid "loss sum"
+msgstr "số tiền thua cược"
+
+msgid "once"
+msgstr "một lần"
+
+msgid "day"
+msgstr "ngày"
+
+msgid "week"
+msgstr "tuần"
+
+msgid "month"
+msgstr "tháng"
+
+msgid "all"
+msgstr "tất cả"
+
+msgid "bonus"
+msgstr "phần thưởng"
+
+msgid "win"
+msgstr "thắng"
+
+msgid "win and bonus"
+msgstr "thắng và thưởng"
+
+msgid "winevent"
+msgstr "winevent"
+
+msgid "winbonusevent"
+msgstr "winbonusevent"
+
+msgid "none"
+msgstr "không có"
+
+msgid "balance"
+msgstr "số dư"
+
+msgid "experience"
+msgstr "kinh nghiệm"
+
+msgid "loyalty"
+msgstr "điểm khách hàng thân thiết"
+
+msgid "absolute"
+msgstr "tuyệt đối"
+
+msgid "relative"
+msgstr "quan hệ"
+
+msgid "bets"
+msgstr "tiền cược"
+
+msgid "wins"
+msgstr "tiền thắng"
+
+msgid "turnover"
+msgstr "doanh thu"
+
+msgid "negative turnover"
+msgstr "doanh thu âm"
+
+msgid "unlimited"
+msgstr "vô hạn"
+
+msgid "one day"
+msgstr "1 ngày"
+
+msgid "two days"
+msgstr "2 ngày"
+
+msgid "three days"
+msgstr "3 ngày"
+
+msgid "seven days"
+msgstr "7 ngày"
+
+msgid "ten days"
+msgstr "10 ngày"
+
+msgid "fourteen days"
+msgstr "14 ngày"
+
+msgid "thirty days"
+msgstr "30 ngày"
+
+msgid "sixty days"
+msgstr "60 ngày"
+
+msgid "ninety days"
+msgstr "90 ngày"
+
+msgid "one week"
+msgstr "1 tuần"
+
+msgid "two weeks"
+msgstr "2 tuần"
+
+msgid "one month"
+msgstr "1 tháng"
+
+msgid "every day"
+msgstr "hàng ngày"
+
+msgid "every week"
+msgstr "hàng tuần"
+
+msgid "every two weeks"
+msgstr "hai tuần một lần"
+
+msgid "every month"
+msgstr "hàng tháng"
+
+msgid "fee"
+msgstr "chi phí"
+
+msgid "turnover and fee"
+msgstr "doanh thu và chi phí"
+
+msgid "everyday"
+msgstr "hàng ngày"
+
+msgid "monday"
+msgstr "thứ hai"
+
+msgid "tuesday"
+msgstr "thứ ba"
+
+msgid "wednesday"
+msgstr "thứ tư"
+
+msgid "thursday"
+msgstr "thứ năm"
+
+msgid "friday"
+msgstr "thứ sáu"
+
+msgid "saturday"
+msgstr "thứ bảy"
+
+msgid "sunday"
+msgstr "chủ nhật"
+
+msgid "transaction_list_is_empty"
+msgstr "transaction_list_is_empty"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "date_incorrect_from_date_higher_then_to_date"
+
+msgid "cancelled"
+msgstr "đã hủy"
+
+msgid "rejected"
+msgstr "đã từ chối"
+
+msgid "pending"
+msgstr "đang chờ xử lý"
+
+msgid "error"
+msgstr "lỗi"
+
+msgid "in_progress"
+msgstr "in_progress"
+
+msgid "confirmed"
+msgstr "đã xác nhận"
+
+msgid "system_error"
+msgstr "system_error"
+
+msgid "completed"
+msgstr "đã hoàn tất"
+
+msgid "aborted"
+msgstr "đã ngừng"
+
+msgid "credit"
+msgstr "ghi có"
+
+msgid "debet"
+msgstr "debet"
+
+msgid "withdraw_unavailable"
+msgstr "withdraw_unavailable"
+
+msgid "withdraw_check_error"
+msgstr "withdraw_check_error"
+
+msgid "set_amount"
+msgstr "set_amount"
+
+msgid "set_payment_system"
+msgstr "set_payment_system"
+
+msgid "country_and_birth_date_required"
+msgstr "country_and_birth_date_required"
+
+msgid "payment_request_sent"
+msgstr "payment_request_sent"
+
+msgid "payment_request_error"
+msgstr "payment_request_error"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "max_limit_of_withdraw_reached"
+
+msgid "sys_error_message"
+msgstr "sys_error_message"
+
+msgid "input_purse"
+msgstr "input_purse"
+
+msgid "payment_withdraw_sent"
+msgstr "payment_withdraw_sent"
+
+msgid "New password is empty"
+msgstr "Mật khẩu mới trống"
+
+msgid "Repeat password is empty"
+msgstr "Mật khẩu nhập lại trống"
+
+msgid "Code is empty"
+msgstr "Mã trống"
+
+msgid "Code is incorrect"
+msgstr "Mã không chính xác"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Mật khẩu phải chứa ít nhất 6 kí tự"
+
+msgid "pass_not_match"
+msgstr "pass_not_match"
+
+msgid "Session expired"
+msgstr "Hết hạn phiên"
+
+msgid "social_account_expired"
+msgstr "social_account_expired"
+
+msgid "Empty to address"
+msgstr "Địa chỉ trống"
+
+msgid "Empty subject"
+msgstr "Chủ đề trống"
+
+msgid "Empty message"
+msgstr "Thông điệp trống"
+
+msgid "Empty required parameter"
+msgstr "Thông số bắt buộc trống"
+
+msgid "Unknown error"
+msgstr "Lỗi không xác định"
+
+msgid "Not allowed player country"
+msgstr "Quốc gia của người chơi bị cấm"
+
+msgid "Demo not supported"
+msgstr "Không được hỗ trợ bản demo"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Nhà cung cấp này không hỗ trợ đơn vị tiền tệ của bạn"
+
+msgid "Branded games are not enabled"
+msgstr "Các trò chơi có thương hiệu không được bật"
+
+msgid "Self exclusion date"
+msgstr "Ngày tự chặn"
+
+msgid "Self exclusion"
+msgstr "Tự chặn"
+
+msgid "does not exists"
+msgstr "không tồn tại"
+
+msgid "Method is not supported"
+msgstr "Phương thức không được hỗ trợ"
+
+msgid "Data type is not found"
+msgstr "Không tìm thấy loại dữ liệu"
+
+msgid "Invalid request parameters"
+msgstr "Các thông số yêu cầu không hợp lệ"
+
+msgid "Loyalty result not supported"
+msgstr "Không hỗ trợ kết quả về điểm khách hàng thân thiết"
+
+msgid "No bonus description"
+msgstr "Không có nội dung mô tả phần thưởng"
+
+msgid "Selected"
+msgstr "Đã chọn"
+
+msgid "Qualified"
+msgstr "Đạt tiêu chuẩn"
+
+msgid "Deleted"
+msgstr "Đã xóa"
+
+msgid "Deactivated"
+msgstr "Đã hủy kích hoạt"
+
+msgid "Canceled"
+msgstr "Đã hủy"
+
+msgid "Ending"
+msgstr "Đang kết thúc"
+
+msgid "Ended"
+msgstr "Đã kết thúc"
+
+msgid "Loyalty API Failure"
+msgstr "Lỗi API điểm khách hàng thân thiết"
+
+msgid "User not found"
+msgstr "Không tìm thấy người dùng"
+
+msgid "Unable fetch oauth access token"
+msgstr "Không thể tìm nạp mã token truy cập oauth"
+
+msgid "Access token is missing"
+msgstr "Thiếu mã token truy cập"
+
+msgid "Empty access token user identifier"
+msgstr "Thông tin nhận dạng người dùng mã token truy cập trống"
+
+msgid "Empty access token identifier"
+msgstr "Thông tin nhận dạng mã token truy cập trống"
+
+msgid "Method not allowed"
+msgstr "Phương thức không được cho phép"
+
+msgid "Your country is on the forbidden list"
+msgstr "Quốc gia của bạn nằm trong danh sách cấm"
+
+msgid "Achievement result is not list"
+msgstr "Kết quả đạt được không có trong danh sách"
+
+msgid "Too many requests"
+msgstr "Đã xảy ra lỗi trong quá trình đăng nhập. Quá nhiều yêu cầu"
+
+msgid "Method Not Allowed"
+msgstr "Phương thức không được cho phép"
+
+msgid "Unknown route path"
+msgstr "Đường dẫn định tuyến không xác định"
+
+msgid "Api endpoint not found"
+msgstr "Không tìm thấy điểm cuối api"
+
+msgid "Confirm your email to start games"
+msgstr "Xác nhận email của bạn để bắt đầu trò chơi"
+
+msgid "User not authorized"
+msgstr "Người dùng không được ủy quyền"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Hệ thống nhà cái chưa được chọn hoặc không hợp lệ"
+
+msgid "Amount is not selected or invalid"
+msgstr "Số tiền chưa được chọn hoặc không hợp lệ"
+
+msgid "Bonus result is not list"
+msgstr "Kết quả thưởng không có trong danh sách"
+
+msgid "Bonus ID Not found"
+msgstr "Không tìm thấy ID phần thưởng"
+
+msgid "Bonus Selected Not found"
+msgstr "Không tìm thấy phần thưởng đã chọn"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "Nạp tiền thất bại: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+"Bạn đã bật hạn mức %s: %s %s cho đến %s. Số tiền nạp có thể sử dụng: %s %s"
+
+msgid "User is not authorized"
+msgstr "Người dùng không được ủy quyền"
+
+msgid "Uploadable files is empty"
+msgstr "Tệp có thể tải lên trống"
+
+msgid "Exceeds allowed file size"
+msgstr "Vượt quá kích thước tệp cho phép"
+
+msgid "Mb"
+msgstr "Mb"
+
+msgid "Document ID not found"
+msgstr "Không tìm thấy ID tài liệu"
+
+msgid "Request invalid. Error: "
+msgstr "Yêu cầu không hợp lệ. Lỗi: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr "Danh mục trò chơi tạm thời không khả dụng"
+
+msgid "Empty launch code"
+msgstr "Mã khởi chạy trống"
+
+msgid "Empty merchant identifier"
+msgstr "Thông tin nhận dạng nhà cái trống"
+
+msgid "Empty games catalog"
+msgstr "Danh mục trò chơi trống"
+
+msgid "Unknown game launch code"
+msgstr "Mã khởi chạy trò chơi không xác định"
+
+msgid "Not supported exception"
+msgstr "Không hỗ trợ ngoại trừ"
+
+msgid "Bad request"
+msgstr "Yêu cầu lỗi"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr "Thông số phải ở định dạng 'Y-m-d H:i:s' hoặc trống"
+
+msgid "Unable find user identifier"
+msgstr "Không thể tìm thấy thông tin nhận dạng người dùng"
+
+msgid "Unknown error occured"
+msgstr "Đã xảy ra lỗi không xác định"
+
+msgid "Wrong request"
+msgstr "Yêu cầu không chính xác"
+
+msgid "Unknown provider"
+msgstr "Nhà cung cấp không xác định"
+
+msgid "Token not found"
+msgstr "Không tìm thấy mã token"
+
+msgid "Invalid token provided"
+msgstr "Đã cung cấp mã token không hợp lệ"
+
+msgid "Phone already verified"
+msgstr "Số điện thoại đã được xác minh"
+
+msgid "Insufficient parameters"
+msgstr "Không đủ thông số"
+
+msgid "Configuration error"
+msgstr "Lỗi cấu hình"
+
+msgid "Invalid verification code"
+msgstr "Mã xác minh không hợp lệ"
+
+msgid "Empty phone number"
+msgstr "Số điện thoại trống"
+
+msgid "Invalid phone number"
+msgstr "Số điện thoại không hợp lệ"
+
+msgid "Anonymous"
+msgstr "Ẩn danh"
+
+msgid "Item not found"
+msgstr "Không tìm thấy mục"
+
+msgid "Sent from web-form at"
+msgstr "Được gửi từ biểu mẫu web tại"
+
+msgid "Service not found"
+msgstr "Không tìm thấy dịch vụ"
+
+msgid "Unauthorized"
+msgstr "Không được cho phép"
+
+msgid "Tournaments history error"
+msgstr "Lỗi lịch sử giải đấu"
+
+msgid "Tournaments list not available"
+msgstr "Danh sách giải đấu không có sẵn"
+
+msgid "Tournaments type not found"
+msgstr "Không tìm thấy loại giải đấu"
+
+msgid "Tournament not found"
+msgstr "Không tìm thấy giải đấu"
+
+msgid "Tournaments subscribe error"
+msgstr "Lỗi đăng ký giải đấu"
+
+msgid "Insufficient monetary turnover"
+msgstr "Doanh thu tài chính không đủ"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "Chưa điền hồ sơ người dùng (dữ liệu cá nhân)"
+
+msgid "Need verification"
+msgstr "Cần xác minh"
+
+msgid "Need additional verification"
+msgstr "Cần xác minh bổ sung"
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "Đã gửi email, liên kết khôi phục sẽ khả dụng trong 30 phút"
+
+msgid "Password repeat is empty"
+msgstr "Mật khẩu nhập lại trống"
+
+msgid "Code is not valid"
+msgstr "Mã không hợp lệ"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Mật khẩu mới chỉ có thể chứa các chữ cái la-tinh, số và các ký hiệu đặc biệt"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Mật khẩu phải chứa các chữ cái la-tinh viết hoa và viết thường, số và các ký hiệu đặc biệt"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Mật khẩu phải chứa các chữ cái la-tinh và số"
+
+msgid "Passwords do not match"
+msgstr "Mật khẩu không khớp"
+
+msgid "Password is empty"
+msgstr "Mật khẩu trống"
+
+msgid "Password is invalid"
+msgstr "Mật khẩu không hợp lệ"
+
+msgid "Code is invalid"
+msgstr "Mã không hợp lệ"
+
+msgid "Email change is not allowed"
+msgstr "Không được phép thay đổi email"
+
+msgid "Email is required"
+msgstr "Email là thông tin bắt buộc"
+
+msgid "User update failed"
+msgstr "Cập nhật người dùng thất bại"
+
+msgid "Registration data validation failed"
+msgstr "Xác thực dữ liệu đăng ký thất bại"
+
+msgid "Empty unsubscribe code"
+msgstr "Mã hủy đăng ký trống"
+
+msgid "Internal error"
+msgstr "Lỗi nội bộ"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"Không tìm thấy mã xác minh email, có thể bạn đã xác nhận email của mình, vui lòng kiểm tra hộp thư"
+
+msgid "Registration_complete"
+msgstr "Registration_complete"
+
+msgid "Insufficient account balance"
+msgstr "Số dư tài khoản không đủ"
+
+msgid "User profile is incomplete"
+msgstr "Hồ sơ người dùng chưa hoàn chỉnh"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Bạn không nạp tiền qua hệ thống này nên bạn không thể rút tiền bằng hệ thống này. Hãy nạp tiền thông qua hệ thống này để rút tiền."
+
+msgid "Server returned invalid response"
+msgstr "Máy chủ trả về phản hồi không hợp lệ"
+
+msgid "Temporary routing error"
+msgstr "Lỗi định tuyến tạm thời"
+
+msgid "Permanent routing error"
+msgstr "Lỗi định tuyến vĩnh viễn"
+
+msgid "Maximum throttling exceeded"
+msgstr "Đã vượt quá mức điều tiết băng thông tối đa"
+
+msgid "Timeout"
+msgstr "Hết thời gian chờ"
+
+msgid "Operator unknown error"
+msgstr "Lỗi không xác định do nhà điều hành"
+
+msgid "Operator error"
+msgstr "Lỗi do nhà điều hành"
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr "Lỗi nội bộ (LinkMobilityerror nội bộ)"
+
+msgid "Sent (to operator)"
+msgstr "Đã gửi (tới nhà điều hành)"
+
+msgid "Billed and delivered"
+msgstr "Đã lập hóa đơn và giao"
+
+msgid "Expired"
+msgstr "Đã hết hạn"
+
+msgid "Mobile full"
+msgstr "Số điện thoại di động đầy đủ"
+
+msgid "Queued"
+msgstr "Đang trong hàng đợi"
+
+msgid "Not delivered"
+msgstr "Chưa giao"
+
+msgid "Delivered,Billed delayed"
+msgstr "Đã giao, lập hóa đơn bị trì hoãn"
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr "Đã lập hóa đơn THÀNH CÔNG (đã nạp THÀNH CÔNG trước khi gửi tin nhắn)"
+
+msgid "Billed OK and NOT Delivered"
+msgstr "Đã lập hóa đơn THÀNH CÔNG và CHƯA giao"
+
+msgid "Expired, absence of operator delivery report"
+msgstr "Đã hết hạn, không có báo cáo giao của nhà điều hành"
+
+msgid "Billed OK and sent (to operator)"
+msgstr "Đã lập hóa đơn THÀNH CÔNG và gửi (tới nhà điều hành)"
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr "Bị trì hoãn (lỗi thanh toán tạm thời, hệ thống sẽ cố gắng gửi lại)"
+
+msgid "Message sent to operator, Billdelayed"
+msgstr "Tin nhắn đã được gửi đến nhà điều hành, Hóa đơn bị trì hoãn"
+
+msgid "Service rejected by subscriber"
+msgstr "Người đăng ký đã từ chối dịch vụ"
+
+msgid "Unknown subscriber"
+msgstr "Người đăng ký không xác định"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr "Đích đến bị chặn (người đăng ký bị cấm vĩnh viễn)"
+
+msgid "Number error"
+msgstr "Lỗi số"
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr "Đích đến tạm thời bị chặn (người đăng ký tạm thời bị cấm)"
+
+msgid "Charging error"
+msgstr "Lỗi nạp tiền"
+
+msgid "Subscriber has low balance"
+msgstr "Người đăng ký có số dư thấp"
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr "Người đăng ký bị chặn đối với các tin nhắn bị tính phí quá cao (cao cấp)"
+
+msgid "Subscriber too young (for this particular content)"
+msgstr "Người đăng ký quá trẻ (đối với nội dung cụ thể này)"
+
+msgid "Prepaid subscriber not allowed"
+msgstr "Người đăng ký trả trước không được cho phép"
+
+msgid "Subscriber not registered in payment system"
+msgstr "Người đăng ký chưa đăng ký hệ thống thanh toán"
+
+msgid "Subscriber has reached max balance"
+msgstr "Người đăng ký đã đạt đến số dư tối đa"
+
+msgid "GSM encoding is not supported"
+msgstr "Không hỗ trợ mã hóa GSM"
+
+msgid "UCS2 encoding is not supported"
+msgstr "Không hỗ trợ mã hóa UCS2"
+
+msgid "Binary encoding is not supported"
+msgstr "Không hỗ trợ mã hóa nhị phân"
+
+msgid "Delivery report is not supported"
+msgstr "Không hỗ trợ báo cáo giao"
+
+msgid "Invalid message content"
+msgstr "Nội dung tin nhắn không hợp lệ"
+
+msgid "Invalid tariff"
+msgstr "Biểu giá không hợp lệ"
+
+msgid "Invalid user data"
+msgstr "Dữ liệu người dùng không hợp lệ"
+
+msgid "Invalid user data header"
+msgstr "Tiêu đề dữ liệu người dùng không hợp lệ"
+
+msgid "Invalid data coding"
+msgstr "Mã hóa dữ liệu không hợp lệ"
+
+msgid "Invalid VAT"
+msgstr "VAT không hợp lệ"
+
+msgid "Unsupported content for destination"
+msgstr "Nội dung không được hỗ trợ cho đích đến"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+"Lỗi không xác định. Vui lòng liên hệ với Bộ phận hỗ trợ và nêu toàn bộ giao dịch của bạn"
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr "Xác thực không hợp lệ. Vui lòng kiểm tra tên người dùng và mật khẩu"
+
+msgid "Access denied. Please check your username and password"
+msgstr "Truy cập bị từ chối. Vui lòng kiểm tra tên người dùng và mật khẩu"
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr "PlatformId không hợp lệ hoặc bị thiếu. Vui lòng kiểm tra platformId"
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+"PlatformPartnerId không hợp lệ hoặc bị thiếu. Vui lòng kiểm tra platformPartnerId"
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+"Đơn vị tiền tệ cho tin nhắn cao cấp không hợp lệ hoặc bị thiếu. Vui lòng kiểm tra giá và đơn vị tiền tệ"
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+"Không có cổng khả dụng. Vui lòng liên hệ với Bộ phận hỗ trợ và nêu toàn bộ giao dịch của bạn"
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr "Cổng được chỉ định không khả dụng. Vui lòng kiểm tra gateId."
+
+msgid "Incorrect version API in address"
+msgstr "API phiên bản trong địa chỉ không chính xác"
+
+msgid "Not specified API key"
+msgstr "Khóa API chưa được chỉ định"
+
+msgid "Incorrect API key"
+msgstr "Khóa API không chính xác"
+
+msgid "Incorrect IP address client"
+msgstr "Máy khách của địa chỉ IP không chính xác"
+
+msgid "Invalid command"
+msgstr "Lệnh không hợp lệ"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Lệnh đã chỉ định không tồn tại hoặc không khả dụng"
+
+msgid "System error"
+msgstr "Lỗi hệ thống"
+
+msgid "Not specified the SMS identifier"
+msgstr "Thông tin nhận dạng SMS chưa được chỉ định"
+
+msgid "Sender address does not exist"
+msgstr "Địa chỉ người gửi không tồn tại"
+
+msgid "Not specified content"
+msgstr "Nội dung chưa được chỉ định"
+
+msgid "Faulty or unsupported country code"
+msgstr "Mã quốc gia bị lỗi hoặc không được hỗ trợ"
+
+msgid "Content is too long"
+msgstr "Nội dung quá dài"
+
+msgid "Incorrect encoding of the content"
+msgstr "Mã hóa nội dung không chính xác"
+
+msgid "Exceeded monthly limit"
+msgstr "Đã vượt quá hạn mức hàng tháng"
+
+msgid "Batch ID does not exist"
+msgstr "ID loạt không tồn tại"
+
+msgid "List recipients does not exist"
+msgstr "Danh sách người nhận không tồn tại"
+
+msgid "Invalid recipient number"
+msgstr "Số người nhận không hợp lệ"
+
+msgid "No content"
+msgstr "Không có nội dung"
+
+msgid "Wrong content"
+msgstr "Nội dung không chính xác"
+
+msgid "Unable send message"
+msgstr "Không thể gửi tin nhắn"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+"Đã vượt quá hạn mức SMS theo giờ. Bạn có thể thử gửi lại SMS sau %d phút"
+
+msgid "Unsupported authentication provider"
+msgstr "Nhà cung cấp xác thực không được hỗ trợ"
+
+msgid "connect_social_account_email_theme"
+msgstr "connect_social_account_email_theme"
+
+msgid "not_logged_in"
+msgstr "not_logged_in"
+
+msgid "trying_delete_last_social"
+msgstr "trying_delete_last_social"
+
+msgid "please_set_email"
+msgstr "please_set_email"
+
+msgid "please_set_password"
+msgstr "please_set_password"
+
+msgid "Code incorrect, user not found"
+msgstr "Mã không chính xác, không tìm thấy người dùng"
+
+msgid "email_has_been_verified"
+msgstr "email_has_been_verified"
+
+msgid "Transaction value generation failed"
+msgstr "Tạo giá trị giao dịch thất bại"
+
+msgid "email_to_connect_social_sent"
+msgstr "email_to_connect_social_sent"
+
+msgid "Registration complete"
+msgstr "Đăng ký hoàn tất"
+
+msgid "_ip_fraud_msg"
+msgstr "_ip_fraud_msg"
+
+msgid "Session is expired"
+msgstr "Phiên đã hết hạn"
+
+msgid "Withdrawal ID not specified"
+msgstr "Chưa chỉ định ID rút tiền"
+
+msgid "System ID not specified"
+msgstr "Chưa chỉ định ID hệ thống"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "Email không chính xác, vui lòng thử lại từ đầu"
+
+msgid "Email is empty"
+msgstr "Email trống"
+
+msgid "Error, account with this email does not exist."
+msgstr "Lỗi, không tồn tại tài khoản sử dụng email này."
+
+msgid "Unable generate temporary restore user code"
+msgstr "Không thể tạo mã người dùng khôi phục tạm thời"
+
+msgid "Password recovery"
+msgstr "Khôi phục mật khẩu"
+
+msgid "Impossible to send email"
+msgstr "Không thể gửi email"
+
+msgid "current_password_empty"
+msgstr "current_password_empty"
+
+msgid "Current password is incorrect"
+msgstr "Mật khẩu hiện tại không chính xác"
+
+msgid "day_not_set"
+msgstr "day_not_set"
+
+msgid "month_not_set"
+msgstr "month_not_set"
+
+msgid "year_not_set"
+msgstr "year_not_set"
+
+msgid "Country is not picked"
+msgstr "Chưa chọn quốc gia"
+
+msgid "Gender is not picked"
+msgstr "Chưa chọn giới tính"
+
+msgid "input_repeated_password"
+msgstr "input_repeated_password"
+
+msgid "Password does not match"
+msgstr "Mật khẩu không khớp"
+
+msgid "Email field is empty or incorrect"
+msgstr "Trường email trống hoặc không chính xác"
+
+msgid "Email already in use"
+msgstr "Email đã được sử dụng"
+
+msgid "Email field is incorrect"
+msgstr "Trường email không chính xác"
+
+msgid "Login field is empty"
+msgstr "Trường đăng nhập trống"
+
+msgid "Email field is empty"
+msgstr "Trường email trống"
+
+msgid "login_already_in_use"
+msgstr "login_already_in_use"
+
+msgid "phone_empty"
+msgstr "phone_empty"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Số điện thoại không chính xác. Phải là"
+
+msgid "Phone number too long"
+msgstr "Số điện thoại quá dài"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Số điện thoại không chính xác: đã sử dụng một số ký hiệu không được cho phép."
+
+msgid "new_pass_less_6_symbols"
+msgstr "new_pass_less_6_symbols"
+
+msgid "first_name_empty"
+msgstr "first_name_empty"
+
+msgid "last_name_empty"
+msgstr "last_name_empty"
+
+msgid "New email field is incorrect"
+msgstr "Trường email mới không chính xác"
+
+msgid "User verification failed"
+msgstr "Xác minh người dùng thất bại"
+
+msgid "authorization_error"
+msgstr "Đã xảy ra lỗi trong quá trình đăng nhập. Lỗi ủy quyền"
+
+msgid "registration_in_progress"
+msgstr "registration_in_progress"
+
+msgid "user_disabled"
+msgstr "user_disabled"
+
+msgid "Access forbidden"
+msgstr "Truy cập bị cấm"
+
+msgid "Email field incorrect"
+msgstr "Trường email không chính xác"
+
+msgid "email_empty_incorrect"
+msgstr "email_empty_incorrect"
+
+msgid "pass_less_6_symbols"
+msgstr "pass_less_6_symbols"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "Mật khẩu chỉ có thể chứa các chữ cái la-tinh, số và các ký hiệu đặc biệt"
+
+msgid "currency_not_set"
+msgstr "currency_not_set"
+
+msgid "Currency field is invalid"
+msgstr "Trường đơn vị tiền tệ không hợp lệ"
+
+msgid "reg_promo_is_invalid"
+msgstr "Khuyến mãi đăng ký không hợp lệ"
+
+msgid "email_already_registered"
+msgstr "email_already_registered"
+
+msgid "login_already_registered"
+msgstr "login_already_registered"
+
+msgid "ip_fraud_blacklist"
+msgstr "ip_fraud_blacklist"
+
+msgid "ip_fraud_check_error"
+msgstr "ip_fraud_check_error"
+
+msgid "Activate your account"
+msgstr "Kích hoạt tài khoản của bạn"
+
+msgid "Registration confirmation is in progress"
+msgstr "Đang tiến hành xác nhận đăng ký"
+
+msgid "Unknown status"
+msgstr "Trạng thái không xác định"
+
+msgid "first name"
+msgstr "tên"
+
+msgid "last name"
+msgstr "họ"
+
+msgid "birth date"
+msgstr "ngày sinh"
+
+msgid "sex"
+msgstr "giới tính"
+
+msgid "country"
+msgstr "quốc gia"
+
+msgid "phone number"
+msgstr "số điện thoại"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "Để thay đổi trường %s , vui lòng liên hệ với bộ phận hỗ trợ của chúng tôi theo"
+msgstr[1] "Để thay đổi các trường %s , vui lòng liên hệ với bộ phận hỗ trợ của chúng tôi theo"
+
+msgid "Email has invalid format"
+msgstr "Email có định dạng không hợp lệ"
+
+msgid "Repeat password field is empty"
+msgstr "Trường mật khẩu nhập lại trống"
+
+msgid "First name field is empty"
+msgstr "Trường tên trống"
+
+msgid "First name must contain only letters"
+msgstr "Tên chỉ được chứa các chữ cái"
+
+msgid "Last name field is empty"
+msgstr "Trường họ trống"
+
+msgid "Last name must contain only letters"
+msgstr "Họ chỉ được chứa các chữ cái"
+
+msgid "Gender field is empty"
+msgstr "Trường giới tính trống"
+
+msgid "Gender unallowed value"
+msgstr "Giá trị không được phép của giới tính"
+
+msgid "Currency field is empty"
+msgstr "Trường đơn vị tiền tệ trống"
+
+msgid "Country code is empty"
+msgstr "Mã quốc gia trống"
+
+msgid "Country code is invalid"
+msgstr "Mã quốc gia không hợp lệ"
+
+msgid "Phone code is empty"
+msgstr "Mã điện thoại trống"
+
+msgid "Phone number field is empty"
+msgstr "Trường số điện thoại trống"
+
+msgid "Phone number invalid format"
+msgstr "Định dạng số điện thoại không hợp lệ"
+
+msgid "Wrong IBAN number"
+msgstr "Số IBAN không chính xác"
+
+msgid "Wrong SWIFT number"
+msgstr "Số SWIFT không chính xác"
+
+msgid "Password field is empty"
+msgstr "Trường mật khẩu trống"
+
+msgid "New password field is empty"
+msgstr "Trường mật khẩu mới trống"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Mật khẩu mới phải chứa ít nhất 6 kí tự"
+
+msgid "New password strength is weak"
+msgstr "Mật khẩu mới yếu"
+
+msgid "ID Number is not unique"
+msgstr "Số ID không phải là duy nhất"
+
+msgid "Password strength is weak"
+msgstr "Mật khẩu yếu"
+
+msgid "Login is already registered"
+msgstr "Thông tin đăng nhập đã được đăng ký"
+
+msgid "Email is already registered"
+msgstr "Email đã được đăng ký"
+
+msgid "Phone is already registered"
+msgstr "Số điện thoại đã được đăng ký"
+
+msgid "You are less than 18 year old"
+msgstr "Bạn chưa đủ 18 tuổi"
+
+#~ msgid "Withdraw is not available because bonus is not won back"
+#~ msgstr ""
+#~ "Withdrawal is not available - you currently have an active bonus, that "
+#~ "disallows withdrawals"
+
+#~ msgid "Awaiting limits information"
+#~ msgstr ""
+#~ "Awaiting limits information. Please try again later, as we are still "
+#~ "awaiting the information of the current withdrawal limits"
+
+#~ msgid "cancel_error"
+#~ msgstr "cancel error"
+
+#~ msgid "select_error"
+#~ msgstr "select error"
+
+msgid "Registration promo is invalid"
+msgstr "Khuyến mãi đăng ký không hợp lệ"
+
+msgid "Error occurred during login process. Too many requests"
+msgstr "Đã xảy ra lỗi trong quá trình đăng nhập. Quá nhiều yêu cầu"

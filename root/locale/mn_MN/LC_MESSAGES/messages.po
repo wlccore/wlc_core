@@ -1,0 +1,1498 @@
+# Mongolian translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.0.389\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: 2019-01-24 14:23+0200\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Чухал мэдээллээс хоцрохгүйн тулд өрийн хаягийн бүртгэлд манай э-мэйлийг "
+"нэмнэ үү"
+
+msgid "Congratulations,"
+msgstr "Баяр хүргэе"
+
+msgid "Dear"
+msgstr "Хүндэт"
+
+msgid "Deposit confirmation"
+msgstr "Депозит баталгаажуулалт"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Депозит амжилттай боллоо. Таны үлдэгдэл"
+
+msgid "Finish registration link"
+msgstr "Бүртгэлийг дуусгах холбоос"
+
+msgid "Greeting."
+msgstr "Сайн байна уу? "
+
+msgid "Hello"
+msgstr "Сайн уу"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "Хэрвээ энэ э-мэйл харагдахгүй байвал өөрийн хөтчөөр дамжуулан харна уу"
+
+msgid "If you have any questions, please contact"
+msgstr "Хэрвээ танд асуулт байвал холбогдоно уу"
+
+msgid "Link will be available for 30 minutes."
+msgstr "Энэхүү холбоос 30 минутын хугацаанд ажиллана"
+
+msgid "Login"
+msgstr "Нэвтрэх"
+
+msgid "Password"
+msgstr "Нууц үг"
+
+msgid "Password restore"
+msgstr "Нууц үг сэргээх"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Бүртгэлийг дуусгахын тулд доорх холбоос дээр дарна уу: "
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Энэхүү э-мэйлд хариу бичихгүй байна уу. Энэ э-мэйлээр нь автоматаар "
+"илгээгдсэн бөгөөд танд хариу хүлээн авахгүй"
+
+msgid "Registration confirmation"
+msgstr "Бүртгэл баталгаажуулах"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Доорх холбоос дээр даран нууц үгээ сэргээнэ үү. "
+
+msgid "Social registration confirmation"
+msgstr "Нийгмийн сүлжээний бүртгэл баталгаажуулах"
+
+msgid "Thank you for validating your account."
+msgstr "Өөрийн бүртгэлийг баталгаажуулсанд баярлалаа. "
+
+msgid "Thanks for registration on the website!"
+msgstr "Цахим хуудсанд бүртгүүлсэнд баярлалаа!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "Өөрийн бүртгэлийг холбохын тулд дараах холбоосыг ашиглана уу:"
+
+msgid "Welcome to"
+msgstr "       тавтай морилно уу"
+
+msgid "With respect"
+msgstr "Хүндэтгэсэн"
+
+msgid "You asked to link new social account to your current account"
+msgstr ""
+"Шинэ нийгмийн сүлжээний бүртгэлийн өөрийн одоогийн бүртгэлтэй холбоно уу"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Та \n"
+"    хамт хийх гайхамшигтай аялалыг мэдрэх эхний алхамаа хийлээ"
+
+msgid "casino_footer_copyright"
+msgstr "казино фүүтэр зохиогчийн эрх"
+
+msgid "casino_mail_info"
+msgstr "казино шуудан мэдээлэл"
+
+msgid "online support"
+msgstr "онлайн дэмжлэг"
+
+msgid "controller_does_not_exists"
+msgstr "Controller does not exists"
+
+msgid "social_not_found"
+msgstr "Social not found"
+
+msgid "purchase_error"
+msgstr "худалдан авалтын алдаа"
+
+msgid "game_added_to_favorites"
+msgstr "Game added to favorites"
+
+#, fuzzy
+msgid "game_deleted_from_favorites"
+msgstr "Game deleted from favorites"
+
+msgid "must_login"
+msgstr "нэвтрэх шаардлагатай"
+
+msgid "No bonus name"
+msgstr "Бонусын нэр байхгүй"
+
+msgid "No bonus descripton"
+msgstr "бонусын тодорхойлолт байхгүй"
+
+msgid "No user id"
+msgstr "Хэрэглэгчийн нэр байхгүй"
+
+msgid "No bonus id"
+msgstr "Бонусын нэр байхгүй"
+
+msgid "No status"
+msgstr "Статус байхгүй"
+
+msgid "Bonus not found"
+msgstr "Бонус олдоогүй"
+
+msgid "Already have active"
+msgstr "Аль хэдийн идэвхтэй"
+
+msgid "Bonus is not available"
+msgstr "Бонус боломжгүй байна"
+
+msgid "First deposit, already deposited"
+msgstr "Эхний мөрийг аль хэдийн тавьсан"
+
+msgid "No loyalty record"
+msgstr "Лояалтигийн бүртгэл байхгүй"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Бонусын болзлыг хангахгүй байна"
+
+msgid "Bonus used"
+msgstr "Бонусыг ашигласан"
+
+msgid "Promo code needed"
+msgstr "Урамшууллын код хэрэгтэй"
+
+msgid "Wrong promo code"
+msgstr "Урамшууллын код буруу"
+
+msgid "Bonuses are forbidden for user"
+msgstr ""
+
+msgid "Already have an active bonus"
+msgstr "Already have an active bonus"
+
+msgid "registration"
+msgstr "бүртгэл"
+
+msgid "verification"
+msgstr "баталгаажуулалт"
+
+msgid "sign up"
+msgstr "бүртгүүлэх"
+
+msgid "store"
+msgstr "хадгалах"
+
+msgid "login"
+msgstr "нэвтрэх"
+
+msgid "deposit"
+msgstr "депозит"
+
+msgid "deposit first"
+msgstr "эхлээд депозит тавина уу"
+
+msgid "deposit sum"
+msgstr "депозитний дүн"
+
+msgid "deposit repeated"
+msgstr "депозитг давтсан"
+
+msgid "bet"
+msgstr "бооцоо"
+
+msgid "bet sum"
+msgstr "бооцооны дүн"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "депозитний дүн"
+
+msgid "once"
+msgstr "нэг удаа"
+
+msgid "day"
+msgstr "өдөр"
+
+msgid "week"
+msgstr "долоо хоног"
+
+msgid "month"
+msgstr "сар"
+
+msgid "all"
+msgstr "бүгд"
+
+msgid "bonus"
+msgstr "бонус"
+
+msgid "win"
+msgstr "хожил"
+
+msgid "win and bonus"
+msgstr "хожил болон бонус"
+
+msgid "winevent"
+msgstr "хожил болон арга хэмжээ"
+
+msgid "winbonusevent"
+msgstr "бонус хожих арга хэмжээ"
+
+msgid "none"
+msgstr "байхгүй"
+
+msgid "balance"
+msgstr "үлдэгдэл"
+
+msgid "experience"
+msgstr "туршлага"
+
+msgid "loyalty"
+msgstr "лояалти"
+
+msgid "absolute"
+msgstr "үнэмлэхгүй"
+
+msgid "relative"
+msgstr "харьцангүй"
+
+msgid "bets"
+msgstr "бооцоонууд"
+
+msgid "wins"
+msgstr "хожлууд"
+
+msgid "turnover"
+msgstr "эргэц"
+
+msgid "negative turnover"
+msgstr "сөрөг эргэц"
+
+msgid "unlimited"
+msgstr "хязгааргүй"
+
+msgid "one day"
+msgstr "нэг өдөр"
+
+msgid "two days"
+msgstr "хоёр өдөр"
+
+msgid "three days"
+msgstr "гурван өдөр"
+
+msgid "seven days"
+msgstr "долоон өдөр"
+
+msgid "ten days"
+msgstr "арван өдөр"
+
+msgid "fourteen days"
+msgstr "арван дөрвөн өдөр"
+
+msgid "thirty days"
+msgstr "гучин өдөр"
+
+msgid "sixty days"
+msgstr "жаран өдөр"
+
+msgid "ninety days"
+msgstr "ерэн өдөр"
+
+msgid "one week"
+msgstr "нэг долоо хоног"
+
+msgid "two weeks"
+msgstr "хоёр долоо хоног"
+
+msgid "one month"
+msgstr "нэг сар"
+
+msgid "every day"
+msgstr "өдөр бүр"
+
+msgid "every week"
+msgstr "долоо хоног бүр"
+
+msgid "every two weeks"
+msgstr "хоёр долоо хоног тутамд"
+
+msgid "every month"
+msgstr "сар бүр"
+
+msgid "fee"
+msgstr "хураамж"
+
+msgid "turnover and fee"
+msgstr "эргэц болон хураамж"
+
+msgid "everyday"
+msgstr "өдөр бүр"
+
+msgid "monday"
+msgstr "даваа "
+
+msgid "tuesday"
+msgstr "мягмар "
+
+msgid "wednesday"
+msgstr "лвагва"
+
+msgid "thursday"
+msgstr "пүрэв"
+
+msgid "friday"
+msgstr "баасан"
+
+msgid "saturday"
+msgstr "бямба"
+
+msgid "sunday"
+msgstr "ням"
+
+msgid "transaction_list_is_empty"
+msgstr "Transaction list is empty"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "Date incorrect from date higher then to date"
+
+msgid "cancelled"
+msgstr "цуцлагдсан"
+
+msgid "rejected"
+msgstr "татгалзсан"
+
+msgid "error"
+msgstr "алдаа"
+
+msgid "in_progress"
+msgstr "In progress"
+
+msgid "confirmed"
+msgstr "баталгаажуулсан"
+
+#, fuzzy
+msgid "pending"
+msgstr "Дуусаж байна"
+
+msgid "system_error"
+msgstr "System error"
+
+msgid "completed"
+msgstr "дууссан"
+
+msgid "aborted"
+msgstr "орхисон"
+
+msgid "credit"
+msgstr "кредит"
+
+msgid "debet"
+msgstr "дебит"
+
+msgid "withdraw_unavailable"
+msgstr "Withdraw unavailable"
+
+msgid "withdraw_check_error"
+msgstr "Withdraw check error"
+
+msgid "set_amount"
+msgstr "Set amount"
+
+msgid "set_payment_system"
+msgstr "Set payment system"
+
+msgid "country_and_birth_date_required"
+msgstr "Country and birth date are required"
+
+msgid "payment_request_sent"
+msgstr "Payment request sent"
+
+msgid "payment_request_error"
+msgstr "Payment request error"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Max limit of withdraw reached"
+
+msgid "sys_error_message"
+msgstr "System error message"
+
+msgid "input_purse"
+msgstr "Input purse"
+
+msgid "payment_withdraw_sent"
+msgstr "Payment withdraw sent"
+
+msgid "New password is empty"
+msgstr "Шинэ нууц үг хоосон "
+
+msgid "Repeat password is empty"
+msgstr "Давтан нууц үг хоосон"
+
+msgid "Code is empty"
+msgstr "Код хоосон "
+
+msgid "Code is incorrect"
+msgstr "Код буруу байна"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Нууц үг нь дор хаяг 6 тэмдэгт байх ёстой"
+
+msgid "pass_not_match"
+msgstr "Password is not match"
+
+msgid "Session expired"
+msgstr "Хандалтын хугацаа дууссан"
+
+msgid "social_account_expired"
+msgstr "Нийгмийн сүлжээний бүртгэлийн хугацаа дууссан"
+
+msgid "Empty to address"
+msgstr "Хоосон хаяг"
+
+msgid "Empty subject"
+msgstr "Хоосон гарчиг"
+
+msgid "Empty message"
+msgstr "Хоосон зурвас"
+
+msgid "Empty required parameter"
+msgstr "Шаардлагатай параметр хоосон"
+
+msgid "Unknown error"
+msgstr "Тодорхойгүй алдаа"
+
+msgid "Not allowed player country"
+msgstr "Not allowed player country"
+
+msgid "Demo not supported"
+msgstr "Demo not supported"
+
+msgid "Your currency is not supported by this provider"
+msgstr ""
+
+msgid "Branded games are not enabled"
+msgstr ""
+
+msgid "Self exclusion date"
+msgstr "Self exclusion date"
+
+msgid "Self exclusion"
+msgstr "Self exclusion"
+
+msgid "does not exists"
+msgstr "байдаггүй"
+
+msgid "Method is not supported"
+msgstr "Боломжгүй арга"
+
+msgid "Data type is not found"
+msgstr "Датагийн төрөл олдоогүй"
+
+msgid "Invalid request parameters"
+msgstr "Хүсэлтийн параметр буруу байна"
+
+msgid "No bonus description"
+msgstr "Бонусын тодорхойлолт байхгүй"
+
+msgid "Selected"
+msgstr "Сонгосон"
+
+msgid "Qualified"
+msgstr "Шаардлага хангасан"
+
+msgid "Deleted"
+msgstr "Устгасан"
+
+msgid "Deactivated"
+msgstr "Идэвхгүйжүүлсэн"
+
+msgid "Canceled"
+msgstr "Цуцалсан"
+
+msgid "Ending"
+msgstr "Дуусаж байна"
+
+msgid "Ended"
+msgstr "Дууссан"
+
+msgid "Loyalty API Failure"
+msgstr "Лояалти АПИ амжилтгүй"
+
+msgid "Loyalty result not supported"
+msgstr "Лояалтигийн үр дүн дэмжигдээгүй"
+
+msgid "User not found"
+msgstr "Хэрэглэгч олдоогүй"
+
+msgid "Unable fetch oauth access token"
+msgstr "Токен руу нэвтрэх оатийг татах боломжгүй байна"
+
+msgid "Access token is missing"
+msgstr ""
+
+msgid "Empty access token user identifier"
+msgstr ""
+
+msgid "Empty access token identifier"
+msgstr ""
+
+msgid "Method not allowed"
+msgstr "Зөвшөөрөгдөөгүй арга"
+
+msgid "Your country is on the forbidden list"
+msgstr "Таны улс хориотой жагсаалтад байна"
+
+msgid "User profile is incomplete"
+msgstr ""
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "Бонусын дүн илрээгүй"
+
+msgid "Unknown route path"
+msgstr "Тодорхойгүй замын чиглэл"
+
+msgid "Too many requests"
+msgstr "Too many requests"
+
+msgid "Code is not valid"
+msgstr "Код хүчингүй"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "Too many requests"
+
+msgid "Method Not Allowed"
+msgstr "Зөвшөөрөгдөөгүй арга"
+
+msgid "Api endpoint not found"
+msgstr "Api endpoint not found"
+
+msgid "Confirm your email to start games"
+msgstr ""
+
+msgid "User not authorized"
+msgstr "Хэрэглэгч эрхгүй"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Худалдааны системийг сонгоогүй эсвэл буруу"
+
+msgid "Amount is not selected or invalid"
+msgstr "Дүнг сонгоогүй эсвэл буруу"
+
+msgid "Bonus result is not list"
+msgstr "Бонусын дүн илрээгүй"
+
+msgid "Bonus ID Not found"
+msgstr "Bonus ID Not found"
+
+msgid "Bonus Selected Not found"
+msgstr "Bonus Selected Not found"
+
+msgid "User is not authorized"
+msgstr "Эрхгүй"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "Хоосон гарчиг"
+
+#, fuzzy, php-format
+msgid "Deposit failed: %s"
+msgstr "эхлээд депозит тавина уу"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "Set amount"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "Эхлэх код хоосон"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "овог"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "овог"
+
+#, fuzzy
+msgid "Account type"
+msgstr "улс"
+
+#, fuzzy
+msgid "Account number"
+msgstr "утасны дугаар"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "утасны дугаар"
+
+#, fuzzy
+msgid "Uploadable files is empty"
+msgstr "Э-мэйлийн цонх хоосон"
+
+msgid "Exceeds allowed file size"
+msgstr ""
+
+msgid "Mb"
+msgstr ""
+
+#, fuzzy
+msgid "Document ID not found"
+msgstr "Тэмцээн олдоогүй"
+
+msgid "Request invalid. Error: "
+msgstr "Хүсэлт амжилтгүй. Алдаа: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr ""
+
+msgid "Empty launch code"
+msgstr "Эхлэх код хоосон"
+
+msgid "Empty merchant identifier"
+msgstr ""
+
+msgid "Empty games catalog"
+msgstr "Empty games catalog"
+
+msgid "Unknown game launch code"
+msgstr "Unknown game launch code"
+
+msgid "Not supported exception"
+msgstr "Дэмжих боломжгүй"
+
+msgid "Bad request"
+msgstr "Муу хүсэлт"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+msgid "Unable find user identifier"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown error occured"
+msgstr "Тодорхойгүй алдаа"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "Хүлээн авагчийн дугаар буруу"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "Too many requests"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "Тодорхойгүй алдаа"
+
+msgid "Token not found"
+msgstr "Токен олдсонгүй"
+
+msgid "Invalid token provided"
+msgstr "Хүчингүй токен өгөгдөв"
+
+msgid "Phone already verified"
+msgstr "Утсыг аль хэдийн баталгаажуулсан"
+
+msgid "Insufficient parameters"
+msgstr "Хангалтгүй параметр"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "Authorization error"
+
+msgid "Invalid verification code"
+msgstr "Баталгаажуулалтын код хүчингүй"
+
+msgid "Empty phone number"
+msgstr "Утасны дугаар хоосон"
+
+msgid "Invalid phone number"
+msgstr "Утасны дугаар хүчингүй"
+
+msgid "Anonymous"
+msgstr "Нэргүй"
+
+msgid "Item not found"
+msgstr "Олдсонгүй"
+
+msgid "Sent from web-form at"
+msgstr "Цахим хэлбэрээр илгээсэн"
+
+msgid "Service not found"
+msgstr "Үйлчилгээ олдоогүй"
+
+msgid "Unauthorized"
+msgstr "Зөвшөөрөлгүй"
+
+msgid "Tournaments history error"
+msgstr "Тэмцээний түүхийн алдаа"
+
+#, fuzzy
+msgid "Tournaments list not available"
+msgstr "Бонус боломжгүй байна"
+
+msgid "Tournaments type not found"
+msgstr "Тэмцээний төрөл олдоогүй"
+
+msgid "Tournament not found"
+msgstr "Тэмцээн олдоогүй"
+
+msgid "Tournaments subscribe error"
+msgstr "Тэмцээний бүртгэлд алдаа гарлаа"
+
+#, fuzzy
+msgid "Insufficient monetary turnover"
+msgstr "Хангалтгүй параметр"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr ""
+
+#, fuzzy
+msgid "Need verification"
+msgstr "баталгаажуулалт"
+
+#, fuzzy
+msgid "Need additional verification"
+msgstr "Баталгаажуулалтын код хүчингүй"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "Э-мэйл илгээгдлээ, сэргээх холбоос 30 минутын хугацаанд хүчинтэй"
+
+msgid "Password repeat is empty"
+msgstr "Нууц үг давталт хоосон"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Шинэ нууц үг нь зөвхөн латин үсэг, тоо болон онцгой тэмдэгт агуулсан байх "
+"ёстой"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Нууц үг нь том болон жижиг латин үсэг, тоо болон онцгой тэмдэгт агуулсан "
+"байх ёстой"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Нууц үг нь латин үсэг болон тоо агуулсан байх ёстой"
+
+msgid "Passwords do not match"
+msgstr "Нууц үгүүд нийцэхгүй байна"
+
+msgid "Password is empty"
+msgstr "Нууц үг хоосон "
+
+msgid "Password is invalid"
+msgstr "Нууц үг хүчингүй"
+
+msgid "Code is invalid"
+msgstr "Код хүчингүй"
+
+msgid "Email change is not allowed"
+msgstr "Э-мэйл өөрчлөлт зөвшөөрөгдөөгүй"
+
+msgid "Email is required"
+msgstr "Э-мэйл шаардлагатай"
+
+msgid "User update failed"
+msgstr "Хэрэглэгчийн мэдээлэл шинэчлэлт амжилтгүй"
+
+#, fuzzy
+msgid "Registration data validation failed"
+msgstr "Бүртгэл баталгаажуулах"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "Баталгаажуулалтын код хүчингүй"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "Эхлэх код хоосон"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "Системийн алдаа"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"Имэйл шалгах код олдохгүй байна, магадгүй та өөрийн имэйлийг баталгаажуулсан "
+"байна, өөрийн имэйл хайрцгийг шалгана уу"
+
+msgid "Registration_complete"
+msgstr "Бүртгэл дууссан"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+#, fuzzy
+msgid "Insufficient account balance"
+msgstr "Хангалтгүй параметр"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "Хүйсийг сонгоогүй байна"
+
+msgid "Impossible to send email"
+msgstr "Э-мэйл илгээх боломжгүй байна"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "Баталгаажуулалтын код хүчингүй"
+
+msgid "Server returned invalid response"
+msgstr "Сэрвэр хүчингүй гэсэн хариу өгөв"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "Тодорхойгүй алдаа"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "Тодорхойгүй статус"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "Боломжгүй арга"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "Боломжгүй арга"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "Боломжгүй арга"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "Боломжгүй арга"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "Хүчингүй команд"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "Хүсэлтийн параметр буруу байна"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "Хүсэлтийн параметр буруу байна"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "Хүчингүй команд"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "Хүчингүй команд"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "Дэмжигдээгүй баталгаажуулах нийлүүлэгч"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "АПИ хаягийн буруу хувилбар"
+
+msgid "Not specified API key"
+msgstr "АПИ түлхүүргийг тодорхойлоогүй"
+
+msgid "Incorrect API key"
+msgstr "АПИ түлхүүр буруу"
+
+msgid "Incorrect IP address client"
+msgstr "Үйлчлүүлэгчийн IP хаяг буруу"
+
+msgid "Invalid command"
+msgstr "Хүчингүй команд"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Тодорхойлсон команд байдааггүй эсвэл боломжгүй"
+
+msgid "System error"
+msgstr "Системийн алдаа"
+
+msgid "Not specified the SMS identifier"
+msgstr "Утасны мэссэж тодорхойлогчийг дурдаагүй"
+
+msgid "Sender address does not exist"
+msgstr "Илгээгчийн хаяг байдаггүй"
+
+msgid "Not specified content"
+msgstr "Агуулгыг тодорхойлоогүй"
+
+msgid "Faulty or unsupported country code"
+msgstr "Алдаатай эсвэл байдаггүй улсын код"
+
+msgid "Content is too long"
+msgstr "Агуулга хэт урт байна"
+
+msgid "Incorrect encoding of the content"
+msgstr "Агуулгын буруу кодчилол"
+
+msgid "Exceeded monthly limit"
+msgstr "Сарын дээд хязгаар хэтэрсэн"
+
+msgid "Batch ID does not exist"
+msgstr "Багцын нэр байдаггүй"
+
+msgid "List recipients does not exist"
+msgstr "Хүлээн авагчийн жагсаалт байдаггүй"
+
+msgid "Invalid recipient number"
+msgstr "Хүлээн авагчийн дугаар буруу"
+
+msgid "No content"
+msgstr "Агуулга байхгүй"
+
+msgid "Wrong content"
+msgstr "Буруу агуулга"
+
+msgid "Unable send message"
+msgstr "Зурвас илгээх боломжгүй "
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+
+msgid "Unsupported authentication provider"
+msgstr "Дэмжигдээгүй баталгаажуулах нийлүүлэгч"
+
+msgid "connect_social_account_email_theme"
+msgstr "нийгмийн сүлжээний бүртгэлийн э-мэйлийг холбох"
+
+msgid "not_logged_in"
+msgstr "нэвтрээгүй"
+
+msgid "trying_delete_last_social"
+msgstr "сүүлийн нийгмийн сүлжээг устгахыг хичээж байна"
+
+msgid "please_set_email"
+msgstr "э-мэйлийг оруулна уу"
+
+msgid "please_set_password"
+msgstr "нууц үгийг оруулна уу"
+
+msgid "Code incorrect, user not found"
+msgstr "Код буруу байна, хэрэглэгч олдоогүй"
+
+msgid "email_has_been_verified"
+msgstr "Э-мэйлийг баталгаажуулав"
+
+#, fuzzy
+msgid "Transaction value generation failed"
+msgstr "Бүртгэл баталгаажуулах"
+
+msgid "email_to_connect_social_sent"
+msgstr "Email to connect social sent"
+
+msgid "Registration complete"
+msgstr "Бүртгэл дуусав"
+
+msgid "_ip_fraud_msg"
+msgstr "ip залилсан зурвас"
+
+msgid "Session is expired"
+msgstr "Хандалтын хугацаа дууссан"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "Системийн нэрийг тодорхойлоогүй"
+
+msgid "System ID not specified"
+msgstr "Системийн нэрийг тодорхойлоогүй"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "Буруу э-мэйл, эхнээс нь дахин оролдоно уу"
+
+msgid "Email is empty"
+msgstr "Э-мэйл хоосон"
+
+msgid "Error, account with this email does not exist."
+msgstr "Алдаа, ийм э-мэйлтэй бүртгэл байхгүй байна."
+
+msgid "Unable generate temporary restore user code"
+msgstr "Хэрэглэгчийн сэргээх түр зуурын кодыг үүсгэх боломжгүй байна"
+
+msgid "Password recovery"
+msgstr "Нууц үг сэргээх"
+
+msgid "current_password_empty"
+msgstr "Current password is empty"
+
+msgid "Current password is incorrect"
+msgstr "Одоогийн нууц үг буруу байна"
+
+msgid "day_not_set"
+msgstr "Day is not set"
+
+msgid "month_not_set"
+msgstr "Month is not set"
+
+msgid "year_not_set"
+msgstr "Year not set"
+
+msgid "Country is not picked"
+msgstr "Улсыг сонгоогүй байна"
+
+msgid "Gender is not picked"
+msgstr "Хүйсийг сонгоогүй байна"
+
+msgid "input_repeated_password"
+msgstr "Input repeated password"
+
+msgid "Password does not match"
+msgstr "Нууц үг таарахгүй байна"
+
+msgid "Email field is empty or incorrect"
+msgstr "Э-мэйлийн цонх хоосон эсвэл буруу байна"
+
+msgid "Email already in use"
+msgstr "Email already in use"
+
+msgid "Email field is incorrect"
+msgstr "Э-мэйлийн цонх буруу байна"
+
+msgid "Login field is empty"
+msgstr "Нэвтрэх цонх хоосон"
+
+msgid "Email field is empty"
+msgstr "Э-мэйлийн цонх хоосон"
+
+msgid "login_already_in_use"
+msgstr "Login already in use"
+
+msgid "phone_empty"
+msgstr "Phone empty"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Утасны дугаар буруу байна. Ийм байх ёстой: "
+
+msgid "Phone number too long"
+msgstr "Утасны дугаар хэт урт байна"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Утасны дугаар буруу байна: зарим зөвшөөрөгддөггүй тэмдэгт ашиглагдсан"
+
+msgid "new_pass_less_6_symbols"
+msgstr "New password less 6 symbols"
+
+msgid "first_name_empty"
+msgstr "First name is empty"
+
+msgid "last_name_empty"
+msgstr "Last name is empty "
+
+msgid "New email field is incorrect"
+msgstr "Шинэ э-мэйлийн цонх буруу байна"
+
+msgid "User verification failed"
+msgstr "User verification failed"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "Authorization error"
+
+msgid "authorization_error"
+msgstr "Authorization error"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "Session expired"
+
+msgid "registration_in_progress"
+msgstr "Registration in progress"
+
+msgid "user_disabled"
+msgstr "User disabled"
+
+msgid "Access forbidden"
+msgstr ""
+
+msgid "Email field incorrect"
+msgstr "Э-мэйлийн цонх буруу байна"
+
+msgid "email_empty_incorrect"
+msgstr "Email incorrect"
+
+msgid "pass_less_6_symbols"
+msgstr "Password less 6 symbols"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "Нууц үг нь зөвхөн латин үсэг, тоо болон онцгой тэмдэгтийг агуулж болно"
+
+msgid "currency_not_set"
+msgstr "Currency not set"
+
+msgid "Currency field is invalid"
+msgstr "Мөнгөн тэмдэгтийн цонх буруу"
+
+msgid "reg_promo_is_invalid"
+msgstr "Registration promo is invalid"
+
+msgid "email_already_registered"
+msgstr "Email already registered"
+
+msgid "login_already_registered"
+msgstr "Login already registered"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "Phone is already registered"
+
+msgid "ip_fraud_blacklist"
+msgstr "ip залилангийн хар жагсаалт"
+
+msgid "ip_fraud_check_error"
+msgstr "ip залиланг шалгахад гарсан алдаа"
+
+msgid "Activate your account"
+msgstr "Өөрийн бүртгэлийг идэвхжүүлнэ үү"
+
+msgid "Registration confirmation is in progress"
+msgstr "Бүртгэлийг баталгаажуулах явцдаа байна."
+
+msgid "Unknown status"
+msgstr "Тодорхойгүй статус"
+
+msgid "first name"
+msgstr "өөрийн нэр"
+
+msgid "last name"
+msgstr "овог"
+
+msgid "birth date"
+msgstr "төрсөн өдөр"
+
+msgid "sex"
+msgstr "хүйс"
+
+msgid "country"
+msgstr "улс"
+
+msgid "phone number"
+msgstr "утасны дугаар"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "%s цонхийг өөрчлөхийн тулд бидэнтэй дараахаар холбоо барина уу "
+msgstr[1] " %s цонхийг өөрчлөхийн тулд бидэнтэй дараахаар холбоо барина уу  "
+
+msgid "Email has invalid format"
+msgstr "Email has invalid format"
+
+msgid "Repeat password field is empty"
+msgstr "Нууц үгийг давтан оруулах цонх хоосон"
+
+msgid "First name field is empty"
+msgstr "Өөрийн нэрийн цонх хоосон"
+
+msgid "First name must contain only letters"
+msgstr ""
+
+msgid "Last name field is empty"
+msgstr "Овгийн цонх хоосон"
+
+#, fuzzy
+msgid "Last name must contain only letters"
+msgstr "Нууц үг нь латин үсэг болон тоо агуулсан байх ёстой"
+
+msgid "Gender field is empty"
+msgstr "Хүйсийн цонх хоосон"
+
+msgid "Gender unallowed value"
+msgstr ""
+
+msgid "Currency field is empty"
+msgstr "Мөнгөн тэмдэгтийн цонх хоосон"
+
+msgid "Country code is empty"
+msgstr "Улсын код хоосон"
+
+#, fuzzy
+msgid "Country code is invalid"
+msgstr "Код хүчингүй"
+
+msgid "Phone code is empty"
+msgstr "Утасны код хоосон"
+
+msgid "Phone number field is empty"
+msgstr "Утасны дугаарын цонх хоосон"
+
+msgid "Phone number invalid format"
+msgstr "Утасны дугаарын формат буруу"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "Утасны код хоосон"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "Нууц үг нь дор хаяг 6 тэмдэгт байх ёстой"
+
+#, fuzzy
+msgid "Wrong IBAN number"
+msgstr "утасны дугаар"
+
+#, fuzzy
+msgid "Wrong SWIFT number"
+msgstr "утасны дугаар"
+
+msgid "ID Number is not unique"
+msgstr ""
+
+msgid "Password field is empty"
+msgstr "Нууц үгийн цонх хоосон"
+
+#, fuzzy
+msgid "New password field is empty"
+msgstr "Нууц үгийн цонх хоосон"
+
+#, fuzzy
+msgid "New password must be at least 6 characters long"
+msgstr "Нууц үг нь дор хаяг 6 тэмдэгт байх ёстой"
+
+#, fuzzy
+msgid "New password strength is weak"
+msgstr "Нууц үг давталт хоосон"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "Алдаа, ийм э-мэйлтэй бүртгэл байхгүй байна."
+
+#, fuzzy
+msgid "Password strength is weak"
+msgstr "Нууц үг давталт хоосон"
+
+msgid "Login is already registered"
+msgstr "Нэвтрэх нь аль хэдийн бүртгэгдсэн байна"
+
+msgid "Email is already registered"
+msgstr "Email is already registered"
+
+msgid "Phone is already registered"
+msgstr "Phone is already registered"
+
+msgid "You are less than 18 year old"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Location restriction"
+#~ msgstr "Бонусын тодорхойлолт байхгүй"
+
+#, fuzzy
+#~ msgid "Not in a restricted region"
+#~ msgstr "Бонусын тодорхойлолт байхгүй"
+
+#~ msgid "Awaiting limits information"
+#~ msgstr "Хязгаарлалтын мэдээг хүлээж байна."
+
+#~ msgid "cancel_error"
+#~ msgstr "цуцлахад алдаа"
+
+#~ msgid "select_error"
+#~ msgstr "сонголтын алдаа"
+
+#~ msgid "password_does_not_match"
+#~ msgstr "Password does not match"
+
+#~ msgid "new_pass_empty"
+#~ msgstr "New password is empty"
+
+#~ msgid "rep_password_empty"
+#~ msgstr "Repeated password is empty"
+
+#~ msgid "code_is_empty"
+#~ msgstr "Code is empty"
+
+#~ msgid "pass_must_be_least_six_long"
+#~ msgstr "Password must be least six long"
+
+#~ msgid "countrycode_field_is_empty"
+#~ msgstr "Country code is empty"
+
+#~ msgid "phonecode_field_is_empty"
+#~ msgstr "Phone code is empty"
+
+#~ msgid "password_field_is_empty"
+#~ msgstr "Password field is empty"
+
+#~ msgid "password_field_min_length_6"
+#~ msgstr "Password field must have min 6 length"

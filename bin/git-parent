@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+current=$(git rev-parse --abbrev-ref HEAD)
+pb=$(git parent);
+
+if [ $current="master" ]
+then
+    pb="master"
+fi
+
+if [ -z "$pb" ]
+then
+    pb="master"
+fi
+
+echo -n $pb

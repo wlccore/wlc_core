@@ -1,0 +1,340 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2018-06-30 00:38+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.8\n"
+
+msgid "Set transaction type"
+msgstr "设置交易类型"
+
+msgid "No user id"
+msgstr "没有用户ID"
+
+msgid "No amount"
+msgstr "没有金额"
+
+msgid "No loyalty record"
+msgstr "无忠诚记录"
+
+msgid "Wrong request path"
+msgstr "错误的请求途径"
+
+# 原文有问题
+msgid "Debet amount to big"
+msgstr "借记金额过大"
+
+msgid "Wrong transaction type"
+msgstr "错误的交易类型"
+
+msgid "Awaiting limits information"
+msgstr "等待限制信息"
+
+msgid "Wrong currency"
+msgstr "错误货币"
+
+msgid "Non existent level"
+msgstr "不存在该等级"
+
+msgid "No points"
+msgstr "没有积分"
+
+msgid "Set loyalty level"
+msgstr "设置忠诚度等级"
+
+msgid "No bet"
+msgstr "没有赌注"
+
+msgid "No ID user"
+msgstr "无此ID用户"
+
+msgid "No ID bonus"
+msgstr "无此ID奖励"
+
+msgid "Wrong amount"
+msgstr "错误的金额"
+
+msgid "No bonus ID"
+msgstr "没有奖励ID"
+
+msgid "No user ID"
+msgstr "无此用户ID"
+
+msgid "Wrong date format"
+msgstr "错误的日期格式"
+
+msgid "Date must not be today"
+msgstr "日期不能是今天"
+
+msgid "No bonus id"
+msgstr "没有奖励ID"
+
+msgid "No status"
+msgstr "无状态"
+
+msgid "Bonus not found"
+msgstr "未找到奖金"
+
+msgid "Already have active"
+msgstr "已有活动"
+
+msgid "Bonus is not available"
+msgstr "奖金不存在"
+
+msgid "First deposit, already deposited"
+msgstr "第一笔存款已存入"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "不要满足奖金条件"
+
+msgid "Bonus used"
+msgstr "奖金已被使用"
+
+msgid "Promo code needed"
+msgstr "需要促销代码"
+
+msgid "Wrong promo code"
+msgstr "错误的促销代码"
+
+msgid "User ID not set"
+msgstr "未设置用户 ID"
+
+msgid "Wrong bonus results value"
+msgstr "错误的奖金产生价值"
+
+# 1
+msgid "Wrong bonus results freerounds value"
+msgstr "错误的奖金导致免费游戏"
+
+msgid "Wrong bonus results award wagering"
+msgstr "错误的奖金导致奖励下注"
+
+# 1
+msgid "Wrong bonus results chunk size"
+msgstr "错误的奖励导致赌注碎片化"
+
+msgid "Wrong bonus results release wagering"
+msgstr "错误的奖金导致赌注释放"
+
+msgid "Bonus name required"
+msgstr "需要奖励名称"
+
+msgid "Wrong bonus event"
+msgstr "错误的奖励事件"
+
+msgid "Wrong bonus type"
+msgstr "错误的奖励类型"
+
+msgid "Wrong bonus repeat period"
+msgstr "错误的奖金重复期限"
+
+msgid "Wrong bonus expire period"
+msgstr "错误的奖金到期期限"
+
+msgid "Wrong bonus budget"
+msgstr "错误的奖金预算"
+
+msgid "Wrong bonus start date"
+msgstr "错误的奖金开始日期"
+
+msgid "Wrong bonus end date"
+msgstr "错误的奖金结束日期"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "错误的奖金开始日期超过结束日期"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "错误的奖金条件数量最小"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "错误的奖金条件最高金额"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "错误的奖金条件数量多于最大数量"
+
+msgid "Following codes are duplicated"
+msgstr "以下代码被复制"
+
+msgid "Bonus name already exists"
+msgstr "奖励名称已存在"
+
+msgid "Wrong bonus ID"
+msgstr "错误的奖励ID"
+
+msgid "Activated bonuses"
+msgstr "激活的奖金"
+
+msgid "Can't delete"
+msgstr "无法删除"
+
+msgid "No bonus"
+msgstr "没有奖金"
+
+msgid "Wrong store action"
+msgstr "错误的店面行为"
+
+msgid "No order id"
+msgstr "没有订单ID"
+
+msgid "Order not found"
+msgstr "未找到订单"
+
+msgid "No item id"
+msgstr "没有商品ID"
+
+msgid "User not found"
+msgstr "未找到用户"
+
+msgid "Item not found"
+msgstr "未找到项目"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "商品价格未设置为货币：LOYALTY"
+
+msgid "Not enough loyalty points"
+msgstr "没有足够的忠诚点"
+
+msgid "Item out of stock"
+msgstr "项目缺货"
+
+# 1
+msgid "Wrong BonusEventAmount of item"
+msgstr "项目中每个数额的错误奖励"
+
+msgid "User not found in tournament"
+msgstr "在比赛中找不到用户"
+
+msgid "Set codes count"
+msgstr "设置代码计数"
+
+msgid "Set batch name"
+msgstr "设置批次名称"
+
+msgid "Codes count exceeds 300 000"
+msgstr "代码数超过30万"
+
+msgid "Wrong batch ID"
+msgstr "错误的批次ID"
+
+msgid "Codes not set"
+msgstr "代码未设置"
+
+msgid "Modificator not found"
+msgstr "找不到修饰符"
+
+msgid "Set coefficient"
+msgstr "设置系数"
+
+msgid "Set name"
+msgstr "设置名称"
+
+msgid "No levels defined"
+msgstr "未定义的级别"
+
+msgid "Level not found"
+msgstr "找不到级别"
+
+# 1
+msgid "Bad cronjob"
+msgstr "糟糕的工作"
+
+msgid "No category ID"
+msgstr "没有分类ID"
+
+msgid "Category not found"
+msgstr "未找到类别"
+
+msgid "No category name"
+msgstr "没有分类名称"
+
+msgid "Wrong category ID"
+msgstr "错误的类别ID"
+
+msgid "No category id"
+msgstr "没有分类ID"
+
+msgid "No item ID"
+msgstr "没有ID"
+
+msgid "Wrong item ID"
+msgstr "错误的商品ID"
+
+msgid "Item init error"
+msgstr "项目初始化错误"
+
+# 1
+msgid "Wrong item BonusEventAmount"
+msgstr "错误的项目奖励金额"
+
+msgid "No item"
+msgstr "未找到项目"
+
+msgid "Wrong tournament ID"
+msgstr "错误的比赛ID"
+
+msgid "Wrong Tournament ID"
+msgstr "错误的比赛ID"
+
+msgid "No ID tournament"
+msgstr "未找到此ID下的比赛"
+
+msgid "No tournament ID"
+msgstr "未找到比赛ID"
+
+msgid "No tournament id"
+msgstr "未找到比赛ID"
+
+msgid "No balance"
+msgstr "无尾款"
+
+msgid "Not enough balance"
+msgstr "尾款不足"
+
+msgid "Tournament name required"
+msgstr "需要比赛名称"
+
+msgid "Wrong tournament winner by"
+msgstr "比赛冠军错误"
+
+msgid "Wrong tournament period"
+msgstr "比赛时期错误"
+
+msgid "Wrong tournament repeat"
+msgstr "错误的重复比赛"
+
+msgid "Wrong tournament start date"
+msgstr "比赛开始日期错误"
+
+msgid "Tournament not found"
+msgstr "比赛未找到"
+
+msgid "Activated Tournaments"
+msgstr "激活的比赛"
+
+msgid "No tournament"
+msgstr "没有比赛"
+
+msgid "Wrong event type"
+msgstr "错误的事件类型"
+
+msgid "No event id"
+msgstr "没有事件ID"
+
+msgid "Empty data"
+msgstr "空数据"
+
+msgid "No data"
+msgstr "没有数据"

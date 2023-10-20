@@ -1,0 +1,91 @@
+{
+    "name": "egamings/wlc_core",
+    "version": "1.75.1",
+    "authors": [
+        {
+            "name": "WLC-Core",
+            "email": "support@egamings.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packagist.egamings.com"
+        }
+    ],
+    "require": {
+        "ext-bcmath" : "*",
+        "ext-ctype" : "*",
+        "ext-curl" : "*",
+        "ext-gettext" : "*",
+        "ext-hash" : ">=1",
+        "ext-json" : ">=1",
+        "ext-libxml" : "*",
+        "ext-mbstring" : "*",
+        "ext-mysqlnd" : "*",
+        "ext-pcre" : "*",
+        "ext-xml" : "*",
+        "ext-dom": "*",
+        "twig/twig": "^2.7",
+        "twig/extensions": "^1.5",
+        "swiftmailer/swiftmailer": "~5.4",
+        "passwordlib/passwordlib": "1.0.0-beta1",
+        "sentry/sentry": "~0.19",
+        "nikic/fast-route": "~0.7",
+        "firebase/php-jwt": "^5.0",
+        "robmorgan/phinx": "^0.13.4",
+        "geoip2/geoip2": "~2.0",
+        "league/iso3166": "^4.1",
+        "twilio/sdk": "^5.16",
+        "jakeasmith/http_build_url": "^1",
+        "ramsey/uuid": "^3.8",
+        "html2text/html2text": "^4.2",
+        "symfony/yaml": "^4.3",
+        "php-di/php-di": "^6.3",
+        "gregwar/captcha": "^1",
+        "simplito/elliptic-php": "^1.0",
+        "spomky-labs/otphp": "^10.0",
+        "kornrunner/keccak": "^1.1",
+        "dompdf/dompdf": "*",
+        "pragmarx/google2fa": "^8.0",
+        "egamings/user-data-masking": "1.0.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "eGamings\\WLC\\": "root/classes/",
+            "eGamings\\WLC\\Tests\\": "tests/classes/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "zircote/swagger-php": "^2.0",
+        "swagger-api/swagger-ui": "^3.4",
+        "squizlabs/php_codesniffer": "^3.4",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.7.2",
+        "sirbrillig/phpcs-variable-analysis": "^2.6",
+        "exussum12/coverage-checker": "^0.11.1",
+        "php-parallel-lint/php-parallel-lint": "^1.3"
+    },
+    "scripts": {
+        "tests": ["@phpunit", "@testcover"],
+        "docs": "./vendor/zircote/swagger-php/bin/swagger -b root/version.php -o docs/swagger.json root/classes/RestApi/",
+        "pre-commit": ["@codecheck", "@tests"],
+        "dist": ["@codecheck", "@phpunit --log-junit build/junit.xml"],
+        "codecheck": ["@phplint", "@phpcs"],
+        "phplint": "vendor/bin/parallel-lint root tests",
+        "phpcs": "./vendor/bin/phpcs",
+        "phpunit": "./vendor/bin/phpunit --coverage-clover build/clover.xml",
+        "testcover": ["@diffhead", "@diffcheck"],
+        "diffhead": "git diff origin/$(bin/git-parent) > build/changes.diff",
+        "diffcheck": "vendor/bin/diffFilter --phpunit build/changes.diff build/clover.xml 100",
+        "post-install-cmd": [
+            "git config --local include.path '../.gitconfig'"
+        ]
+    },
+    "bin": ["tpl-gettext-extractor", "wlc-composer-fix"],
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" backupGlobals="false" backupStaticAttributes="false" processIsolation="false" colors="true" bootstrap="tests/bootstrap.php" failOnRisky="true" failOnWarning="true" stopOnError="true" stopOnFailure="true" stopOnIncomplete="false" stopOnSkipped="false" convertErrorsToExceptions="true" convertNoticesToExceptions="true" convertWarningsToExceptions="true" forceCoversAnnotation="false" verbose="false" xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/9.3/phpunit.xsd">
+  <coverage>
+    <include>
+      <directory suffix=".php">root</directory>
+    </include>
+    <exclude>
+      <file>root/init.php</file>
+      <file>root/inc/config.php</file>
+      <file>root/inc/functions.php</file>
+      <file>root/inc/routing.php</file>
+      <file>root/classes/Config.php</file>
+      <directory>root/classes/Affiliate.php</directory>
+      <directory>root/classes/Twig</directory>
+      <directory>root/classes/RestApi</directory>
+    </exclude>
+  </coverage>
+  <testsuites>
+    <testsuite name="Wlc Core Api Test Suite">
+      <directory suffix="Test.php">./tests/classes/</directory>
+    </testsuite>
+  </testsuites>
+  <php>
+    <env name="ENV" value="dev"/>
+  </php>
+</phpunit>

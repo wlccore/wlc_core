@@ -1,0 +1,1878 @@
+# Russian translations for WLC_CORE package.
+# Russian translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.0.389\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-13 16:03+0000\n"
+"PO-Revision-Date: 2019-07-15 13:03+0300\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Добавьте наш email в вашу адресную книгу, чтобы не упустить важную "
+"информацию из"
+
+msgid "Congratulations,"
+msgstr "Поздравляем,"
+
+msgid "Dear"
+msgstr "Дорогой"
+
+msgid "Deposit confirmation"
+msgstr "Подтверждения депозита"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Уведомление об успешном депозите. Ваш баланс"
+
+msgid "Finish registration link"
+msgstr "Ссылка подтверждения регистрации"
+
+msgid "Greeting."
+msgstr "Приветствие."
+
+msgid "Hello"
+msgstr "Привет"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "Если это письмо отображается некорректно, откройте его в браузере."
+
+msgid "If you have any questions, please contact"
+msgstr "Если у вас есть какие-либо вопросы, пожалуйста, свяжитесь с"
+
+msgid "Link will be available for 30 minutes."
+msgstr "Ссылка будет доступна на 30 минут."
+
+msgid "Login"
+msgstr "Логин"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password restore"
+msgstr "Восстановление пароля"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Пожалуйста, нажмите на ссылку ниже, чтобы закончить регистрацию:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Пожалуйста, не отвечайте на это письмо. Это сообщение сгенерировано "
+"автоматически и Вы не получите ответ."
+
+msgid "Registration confirmation"
+msgstr "Подтверждение регистрации"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Восстановите Ваш пароль, нажав ссылку ниже."
+
+msgid "Social registration confirmation"
+msgstr "Подтверждение регистрации через социальную сеть"
+
+msgid "Thank you for validating your account."
+msgstr "Спасибо за подтверждение Вашей учетной записи."
+
+msgid "Thanks for registration on the website!"
+msgstr "Спасибо за регистрацию на сайте!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr ""
+"Для завершения связывания вашего аккаунта, пожалуйста, используйте эту "
+"ссылку:"
+
+msgid "Welcome to"
+msgstr "Добро пожаловать"
+
+msgid "With respect"
+msgstr "С уважением"
+
+msgid "You asked to link new social account to your current account"
+msgstr "Вы попросили связать Ваш аккаунт с новой социальной сетью"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Вы сделали первый шаг к удивительному игровому путешествию\n"
+" c"
+
+msgid "casino_footer_copyright"
+msgstr ""
+
+msgid "casino_mail_info"
+msgstr ""
+
+msgid "online support"
+msgstr "онлайн поддержка"
+
+msgid "controller_does_not_exists"
+msgstr "Контроллер не найден"
+
+msgid "social_not_found"
+msgstr "Социальная сеть не найдена"
+
+msgid "purchase_error"
+msgstr "Ошибка покупки"
+
+msgid "game_added_to_favorites"
+msgstr "Игра добавлена в избранное"
+
+msgid "game_deleted_from_favorites"
+msgstr "Игра удалена из избранного"
+
+msgid "must_login"
+msgstr "Нужно авторизоваться"
+
+msgid "No bonus name"
+msgstr "Нет имени бонуса"
+
+msgid "No bonus descripton"
+msgstr "Нет описания бонуса"
+
+msgid "No user id"
+msgstr "Нет id пользователя"
+
+msgid "No bonus id"
+msgstr "Нет id бонуса"
+
+msgid "No status"
+msgstr "Неизвестный статус"
+
+msgid "Bonus not found"
+msgstr "Бонус не найден"
+
+msgid "Already have active"
+msgstr "Уже есть активный"
+
+msgid "Bonus is not available"
+msgstr "Бонус не доступен"
+
+msgid "First deposit, already deposited"
+msgstr ""
+
+msgid "No loyalty record"
+msgstr "Нет записи лояльности"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Не удовлетворяет условиям бонусов"
+
+msgid "Bonus used"
+msgstr "Бонус уже использован"
+
+msgid "Promo code needed"
+msgstr "Необходим промокод"
+
+msgid "Wrong promo code"
+msgstr "Неверный промокод"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Пользователю запрещено использовать бонусы"
+
+msgid "Already have an active bonus"
+msgstr "Уже есть активный бонус"
+
+msgid "registration"
+msgstr "регистрация"
+
+msgid "verification"
+msgstr "проверка"
+
+msgid "sign up"
+msgstr "подписка"
+
+msgid "store"
+msgstr "покупка"
+
+msgid "login"
+msgstr "логин"
+
+msgid "deposit"
+msgstr "пополнение счета"
+
+msgid "deposit first"
+msgstr "первое пополнение счета"
+
+msgid "deposit sum"
+msgstr "сумма пополнений счета"
+
+msgid "deposit repeated"
+msgstr "повторное пополнение счета"
+
+msgid "bet"
+msgstr "ставка"
+
+msgid "bet sum"
+msgstr "сумма ставок"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "сумма пополнений счета"
+
+msgid "once"
+msgstr "один раз"
+
+msgid "day"
+msgstr "день"
+
+msgid "week"
+msgstr "неделя"
+
+msgid "month"
+msgstr "месяц"
+
+msgid "all"
+msgstr "все"
+
+msgid "bonus"
+msgstr "бонус"
+
+msgid "win"
+msgstr "выигрыш"
+
+msgid "win and bonus"
+msgstr "выигрыш и бонус"
+
+msgid "winevent"
+msgstr "выигрыш и сумма события"
+
+msgid "winbonusevent"
+msgstr "бонус + выигрыш + сумма события"
+
+msgid "none"
+msgstr "нет"
+
+msgid "balance"
+msgstr "баланс"
+
+msgid "experience"
+msgstr "очки опыта"
+
+msgid "loyalty"
+msgstr "очки лояльности"
+
+msgid "absolute"
+msgstr "абсолютный"
+
+msgid "relative"
+msgstr "относительный"
+
+msgid "bets"
+msgstr "ставки"
+
+msgid "wins"
+msgstr "победы"
+
+msgid "turnover"
+msgstr "прибыль"
+
+msgid "negative turnover"
+msgstr "расходы"
+
+msgid "unlimited"
+msgstr "бессрочный"
+
+msgid "one day"
+msgstr "один день"
+
+msgid "two days"
+msgstr "два дня"
+
+msgid "three days"
+msgstr "3 дня"
+
+msgid "seven days"
+msgstr "7 дней"
+
+msgid "ten days"
+msgstr "10 дней"
+
+msgid "fourteen days"
+msgstr "14 дней"
+
+msgid "thirty days"
+msgstr "30 дней"
+
+msgid "sixty days"
+msgstr "60 дней"
+
+msgid "ninety days"
+msgstr "90 дней"
+
+msgid "one week"
+msgstr "одна неделя"
+
+msgid "two weeks"
+msgstr "две недели"
+
+msgid "one month"
+msgstr "один месяц"
+
+msgid "every day"
+msgstr "каждый день"
+
+msgid "every week"
+msgstr "каждую неделю"
+
+msgid "every two weeks"
+msgstr "каждые две недели"
+
+msgid "every month"
+msgstr "каждый месяц"
+
+msgid "fee"
+msgstr "взносы"
+
+msgid "turnover and fee"
+msgstr "взносы и оборот"
+
+msgid "everyday"
+msgstr "каждый день"
+
+msgid "monday"
+msgstr "понедельник"
+
+msgid "tuesday"
+msgstr "вторник"
+
+msgid "wednesday"
+msgstr "среда"
+
+msgid "thursday"
+msgstr "четверг"
+
+msgid "friday"
+msgstr "пятница"
+
+msgid "saturday"
+msgstr "суббота"
+
+msgid "sunday"
+msgstr "воскресенье"
+
+msgid "transaction_list_is_empty"
+msgstr "Список транзакций пуст"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "Дата некорректна"
+
+msgid "cancelled"
+msgstr "Отменено"
+
+msgid "rejected"
+msgstr "Отклонено"
+
+msgid "error"
+msgstr "Ошибка"
+
+msgid "in_progress"
+msgstr "В процессе"
+
+msgid "confirmed"
+msgstr "Подтверждено"
+
+msgid "pending"
+msgstr "В ожидании"
+
+msgid "system_error"
+msgstr "Системная ошибка"
+
+msgid "completed"
+msgstr "Завершено"
+
+msgid "aborted"
+msgstr "Прервано"
+
+msgid "credit"
+msgstr "Кредит"
+
+msgid "debet"
+msgstr "Дебет"
+
+msgid "withdraw_unavailable"
+msgstr "Вывод недоступен"
+
+msgid "withdraw_check_error"
+msgstr "Ошибка вывода"
+
+msgid "set_amount"
+msgstr "установить сумму"
+
+msgid "set_payment_system"
+msgstr "Укажите платежную систему"
+
+msgid "country_and_birth_date_required"
+msgstr "Страна и дата рождения обязательны для заполнения"
+
+msgid "payment_request_sent"
+msgstr "Запрос на оплату отправлен"
+
+msgid "payment_request_error"
+msgstr "Ошибка оплаты"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Достигнут максимальный лимит запросов на вывод"
+
+msgid "sys_error_message"
+msgstr "Системная ошибка"
+
+msgid "input_purse"
+msgstr "Введите сумму"
+
+msgid "payment_withdraw_sent"
+msgstr "Запрос на вывод отправлен"
+
+msgid "New password is empty"
+msgstr "Поле \"новый пароль\" не заполнено"
+
+msgid "Repeat password is empty"
+msgstr "Поле \"новый пароль\" не заполнено"
+
+msgid "Code is empty"
+msgstr "Код пустой"
+
+msgid "Code is incorrect"
+msgstr "Неверный код"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Пароль должен быть не менее 6 символов"
+
+msgid "pass_not_match"
+msgstr "Пароли не совпадают"
+
+msgid "Session expired"
+msgstr "Сессия истекла"
+
+msgid "social_account_expired"
+msgstr "авторизация просрочена"
+
+msgid "Empty to address"
+msgstr "Не введен адрес сообщения"
+
+msgid "Empty subject"
+msgstr "Не введена тема сообщения"
+
+msgid "Empty message"
+msgstr "Сообщение не введено"
+
+msgid "Empty required parameter"
+msgstr "Параметры запроса не указаны"
+
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Not allowed player country"
+msgstr ""
+"Вы не можете играть в данную игру, так как она запрещена в вашей стране."
+
+msgid "Demo not supported"
+msgstr "Демо режим не поддерживается"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Ваша валюта не поддерживается провайдером"
+
+msgid "Branded games are not enabled"
+msgstr "Брендовые игры не включены"
+
+msgid "Self exclusion date"
+msgstr ""
+"У Вас установлено самоограничение. Игра станет доступной #DATE#. Для более "
+"детальной информации обратитесь в службу поддержки"
+
+msgid "Self exclusion"
+msgstr ""
+"У Вас установлено самоограничение. Для более детальной информации обратитесь "
+"в службу поддержки"
+
+msgid "does not exists"
+msgstr "не существует"
+
+msgid "Method is not supported"
+msgstr "Метод не поддерживается"
+
+msgid "Data type is not found"
+msgstr "Тип данных не найден"
+
+msgid "Invalid request parameters"
+msgstr "Некорректные параметры запроса"
+
+msgid "Loyalty result not supported"
+msgstr "Метод не поддерживается"
+
+msgid "No bonus description"
+msgstr "Нет описания бонуса"
+
+msgid "Selected"
+msgstr "Выбрано"
+
+msgid "Qualified"
+msgstr "Подходящие"
+
+msgid "Deleted"
+msgstr "Удален"
+
+msgid "Deactivated"
+msgstr "Деактивирован"
+
+msgid "Canceled"
+msgstr "Отменено"
+
+msgid "Ending"
+msgstr "Окончание"
+
+msgid "Ended"
+msgstr "Закончено"
+
+msgid "Loyalty API Failure"
+msgstr "Ошибка лояльности"
+
+msgid "User not found"
+msgstr "Пользователь не найден"
+
+msgid "Unable fetch oauth access token"
+msgstr "Невозможно получить токен доступа"
+
+msgid "Access token is missing"
+msgstr ""
+
+msgid "Empty access token user identifier"
+msgstr ""
+
+msgid "Empty access token identifier"
+msgstr ""
+
+msgid "Method not allowed"
+msgstr "Метод не доступен"
+
+msgid "Your country is on the forbidden list"
+msgstr "Ваша страна в списке запрещенных"
+
+msgid "User profile is incomplete"
+msgstr ""
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "Бонус не найден"
+
+msgid "Unknown route path"
+msgstr "Неизвестный маршрут"
+
+msgid "Too many requests"
+msgstr "Произошла ошибка при входе в систему. Превышен лимит запросов"
+
+msgid "Too many requests to Promocodes"
+msgstr "Попытки ввода промокода заблокированы на %d минут"
+
+msgid "Code is not valid"
+msgstr "Код недействителен"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "Произошла ошибка при входе в систему. Превышен лимит запросов"
+
+msgid "Method Not Allowed"
+msgstr "Метод недоступен"
+
+msgid "Api endpoint not found"
+msgstr "Некорректный вызов API"
+
+msgid "Confirm your email to start games"
+msgstr "Подтвердите свою эл. почту для запуска игр"
+
+msgid "User not authorized"
+msgstr "Пользователь неавторизован"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Платёжная система должна быть выбрана"
+
+msgid "Amount is not selected or invalid"
+msgstr ""
+
+msgid "Bonus result is not list"
+msgstr "Бонус не найден"
+
+msgid "Bonus ID Not found"
+msgstr "ID бонуса не найден"
+
+msgid "Bonus Selected Not found"
+msgstr "Выбранный бонус не найден"
+
+msgid "User is not authorized"
+msgstr "Пользователь неавторизован"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "Не введена тема сообщения"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "Ошибка депозита: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+"У Вас включено ограничение %s: %s %s действует до %s. Доступный лимит "
+"депозита: %s %s"
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr "Для завершения депозита совершите платёж по данным реквизитам"
+
+msgid "Amount"
+msgstr "Сумма"
+
+msgid "Branch code"
+msgstr "Код филиала"
+
+msgid "Bank name"
+msgstr "Название банка"
+
+msgid "Branch name"
+msgstr "Название филиала"
+
+msgid "Account type"
+msgstr "Тип счёта"
+
+msgid "Account number"
+msgstr "Номер счёта"
+
+msgid "Account name"
+msgstr "Название счёта"
+
+msgid "Reference number"
+msgstr "Номер ссылки"
+
+#, fuzzy
+msgid "Uploadable files is empty"
+msgstr "Поле \"email\" не заполнено"
+
+msgid "Exceeds allowed file size"
+msgstr "Превышен допустимый размер файла"
+
+msgid "Mb"
+msgstr "Мб"
+
+#, fuzzy
+msgid "Document ID not found"
+msgstr "Турнир не найден"
+
+msgid "Request invalid. Error: "
+msgstr "Некорректный запрос. Ошибка: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr ""
+
+msgid "Empty launch code"
+msgstr "Пустой код запуска"
+
+msgid "Empty merchant identifier"
+msgstr ""
+
+msgid "Empty games catalog"
+msgstr "Каталог игр пуст"
+
+msgid "Unknown game launch code"
+msgstr "Неизвестный код запуска игры"
+
+msgid "Not supported exception"
+msgstr "Неподдерживаемое исключение"
+
+msgid "Bad request"
+msgstr "Ошибка запроса"
+
+msgid "This feature is disabled"
+msgstr ""
+
+msgid "Not available for authorized user"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid currency"
+msgstr "Некорректная команда"
+
+msgid "email, password, currency required"
+msgstr ""
+
+#, fuzzy
+msgid "Wrong action"
+msgstr "Неверный контент"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+msgid "Unable find user identifier"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown error occured"
+msgstr "Неизвестная ошибка"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "Неверный номер получателя"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "Произошла ошибка при входе в систему. Превышен лимит запросов"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "Неизвестная ошибка"
+
+msgid "Token not found"
+msgstr "Токен не найден"
+
+msgid "Invalid token provided"
+msgstr "Некорректный токен"
+
+msgid "Phone already verified"
+msgstr "Телефон уже верифицирован"
+
+msgid "Insufficient parameters"
+msgstr "Некорректные параметры"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "Неверно введен адрес эл.почты/логин или пароль. Ошибка авторизации"
+
+msgid "Invalid verification code"
+msgstr "Неверный код подтверждения"
+
+msgid "Empty phone number"
+msgstr "Телефонный номер не указан"
+
+msgid "Invalid phone number"
+msgstr "Неверный номер телефона"
+
+msgid "Anonymous"
+msgstr "Анонимный"
+
+msgid "Item not found"
+msgstr "Элемент не найден"
+
+msgid "Sent from web-form at"
+msgstr "Отослано через веб-форму с сайта"
+
+msgid "Service not found"
+msgstr "Сервис не найден"
+
+msgid "Unauthorized"
+msgstr "Неавторизован"
+
+msgid "Tournaments history error"
+msgstr "Ошибка истории турниров"
+
+msgid "Tournaments list not available"
+msgstr "Список турниров не доступен"
+
+msgid "Tournaments type not found"
+msgstr "Тип турнира не найден"
+
+msgid "Tournament not found"
+msgstr "Турнир не найден"
+
+msgid "Tournaments subscribe error"
+msgstr "Ошибка подписки на турнир"
+
+msgid "Insufficient monetary turnover"
+msgstr "Недостаточный оборот средств"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "Не заполнен профиль пользователя (личные данные)"
+
+msgid "Need verification"
+msgstr "Нужна верификация"
+
+msgid "Need additional verification"
+msgstr "Нужна дополнительная верификация"
+
+#, fuzzy
+msgid "Code accepted, the device has been added"
+msgstr "Код принят, устройство добавлено"
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "Письмо отправлено, ссылка восстановления доступна 30 минут"
+
+msgid "Password repeat is empty"
+msgstr "Поле \"повторите новый пароль\" не заполнено"
+
+#, fuzzy
+msgid "Password must be at least 5 characters long"
+msgstr "Пароль должен быть не менее 6 символов"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Новый пароль может содержать только буквы латинского алфавита, цифры и знаки "
+"пунктуации"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Пароль должен содержать буквы в верхнем и нижнем регистре, цифры и "
+"спецсимволы"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Пароль должен содержать буквы и цифры"
+
+msgid "Passwords do not match"
+msgstr "Пароли не совпадают"
+
+msgid "Code is invalid"
+msgstr "Некорректный код"
+
+msgid "Password is empty"
+msgstr "Поле \"пароль\" не заполнено"
+
+msgid "Password is invalid"
+msgstr "Некорректный пароль"
+
+msgid "Email change is not allowed"
+msgstr "Смена Email запрещена"
+
+msgid "Email is required"
+msgstr "Email обязателен"
+
+msgid "User update failed"
+msgstr "Ошибка обновления профиля пользователя"
+
+msgid "Registration data validation failed"
+msgstr "Ошибра проверки данных регистрации"
+
+msgid "Invalid validation code"
+msgstr "Неверный код подтверждения"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "Пустой код запуска"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "Системная ошибка"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"Код подтверждения электронной почты не найден, возможно, вы уже подтвердили "
+"свой адрес электронной почты, пожалуйста, проверьте свой почтовый ящик"
+
+msgid "The user has already been confirmed. Log in to the site."
+msgstr "Пользователь уже подтвержден. Авторизуйтесь на сайте."
+
+msgid "Registration_complete"
+msgstr "Регистрация завершена"
+
+msgid "Invalid DateOfBirth format"
+msgstr "Неверный формат даты рождения"
+
+msgid "You are less than 18 year old"
+msgstr "Вам меньше 18 лет"
+
+#, php-format
+msgid "You are less than %d year old"
+msgstr "Ваш возраст не превышает %d год"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+msgid "Insufficient account balance"
+msgstr "Недостаточно средств на счете"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"С данной платёжной системы не было совершено ни одного депозита, поэтому "
+"вывод на неё невозможен. Пополните баланс, используя данную платёжную "
+"систему для того, чтобы выводить средства."
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "Пол не выбран"
+
+msgid "Impossible to send email"
+msgstr "Невозможно отправить письмо"
+
+#, fuzzy, php-format
+msgid "unknown_device_message"
+msgstr ""
+"Вы пытаетесь войти с неизвестного устройства:\n"
+"Местоположение: %s\n"
+"IP-адрес: %s\n"
+"Устройство: %s\n"
+"Код подтверждения нового устройства был выслан на Ваш email"
+
+msgid "Invalid confirmation code"
+msgstr "Код подтверждения недействителен"
+
+msgid "VerificationCodeHasExpired"
+msgstr "Неверный код подтверждения"
+
+msgid "Exceeded the number of attempts to enter the verification code. You can try again in %s minutes"
+msgstr "Превышено количество попыток ввода кода подтверждения. Вы можете повторить попытку через %s минут."
+
+msgid "The number of attempts to change the password has been exceeded. You can try again in %s minutes"
+msgstr "Превышено количество попыток изменения пароля. Вы можете повторить попытку через %s минут"
+
+msgid "ConfirmationСodeExpired"
+msgstr "Истек код подтверждения"
+
+#, fuzzy
+msgid "Error, account with this phone does not exist."
+msgstr "Ошибка, аккаунт с указанным email адресом не найден"
+
+msgid "Error sending recovery code"
+msgstr ""
+
+#, fuzzy
+msgid "Password reset code - "
+msgstr "Восстановление пароля"
+
+#, fuzzy
+msgid "Sms sent, recovery code will be available for 30 minutes"
+msgstr "Письмо отправлено, ссылка восстановления доступна 30 минут"
+
+msgid "Server returned invalid response"
+msgstr "Некорректный ответ сервера"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "Неизвестный статус"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "Метод не поддерживается"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "Метод не поддерживается"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "Метод не поддерживается"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "Метод не поддерживается"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "Некорректная команда"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "Некорректные параметры запроса"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "Некорректные параметры запроса"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "Некорректная команда"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "Некорректная команда"
+
+msgid "Unsupported content for destination"
+msgstr ""
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "Некорректная версия API в адресе"
+
+msgid "Not specified API key"
+msgstr "Не указан ключ API"
+
+msgid "Incorrect API key"
+msgstr "Некорректный ключ API"
+
+msgid "Incorrect IP address client"
+msgstr "Некорректный IP адрес клиента"
+
+msgid "Invalid command"
+msgstr "Некорректная команда"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Указанная команда не существует или недоступна"
+
+msgid "System error"
+msgstr "Системная ошибка"
+
+msgid "Not specified the SMS identifier"
+msgstr "Не указан SMS идентификатор"
+
+msgid "Sender address does not exist"
+msgstr "Адрес отправителя не существует"
+
+msgid "Not specified content"
+msgstr "Нет содержания"
+
+msgid "Faulty or unsupported country code"
+msgstr "Неисправный или неподдерживаемый код страны"
+
+msgid "Content is too long"
+msgstr "Слишком большой контент"
+
+msgid "Incorrect encoding of the content"
+msgstr "Неправильная кодировка контента"
+
+msgid "Exceeded monthly limit"
+msgstr "Превышен месячный лимит"
+
+msgid "Batch ID does not exist"
+msgstr "Идентификатор команды не существует"
+
+msgid "List recipients does not exist"
+msgstr "Список получателей не существует"
+
+msgid "Invalid recipient number"
+msgstr "Неверный номер получателя"
+
+msgid "No content"
+msgstr "Нет контента"
+
+msgid "Wrong content"
+msgstr "Неверный контент"
+
+msgid "Unable send message"
+msgstr "Невозможно отослать сообщение"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+"Часовая квота SMS была превышена. Вы можете повторить отправку SMS через %d "
+"минут"
+
+msgid "Unsupported authentication provider"
+msgstr ""
+
+msgid "connect_social_account_email_theme"
+msgstr "подключение к социальной сети, тема почтового сообщения"
+
+msgid "not_logged_in"
+msgstr "не вошли"
+
+msgid "trying_delete_last_social"
+msgstr ""
+
+msgid "please_set_email"
+msgstr "пожалуйста укажите email"
+
+msgid "please_set_password"
+msgstr "пожалуйста укажите пароль"
+
+msgid "Code incorrect, user not found"
+msgstr "Неверный код, пользователь не найден"
+
+msgid "UnexpectedError"
+msgstr "Произошла непредвиденная ошибка, повторите пожалуйста позже"
+
+msgid "email_has_been_verified"
+msgstr "email адрес подтвержден"
+
+msgid "Transaction value generation failed"
+msgstr "Ошибка генерации значения транзакции"
+
+msgid "email_to_connect_social_sent"
+msgstr "письмо отправлено"
+
+msgid "Registration complete"
+msgstr "Регистрация завершена"
+
+msgid "_ip_fraud_msg"
+msgstr "Некорректный IP адрес"
+
+msgid "Session is expired"
+msgstr "Сессия истекла"
+
+msgid "Withdrawal ID not specified"
+msgstr "ID выплаты не указан"
+
+#, fuzzy
+msgid "Invoice ID not specified"
+msgstr "ID системы не указан"
+
+msgid "System ID not specified"
+msgstr "ID системы не указан"
+
+msgid "Incorrect email, please try again from the start"
+msgstr ""
+"Неверный адрес электронной почты, пожалуйста, попробуйте еще раз с самого "
+"начала"
+
+msgid "new_password"
+msgstr "Ваш новый пароль - "
+
+msgid "Email is empty"
+msgstr "Email не указан"
+
+msgid "Error, account with this email does not exist."
+msgstr "Ошибка, аккаунт с указанным email адресом не найден"
+
+msgid "Unable generate temporary restore user code"
+msgstr "Неудалось создать код восстановления пользователя"
+
+msgid "Password recovery"
+msgstr "Восстановление пароля"
+
+msgid "current_password_empty"
+msgstr "Текущий пароль не указан"
+
+msgid "Current password is incorrect"
+msgstr "Текущий пароль указан неверно"
+
+msgid "day_not_set"
+msgstr "день рождения не указан"
+
+msgid "month_not_set"
+msgstr "месяц рождения не указан"
+
+msgid "year_not_set"
+msgstr "год рождения не указан"
+
+msgid "Country is not picked"
+msgstr "Страна не выбрана"
+
+msgid "Gender is not picked"
+msgstr "Пол не выбран"
+
+msgid "input_repeated_password"
+msgstr "Поле \"повторите новый пароль\" не заполнено"
+
+msgid "Password does not match"
+msgstr "Пароли не совпадают"
+
+msgid "Email field is empty or incorrect"
+msgstr "Поле \"email\" не заполнено или неверно"
+
+msgid "Email already in use"
+msgstr "Email адрес занят"
+
+msgid "Email field is incorrect"
+msgstr "Поле \"email\" указано неверно"
+
+msgid "Login field is empty"
+msgstr "Поле \"логин\" не заполнено"
+
+msgid "Email field is empty"
+msgstr "Поле \"email\" не заполнено"
+
+msgid "login_already_in_use"
+msgstr "Логин занят"
+
+msgid "login_metamask_not_allowed"
+msgstr "Авторизация через MetaMask отключена"
+
+msgid "register_metamask_not_allowed"
+msgstr "Регистрация через MetaMask отключена"
+
+msgid "phone_empty"
+msgstr "Телефон не указан"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Телефонный номер некорректен. Должен быть"
+
+msgid "Phone number too long"
+msgstr "Телефонный номер слишком большой"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Некорректный телефонный номер: использованы недопустимые символы."
+
+#, fuzzy
+msgid "new_pass_less_5_symbols"
+msgstr "Новый пароль меньше 6 символов"
+
+msgid "new_pass_less_6_symbols"
+msgstr "Новый пароль меньше 6 символов"
+
+msgid "first_name_empty"
+msgstr "Имя не указано"
+
+msgid "last_name_empty"
+msgstr "Фамилия не указана"
+
+msgid "New email field is incorrect"
+msgstr "Поле \"email\" указано неверно"
+
+msgid "User verification failed"
+msgstr "Ошибка проверки пользователя"
+
+msgid "authorization_error_sms"
+msgstr ""
+"Неверно введен номер телефона и/или код подтверждения. Ошибка авторизации"
+
+#, fuzzy
+msgid "Invalid signature"
+msgstr "Неверный номер получателя"
+
+msgid "authorization_error"
+msgstr "Неверно введен адрес эл.почты/логин или пароль. Ошибка авторизации"
+
+msgid "You have to verify your email first"
+msgstr "Пожалуйста, подтвердите адрес электронной почты"
+
+msgid "password_expired"
+msgstr "Срок дейставия вашего пароля истек, пожалуйста создайте новый пароль."
+
+msgid "registration_in_progress"
+msgstr "Регистрация в процессе"
+
+msgid "user_disabled"
+msgstr "Пользователь отключен"
+
+msgid "Access forbidden"
+msgstr ""
+
+msgid "Email field incorrect"
+msgstr "Поле \"email\" заполнено некорректно"
+
+msgid "email_empty_incorrect"
+msgstr "Поле \"email\" заполнено некорректно"
+
+#, fuzzy
+msgid "pass_less_5_symbols"
+msgstr "Пароль меньше 6 символов"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Пароль может содержать только буквы латинского алфавита, цифры и спецсимволы"
+
+msgid "currency_not_set"
+msgstr "Валюта не указана"
+
+msgid "Currency field is invalid"
+msgstr "Валюта указана неверно"
+
+msgid "reg_promo_is_invalid"
+msgstr "Неверный промокод"
+
+msgid "email_already_registered"
+msgstr "Эл. почта уже используется"
+
+msgid "login_already_registered"
+msgstr "Логин уже зарегистрирован"
+
+msgid "Phone number already registered"
+msgstr "Пользователь с таким номером телефона уже зарегистрирован"
+
+msgid "ip_fraud_blacklist"
+msgstr "IP адрес в черном списке"
+
+msgid "ip_fraud_check_error"
+msgstr "IP адрес не прошел проверку"
+
+msgid "Phone is already registered"
+msgstr "Номер телефона уже зарегистрирован"
+
+msgid "sms_registration"
+msgstr ""
+"Логин: %s \n"
+"Пароль: %s \n"
+"Желаем приятной игры!"
+
+msgid "Activate your account"
+msgstr "Активируйте Ваш аккаунт"
+
+msgid "Registration confirmation is in progress"
+msgstr "Подтверждение регистрации в процессе"
+
+#, fuzzy
+
+msgid "Unknown status"
+msgstr "Неизвестный статус"
+
+msgid "first name"
+msgstr "имя"
+
+msgid "last name"
+msgstr "фамилия"
+
+msgid "birth date"
+msgstr "дата рождения"
+
+msgid "sex"
+msgstr "пол"
+
+msgid "country"
+msgstr "страна"
+
+msgid "phone number"
+msgstr "телефонный номер"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "Для смены поля %s напишите в техническую поддержку "
+msgstr[1] "Для смены полей %s напишите в техническую поддержку "
+msgstr[2] "Для смены полей %s напишите в техническую поддержку "
+
+#, fuzzy
+msgid "message is required"
+msgstr "Адрес обязателен"
+
+#, fuzzy
+msgid "address is required"
+msgstr "Адрес обязателен"
+
+#, fuzzy
+msgid "signature is required"
+msgstr "Фамилия обязательна"
+
+#, fuzzy
+msgid "Wrong signature"
+msgstr "Неверный контент"
+
+msgid "Email has invalid format"
+msgstr "Поле \"email\" заполнено некорректно"
+
+msgid "Repeat password field is empty"
+msgstr "Поле \"новый пароль\" не заполнено"
+
+msgid "First name field is empty"
+msgstr "Имя не указано"
+
+msgid "First name must contain only letters"
+msgstr ""
+
+msgid "Last name field is empty"
+msgstr "Фамилия не указана"
+
+#, fuzzy
+msgid "Last name must contain only letters"
+msgstr "Пароль должен содержать буквы и цифры"
+
+msgid "Gender field is empty"
+msgstr "Пол не указан"
+
+msgid "Gender unallowed value"
+msgstr ""
+
+msgid "Currency field is empty"
+msgstr "Валюта не указана"
+
+msgid "Country code is empty"
+msgstr "Код страны не указан"
+
+msgid "Country code is invalid"
+msgstr "Некорректный код страны"
+
+msgid "Phone code is empty"
+msgstr "Телефонный код не указан"
+
+msgid "Phone number field is empty"
+msgstr "Телефон не указан"
+
+msgid "Phone number invalid format"
+msgstr "Неверный формат телефонного номера"
+
+msgid "Validation code is empty"
+msgstr "Код не указан"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "Пароль должен быть не менее 6 символов"
+
+msgid "Wrong IBAN number"
+msgstr "Неверный номер IBAN"
+
+msgid "Wrong SWIFT number"
+msgstr "Неверный номер SWIFT"
+
+msgid "ID Number is not unique"
+msgstr ""
+
+msgid "Password field is empty"
+msgstr "Поле \"пароль\" не заполнено"
+
+msgid "New password field is empty"
+msgstr "Поле \"новый пароль\" не заполнено"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Пароль должен быть не менее 6 символов"
+
+msgid "New password strength is weak"
+msgstr "Пароль недостаточно надёжен"
+
+msgid "Password strength is weak"
+msgstr "Пароль недостаточно надёжен"
+
+msgid "An account with such personal details already exists"
+msgstr "Аккаунт с такими личными данными уже существует"
+
+msgid "Login is already registered"
+msgstr "Логин уже зарегистрирован"
+
+msgid "Email is already registered"
+msgstr "Email уже зарегистрирован"
+
+msgid "FieldsEmpty"
+msgstr "Данные поля должны быть заполнены: "
+
+msgid "firstName"
+msgstr "имя"
+
+msgid "lastName"
+msgstr "фамилия"
+
+msgid "city"
+msgstr "город"
+
+msgid "address"
+msgstr "адрес"
+
+msgid "dateOfBirth"
+msgstr "дата рождения"
+
+msgid "countryCode"
+msgstr "страна"
+
+msgid "stateCode"
+msgstr "штат"
+
+msgid "Nickname already exist"
+msgstr "Этот никнейм уже используется"
+
+msgid "Chat user not found"
+msgstr "Данные о никнейме не найдены"
+
+msgid "User nickname contains invalid symbols"
+msgstr "Никнейм пользователя содержит недопустимые символы: &,',\",@,/,:,<,>,\\n,\\t,\\r, ,!,?,.,,"
+
+msgid "User nickname creation error"
+msgstr "Ошибка создания никнейма пользователя"
+
+msgid "User nickname updating error"
+msgstr "Ошибка обновления никнейма пользователя"
+
+msgid "Response-hash does not match the request or is missing"
+msgstr "Response-hash does not match the request or is missing"
+
+msgid "One or more required agreements are not selected"
+msgstr "Одно или несколько требуемых соглашений не выбраны"
+
+msgid "User currency could not be changed"
+msgstr "Нельзя изменить валюту игрока"
+
+msgid "Invalid country state"
+msgstr "Некорректный код штата"
+
+msgid "State code is empty"
+msgstr "Код шатата/региона не указан"
+
+msgid "No states allowed"
+msgstr "Нет доступных штатов"
+
+msgid "Date of birth must not be earlier than 1900-01-01 and user must be at least 18 years old"
+msgstr "Дата рождения должна быть не ранее 1900-01-01 и игроку должно быть не менее 18 лет"
+
+msgid "Date of birth must not be earlier than 1900-01-01"
+msgstr "Дата рождения должна быть не ранее 1900-01-01"
+
+#, fuzzy
+#~ msgid "unknown_device_HELLO_message"
+#~ msgstr ""
+#~ "Вы пытаетесь войти с неизвестного устройства:\n"
+#~ "Местоположение: %s\n"
+#~ "IP-адрес: %s\n"
+#~ "Устройство: %s\n"
+#~ "Код подтверждения нового устройства был выслан на Ваш email"
+
+msgid "Gift"
+msgstr "Подарок"
+
+msgid "Gifts disabled for this stall"
+msgstr "Подарки отключены для данного сайта"
+
+msgid "The gift amount limit has been exceeded"
+msgstr "Превышен лимит суммы подарка"
+
+msgid "Bonus unavailable"
+msgstr "Бонус недоступен"
+
+msgid "Transaction error"
+msgstr "Ошибка транзакции"
+
+msgid "Empty or wrong type field"
+msgstr "Пустое или неверное поле type"
+
+msgid "Empty amount field"
+msgstr "Пустое поле amount"
+
+msgid "Empty email"
+msgstr "Email не заполнен"
+
+msgid "Please, check the field \"Recipient e-mail\""
+msgstr "Проверьте правильность написания почты получателя"
+
+msgid "To send a gift kindly confirm your e-mail"
+msgstr "Для отправления подарка подтвердите почту"
+
+msgid "To send a gift kindly confirm your phone number"
+msgstr "Для отправления подарка подтвердите телефон"
+
+msgid "Only verified players can send a gift"
+msgstr "Подарок могут отправлять только верифицированные игроки"
+
+msgid "Gifts can only be sent to verified users"
+msgstr "Подарки могут отправляться только верифицированным игрокам"
+
+msgid "To send a gift, the recipient's e-mail must be confirmed"
+msgstr "Для отправления подарка почта получателя должна быть подтверждена"
+
+msgid "Not enough money on the account"
+msgstr "Недостаточно средств"
+
+msgid "Message sent, confirmation code will be available for %d seconds"
+msgstr "Сообщение отправлено, код подтверждения будет доступен в течение %d секунд"
+
+msgid "You cannot send a gift to yourself"
+msgstr "Нельзя отправить подарок самому себе"
+
+msgid "Gift sent"
+msgstr "Подарок отправлен"
+
+msgid "Sms provider not found"
+msgstr "SMS-провайдер не найден"
+
+msgid "Item temporarily unavailable"
+msgstr "Товар временно недоступен"
+
+msgid "Too many requests to api/v1/supportEmail"
+msgstr "Ошибка отправки формы. Превышен лимит запросов."
+
+msgid "The gift cannot be sent to this player"
+msgstr "Подарок не может быть отправлен данному игроку"
+
+msgid "Failed to send confirmation code"
+msgstr "Не удалось отправить код подтверждения"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Ошибка события бонуса у товара"
+
+msgid "CPF field is empty"
+msgstr "Поле CPF обязательно"
+
+msgid "Wrong CPF number format"
+msgstr "Неверный формат поля CPF"
+
+msgid "CNP field is empty"
+msgstr "Поле \"CNP\" не заполнено"
+
+msgid "Wrong CNP number format"
+msgstr "Неверный формат поля \"CNP\""
+
+msgid "CNP number already registered"
+msgstr "Пользователь c таким номером CNP уже зарегистрирован"
+
+msgid "CPF number already registered"
+msgstr "Пользователь c таким номером CPF уже зарегистрирован"
+
+msgid "The following fields cannot be changed: "
+msgstr "Следующие поля не могут быть изменены: "
+
+msgid "emailForbidden"
+msgstr "Email"
+
+msgid "firstNameForbidden"
+msgstr "Имя"
+
+msgid "lastNameForbidden"
+msgstr "Фамилия"
+
+msgid "genderForbidden"
+msgstr "Пол"
+
+msgid "birthDayForbidden"
+msgstr "День рождения"
+
+msgid "birthMonthForbidden"
+msgstr "Месяц рождения"
+
+msgid "birthYearForbidden"
+msgstr "Год рождения"
+
+msgid "phoneForbidden"
+msgstr "Телефон"
+
+msgid "cityForbidden"
+msgstr "Город"
+
+msgid "addressForbidden"
+msgstr "Адрес"
+
+msgid "countryCodeForbidden"
+msgstr "Страна"
+
+msgid "phoneNumberForbidden"
+msgstr "Телефон"
+
+msgid "cpfForbidden"
+msgstr "CNP"
+
+msgid "The user has already joined the wheel"
+msgstr "Пользователь уже присоединился к колесу"
+
+msgid "The wheel timer is not over yet"
+msgstr "Таймер колеса ещё не истёк"
+
+msgid "Insufficient number of participants"
+msgstr "Недостаточное количество участников"
+
+msgid "Stream wheel not allowed"
+msgstr "Колесо для стрима запрещено"
+
+msgid "No stream wheel found"
+msgstr "Колесо для стрима не найдено"
+
+msgid "Wheel not found"
+msgstr "Колесо не найдено"
+
+msgid "Wheel is cancelled"
+msgstr "Колесо было отменено"
+
+msgid "Already have an active wheel"
+msgstr "У вас уже есть активное колесо"
+
+msgid "Wrong currency"
+msgstr "Неверная валюта"
+
+msgid "As per our rules, you can create %s withdrawal requests in a day. Please, wait for the following date/time: %s"
+msgstr "Согласно нашим правилам, вы можете создавать %s запросов на вывод средств в день. Пожалуйста, подождите до следующей даты/времени: %s"
+
+msgid "You have exceeded the limit on the amount in withdrawal requests. Please, wait for the following date/time: %s"
+msgstr "Вы превысили лимит по сумме в запросах на вывод средств. Пожалуйста, подождите до следующей даты/времени: %s"
+
+#~ msgid "Please, verify your email to log in to the site"
+#~ msgstr "Пожалуйста, подтвердите свою эл. почту для входа на сайт"
+
+#~ msgid "Day"
+#~ msgstr "окончания дневного ограничения"
+
+#~ msgid "Week"
+#~ msgstr "окончания недельного ограничения"
+
+#~ msgid "Month"
+#~ msgstr "окончания месячного ограничения"
+
+#~ msgid "User must be at least 18 years old"
+#~ msgstr "Пользователь должен быть старше 18 лет"
+
+msgid "Limits can be increased no more than once every 7 days. Try again at the earliest X"
+msgstr "Лимиты не могут быть изменены чаще, чем раз в неделю. Попробуйте снова не ранее %s"
+
+msgid "Something went wrong during login process. Please check the correctness of the entered data and try again."
+msgstr "Ошибка авторизации. Проверьте корректность введённых данных и попробуйте ещё раз."
+
+msgid "Login attempt has been prevented"
+msgstr "Предотвращена попытка входа в аккаунт"
+
+msgid "cookie_protection_message"
+msgstr ""
+"<tr>Была предотвращена попытка входа с нового устройства.</tr>"
+"<tr>User agent: %s</tr>"
+"<tr>Время: %s</tr>"
+"<tr>IP-адрес: %s</tr>"
+"<tr></tr>"
+"<tr>Если это были не вы, рекомендуем изменить пароль, чтобы защитить аккаунт.</tr>"
+
+#~ msgid "Location restriction"
+#~ msgstr "Ограничение по стране"
+
+#, fuzzy
+#~ msgid "Not in a restricted region"
+#~ msgstr "Ограничение по стране"
+
+#~ msgid "First name is required"
+#~ msgstr "Имя обязательно"
+
+#~ msgid "Birth year is required"
+#~ msgstr "Год рождения обязателен"
+
+#~ msgid "Birth month is required"
+#~ msgstr "Месяц рождения обязателен"
+
+#~ msgid "Birth day is required"
+#~ msgstr "День рождения обязателен"
+
+#~ msgid "Country is required"
+#~ msgstr "Страна обязательна"
+
+#~ msgid "City is required"
+#~ msgstr "Город обязателен"
+
+#~ msgid "Cashback not available"
+#~ msgstr "Кешбэк недоступен"
+
+#~ msgid "Withdraw is not available because bonus is not won back"
+#~ msgstr ""
+#~ "Вывод средств недоступен - у вас есть активный бонус, запрещающий вывод "
+#~ "средств"
+
+#~ msgid "Awaiting limits information"
+#~ msgstr ""
+#~ "Пожалуйста, попробуйте позднее, так как мы всё ещё ожидаем информацию по "
+#~ "текущим лимитам вывода средств"
+
+#~ msgid "Bonus selection is already in process"
+#~ msgstr "Подписка на бонус уже обрабатывается"
+
+#~ msgid "Wrong merchant access"
+#~ msgstr "Неверный доступ к провайдеру"
+
+#~ msgid "cancel_error"
+#~ msgstr "Ошибка отмены"
+
+#~ msgid "select_error"
+#~ msgstr "Ошибка выбора"

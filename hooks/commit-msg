@@ -1,0 +1,20 @@
+#!/bin/bash
+#
+
+# Test message for correct formatting
+function run_messagecheck
+{
+    test "" != "$(grep -Eq '^(Release |Updated for release |SCR #[0-9]+ - .+)' $1 && echo 'match')"  || {
+	echo >&2 "Invalid commit message for pattern: ^(Release |Updated for release |SCR #[0-9]+ - .+)"
+	exit 1
+    }
+}
+
+case "${1}" in
+    --about )
+        echo -n "Checks for correct commit message format."
+        ;;
+    * )
+        run_messagecheck "$@"
+        ;;
+esac

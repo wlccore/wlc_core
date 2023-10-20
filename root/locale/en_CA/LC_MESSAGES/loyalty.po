@@ -1,0 +1,357 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2018-03-01 14:51+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Set transaction type"
+msgstr "Set transaction type"
+
+msgid "No user id"
+msgstr "No user id"
+
+msgid "No amount"
+msgstr "No amount"
+
+msgid "No loyalty record"
+msgstr "No loyalty record"
+
+msgid "Wrong request path"
+msgstr "Wrong request path"
+
+msgid "Debet amount to big"
+msgstr "Debet amount to big"
+
+msgid "Wrong transaction type"
+msgstr "Wrong transaction type"
+
+msgid "Awaiting limits information"
+msgstr "Awaiting limits information"
+
+msgid "Wrong currency"
+msgstr "Wrong currency"
+
+msgid "Non existent level"
+msgstr "Non existent level"
+
+msgid "No points"
+msgstr "No points"
+
+msgid "Set loyalty level"
+msgstr "Set loyalty level"
+
+msgid "No bet"
+msgstr "No bet"
+
+msgid "No ID user"
+msgstr "No ID user"
+
+msgid "No ID bonus"
+msgstr "No ID bonus"
+
+msgid "Wrong amount"
+msgstr "Wrong amount"
+
+msgid "No bonus ID"
+msgstr "No bonus ID"
+
+msgid "No user ID"
+msgstr "No user ID"
+
+msgid "Wrong date format"
+msgstr "Wrong date format"
+
+msgid "Date must not be today"
+msgstr "Date must not be today"
+
+msgid "No bonus id"
+msgstr "No bonus id"
+
+msgid "No status"
+msgstr "No status"
+
+msgid "Bonus not found"
+msgstr "Bonus not found"
+
+msgid "Already have active"
+msgstr "Already have active"
+
+msgid "Bonus is not available"
+msgstr "Bonus is not available"
+
+msgid "First deposit, already deposited"
+msgstr "First deposit, already deposited"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Dont satisfy bonus conditions"
+
+msgid "Bonus used"
+msgstr "Bonus used"
+
+msgid "Promo code needed"
+msgstr "Promo code needed"
+
+msgid "Wrong promo code"
+msgstr "Wrong promo code"
+
+msgid "User ID not set"
+msgstr "User ID not set"
+
+msgid "Wrong bonus results value"
+msgstr "Wrong bonus results value"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Wrong bonus results freerounds value"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Wrong bonus results award wagering"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Wrong bonus results chunk size"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Wrong bonus results release wagering"
+
+msgid "Bonus name required"
+msgstr "Bonus name required"
+
+msgid "Wrong bonus event"
+msgstr "Wrong bonus event"
+
+msgid "Wrong bonus type"
+msgstr "Wrong bonus type"
+
+msgid "Wrong bonus repeat period"
+msgstr "Wrong bonus repeat period"
+
+msgid "Wrong bonus expire period"
+msgstr "Wrong bonus expire period"
+
+msgid "Wrong bonus budget"
+msgstr "Wrong bonus budget"
+
+msgid "Wrong bonus start date"
+msgstr "Wrong bonus start date"
+
+msgid "Wrong bonus end date"
+msgstr "Wrong bonus end date"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Wrong bonus start date more than end date"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Wrong bonus conditions amount min"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Wrong bonus conditions amount max"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Wrong bonus conditions amount min more than amount max"
+
+msgid "Following codes are duplicated"
+msgstr "Following codes are duplicated"
+
+msgid "Bonus name already exists"
+msgstr "Bonus name already exists"
+
+msgid "Wrong bonus ID"
+msgstr "Wrong bonus ID"
+
+msgid "Activated bonuses"
+msgstr "Activated bonuses"
+
+msgid "Can't delete"
+msgstr "Can't delete"
+
+msgid "No bonus"
+msgstr "No bonus"
+
+msgid "Wrong store action"
+msgstr "Wrong store action"
+
+msgid "No order id"
+msgstr "No order id"
+
+msgid "Order not found"
+msgstr "Order not found"
+
+msgid "No item id"
+msgstr "No item id"
+
+msgid "User not found"
+msgstr "User not found"
+
+msgid "Item not found"
+msgstr "Item not found"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Item price not set for currency: LOYALTY"
+
+msgid "Not enough loyalty points"
+msgstr "Not enough loyalty points"
+
+msgid "Item out of stock"
+msgstr "Item out of stock"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Wrong BonusEventAmount of item"
+
+msgid "User not found in tournament"
+msgstr "User not found in tournament"
+
+msgid "Set codes count"
+msgstr "Set codes count"
+
+msgid "Set batch name"
+msgstr "Set batch name"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Codes count exceeds 300 000"
+
+msgid "Wrong batch ID"
+msgstr "Wrong batch ID"
+
+msgid "Codes not set"
+msgstr "Codes not set"
+
+msgid "Modificator not found"
+msgstr "Modificator not found"
+
+msgid "Set coefficient"
+msgstr "Set coefficient"
+
+msgid "Set name"
+msgstr "Set name"
+
+msgid "No levels defined"
+msgstr "No levels defined"
+
+msgid "Level not found"
+msgstr "Level not found"
+
+msgid "Bad cronjob"
+msgstr "Bad cronjob"
+
+msgid "No category ID"
+msgstr "No category ID"
+
+msgid "Category not found"
+msgstr "Category not found"
+
+msgid "No category name"
+msgstr "No category name"
+
+msgid "Wrong category ID"
+msgstr "Wrong category ID"
+
+msgid "No category id"
+msgstr "No category id"
+
+msgid "No item ID"
+msgstr "No item ID"
+
+msgid "Wrong item ID"
+msgstr "Wrong item ID"
+
+msgid "Item init error"
+msgstr "Item init error"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Wrong item BonusEventAmount"
+
+msgid "No item"
+msgstr "No item"
+
+msgid "Wrong tournament ID"
+msgstr "Wrong tournament ID"
+
+msgid "Wrong Tournament ID"
+msgstr "Wrong Tournament ID"
+
+msgid "No ID tournament"
+msgstr "No ID tournament"
+
+msgid "No tournament ID"
+msgstr "No tournament ID"
+
+msgid "No tournament id"
+msgstr "No tournament id"
+
+msgid "No balance"
+msgstr "No balance"
+
+msgid "Not enough balance"
+msgstr "Not enough balance"
+
+msgid "Tournament name required"
+msgstr "Tournament name required"
+
+msgid "Wrong tournament winner by"
+msgstr "Wrong tournament winner by"
+
+msgid "Wrong tournament period"
+msgstr "Wrong tournament period"
+
+msgid "Wrong tournament repeat"
+msgstr "Wrong tournament repeat"
+
+msgid "Wrong tournament start date"
+msgstr "Wrong tournament start date"
+
+msgid "Tournament not found"
+msgstr "Tournament not found"
+
+msgid "Activated Tournaments"
+msgstr "Activated Tournaments"
+
+msgid "No tournament"
+msgstr "No tournament"
+
+msgid "Wrong event type"
+msgstr "Wrong event type"
+
+msgid "No event id"
+msgstr "No event id"
+
+msgid "Empty data"
+msgstr "Empty data"
+
+msgid "No data"
+msgstr "No data"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonuses are forbidden for user"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Tournaments are forbidden for user"
+
+msgid "Bonus pending cancellation"
+msgstr "Bonus pending cancellation"
+
+msgid "Cancel not supported"
+msgstr "Cancel not supported"
+
+msgid "Awaiting limits information, try later"
+msgstr "Awaiting limits information, try later"
+
+msgid "Error cancellation of the bonus"
+msgstr "Error cancellation of the bonus"
+
+msgid "Purchase is not possible - the item has been disabled"
+msgstr "Purchase is not possible - the item has been disabled"
+
+msgid "Purchase is not possible - the item has been deleted"
+msgstr "Purchase is not possible - the item has been deleted"

@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Project-Id-Version: T\n"
+"Language: tr\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "Set transaction type"
+msgstr "İşlem türünü belirle"
+
+msgid "No user id"
+msgstr "Kullanıcı ID yok"
+
+msgid "No amount"
+msgstr "Miktar yok"
+
+msgid "No loyalty record"
+msgstr "Sadakat (loyalty) kaydı bulunamadı"
+
+msgid "Wrong request path"
+msgstr "Yanlış talep yolu"
+
+msgid "Debet amount to big"
+msgstr ""
+
+msgid "Wrong transaction type"
+msgstr "Yanlış işlem türü"
+
+msgid "Awaiting limits information"
+msgstr "Limit bilgileri bekleniyor"
+
+msgid "Wrong currency"
+msgstr "Yanlış para birimi"
+
+msgid "Non existent level"
+msgstr "Böyle bir seviye yok"
+
+msgid "No points"
+msgstr "Puan yok"
+
+msgid "Set loyalty level"
+msgstr "Sadakat (loyalty) seviyesini belirle"
+
+msgid "No bet"
+msgstr "Bahis yok"
+
+msgid "No ID user"
+msgstr "ID kullanıcı yok"
+
+msgid "No ID bonus"
+msgstr "ID bonusu yok"
+
+msgid "Wrong amount"
+msgstr "Yanlış tutar"
+
+msgid "No bonus ID"
+msgstr "Bonus ID yok"
+
+msgid "No user ID"
+msgstr "Kullanıcı ID yok"
+
+msgid "Wrong date format"
+msgstr "Yanlış tarih formatı"
+
+msgid "Date must not be today"
+msgstr "Tarih bugün olmamalı"
+
+msgid "No bonus id"
+msgstr "Bonus ID yok"
+
+msgid "No status"
+msgstr "Durum mevcut değil"
+
+msgid "Bonus not found"
+msgstr "Bonus bulunamadı"
+
+msgid "Already have active"
+msgstr "Aktif olarak mevcut"
+
+msgid "Bonus is not available"
+msgstr "Bonus mevcut değil"
+
+msgid "First deposit, already deposited"
+msgstr "İlk yatırma zaten yapıldı"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Bonus kriterlerini karşılamıyor"
+
+msgid "Bonus used"
+msgstr "Bonus kullanıldı"
+
+msgid "Promo code needed"
+msgstr "Promosyon kodu gerekli"
+
+msgid "Wrong promo code"
+msgstr "Hatalı promosyon kodu"
+
+msgid "User ID not set"
+msgstr "Kullanıcı ID belirlenmedi"
+
+msgid "Wrong bonus results value"
+msgstr "Yanlış bonus sonuç değeri"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Yalnış bonus sonucu ücretsiz hak değeri"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Yanlış bonus sonucu ödül bahsi"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Yanlış bonus sonucu parça değeri"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Yanlış bonus sonucu bahis salma"
+
+msgid "Bonus name required"
+msgstr "Bonus adı gerekli"
+
+msgid "Wrong bonus event"
+msgstr "Yanlış bonus etkinliği"
+
+msgid "Wrong bonus type"
+msgstr "Yanlış bonus türü"
+
+msgid "Wrong bonus repeat period"
+msgstr "Yanlış bonus tekrar periyodu"
+
+msgid "Wrong bonus expire period"
+msgstr "Yanlış bonus kullanım süresi"
+
+msgid "Wrong bonus budget"
+msgstr "Yanlış bonus bütçesi"
+
+msgid "Wrong bonus start date"
+msgstr "Yanlış bonus başlangıç tarihi"
+
+msgid "Wrong bonus end date"
+msgstr "Yanlış bonus bitiş tarihi"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Bonus başlangıç tarihi bitiş tarihinden sonra"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Yanlış min bonus miktarı koşulları"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Yanlış maks bonus miktarı koşulları"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Yanlış bonus kriteri: min tutar maks tutardan fazla"
+
+msgid "Following codes are duplicated"
+msgstr "Belirtilen kodlar iki kez girilmiştir"
+
+msgid "Bonus name already exists"
+msgstr "Bonus adı zaten mevcut"
+
+msgid "Wrong bonus ID"
+msgstr "Yanlış bonus ID"
+
+msgid "Activated bonuses"
+msgstr "Aktif bonuslar"
+
+msgid "Can't delete"
+msgstr "Silinemez"
+
+msgid "No bonus"
+msgstr "Bonus yok"
+
+msgid "Wrong store action"
+msgstr "Yanlış mağaza eylemi"
+
+msgid "No order id"
+msgstr "İşlem ID yok"
+
+msgid "Order not found"
+msgstr "İşlem bulunamadı"
+
+msgid "No item id"
+msgstr "Öge ID yok"
+
+msgid "User not found"
+msgstr "Kullanıcı bulunamadı"
+
+msgid "Item not found"
+msgstr "Öge bulunamadı"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Öge fiyatı para birimi için ayarlanmadı: SADAKAT"
+
+msgid "Not enough loyalty points"
+msgstr "Yeterli sadakat puanı yok"
+
+msgid "Item out of stock"
+msgstr "Öge stokta yok"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr ""
+
+msgid "User not found in tournament"
+msgstr "Kullanıcı turnuvada bulunamadı"
+
+msgid "Set codes count"
+msgstr "Kod sayılarını belirle"
+
+msgid "Set batch name"
+msgstr "Grup adı belirle"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Kod sayısı 300.000'i aşıyor"
+
+msgid "Wrong batch ID"
+msgstr "Yanlış grup ID"
+
+msgid "Codes not set"
+msgstr "Kodlar belirlenmemiş"
+
+msgid "Modificator not found"
+msgstr "Dönüştürücü bulunamadı"
+
+msgid "Set coefficient"
+msgstr "Katsayı belirle"
+
+msgid "Set name"
+msgstr "Ad belirle"
+
+msgid "No levels defined"
+msgstr "Seviyeler tanımlanmadı"
+
+msgid "Level not found"
+msgstr "Seviye bulunamadı"
+
+msgid "Bad cronjob"
+msgstr ""
+
+msgid "No category ID"
+msgstr "Kategori ID yok"
+
+msgid "Category not found"
+msgstr "Kategori bulunamadı"
+
+msgid "No category name"
+msgstr "Kategori adı yok"
+
+msgid "Wrong category ID"
+msgstr "Yanlış kategori ID"
+
+msgid "No category id"
+msgstr "Kategori ID yok"
+
+msgid "No item ID"
+msgstr "Öge ID yok"
+
+msgid "Wrong item ID"
+msgstr "Yanlış öge ID"
+
+msgid "Item init error"
+msgstr "Öge başlangıç hatası"
+
+msgid "Wrong item BonusEventAmount"
+msgstr ""
+
+msgid "No item"
+msgstr "Öge yok"
+
+msgid "Wrong tournament ID"
+msgstr "Yanlış turnuva ID"
+
+msgid "Wrong Tournament ID"
+msgstr "Yanlış Turnuva ID"
+
+msgid "No ID tournament"
+msgstr "Turnuva ID yok"
+
+msgid "No tournament ID"
+msgstr "Turnuva ID yok"
+
+msgid "No tournament id"
+msgstr "Turnuva ID yok"
+
+msgid "No balance"
+msgstr "Bakiye yok"
+
+msgid "Not enough balance"
+msgstr "Yeterli bakiye yok"
+
+msgid "Tournament name required"
+msgstr "Turnuva adı gerekli"
+
+msgid "Wrong tournament winner by"
+msgstr "Yanlış turnuva kazananı"
+
+msgid "Wrong tournament period"
+msgstr "Yanlış turnuva periyodu"
+
+msgid "Wrong tournament repeat"
+msgstr "Yanlış turnuva tekrarı"
+
+msgid "Wrong tournament start date"
+msgstr "Yanlış turnuva başlangıç tarihi"
+
+msgid "Tournament not found"
+msgstr "Turnuva bulunamadı"
+
+msgid "Activated Tournaments"
+msgstr "Aktif turnuvalar"
+
+msgid "No tournament"
+msgstr "Turnuva yok"
+
+msgid "Wrong event type"
+msgstr "Yanlış etkinlik türü"
+
+msgid "No event id"
+msgstr "Etkinlik ID yok"
+
+msgid "Empty data"
+msgstr "Boş veri"
+
+msgid "No data"
+msgstr "Veri yok"

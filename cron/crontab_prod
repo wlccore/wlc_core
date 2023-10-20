@@ -1,0 +1,2 @@
+*/10 * * * * cd /www/$SITEDIR/current && php$PHP_VERSION -q roots/index.php runcron > /tmp/runcron_$SITEDIR.log
+

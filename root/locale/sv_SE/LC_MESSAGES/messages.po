@@ -1,0 +1,1486 @@
+# English translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.0.389\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: 2019-01-24 14:24+0200\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Lägg till vår e-postadress i din adressbok så att du inte missar någon "
+"viktig information från"
+
+msgid "Congratulations,"
+msgstr "Grattis,"
+
+msgid "Dear"
+msgstr "Hej"
+
+msgid "Deposit confirmation"
+msgstr "Bekräftelse på insättning"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Din insättning har nu gjorts. Ditt saldo"
+
+msgid "Finish registration link"
+msgstr "Länk för att slutföra registreringen"
+
+msgid "Greeting."
+msgstr "Hälsning."
+
+msgid "Hello"
+msgstr "Hej"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "Om detta mejl inte visas korrekt, öppna det i din webbläsare."
+
+msgid "If you have any questions, please contact"
+msgstr "Om du har några frågor, vänligen kontakta"
+
+msgid "Link will be available for 30 minutes."
+msgstr "Länk är tillgänglig i 30 minuter."
+
+msgid "Login"
+msgstr "Inloggning"
+
+msgid "Password"
+msgstr "Lösenord"
+
+msgid "Password restore"
+msgstr "Återställning av lösenord"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Vänligen klicka på länken nedan för att slutföra registreringen:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Vänligen svara ej på detta mejl. Det här mejlet genereras automatiskt så du "
+"kommer inte att få något svar."
+
+msgid "Registration confirmation"
+msgstr "Bekräftelse på registrering"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Återställ ditt lösenord genom att klicka på länken nedan."
+
+msgid "Social registration confirmation"
+msgstr "Bekräftelse på registrering av socialt konto"
+
+msgid "Thank you for validating your account."
+msgstr "Tack för att du validerar ditt konto."
+
+msgid "Thanks for registration on the website!"
+msgstr "Tack för att du registrerar dig på hemsidan!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "För att slutföra kopplingen av dina konton, använd följande länk:"
+
+msgid "Welcome to"
+msgstr "Välkommen till"
+
+msgid "With respect"
+msgstr "Med vänliga hälsningar"
+
+msgid "You asked to link new social account to your current account"
+msgstr ""
+"Du har begärt om att få koppla ett nytt socialt konto till ditt nuvarande "
+"konto"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr "Du har tagit det första steget mot ett fantastisk speläventyr    med"
+
+msgid "casino_footer_copyright"
+msgstr "Casino footer copyright"
+
+msgid "casino_mail_info"
+msgstr "Kasino - mejlinformation"
+
+msgid "online support"
+msgstr "onlinesupport"
+
+msgid "controller_does_not_exists"
+msgstr "Kontrollanten existerar inte"
+
+msgid "social_not_found"
+msgstr "Socialt konto existerar inte"
+
+msgid "purchase_error"
+msgstr "Fel vid köp"
+
+msgid "game_added_to_favorites"
+msgstr "Spelet har lagts till i favoriter"
+
+#, fuzzy
+msgid "game_deleted_from_favorites"
+msgstr "Spelet har tagits bort från favoriter"
+
+msgid "must_login"
+msgstr "Du måste logga in"
+
+msgid "No bonus name"
+msgstr "Bonusnamn saknas"
+
+msgid "No bonus descripton"
+msgstr "Bonusbeskrivning saknas"
+
+msgid "No user id"
+msgstr "Användar-ID saknas"
+
+msgid "No bonus id"
+msgstr "Bonus-ID saknas"
+
+msgid "No status"
+msgstr "Okänd status"
+
+msgid "Bonus not found"
+msgstr "Bonusen kunde inte hittas"
+
+msgid "Already have active"
+msgstr "Redan aktiv"
+
+msgid "Bonus is not available"
+msgstr "Bonusen är inte tillgänglig"
+
+msgid "First deposit, already deposited"
+msgstr "Första insättningen har redan gjorts"
+
+msgid "No loyalty record"
+msgstr "Lojalitetslista saknas"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Uppfyller inte bonusvillkoren"
+
+msgid "Bonus used"
+msgstr "Bonus förbrukad"
+
+msgid "Promo code needed"
+msgstr "Kampanjkod är obligatorisk"
+
+msgid "Wrong promo code"
+msgstr "Ogiltig kampanjkod"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonusar är inte tillåtna för användaren"
+
+msgid "Already have an active bonus"
+msgstr "Har redan en aktiv bonus"
+
+msgid "registration"
+msgstr "registrering"
+
+msgid "verification"
+msgstr "verifiering"
+
+msgid "sign up"
+msgstr "registrera dig"
+
+msgid "store"
+msgstr "butik"
+
+msgid "login"
+msgstr "inloggning"
+
+msgid "deposit"
+msgstr "insättning"
+
+msgid "deposit first"
+msgstr "insättning först"
+
+msgid "deposit sum"
+msgstr "insättningsbelopp"
+
+msgid "deposit repeated"
+msgstr "insättning upprepad"
+
+msgid "bet"
+msgstr "insats"
+
+msgid "bet sum"
+msgstr "insatsbelopp"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "insättningsbelopp"
+
+msgid "once"
+msgstr "en gång"
+
+msgid "day"
+msgstr "dag"
+
+msgid "week"
+msgstr "vecka"
+
+msgid "month"
+msgstr "månad"
+
+msgid "all"
+msgstr "alla"
+
+msgid "bonus"
+msgstr "bonus"
+
+msgid "win"
+msgstr "vinst"
+
+msgid "win and bonus"
+msgstr "vinster och bonus"
+
+msgid "winevent"
+msgstr "vinster och evenemang"
+
+msgid "winbonusevent"
+msgstr "vinster + bonus + evenemang"
+
+msgid "none"
+msgstr "inga"
+
+msgid "balance"
+msgstr "saldo"
+
+msgid "experience"
+msgstr "erfarenhet"
+
+msgid "loyalty"
+msgstr "lojalitet"
+
+msgid "absolute"
+msgstr "absolut"
+
+msgid "relative"
+msgstr "relativt"
+
+msgid "bets"
+msgstr "insatser"
+
+msgid "wins"
+msgstr "vinster"
+
+msgid "turnover"
+msgstr "omsättning"
+
+msgid "negative turnover"
+msgstr "negativ omsättning"
+
+msgid "unlimited"
+msgstr "obegränsad"
+
+msgid "one day"
+msgstr "en dag"
+
+msgid "two days"
+msgstr "två dagar"
+
+msgid "three days"
+msgstr "3 dagar"
+
+msgid "seven days"
+msgstr "7 dagar"
+
+msgid "ten days"
+msgstr "10 dagar"
+
+msgid "fourteen days"
+msgstr "14 dagar"
+
+msgid "thirty days"
+msgstr "30 dagar"
+
+msgid "sixty days"
+msgstr "60 dagar"
+
+msgid "ninety days"
+msgstr "90 dagar"
+
+msgid "one week"
+msgstr "en vecka"
+
+msgid "two weeks"
+msgstr "två veckor"
+
+msgid "one month"
+msgstr "en månad"
+
+msgid "every day"
+msgstr "varje dag"
+
+msgid "every week"
+msgstr "varje vecka"
+
+msgid "every two weeks"
+msgstr "varannan vecka"
+
+msgid "every month"
+msgstr "varje månad"
+
+msgid "fee"
+msgstr "avgift"
+
+msgid "turnover and fee"
+msgstr "omsättning och avgift"
+
+msgid "everyday"
+msgstr "varje dag"
+
+msgid "monday"
+msgstr "måndag"
+
+msgid "tuesday"
+msgstr "tisdag"
+
+msgid "wednesday"
+msgstr "onsdag"
+
+msgid "thursday"
+msgstr "torsdag"
+
+msgid "friday"
+msgstr "fredag"
+
+msgid "saturday"
+msgstr "lördag"
+
+msgid "sunday"
+msgstr "söndag"
+
+msgid "transaction_list_is_empty"
+msgstr "Transaktionslista saknas"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "Datumet kan inte ligga framåt i tiden"
+
+msgid "cancelled"
+msgstr "avbruten"
+
+msgid "rejected"
+msgstr "avvisad"
+
+msgid "error"
+msgstr "fel"
+
+msgid "in_progress"
+msgstr "pågår"
+
+msgid "confirmed"
+msgstr "bekräftad"
+
+#, fuzzy
+msgid "pending"
+msgstr "Avslutar"
+
+msgid "system_error"
+msgstr "Systemfel"
+
+msgid "completed"
+msgstr "avslutad"
+
+msgid "aborted"
+msgstr "avbruten"
+
+msgid "credit"
+msgstr "kredit"
+
+msgid "debet"
+msgstr "debet"
+
+msgid "withdraw_unavailable"
+msgstr "Uttag otillgängligt"
+
+msgid "withdraw_check_error"
+msgstr "Fel vid uttagskontroll"
+
+msgid "set_amount"
+msgstr "Ange summa"
+
+msgid "set_payment_system"
+msgstr "Ange betalningssystem"
+
+msgid "country_and_birth_date_required"
+msgstr "Land och födelsedatum är obligatoriska"
+
+msgid "payment_request_sent"
+msgstr "Betalningsförfrågan skickad"
+
+msgid "payment_request_error"
+msgstr "Det gick inte att skicka betalningsförfrågan"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Du har uppnått maxgränsen gör uttag"
+
+msgid "sys_error_message"
+msgstr "Felmeddelande"
+
+msgid "input_purse"
+msgstr "Ange plånbok"
+
+msgid "payment_withdraw_sent"
+msgstr "Uttagsförfrågan skickad"
+
+msgid "New password is empty"
+msgstr "Nytt lösenord saknas"
+
+msgid "Repeat password is empty"
+msgstr "Du måste upprepa lösenordet"
+
+msgid "Code is empty"
+msgstr "Kod saknas"
+
+msgid "Code is incorrect"
+msgstr "Koden är ogiltig"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Lösenordte vara minst 6 tecken långt"
+
+msgid "pass_not_match"
+msgstr "Lösenorden överensstämmer inte"
+
+msgid "Session expired"
+msgstr "Sessionen har gått ut"
+
+msgid "social_account_expired"
+msgstr "Socialt konto har löpt ut"
+
+msgid "Empty to address"
+msgstr "Mottagaradress saknas"
+
+msgid "Empty subject"
+msgstr "Ämne saknas"
+
+msgid "Empty message"
+msgstr "Meddelande saknas"
+
+msgid "Empty required parameter"
+msgstr "Obligatorisk parameter saknas"
+
+msgid "Unknown error"
+msgstr "Okänt fel"
+
+msgid "Not allowed player country"
+msgstr ""
+"Du kan inte spela det här spelet eftersom det inte är tillåtet i ditt land."
+
+msgid "Demo not supported"
+msgstr "Metoden stöds inte"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Din valuta stöds inte av den här leverantören"
+
+msgid "Branded games are not enabled"
+msgstr "Brandade spel är inte aktiverade"
+
+msgid "Self exclusion date"
+msgstr "Datum för självuteslutning"
+
+msgid "Self exclusion"
+msgstr "Självuteslutning"
+
+msgid "does not exists"
+msgstr "existerar inte"
+
+msgid "Method is not supported"
+msgstr "Metoden stöds inte"
+
+msgid "Data type is not found"
+msgstr "Datatypen kunde inte hittas"
+
+msgid "Invalid request parameters"
+msgstr "Ogiltiga förfrågningsparametrar"
+
+msgid "No bonus description"
+msgstr "Bonusbeskrivning saknas"
+
+msgid "Selected"
+msgstr "Vald"
+
+msgid "Qualified"
+msgstr "Kvalificerad"
+
+msgid "Deleted"
+msgstr "Raderad"
+
+msgid "Deactivated"
+msgstr "Inaktiverad"
+
+msgid "Canceled"
+msgstr "Avbruten"
+
+msgid "Ending"
+msgstr "Avslutar"
+
+msgid "Ended"
+msgstr "Avslutad"
+
+msgid "Loyalty API Failure"
+msgstr "Lojalitets-API:et kunde inte hämtas"
+
+msgid "Loyalty result not supported"
+msgstr "Lojalitetsresultatet stöds inte"
+
+msgid "User not found"
+msgstr "Användaren kunde inte hittas"
+
+msgid "Unable fetch oauth access token"
+msgstr "Kan inte hämta Oauth-åtkomstsymbol"
+
+msgid "Access token is missing"
+msgstr ""
+
+msgid "Empty access token user identifier"
+msgstr "Tom åtkomsttoken"
+
+msgid "Empty access token identifier"
+msgstr "Tom åtkomsttoken"
+
+msgid "Method not allowed"
+msgstr "Metoden är inte tillåten"
+
+msgid "Your country is on the forbidden list"
+msgstr "Ditt land står med på den förbjudna listan"
+
+msgid "User profile is incomplete"
+msgstr ""
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "Bonusen finns inte"
+
+msgid "Unknown route path"
+msgstr "Okänd "
+
+msgid "Too many requests"
+msgstr "För många förfrågningar"
+
+msgid "Code is not valid"
+msgstr "Koden är ogiltig"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "För många förfrågningar"
+
+msgid "Method Not Allowed"
+msgstr "Metoden är inte tillåten"
+
+msgid "Api endpoint not found"
+msgstr "API-slutpunkten kunde inte hittas"
+
+msgid "Confirm your email to start games"
+msgstr ""
+
+msgid "User not authorized"
+msgstr "Användaren är inte behörig"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Betalningsmetod saknas eller är ogiltig"
+
+msgid "Amount is not selected or invalid"
+msgstr "Belopp saknas eller är ogiltigt"
+
+msgid "Bonus result is not list"
+msgstr "Bonusen finns inte"
+
+msgid "Bonus ID Not found"
+msgstr "Bonus ID Ej hittat"
+
+msgid "Bonus Selected Not found"
+msgstr "Bonus vald Ej hittad"
+
+msgid "User is not authorized"
+msgstr "Användaren är inte behörig"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "Ämne saknas"
+
+#, fuzzy, php-format
+msgid "Deposit failed: %s"
+msgstr "insättning först"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "Ange summa"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "Startkod saknas"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "efternamn"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "efternamn"
+
+#, fuzzy
+msgid "Account type"
+msgstr "land"
+
+#, fuzzy
+msgid "Account number"
+msgstr "telefonnummer"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "telefonnummer"
+
+#, fuzzy
+msgid "Uploadable files is empty"
+msgstr "E-postadress saknas"
+
+msgid "Exceeds allowed file size"
+msgstr ""
+
+msgid "Mb"
+msgstr ""
+
+#, fuzzy
+msgid "Document ID not found"
+msgstr "Turneringen kunde inte hittas"
+
+msgid "Request invalid. Error: "
+msgstr "Ogiltig förfrågan. Fel: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr ""
+
+msgid "Empty launch code"
+msgstr "Startkod saknas"
+
+msgid "Empty merchant identifier"
+msgstr "Betalningsidentifierare saknas"
+
+msgid "Empty games catalog"
+msgstr "Spelkatalog saknas"
+
+msgid "Unknown game launch code"
+msgstr "Okänd spelkod"
+
+msgid "Not supported exception"
+msgstr "Undantaget stöds inte"
+
+msgid "Bad request"
+msgstr "Förfrågan misslyckades"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+#, fuzzy
+msgid "Unable find user identifier"
+msgstr "Tom åtkomsttoken"
+
+#, fuzzy
+msgid "Unknown error occured"
+msgstr "Okänt fel"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "Ogiltigt mottagarnummer"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "För många förfrågningar"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "Okänt fel"
+
+msgid "Token not found"
+msgstr "Token kunde inte hittas"
+
+msgid "Invalid token provided"
+msgstr "Ogiltig token"
+
+msgid "Phone already verified"
+msgstr "Telefonnumret är redan verifierat"
+
+msgid "Insufficient parameters"
+msgstr "Otillräckliga parametrar"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "Auktoriseringsfel"
+
+msgid "Invalid verification code"
+msgstr "Ogiltig verifieringskod"
+
+msgid "Empty phone number"
+msgstr "Telefonnummer saknas"
+
+msgid "Invalid phone number"
+msgstr "Ogiltigt telefonnummer"
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "Item not found"
+msgstr "Objektet kunde inte hittas"
+
+msgid "Sent from web-form at"
+msgstr "Skickat frånn webbformulär vid"
+
+msgid "Service not found"
+msgstr "Tjänsten kunde inte hittas"
+
+msgid "Unauthorized"
+msgstr "Obehörig"
+
+msgid "Tournaments history error"
+msgstr "Det gick inte att hämta turneringshistorik"
+
+#, fuzzy
+msgid "Tournaments list not available"
+msgstr "Bonusen är inte tillgänglig"
+
+msgid "Tournaments type not found"
+msgstr "Turneringstypen kunde inte hittas"
+
+msgid "Tournament not found"
+msgstr "Turneringen kunde inte hittas"
+
+msgid "Tournaments subscribe error"
+msgstr "Prenumeration på turneringar; ett fel har uppstått"
+
+#, fuzzy
+msgid "Insufficient monetary turnover"
+msgstr "Otillräckliga parametrar"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr ""
+
+#, fuzzy
+msgid "Need verification"
+msgstr "verifiering"
+
+#, fuzzy
+msgid "Need additional verification"
+msgstr "Ogiltig verifieringskod"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "Mejl skickat, återhämtningslänken är aktiv i 30 minuter"
+
+msgid "Password repeat is empty"
+msgstr "Du måste upprepa det nya lösenordet"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Det nya lösenordet får innehålla endast latinska bokstäver, siffror och "
+"specialtecken"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Lösenordet måste innehålla stora och små latinska bokstäver, siffror och "
+"specialtecken"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Lösenordet måste innehålla latinska bokstäver och siffror"
+
+msgid "Passwords do not match"
+msgstr "Lösenorden överensstämmer inte"
+
+msgid "Password is empty"
+msgstr "Lösenord saknas"
+
+msgid "Password is invalid"
+msgstr "Lösenordet är ogiltigt"
+
+msgid "Code is invalid"
+msgstr "Koden är ogiltig"
+
+msgid "Email change is not allowed"
+msgstr "Ändring av e-postadress är inte tillåtet"
+
+msgid "Email is required"
+msgstr "E-postadress är obligatorisk"
+
+msgid "User update failed"
+msgstr "Användaruppdatering misslyckades"
+
+#, fuzzy
+msgid "Registration data validation failed"
+msgstr "Bekräftelse på registrering"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "Ogiltig verifieringskod"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "Startkod saknas"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "Systemfel"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"E-postbekräftelsekoden hittades inte, kanske du redan har bekräftat ditt e-"
+"postmeddelande, kolla din brevlåda"
+
+msgid "Registration_complete"
+msgstr "Registrering klar"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+#, fuzzy
+msgid "Insufficient account balance"
+msgstr "Otillräckliga parametrar"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Du har inte insättning via det här systemet så att du inte kan ta ut pengar "
+"med hjälp av Det. Gör en insättning via detta system för att dra tillbaka."
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "Kön saknas"
+
+msgid "Impossible to send email"
+msgstr "Det gick inte att skicka mejl"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "Ogiltig verifieringskod"
+
+msgid "Server returned invalid response"
+msgstr "Servern lämnade ogiltigt svar"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "Okänt fel"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "Okänd status"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "Metoden stöds inte"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "Metoden stöds inte"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "Metoden stöds inte"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "Metoden stöds inte"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "Ogiltigt kommando"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "Ogiltiga förfrågningsparametrar"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "Ogiltiga förfrågningsparametrar"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "Ogiltigt kommando"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "Ogiltigt kommando"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "Autentiseringsleverantören stöds inte"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "Fel API-version i adress"
+
+msgid "Not specified API key"
+msgstr "API-nyckel ej angiven"
+
+msgid "Incorrect API key"
+msgstr "Ogiltig API-nyckel"
+
+msgid "Incorrect IP address client"
+msgstr "Ogiltig IP-adressklient"
+
+msgid "Invalid command"
+msgstr "Ogiltigt kommando"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Angivet kommando existerar inte eller är inte tillgängligt"
+
+msgid "System error"
+msgstr "Systemfel"
+
+msgid "Not specified the SMS identifier"
+msgstr "Sms-identifierare ej angiven"
+
+msgid "Sender address does not exist"
+msgstr "Avsändaradressen existerar inte"
+
+msgid "Not specified content"
+msgstr "Ej specificerat innehåll"
+
+msgid "Faulty or unsupported country code"
+msgstr "Landsnumret är ogiltigt eller stöds inte"
+
+msgid "Content is too long"
+msgstr "Innehållet är för långt"
+
+msgid "Incorrect encoding of the content"
+msgstr "Felaktig kodning av innehållet"
+
+msgid "Exceeded monthly limit"
+msgstr "Du har överstigit månadsgränsen"
+
+msgid "Batch ID does not exist"
+msgstr "Batch-ID existerar inte"
+
+msgid "List recipients does not exist"
+msgstr "Listmottagarna existerar inte"
+
+msgid "Invalid recipient number"
+msgstr "Ogiltigt mottagarnummer"
+
+msgid "No content"
+msgstr "Innehåll saknas"
+
+msgid "Wrong content"
+msgstr "Fel innehåll"
+
+msgid "Unable send message"
+msgstr "Kan inte skicka meddelande"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+
+msgid "Unsupported authentication provider"
+msgstr "Autentiseringsleverantören stöds inte"
+
+msgid "connect_social_account_email_theme"
+msgstr "Mejlämne för anslutningen av socialt konto"
+
+msgid "not_logged_in"
+msgstr "Du är inte inloggad"
+
+msgid "trying_delete_last_social"
+msgstr "Försöker radera senaste sociala kontot"
+
+msgid "please_set_email"
+msgstr "Vänligen ange e-postadress"
+
+msgid "please_set_password"
+msgstr "Vänligen ange lösenord"
+
+msgid "Code incorrect, user not found"
+msgstr "Ogiltig kod, användaren kunde inte hittas"
+
+msgid "email_has_been_verified"
+msgstr "E-postadressen har nu verifierats"
+
+#, fuzzy
+msgid "Transaction value generation failed"
+msgstr "Bekräftelse på registrering"
+
+msgid "email_to_connect_social_sent"
+msgstr "Mejl om att ansluta socialt konto har nu skickats"
+
+msgid "Registration complete"
+msgstr "Registrering klar"
+
+msgid "_ip_fraud_msg"
+msgstr "Meddelande om IP-stöld"
+
+msgid "Session is expired"
+msgstr "Sessionen har gått ut"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "System-ID ej specificerat"
+
+msgid "System ID not specified"
+msgstr "System-ID ej specificerat"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "Ogiltig e-postadress, var vänlig och försök igen"
+
+msgid "Email is empty"
+msgstr "E-postadress saknas"
+
+msgid "Error, account with this email does not exist."
+msgstr "Fel, ett konto med denna e-postadress finns inte."
+
+msgid "Unable generate temporary restore user code"
+msgstr "Det går inte att skapa tillfällig återställningskod"
+
+msgid "Password recovery"
+msgstr "Återställning av lösenord"
+
+msgid "current_password_empty"
+msgstr "Nuvarande lösenord saknas"
+
+msgid "Current password is incorrect"
+msgstr "Nuvarande lösenord är ogiltigt"
+
+msgid "day_not_set"
+msgstr "Datum saknas"
+
+msgid "month_not_set"
+msgstr "Månad saknas"
+
+msgid "year_not_set"
+msgstr "År saknas"
+
+msgid "Country is not picked"
+msgstr "Land saknas"
+
+msgid "Gender is not picked"
+msgstr "Kön saknas"
+
+msgid "input_repeated_password"
+msgstr "Upprepa lösenord"
+
+msgid "Password does not match"
+msgstr "Lösenorden överensstämmer inte"
+
+msgid "Email field is empty or incorrect"
+msgstr "E-postadress saknas eller är ogiltig"
+
+msgid "Email already in use"
+msgstr "E-postadressen finns redan"
+
+msgid "Email field is incorrect"
+msgstr "E-postadressen är ogiltig"
+
+msgid "Login field is empty"
+msgstr "Användarnamn saknas"
+
+msgid "Email field is empty"
+msgstr "E-postadress saknas"
+
+msgid "login_already_in_use"
+msgstr "Användarnamnet finns redan"
+
+msgid "phone_empty"
+msgstr "Telefonnummer saknas"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Telefonnumret är ogiltigt. Måste vara"
+
+msgid "Phone number too long"
+msgstr "Telefonnumret är för långt"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Telefonnumret är ogiltigt: otillåtna tecken."
+
+msgid "new_pass_less_6_symbols"
+msgstr "Det nya lösenorder är kortare än 6 tecken"
+
+msgid "first_name_empty"
+msgstr "Förnamn saknas"
+
+msgid "last_name_empty"
+msgstr "Efternamn saknas"
+
+msgid "New email field is incorrect"
+msgstr "Den nya e-postadressen är ogiltig"
+
+msgid "User verification failed"
+msgstr "Det gick inte att verifiera användaren"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "Auktoriseringsfel"
+
+msgid "authorization_error"
+msgstr "Auktoriseringsfel"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "Sessionen har gått ut"
+
+msgid "registration_in_progress"
+msgstr "Registreringen behandlas"
+
+msgid "user_disabled"
+msgstr "Användare inaktiverad"
+
+msgid "Access forbidden"
+msgstr ""
+
+msgid "Email field incorrect"
+msgstr "E-postadressen är ogiltig"
+
+msgid "email_empty_incorrect"
+msgstr "Ogiltig e-postadress"
+
+msgid "pass_less_6_symbols"
+msgstr "Lösenordet är kortare än 6 tecken"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Lösenordet får innehålla endast latinska bokstäver, siffror och specialtecken"
+
+msgid "currency_not_set"
+msgstr "Valuta saknas"
+
+msgid "Currency field is invalid"
+msgstr "Ogiltig valuta"
+
+msgid "reg_promo_is_invalid"
+msgstr "Ogiltig kampanjkod"
+
+msgid "email_already_registered"
+msgstr "E-postadressen är redan registrerad"
+
+msgid "login_already_registered"
+msgstr "Användarnamnet  är redan registrerat"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "E-postadressen är redan registrerad"
+
+msgid "ip_fraud_blacklist"
+msgstr "IP-stöld, svartlista"
+
+msgid "ip_fraud_check_error"
+msgstr "Kontroll av IP-stöld misslyckades"
+
+msgid "Activate your account"
+msgstr "Aktivera ditt konto"
+
+msgid "Registration confirmation is in progress"
+msgstr "Bekräftelse på registrering behandlas"
+
+msgid "Unknown status"
+msgstr "Okänd status"
+
+msgid "first name"
+msgstr "förnamn"
+
+msgid "last name"
+msgstr "efternamn"
+
+msgid "birth date"
+msgstr "födelsedatum"
+
+msgid "sex"
+msgstr "kön"
+
+msgid "country"
+msgstr "land"
+
+msgid "phone number"
+msgstr "telefonnummer"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "För att ändra detta fält, kontakta vår support på "
+msgstr[1] "För att ändra dessa fält, kontakta vår support på "
+
+msgid "Email has invalid format"
+msgstr "E-postadressen har ogiltigt format"
+
+msgid "Repeat password field is empty"
+msgstr "Du måste upprepa det nya lösenordet"
+
+msgid "First name field is empty"
+msgstr "Förnamn saknas"
+
+msgid "First name must contain only letters"
+msgstr ""
+
+msgid "Last name field is empty"
+msgstr "Efternamn saknas"
+
+#, fuzzy
+msgid "Last name must contain only letters"
+msgstr "Lösenordet måste innehålla latinska bokstäver och siffror"
+
+msgid "Gender field is empty"
+msgstr "Kön saknas"
+
+msgid "Gender unallowed value"
+msgstr ""
+
+msgid "Currency field is empty"
+msgstr "Valuta saknas"
+
+msgid "Country code is empty"
+msgstr "Landsnumer saknas"
+
+#, fuzzy
+msgid "Country code is invalid"
+msgstr "Koden är ogiltig"
+
+msgid "Phone code is empty"
+msgstr "Telefonkod saknas"
+
+msgid "Phone number field is empty"
+msgstr "Telefonnummer saknas"
+
+msgid "Phone number invalid format"
+msgstr "Ogiltigt telefonnummerformat"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "Telefonkod saknas"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "Lösenordte vara minst 6 tecken långt"
+
+#, fuzzy
+msgid "Wrong IBAN number"
+msgstr "telefonnummer"
+
+#, fuzzy
+msgid "Wrong SWIFT number"
+msgstr "telefonnummer"
+
+msgid "ID Number is not unique"
+msgstr ""
+
+msgid "Password field is empty"
+msgstr "Lösenord saknas"
+
+#, fuzzy
+msgid "New password field is empty"
+msgstr "Lösenord saknas"
+
+#, fuzzy
+msgid "New password must be at least 6 characters long"
+msgstr "Lösenordte vara minst 6 tecken långt"
+
+#, fuzzy
+msgid "New password strength is weak"
+msgstr "Du måste upprepa det nya lösenordet"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "Fel, ett konto med denna e-postadress finns inte."
+
+#, fuzzy
+msgid "Password strength is weak"
+msgstr "Du måste upprepa det nya lösenordet"
+
+msgid "Login is already registered"
+msgstr "Logga in har redan registrerats"
+
+msgid "Email is already registered"
+msgstr "E-post har redan registrerats"
+
+msgid "Phone is already registered"
+msgstr "E-postadressen är redan registrerad"
+
+msgid "You are less than 18 year old"
+msgstr ""
+
+msgid "As per our rules, you can create %s withdrawal requests in a day. Please, wait for the following date/time: %s"
+msgstr "Enligt våra regler kan du skapa %s uttagsbegäranden på en dag. Vänligen vänta på följande datum/tid: %s"
+
+msgid "You have exceeded the limit on the amount in withdrawal requests. Please, wait for the following date/time: %s"
+msgstr "Du har överskridit gränsen för beloppet i uttagsbegäranden. Vänligen vänta på följande datum/tid: %s"
+
+#, fuzzy
+#~ msgid "Location restriction"
+#~ msgstr "Bonusbeskrivning saknas"
+
+#, fuzzy
+#~ msgid "Not in a restricted region"
+#~ msgstr "Bonusbeskrivning saknas"
+
+#~ msgid "Awaiting limits information"
+#~ msgstr ""
+#~ "Väntar på information om begränsningarVänligen försök igen senare, då vi "
+#~ "fortfarande väntar på information om aktuella uttagsbegränsningar"
+
+#~ msgid "cancel_error"
+#~ msgstr "Det gick inte att avbryta"
+
+#~ msgid "select_error"
+#~ msgstr "Det gick inte att välja"
+
+#~ msgid "sätt in pengar först"
+#~ msgstr "deposit first"

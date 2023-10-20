@@ -1,0 +1,7 @@
+test:
+  db:
+    host: 'localhost'
+    login: 'root'
+    password: 'toor'
+    name: 'wlc_test'
+

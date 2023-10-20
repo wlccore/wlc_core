@@ -1,0 +1,1512 @@
+# English translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.0.389\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: 2019-02-03 12:26+0100\n"
+"Last-Translator: Asbjørn Stokka <asstokka@online.no>\n"
+"Language-Team: none\n"
+"Language: no\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Legg e-post adresen vår til i adresseboken for å ikkje gå glipp av viktig "
+"informasjon fra"
+
+msgid "Congratulations,"
+msgstr "Gratulerer,"
+
+msgid "Dear"
+msgstr "Kjære"
+
+msgid "Deposit confirmation"
+msgstr "Innskuddsbekreftelse"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Varsling for vellykket innskudd. Din balanse"
+
+msgid "Finish registration link"
+msgstr "Lenke for å fullføre registrering"
+
+msgid "Greeting."
+msgstr "Hilsen."
+
+msgid "Hello"
+msgstr "Hei"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr ""
+"Om denne e-posten ikke viser slik den skal, åpne den i nettleseren din."
+
+msgid "If you have any questions, please contact"
+msgstr "Om du lurer på noe, ta kontakt"
+
+msgid "Link will be available for 30 minutes."
+msgstr "Lenken er tilgjengelig i 30 minutter."
+
+msgid "Login"
+msgstr "Innlogging"
+
+msgid "Password"
+msgstr "Passord"
+
+msgid "Password restore"
+msgstr "Passordgjenoppretting"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Klikk på lenken nedenfor for å fullføre registreringen:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Vennligst ikke svar på denne e-posten. Det er en automatisk generert e-post "
+"og du vil ikke motta noe svar."
+
+#, fuzzy
+msgid "Registration confirmation"
+msgstr "Bekreftelse på sosial registrering"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Gjenopprett passordet ditt med å klikke på lenken nedenfor."
+
+msgid "Social registration confirmation"
+msgstr "Bekreftelse på sosial registrering"
+
+msgid "Thank you for validating your account."
+msgstr "Takk for at du bekreftet kontoen din."
+
+msgid "Thanks for registration on the website!"
+msgstr "Takk for at du registrerte deg hos oss!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "Bruk denne lenken for å fullføre sammenkobling av kontoene dine:"
+
+msgid "Welcome to"
+msgstr "Velkommen til"
+
+msgid "With respect"
+msgstr "Med hensyn"
+
+msgid "You asked to link new social account to your current account"
+msgstr ""
+"Du har forespurt å koble sammen nye sosiale-nettverks-kontoer til din "
+"nåværende konto"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Du har tatt de første steg for å oppleve en utrolig spillopplevelse\n"
+"    med"
+
+msgid "casino_footer_copyright"
+msgstr "casino"
+
+msgid "casino_mail_info"
+msgstr "informasjon"
+
+msgid "online support"
+msgstr "kundeservice på nett"
+
+msgid "controller_does_not_exists"
+msgstr "kontrolleren_eksisterer_ikke"
+
+msgid "social_not_found"
+msgstr "sosialt_nettverk_ikke_funnet"
+
+msgid "purchase_error"
+msgstr "kjøpsfeil"
+
+msgid "game_added_to_favorites"
+msgstr "spill_lagt_til_favoritt"
+
+msgid "game_deleted_from_favorites"
+msgstr "spill_slettet_fra_favoritter"
+
+msgid "must_login"
+msgstr "må_logge_på"
+
+msgid "No bonus name"
+msgstr "Ingen bonusnavn"
+
+msgid "No bonus descripton"
+msgstr "Ingen bonusbeskrivelse"
+
+msgid "No user id"
+msgstr "Ingen bruker id"
+
+msgid "No bonus id"
+msgstr "Ingen bonus id"
+
+msgid "No status"
+msgstr "Ingen status"
+
+msgid "Bonus not found"
+msgstr "Ingen bonus funnet"
+
+msgid "Already have active"
+msgstr "Har allerede aktiv"
+
+msgid "Bonus is not available"
+msgstr "Bonus er ikke tilgjengelig"
+
+msgid "First deposit, already deposited"
+msgstr "Første innskudd, allereie innskutt"
+
+msgid "No loyalty record"
+msgstr "Ingen lojalitetsverdi"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Tilfredstiller ikke bonusvilkår"
+
+msgid "Bonus used"
+msgstr "Brukt bonus"
+
+msgid "Promo code needed"
+msgstr "Kampanjekode kreves"
+
+msgid "Wrong promo code"
+msgstr "Feil kampanjekode"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonuser er forbudt for bruker"
+
+#, fuzzy
+msgid "Already have an active bonus"
+msgstr "Har allerede aktiv"
+
+msgid "registration"
+msgstr "registrering"
+
+msgid "verification"
+msgstr "verifisering"
+
+msgid "sign up"
+msgstr "registrer deg"
+
+msgid "store"
+msgstr "butikk"
+
+msgid "login"
+msgstr "innlogging"
+
+msgid "deposit"
+msgstr "innskudd"
+
+msgid "deposit first"
+msgstr "gjør først innskudd"
+
+msgid "deposit sum"
+msgstr "sett inn sum"
+
+msgid "deposit repeated"
+msgstr "gjentatt innskudd"
+
+msgid "bet"
+msgstr "bet"
+
+msgid "bet sum"
+msgstr "bet sum"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "sett inn sum"
+
+msgid "once"
+msgstr "en gang"
+
+msgid "day"
+msgstr "dag"
+
+msgid "week"
+msgstr "uke"
+
+msgid "month"
+msgstr "måned"
+
+msgid "all"
+msgstr "alle"
+
+msgid "bonus"
+msgstr "bonus"
+
+msgid "win"
+msgstr "vinn"
+
+msgid "win and bonus"
+msgstr "vinn og bonus"
+
+msgid "winevent"
+msgstr "vinne-hendelse"
+
+msgid "winbonusevent"
+msgstr "vinne-bonushendelse"
+
+msgid "none"
+msgstr "ingen"
+
+msgid "balance"
+msgstr "balanse"
+
+msgid "experience"
+msgstr "erfaring"
+
+msgid "loyalty"
+msgstr "lojalitet"
+
+msgid "absolute"
+msgstr "absolutt"
+
+msgid "relative"
+msgstr "relativ"
+
+msgid "bets"
+msgstr "bet"
+
+msgid "wins"
+msgstr "seiere"
+
+msgid "turnover"
+msgstr "omsetning"
+
+msgid "negative turnover"
+msgstr "negativ omsetning"
+
+msgid "unlimited"
+msgstr "ubegrenset"
+
+msgid "one day"
+msgstr "en dag"
+
+msgid "two days"
+msgstr "to dager"
+
+msgid "three days"
+msgstr "tre dager"
+
+msgid "seven days"
+msgstr "syv dager"
+
+msgid "ten days"
+msgstr "ti dager"
+
+msgid "fourteen days"
+msgstr "fjorten dager"
+
+msgid "thirty days"
+msgstr "tretti dager"
+
+msgid "sixty days"
+msgstr "seksti dager"
+
+msgid "ninety days"
+msgstr "nitti dager"
+
+msgid "one week"
+msgstr "en uke"
+
+msgid "two weeks"
+msgstr "to uker"
+
+msgid "one month"
+msgstr "en måned"
+
+msgid "every day"
+msgstr "hver dag"
+
+msgid "every week"
+msgstr "hver uke"
+
+msgid "every two weeks"
+msgstr "hver andre uke"
+
+msgid "every month"
+msgstr "hver måned"
+
+msgid "fee"
+msgstr "gebyr"
+
+msgid "turnover and fee"
+msgstr "omsetning og gebyr"
+
+msgid "everyday"
+msgstr "hver dag"
+
+msgid "monday"
+msgstr "mandag"
+
+msgid "tuesday"
+msgstr "tirsdag"
+
+msgid "wednesday"
+msgstr "onsdag"
+
+msgid "thursday"
+msgstr "torsdag"
+
+msgid "friday"
+msgstr "fredag"
+
+msgid "saturday"
+msgstr "lørdag"
+
+msgid "sunday"
+msgstr "søndag"
+
+msgid "transaction_list_is_empty"
+msgstr "tom_transaksjonsliste"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "feil_dato_fra_høyere_til_lavere"
+
+msgid "cancelled"
+msgstr "kansellert"
+
+msgid "rejected"
+msgstr "avvist"
+
+msgid "error"
+msgstr "feil"
+
+msgid "in_progress"
+msgstr "pågår"
+
+msgid "confirmed"
+msgstr "bekreftet"
+
+#, fuzzy
+msgid "pending"
+msgstr "Avsluttning"
+
+msgid "system_error"
+msgstr "systemfeil"
+
+msgid "completed"
+msgstr "fullført"
+
+msgid "aborted"
+msgstr "avbrutt"
+
+msgid "credit"
+msgstr "kreditt"
+
+msgid "debet"
+msgstr "debet"
+
+msgid "withdraw_unavailable"
+msgstr "uttak_utilgjengelig"
+
+msgid "withdraw_check_error"
+msgstr "uttakskontroll_feil"
+
+msgid "set_amount"
+msgstr "sett_sum"
+
+msgid "set_payment_system"
+msgstr "velg_betalingssystem"
+
+msgid "country_and_birth_date_required"
+msgstr "land_og_fødselsdato_påkrevd"
+
+msgid "payment_request_sent"
+msgstr "betalingsforespørsel_sendt"
+
+msgid "payment_request_error"
+msgstr "feil_med_betalingsforespørsel"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "maksimal_uttaksgrense_nådd"
+
+msgid "sys_error_message"
+msgstr "system_feilmelding"
+
+msgid "input_purse"
+msgstr "inngangspung"
+
+msgid "payment_withdraw_sent"
+msgstr "betalingsuttak_sendt"
+
+msgid "New password is empty"
+msgstr "Nytt passord er tomt"
+
+msgid "Repeat password is empty"
+msgstr "Gjenta nytt passord felt er tomt"
+
+msgid "Code is empty"
+msgstr "Tom kode"
+
+msgid "Code is incorrect"
+msgstr "Koden er feil"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Passord må være minst 6 tegn lang"
+
+msgid "pass_not_match"
+msgstr "passordene burde være like"
+
+msgid "Session expired"
+msgstr "Økt utløpt"
+
+msgid "social_account_expired"
+msgstr "sosialt_nettverk_konto_utløpt"
+
+msgid "Empty to address"
+msgstr "Mangler mottakeradresse"
+
+msgid "Empty subject"
+msgstr "Tomt emnefelt"
+
+msgid "Empty message"
+msgstr "Tomt beskjedfelt"
+
+msgid "Empty required parameter"
+msgstr "Nødvendig parameter ikke angitt"
+
+msgid "Unknown error"
+msgstr "Ukjent feil"
+
+msgid "Not allowed player country"
+msgstr "Ikke tillat i spillers land"
+
+msgid "Demo not supported"
+msgstr "Demo støttes ikke"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Din valuta støttes ikke av denne tilbyderen"
+
+msgid "Branded games are not enabled"
+msgstr "Spill med branding er ikke aktivert"
+
+msgid "Self exclusion date"
+msgstr "Selvutelukkelsesdato"
+
+msgid "Self exclusion"
+msgstr "Selvutelukkelse"
+
+msgid "does not exists"
+msgstr "eksisterer ikke"
+
+msgid "Method is not supported"
+msgstr "Metoden støttes ikke"
+
+msgid "Data type is not found"
+msgstr "Finner ikke datatype"
+
+msgid "Invalid request parameters"
+msgstr "Feil forespørselsparameter"
+
+msgid "No bonus description"
+msgstr "Ingen bonusbeskrivelse"
+
+msgid "Selected"
+msgstr "Valgt"
+
+msgid "Qualified"
+msgstr "Kvalifisert"
+
+msgid "Deleted"
+msgstr "Slettet"
+
+msgid "Deactivated"
+msgstr "Deaktivert"
+
+msgid "Canceled"
+msgstr "Avnrutt"
+
+msgid "Ending"
+msgstr "Avsluttning"
+
+msgid "Ended"
+msgstr "Avsluttet"
+
+msgid "Loyalty API Failure"
+msgstr "Lojalitets API Feil"
+
+msgid "Loyalty result not supported"
+msgstr "Lojalitetsresultat ikke støttet"
+
+msgid "User not found"
+msgstr "Fant ikke bruker"
+
+msgid "Unable fetch oauth access token"
+msgstr "Ikke i stand til å hente oauth tilgangspollett"
+
+msgid "Access token is missing"
+msgstr ""
+
+#, fuzzy
+msgid "Empty access token user identifier"
+msgstr "Kjøpmannsidentifisering mangler"
+
+#, fuzzy
+msgid "Empty access token identifier"
+msgstr "Kjøpmannsidentifisering mangler"
+
+msgid "Method not allowed"
+msgstr "Metoden er ikke tillatt"
+
+msgid "Your country is on the forbidden list"
+msgstr "Ditt land er i listen av forbudte"
+
+msgid "User profile is incomplete"
+msgstr ""
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "Bonusresultat ikke i listen"
+
+msgid "Unknown route path"
+msgstr "Ukjent rutebane"
+
+msgid "Too many requests"
+msgstr "For mange forespørsler"
+
+msgid "Code is not valid"
+msgstr "Koden er ugyldig"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "For mange forespørsler"
+
+msgid "Method Not Allowed"
+msgstr "Metoden er ikke tillatt"
+
+msgid "Api endpoint not found"
+msgstr "API sluttpunkt ikke funnet"
+
+msgid "Confirm your email to start games"
+msgstr ""
+
+msgid "User not authorized"
+msgstr "Bruker ikke autorisert"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Kjøpmannssystem ugyldig eller ikke valgt"
+
+msgid "Amount is not selected or invalid"
+msgstr "Ugyldig eller ikke angitt mengde"
+
+msgid "Bonus result is not list"
+msgstr "Bonusresultat ikke i listen"
+
+#, fuzzy
+msgid "Bonus ID Not found"
+msgstr "Ingen bonus funnet"
+
+#, fuzzy
+msgid "Bonus Selected Not found"
+msgstr "Ingen bonus funnet"
+
+msgid "User is not authorized"
+msgstr "Bruker ikke autorisert"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "Tomt emnefelt"
+
+#, fuzzy, php-format
+msgid "Deposit failed: %s"
+msgstr "gjør først innskudd"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "sett_sum"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "Startkoden mangler"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "etternavn"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "etternavn"
+
+#, fuzzy
+msgid "Account type"
+msgstr "land"
+
+#, fuzzy
+msgid "Account number"
+msgstr "telefonnummer"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "telefonnummer"
+
+#, fuzzy
+msgid "Uploadable files is empty"
+msgstr "E-post feltet er tomt"
+
+msgid "Exceeds allowed file size"
+msgstr ""
+
+msgid "Mb"
+msgstr ""
+
+#, fuzzy
+msgid "Document ID not found"
+msgstr "Finner ikke turnering"
+
+msgid "Request invalid. Error: "
+msgstr "Feil. Ugyldig forespørsel: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr ""
+
+msgid "Empty launch code"
+msgstr "Startkoden mangler"
+
+msgid "Empty merchant identifier"
+msgstr "Kjøpmannsidentifisering mangler"
+
+msgid "Empty games catalog"
+msgstr "Spillkatalogen er tom"
+
+msgid "Unknown game launch code"
+msgstr "Ukjent spill-start-kode"
+
+msgid "Not supported exception"
+msgstr "Støtter ikke unntaket"
+
+msgid "Bad request"
+msgstr "Feil med forespørsel"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+msgid "Unable find user identifier"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown error occured"
+msgstr "Ukjent feil"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "Ugyldig motakkertall"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "Feil med forespørsel"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "Ukjent feil"
+
+msgid "Token not found"
+msgstr "Pollett ikke funnet"
+
+msgid "Invalid token provided"
+msgstr "Ugyldig pollett angitt"
+
+msgid "Phone already verified"
+msgstr "Telefon er allerede verifisert"
+
+msgid "Insufficient parameters"
+msgstr "Utilstrekkelige parametre"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "autorisasjonsfeil"
+
+msgid "Invalid verification code"
+msgstr "Feil verifiseringskode"
+
+msgid "Empty phone number"
+msgstr "Telefonnummer mangler"
+
+msgid "Invalid phone number"
+msgstr "Ugyldig telefonnummer"
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "Item not found"
+msgstr "Fant ikke enhet"
+
+msgid "Sent from web-form at"
+msgstr "Sendt frå et web-skjema på"
+
+msgid "Service not found"
+msgstr "Teneste ikke funnet"
+
+msgid "Unauthorized"
+msgstr "ikke-autorisert"
+
+msgid "Tournaments history error"
+msgstr "Feil med turneringshistorikk"
+
+#, fuzzy
+msgid "Tournaments list not available"
+msgstr "Bonus er ikke tilgjengelig"
+
+msgid "Tournaments type not found"
+msgstr "Turneringstype ikke funnet"
+
+msgid "Tournament not found"
+msgstr "Finner ikke turnering"
+
+msgid "Tournaments subscribe error"
+msgstr "Feil med turneringspåmelding"
+
+#, fuzzy
+msgid "Insufficient monetary turnover"
+msgstr "Utilstrekkelige parametre"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr ""
+
+#, fuzzy
+msgid "Need verification"
+msgstr "verifisering"
+
+#, fuzzy
+msgid "Need additional verification"
+msgstr "Feil verifiseringskode"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "E-post sendt, gjenopprettingslenken er tilgjengelig i 30 minutter"
+
+msgid "Password repeat is empty"
+msgstr "Gjenta nytt passord er tomt"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Nytt passord kan kun inneholde latinske bokstaver, tall og spesialsymboler"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Passordet må kun ha store og små latinske bokstaver, tall og spesialsymbol"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Passordet kan kun inneholde latinske bokstaver og tall"
+
+msgid "Passwords do not match"
+msgstr "Passordene samsvarer ikke"
+
+msgid "Password is empty"
+msgstr "Tomt passord"
+
+msgid "Password is invalid"
+msgstr "Ugyldig passord"
+
+msgid "Code is invalid"
+msgstr "Ugyldig kode"
+
+msgid "Email change is not allowed"
+msgstr "Endring av e-post er ikke tillatt"
+
+msgid "Email is required"
+msgstr "E-post er påkrevd"
+
+msgid "User update failed"
+msgstr "Brukeroppdatering feilet"
+
+#, fuzzy
+msgid "Registration data validation failed"
+msgstr "Registreringsbekreftelse"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "Feil verifiseringskode"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "Startkoden mangler"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "Systemfeil"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"E-post verifiseringskode ikke funnet, kanskje har du allerede bekreftet din "
+"epost, sjekk din innboks"
+
+msgid "Registration_complete"
+msgstr "Registrering_fullført"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+#, fuzzy
+msgid "Insufficient account balance"
+msgstr "Utilstrekkelige parametre"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "Kjønn er ikke valgt"
+
+msgid "Impossible to send email"
+msgstr "Umulig å sende epost"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "Feil verifiseringskode"
+
+msgid "Server returned invalid response"
+msgstr "Tjeneren returnerte et ugyldig svar"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "Ukjent feil"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "Ukjent status"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "Metoden støttes ikke"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "Metoden støttes ikke"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "Metoden støttes ikke"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "Metoden støttes ikke"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "Ugyldig kommando"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "Feil forespørselsparameter"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "Feil forespørselsparameter"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "Ugyldig kommando"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "Ugyldig kommando"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "Autentiseringstilbyderen støttes ikke"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "Feil versjon API i adresse"
+
+msgid "Not specified API key"
+msgstr "Ikke spesifisert API nøkkel"
+
+msgid "Incorrect API key"
+msgstr "Feil API nøkkel"
+
+msgid "Incorrect IP address client"
+msgstr "Feil klient IP adresse"
+
+msgid "Invalid command"
+msgstr "Ugyldig kommando"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Spesifisert kommando eksisterer ikke eller er ikke tilgjengelig"
+
+msgid "System error"
+msgstr "Systemfeil"
+
+msgid "Not specified the SMS identifier"
+msgstr "SMS identifiserer er ikke spesifisert"
+
+msgid "Sender address does not exist"
+msgstr "Avsenderadresse eksisterer ikke"
+
+msgid "Not specified content"
+msgstr "Ikke spesifisert innhold"
+
+msgid "Faulty or unsupported country code"
+msgstr "Feil eller ikke støttet landkode"
+
+msgid "Content is too long"
+msgstr "For mye innhold"
+
+msgid "Incorrect encoding of the content"
+msgstr "Feil koding av innholdet"
+
+msgid "Exceeded monthly limit"
+msgstr "Overskredet månedlig grense"
+
+msgid "Batch ID does not exist"
+msgstr "Parti-ID eksisterer ikke"
+
+msgid "List recipients does not exist"
+msgstr "Listemottakere eksisterer ikke"
+
+msgid "Invalid recipient number"
+msgstr "Ugyldig motakkertall"
+
+msgid "No content"
+msgstr "Ingen innhold"
+
+msgid "Wrong content"
+msgstr "Feil innhold"
+
+msgid "Unable send message"
+msgstr "Klarte ikke sende melding"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+
+msgid "Unsupported authentication provider"
+msgstr "Autentiseringstilbyderen støttes ikke"
+
+msgid "connect_social_account_email_theme"
+msgstr "koble_til_sosialt_nettverk_epost_tema"
+
+msgid "not_logged_in"
+msgstr "ikke_innlogget"
+
+msgid "trying_delete_last_social"
+msgstr "prøver_slette_forrige_sosial"
+
+msgid "please_set_email"
+msgstr "skriv_inn_epost"
+
+msgid "please_set_password"
+msgstr "skriv_inn_passord"
+
+msgid "Code incorrect, user not found"
+msgstr "Feil kode, fant ikke bruker"
+
+msgid "email_has_been_verified"
+msgstr "epost_er_verifisert"
+
+msgid "Transaction value generation failed"
+msgstr ""
+
+msgid "email_to_connect_social_sent"
+msgstr "Epost_til_sosial_tilkobling_sendt"
+
+msgid "Registration complete"
+msgstr "Registrering fullført"
+
+msgid "_ip_fraud_msg"
+msgstr "ip_svindel_melding"
+
+msgid "Session is expired"
+msgstr "Økten er utløpt"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "System ID ikke spesifisert"
+
+msgid "System ID not specified"
+msgstr "System ID ikke spesifisert"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "Feil e-post, prøv igjen fra start"
+
+msgid "Email is empty"
+msgstr "E-post mangler"
+
+msgid "Error, account with this email does not exist."
+msgstr "Feil, det eksisterer ikke en konto med denne e-post adressen"
+
+msgid "Unable generate temporary restore user code"
+msgstr "Ikke i stand til å midlertidig gjenopprette brukerkode"
+
+msgid "Password recovery"
+msgstr "Passordgjenoppretting"
+
+msgid "current_password_empty"
+msgstr "nåværende passord er tomt"
+
+msgid "Current password is incorrect"
+msgstr "Nåværende passord er feil"
+
+msgid "day_not_set"
+msgstr "dag_ikke_satt"
+
+msgid "month_not_set"
+msgstr "månad_ikke_satt"
+
+msgid "year_not_set"
+msgstr "år_ikke_satt"
+
+msgid "Country is not picked"
+msgstr "Land er ikke valgt"
+
+msgid "Gender is not picked"
+msgstr "Kjønn er ikke valgt"
+
+msgid "input_repeated_password"
+msgstr "legg_inn_passord_igjen"
+
+msgid "Password does not match"
+msgstr "Passordene stemmer ikke overens"
+
+msgid "Email field is empty or incorrect"
+msgstr "E-post mangler eller inneholder feil"
+
+msgid "Email already in use"
+msgstr "E-post adressen er allereie i bruk"
+
+msgid "Email field is incorrect"
+msgstr "E-post feltet inneholder feil"
+
+msgid "Login field is empty"
+msgstr "Innloggingsfeltet er tomt"
+
+msgid "Email field is empty"
+msgstr "E-post feltet er tomt"
+
+msgid "login_already_in_use"
+msgstr "innlogging_allerede_i_bruk"
+
+msgid "phone_empty"
+msgstr "telefon_tom"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Telefonnummer er feil. Må være"
+
+msgid "Phone number too long"
+msgstr "Telefonnummeret er for langt"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Telefonnummeret er feil: noen ugyldige symbol er brukt"
+
+msgid "new_pass_less_6_symbols"
+msgstr "nytt_passord_under_6_tegn"
+
+msgid "first_name_empty"
+msgstr "fornavn_tomt"
+
+msgid "last_name_empty"
+msgstr "etternavn_tomt"
+
+msgid "New email field is incorrect"
+msgstr "Ny e-post feltet inneholder feil"
+
+msgid "User verification failed"
+msgstr "Brukerverifisering feilet"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "autorisasjonsfeil"
+
+msgid "authorization_error"
+msgstr "autorisasjonsfeil"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "økt utløpt"
+
+msgid "registration_in_progress"
+msgstr "gjennomfører_registrering"
+
+msgid "user_disabled"
+msgstr "bruker_deaktivert"
+
+msgid "Access forbidden"
+msgstr ""
+
+msgid "Email field incorrect"
+msgstr "E-post feltet inneholder feil"
+
+msgid "email_empty_incorrect"
+msgstr "e-post_tom_feil"
+
+msgid "pass_less_6_symbols"
+msgstr "passord_mindre_6_symboler"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Passordet kan kun inneholde latinske bokstaver, tall og spesialsymboler"
+
+msgid "currency_not_set"
+msgstr "valuta_ikke_satt"
+
+msgid "Currency field is invalid"
+msgstr "Valutafeltet er ugyldig"
+
+msgid "reg_promo_is_invalid"
+msgstr "registrerings_kampanje_ugyldig"
+
+msgid "email_already_registered"
+msgstr "epost_allerede_registrert"
+
+msgid "login_already_registered"
+msgstr "innlogging_allerede_registrert"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "Telefon er allereie registrert"
+
+msgid "ip_fraud_blacklist"
+msgstr "ip_svindel_svarteliste"
+
+msgid "ip_fraud_check_error"
+msgstr "ip_svindelkontroll_feil"
+
+msgid "Activate your account"
+msgstr "Aktiver din konto"
+
+msgid "Registration confirmation is in progress"
+msgstr "Gjør registreringsbekreftelse"
+
+msgid "Unknown status"
+msgstr "Ukjent status"
+
+msgid "first name"
+msgstr "fornavn"
+
+msgid "last name"
+msgstr "etternavn"
+
+msgid "birth date"
+msgstr "fødselsdato"
+
+msgid "sex"
+msgstr "kjønn"
+
+msgid "country"
+msgstr "land"
+
+msgid "phone number"
+msgstr "telefonnummer"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "To change %s field please contact our support at "
+msgstr[1] "To change %s fields please contact our support at "
+
+#, fuzzy
+msgid "Email has invalid format"
+msgstr "Feil e-post format"
+
+msgid "Repeat password field is empty"
+msgstr "Gjenta passord feltet er tomt"
+
+msgid "First name field is empty"
+msgstr "Fornavn-feltet er tomt"
+
+msgid "First name must contain only letters"
+msgstr ""
+
+msgid "Last name field is empty"
+msgstr "Etternavn-feltet er tomt"
+
+#, fuzzy
+msgid "Last name must contain only letters"
+msgstr "Passordet kan kun inneholde latinske bokstaver og tall"
+
+msgid "Gender field is empty"
+msgstr "Kjønn-feltet er tomt"
+
+msgid "Gender unallowed value"
+msgstr ""
+
+msgid "Currency field is empty"
+msgstr "Valuta-feltet er tomt"
+
+msgid "Country code is empty"
+msgstr "Landkode-feltet er tomt"
+
+#, fuzzy
+msgid "Country code is invalid"
+msgstr "Ugyldig kode"
+
+msgid "Phone code is empty"
+msgstr "Tom telefonkode"
+
+msgid "Phone number field is empty"
+msgstr "Felt for telefonnummer er tomt"
+
+msgid "Phone number invalid format"
+msgstr "Telefonnummer har ugyldig format"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "Tom telefonkode"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "Passord må være minst 6 tegn lang"
+
+#, fuzzy
+msgid "Wrong IBAN number"
+msgstr "telefonnummer"
+
+#, fuzzy
+msgid "Wrong SWIFT number"
+msgstr "telefonnummer"
+
+msgid "ID Number is not unique"
+msgstr ""
+
+msgid "Password field is empty"
+msgstr "Passord-feltet er tomt"
+
+#, fuzzy
+msgid "New password field is empty"
+msgstr "Passord-feltet er tomt"
+
+#, fuzzy
+msgid "New password must be at least 6 characters long"
+msgstr "Passord må være minst 6 tegn lang"
+
+#, fuzzy
+msgid "New password strength is weak"
+msgstr "Nytt passord er tomt"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "Feil, det eksisterer ikke en konto med denne e-post adressen"
+
+#, fuzzy
+msgid "Password strength is weak"
+msgstr "Gjenta nytt passord er tomt"
+
+#, fuzzy
+msgid "Login is already registered"
+msgstr "Telefon er allereie registrert"
+
+#, fuzzy
+msgid "Email is already registered"
+msgstr "epost_allerede_registrert"
+
+msgid "Phone is already registered"
+msgstr "Telefon er allereie registrert"
+
+msgid "You are less than 18 year old"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Location restriction"
+#~ msgstr "Ingen bonusbeskrivelse"
+
+#~ msgid "No payer account"
+#~ msgstr "Ingen betalingskonto"
+
+#~ msgid "Awaiting limits information"
+#~ msgstr "Venter grenseinformasjon"
+
+#~ msgid "cancel_error"
+#~ msgstr "avbryt_feil"
+
+#~ msgid "select_error"
+#~ msgstr "feil_med_valg"
+
+#~ msgid "Code incorrect"
+#~ msgstr "Feil kode"
+
+#~ msgid "You cannot play this game because its not allowed in your country."
+#~ msgstr ""
+#~ "Du kan ikke spille dette spillet da det ikke er tillatt i ditt land."
+
+#~ msgid "password_does_not_match"
+#~ msgstr "passord samsvarer ikke"
+
+#~ msgid "new_pass_empty"
+#~ msgstr "nytt passord er tomt"
+
+#~ msgid "rep_password_empty"
+#~ msgstr "felt for å repetere passord er tomt"
+
+#~ msgid "code_is_empty"
+#~ msgstr "kode er tom"
+
+#~ msgid "pass_must_be_least_six_long"
+#~ msgstr "passordet må være seks tegn langt"
+
+#~ msgid "countrycode_field_is_empty"
+#~ msgstr "landkode er tom"
+
+#~ msgid "phonecode_field_is_empty"
+#~ msgstr "telefonfelt er tomt"
+
+#~ msgid "password_field_is_empty"
+#~ msgstr "passordfelt er tomt"
+
+#~ msgid "password_field_min_length_6"
+#~ msgstr "passordfelt må ha minst seks tegn"

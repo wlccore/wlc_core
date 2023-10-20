@@ -1,0 +1,375 @@
+# Russian translations for PACKAGE package
+# Английские переводы для пакета PACKAGE.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC PHP Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2018-05-11 11:45+0300\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+msgid "No client"
+msgstr "Нет клиента"
+
+msgid "Set transaction type"
+msgstr "Установите тип транзауции"
+
+msgid "No user id"
+msgstr "Нет id пользователя"
+
+msgid "No amount"
+msgstr "Нет количества"
+
+msgid "No loyalty record"
+msgstr "Нет записи лояльности"
+
+msgid "Wrong request path"
+msgstr "Неверный путь запроса"
+
+msgid "Debet amount to big"
+msgstr "Сумма дебета слишком большая"
+
+msgid "Wrong transaction type"
+msgstr "Неверный путь транзакции"
+
+msgid "Awaiting limits information"
+msgstr "Ожидание информации о лимитах"
+
+msgid "Wrong currency"
+msgstr "Неверная валюта"
+
+msgid "Non existent level"
+msgstr "Несуществующий уровень"
+
+msgid "No points"
+msgstr "Нет пунктов"
+
+msgid "Set loyalty level"
+msgstr "Установить уровень лояльности"
+
+msgid "No bet"
+msgstr "Нет ставки"
+
+msgid "No ID user"
+msgstr "Нет идентификатора пользователя"
+
+msgid "No ID bonus"
+msgstr "Нет идентификатора бонуса"
+
+msgid "Wrong amount"
+msgstr "Неверное количество"
+
+msgid "No bonus ID"
+msgstr "Нет ID бонуса"
+
+msgid "No user ID"
+msgstr "Нет ID пользователя"
+
+msgid "Wrong date format"
+msgstr "Неверный формат даты"
+
+msgid "Date must not be today"
+msgstr "Дата не может"
+
+msgid "No bonus id"
+msgstr "Нет идентификатора бонуса"
+
+msgid "No status"
+msgstr "Нет статуса"
+
+msgid "Bonus not found"
+msgstr "Бонус не найден"
+
+msgid "Already have active"
+msgstr "Уже есть активный"
+
+msgid "Bonus is not available"
+msgstr "Бонус не доступен"
+
+msgid "First deposit, already deposited"
+msgstr "Первый депозит, депозит уже сделан"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Не удовлетворяют условия бонусов"
+
+msgid "Bonus used"
+msgstr "Использованный бонус"
+
+msgid "Promo code needed"
+msgstr "Необходим промо-код"
+
+msgid "Wrong promo code"
+msgstr "Неверный промо-код"
+
+msgid "User ID not set"
+msgstr "ID пользователя не установлен"
+
+msgid "Wrong bonus results value"
+msgstr "Неверное значение результатов бонуса"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Неверное значение"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Неправильный результат награды отыгрыша"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Неправильный результат размера части"
+
+msgid "Wrong bonus results release wagering"
+msgstr ""
+
+msgid "Bonus name required"
+msgstr "Необходимо название бонуса"
+
+msgid "Wrong bonus event"
+msgstr "Неверное бонусное событие"
+
+msgid "Wrong bonus type"
+msgstr "Неверный тип бонуса"
+
+msgid "Wrong bonus repeat period"
+msgstr "Неверный период повторения бонуса"
+
+msgid "Wrong bonus expire period"
+msgstr "Неверный период истечения срока действия бонуса"
+
+msgid "Wrong bonus budget"
+msgstr "Неверный бюджет бонуса"
+
+msgid "Wrong bonus start date"
+msgstr "Неверная дата начала бонуса"
+
+msgid "Wrong bonus end date"
+msgstr "Неверная дата конца бонуса"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Дата начала бонуса больше, чем дата окончания"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Некорректные условия мин. суммы бонуса"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Некорректные условия макс. суммы бонуса"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr ""
+
+msgid "Following codes are duplicated"
+msgstr "Следующие коды повторяются дважды"
+
+msgid "Bonus name already exists"
+msgstr "Название бонуса уже существует"
+
+msgid "Wrong bonus ID"
+msgstr "Неверный ID бонуса"
+
+msgid "Activated bonuses"
+msgstr "Активированные бонусы"
+
+msgid "Can't delete"
+msgstr "Невозможно удалить"
+
+msgid "No bonus"
+msgstr "Нет бонуса"
+
+msgid "Wrong store action"
+msgstr ""
+
+msgid "No order id"
+msgstr "Нет id заказа"
+
+msgid "Order not found"
+msgstr "Заказ не найден"
+
+msgid "No item id"
+msgstr "Нет id продукта"
+
+msgid "User not found"
+msgstr "Пользователь не найден"
+
+msgid "Item not found"
+msgstr "Продукт не найден"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Для цены товара не указана валюта: ЛОЯЛЬНОСТЬ"
+
+msgid "Not enough loyalty points"
+msgstr "Недостаточно пунктов лояльности"
+
+msgid "Item out of stock"
+msgstr "Товара нет"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Ошибка события бонуса у товара"
+
+msgid "User not found in tournament"
+msgstr "Пользователь не найден в турнире"
+
+msgid "Set codes count"
+msgstr ""
+
+msgid "Set batch name"
+msgstr ""
+
+msgid "Codes count exceeds 300 000"
+msgstr ""
+
+msgid "Wrong batch ID"
+msgstr ""
+
+msgid "Codes not set"
+msgstr "Коды не установлены"
+
+msgid "Modificator not found"
+msgstr "Модификатор не найден"
+
+msgid "Set coefficient"
+msgstr "Установите коэффициент"
+
+msgid "Set name"
+msgstr "Установите имя"
+
+msgid "No levels defined"
+msgstr "Уровни не определены"
+
+msgid "Level not found"
+msgstr "Уровень не найден"
+
+msgid "Bad cronjob"
+msgstr ""
+
+msgid "No category ID"
+msgstr "Нет ID категории"
+
+msgid "Category not found"
+msgstr "Категория не найдена"
+
+msgid "No category name"
+msgstr "Нет названия категории"
+
+msgid "Wrong category ID"
+msgstr "Неверный ID категории"
+
+msgid "No category id"
+msgstr "Нет id категории"
+
+msgid "No item ID"
+msgstr "Нет ID товара"
+
+msgid "Wrong item ID"
+msgstr "Неверный ID товара"
+
+msgid "Item init error"
+msgstr ""
+
+msgid "Wrong item BonusEventAmount"
+msgstr ""
+
+msgid "No item"
+msgstr "Нет товара"
+
+msgid "Wrong tournament ID"
+msgstr "Неверный ID турнира"
+
+msgid "Wrong Tournament ID"
+msgstr "Неверный ID турнира"
+
+msgid "No ID tournament"
+msgstr "Нет идентификатора турнира"
+
+msgid "No tournament ID"
+msgstr "Нет ID турнира"
+
+msgid "No tournament id"
+msgstr "Нет id турнира"
+
+msgid "No balance"
+msgstr "Нет баланса"
+
+msgid "Not enough balance"
+msgstr "Недостаточный баланс"
+
+msgid "Tournament name required"
+msgstr "Необходимо название турнира"
+
+msgid "Wrong tournament winner by"
+msgstr "Неверный победитель турнира"
+
+msgid "Wrong tournament period"
+msgstr "Неверный период турнира"
+
+msgid "Wrong tournament repeat"
+msgstr "Неверное повторение турнира"
+
+msgid "Wrong tournament start date"
+msgstr "Неверная начальная дата турнира"
+
+msgid "Tournament not found"
+msgstr "Турнир не найден"
+
+msgid "Activated Tournaments"
+msgstr "Активированные турниры"
+
+msgid "No tournament"
+msgstr "Нет турнира"
+
+msgid "Wrong event type"
+msgstr "Неверный тип события"
+
+msgid "No event id"
+msgstr "Нет id события"
+
+msgid "Empty data"
+msgstr "Незаполненные данные"
+
+msgid "No data"
+msgstr "Нет данных"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Пользователю запрещено использовать бонусы"
+
+msgid "Bonus selection is already in process"
+msgstr "Подписка на бонус уже обрабатывается"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Пользователю запрещено участие в турнирах"
+
+msgid "Bonus pending cancellation"
+msgstr "Бонус ожидает отмены"
+
+msgid "Cancel not supported"
+msgstr "Бонус нельзя отменить"
+
+msgid "Awaiting limits information, try later"
+msgstr "Есть данные в обработке, попробуйте позже"
+
+msgid "Error cancellation of the bonus"
+msgstr "Ошибка отмены бонуса"
+
+msgid "Purchase is not possible - the item has been disabled"
+msgstr "Покупка невозможна - выбранный товар отключен"
+
+msgid "Purchase is not possible - the item has been deleted"
+msgstr "Покупка невозможна - выбранный товар удален"
+
+msgid "Wait for the calculation of the previous tournament to complete"
+msgstr "Дождитесь завершения расчета предыдущего турнира"
+
+msgid "Item temporarily unavailable"
+msgstr "Товар временно недоступен"
+
+msgid "There is already an active tournament"
+msgstr "Уже есть активный турнир"

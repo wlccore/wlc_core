@@ -1,0 +1,1718 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: messages\n"
+"Language: az\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 
+msgid "Add our email to your address book to not miss out on important information from"
+msgstr "Mühüm məlumatları qaçırmamaq üçün e-poçtumuzu ünvan kitabçanıza əlavə edin"
+
+#: 
+msgid "Congratulations,"
+msgstr "Təbrik edirik,"
+
+#: 
+msgid "Dear"
+msgstr "Əziz"
+
+#: 
+msgid "Deposit confirmation"
+msgstr "Depozit təsdiqi"
+
+#: 
+msgid "Deposit success notification. Your balance"
+msgstr "Depozitin müvəffəqiyyəti barədə bildiriş. Balansınız"
+
+#: 
+msgid "Do you need to contact us?"
+msgstr "Bizimlə əlaqə saxlamağınız lazımdır?"
+
+#: 
+msgid "Due to legal reasons we can't accept players residing in the country you are currently\n"
+"            in."
+msgstr "Hüquqi səbəblərə görə hazırda olduğunuz ölkədə yaşayan oyunçuları qəbul edə bilmirik\n"
+"            in."
+
+#: 
+msgid "Finish registration link"
+msgstr "Qeydiyyat linkini tamamlayın"
+
+#: 
+msgid "Greeting."
+msgstr "Salam."
+
+#: 
+msgid "Hello"
+msgstr "Salam"
+
+#: 
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "Bu e-poçt düzgün göstərilmirsə, onu brauzerinizdə açın."
+
+#: 
+msgid "If you have any questions, please contact"
+msgstr "Hər hansı bir sualınız varsa, əlaqə saxlayın"
+
+#: 
+msgid "If you’re using a proxy service or VPN to access casino, try turning it off and reload the\n"
+"            page."
+msgstr "Kazinoya daxil olmaq üçün proxy xidmətindən və ya VPN-dən istifadə edirsinizsə, onu söndürüb yenidən yükləyin\n"
+"            səhifə."
+
+#: 
+msgid "Link will be available for 30 minutes."
+msgstr "Link 30 dəqiqə ərzində mövcud olacaq."
+
+#: 
+msgid "Location restriction"
+msgstr "Məkan məhdudiyyəti"
+
+#: 
+msgid "Login"
+msgstr "Daxil ol"
+
+#: 
+msgid "Not in a restricted region"
+msgstr "Məhdud bölgədə deyil"
+
+#: 
+msgid "Password"
+msgstr "parol"
+
+#: 
+msgid "Password restore"
+msgstr "Parolun bərpası"
+
+#: 
+msgid "Please click on the link below to finish registration:"
+msgstr "Qeydiyyatı başa çatdırmaq üçün aşağıdakı linkə klikləyin:"
+
+#: 
+msgid "Please do not reply to this e-mail. This email is generated automatically and you will not receive a response."
+msgstr "Bu e-poçta cavab verməyin. Bu e-poçt avtomatik olaraq yaradılır və siz cavab almayacaqsınız."
+
+#: 
+msgid "Registration confirmation"
+msgstr "Qeydiyyatın təsdiqi"
+
+#: 
+msgid "Restore your password by clicking the link below."
+msgstr "Aşağıdakı linkə klikləməklə parolunuzu bərpa edin."
+
+#: 
+msgid "Should you have any questions or feel that this block is affecting you due to a technical error,\n"
+"            please\n"
+"            don't hesitate to contact us and we'll work it out together."
+msgstr "Hər hansı bir sualınız varsa və ya texniki səhvə görə bu blokun sizə təsir etdiyini hiss edirsinizsə,\n"
+"            zəhmət olmasa\n"
+"            bizimlə əlaqə saxlamaqdan çəkinməyin və biz birlikdə həll edəcəyik."
+
+#: 
+msgid "Social registration confirmation"
+msgstr "Sosial qeydiyyatın təsdiqi"
+
+#: 
+msgid "Thank you for validating your account."
+msgstr "Hesabınızı doğruladığınız üçün təşəkkür edirik."
+
+#: 
+msgid "Thanks for registration on the website!"
+msgstr "Saytda qeydiyyatdan keçdiyiniz üçün təşəkkür edirik!"
+
+#: 
+msgid "To finish linking your accounts, please use this link:"
+msgstr "Hesablarınızı əlaqələndirməyi tamamlamaq üçün bu linkdən istifadə edin:"
+
+#: 
+msgid "Welcome to"
+msgstr "xoş gəlmisiniz"
+
+#: 
+msgid "With respect"
+msgstr "Hörmətlə"
+
+#: 
+msgid "You asked to link new social account to your current account"
+msgstr "Siz yeni sosial hesabı cari hesabınızla əlaqələndirməyi xahiş etdiniz"
+
+#: 
+msgid "You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr "Siz heyrətamiz oyun səyahətini yaşamaq üçün ilk addımı atdınız\n"
+"    ilə"
+
+#: 
+msgid "casino_footer_copyright"
+msgstr "casino_footer_copyright"
+
+#: 
+msgid "casino_mail_info"
+msgstr "casino_mail_info"
+
+#: 
+msgid "online support"
+msgstr "onlayn dəstək"
+
+#: 
+msgid "controller_does_not_exists"
+msgstr "nəzarətçi_mövcud deyil"
+
+#: 
+msgid "social_not_found"
+msgstr "sosial_tapılmadı"
+
+#: 
+msgid "purchase_error"
+msgstr "alış_səhv"
+
+#: 
+msgid "game_added_to_favorites"
+msgstr "oyun sevimlilərə_əlavə edildi"
+
+#: 
+msgid "game_deleted_from_favorites"
+msgstr "oyun_favoritlərdən_silindi"
+
+#: 
+msgid "must_login"
+msgstr "daxil olmalıdır"
+
+#: 
+msgid "No bonus name"
+msgstr "Bonus adı yoxdur"
+
+#: 
+msgid "No bonus descripton"
+msgstr "Bonus təsviri yoxdur"
+
+#: 
+msgid "No user id"
+msgstr "İstifadəçi id-si yoxdur"
+
+#: 
+msgid "No bonus id"
+msgstr "Bonus id yoxdur"
+
+#: 
+msgid "No status"
+msgstr "Status yoxdur"
+
+#: 
+msgid "Bonus not found"
+msgstr "Bonus tapılmadı"
+
+#: 
+msgid "Already have active"
+msgstr "Artıq aktivdir"
+
+#: 
+msgid "Bonus is not available"
+msgstr "Bonus mövcud deyil"
+
+#: 
+msgid "First deposit, already deposited"
+msgstr "İlk depozit, artıq depozit qoyulmuşdur"
+
+#: 
+msgid "No loyalty record"
+msgstr "Sadiqlik rekordu yoxdur"
+
+#: 
+msgid "Dont satisfy bonus conditions"
+msgstr "Bonus şərtlərini yerinə yetirməyin"
+
+#: 
+msgid "Bonus used"
+msgstr "Bonus istifadə olunur"
+
+#: 
+msgid "Promo code needed"
+msgstr "Promo kodu lazımdır"
+
+#: 
+msgid "Wrong promo code"
+msgstr "Səhv promo kodu"
+
+#: 
+msgid "Bonuses are forbidden for user"
+msgstr "İstifadəçi üçün bonuslar qadağandır"
+
+#: 
+msgid "Already have an active bonus"
+msgstr "Artıq aktiv bonusunuz var"
+
+#: 
+msgid "registration"
+msgstr "qeydiyyat"
+
+#: 
+msgid "verification"
+msgstr "yoxlama"
+
+#: 
+msgid "sign up"
+msgstr "qeydiyyatdan keçmək"
+
+#: 
+msgid "store"
+msgstr "mağaza"
+
+#: 
+msgid "login"
+msgstr "daxil ol"
+
+#: 
+msgid "deposit"
+msgstr "depozit"
+
+#: 
+msgid "deposit first"
+msgstr "ilk depozit"
+
+#: 
+msgid "deposit sum"
+msgstr "depozit məbləği"
+
+#: 
+msgid "deposit repeated"
+msgstr "təkrar depozit"
+
+#: 
+msgid "bet"
+msgstr "mərc"
+
+#: 
+msgid "bet sum"
+msgstr "mərc məbləği"
+
+#: 
+msgid "win sum"
+msgstr "məbləği qazanın"
+
+#: 
+msgid "loss sum"
+msgstr "zərər məbləği"
+
+#: 
+msgid "once"
+msgstr "bir dəfə"
+
+#: 
+msgid "day"
+msgstr "gün"
+
+#: 
+msgid "week"
+msgstr "həftə"
+
+#: 
+msgid "month"
+msgstr "ay"
+
+#: 
+msgid "all"
+msgstr "hamısı"
+
+#: 
+msgid "bonus"
+msgstr "bonus"
+
+#: 
+msgid "win"
+msgstr "qalib"
+
+#: 
+msgid "win and bonus"
+msgstr "qalibiyyət və bonus"
+
+#: 
+msgid "winevent"
+msgstr "şərab hadisəsi"
+
+#: 
+msgid "winbonusevent"
+msgstr "winbonusevent"
+
+#: 
+msgid "none"
+msgstr "heç biri"
+
+#: 
+msgid "balance"
+msgstr "balans"
+
+#: 
+msgid "experience"
+msgstr "təcrübə"
+
+#: 
+msgid "loyalty"
+msgstr "sədaqət"
+
+#: 
+msgid "absolute"
+msgstr "mütləq"
+
+#: 
+msgid "relative"
+msgstr "qohum"
+
+#: 
+msgid "bets"
+msgstr "mərclər"
+
+#: 
+msgid "wins"
+msgstr "qalib gəlir"
+
+#: 
+msgid "turnover"
+msgstr "dövriyyəsi"
+
+#: 
+msgid "negative turnover"
+msgstr "mənfi dövriyyə"
+
+#: 
+msgid "unlimited"
+msgstr "limitsiz"
+
+#: 
+msgid "one day"
+msgstr "bir gün"
+
+#: 
+msgid "two days"
+msgstr "İki gün"
+
+#: 
+msgid "three days"
+msgstr "üç gün"
+
+#: 
+msgid "seven days"
+msgstr "yeddi gün"
+
+#: 
+msgid "ten days"
+msgstr "on gün"
+
+#: 
+msgid "fourteen days"
+msgstr "on dörd gün"
+
+#: 
+msgid "thirty days"
+msgstr "otuz gün"
+
+#: 
+msgid "sixty days"
+msgstr "altmış gün"
+
+#: 
+msgid "ninety days"
+msgstr "doxsan gün"
+
+#: 
+msgid "one week"
+msgstr "bir həftə"
+
+#: 
+msgid "two weeks"
+msgstr "iki həftə"
+
+#: 
+msgid "one month"
+msgstr "bir ay"
+
+#: 
+msgid "every day"
+msgstr "hər gün"
+
+#: 
+msgid "every week"
+msgstr "hər həftə"
+
+#: 
+msgid "every two weeks"
+msgstr "hər iki həftə"
+
+#: 
+msgid "every month"
+msgstr "hər ay"
+
+#: 
+msgid "fee"
+msgstr "haqq"
+
+#: 
+msgid "turnover and fee"
+msgstr "dövriyyə və ödəniş"
+
+#: 
+msgid "everyday"
+msgstr "hər gün"
+
+#: 
+msgid "monday"
+msgstr "bazar ertəsi"
+
+#: 
+msgid "tuesday"
+msgstr "çərşənbə axşamı"
+
+#: 
+msgid "wednesday"
+msgstr "çərşənbə"
+
+#: 
+msgid "thursday"
+msgstr "cümə axşamı"
+
+#: 
+msgid "friday"
+msgstr "cümə"
+
+#: 
+msgid "saturday"
+msgstr "şənbə"
+
+#: 
+msgid "sunday"
+msgstr "bazar günü"
+
+#: 
+msgid "transaction_list_is_empty"
+msgstr "əməliyyat_siyahısı_boşdur"
+
+#: 
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "tarix_yanlış_tarixdən_daha_daha_sonra_tarixə"
+
+#: 
+msgid "cancelled"
+msgstr "ləğv edildi"
+
+#: 
+msgid "rejected"
+msgstr "rədd edildi"
+
+#: 
+msgid "error"
+msgstr "səhv"
+
+#: 
+msgid "in_progress"
+msgstr "davam edir"
+
+#: 
+msgid "confirmed"
+msgstr "təsdiq edilmişdir"
+
+#: 
+msgid "system_error"
+msgstr "sistem səhvi"
+
+#: 
+msgid "completed"
+msgstr "tamamlandı"
+
+#: 
+msgid "aborted"
+msgstr "dayandırıldı"
+
+#: 
+msgid "credit"
+msgstr "kredit"
+
+#: 
+msgid "debet"
+msgstr "borc"
+
+#: 
+msgid "withdraw_unavailable"
+msgstr "geri_əldəmir"
+
+#: 
+msgid "withdraw_check_error"
+msgstr "geri_yoxla_xətası"
+
+#: 
+msgid "set_amount"
+msgstr "məbləği təyin edin"
+
+#: 
+msgid "set_payment_system"
+msgstr "ödəniş_sistemini təyin edin"
+
+#: 
+msgid "country_and_birth_date_required"
+msgstr "ölkə_və_doğum_tarixi_tələb olunur"
+
+#: 
+msgid "payment_request_sent"
+msgstr "ödəniş_istəyi göndərildi"
+
+#: 
+msgid "payment_request_error"
+msgstr "payment_request_error"
+
+#: 
+msgid "max_limit_of_withdraw_reached"
+msgstr "maksimum_çəkilmə_limitinə çatıldı"
+
+#: 
+msgid "sys_error_message"
+msgstr "sys_error_message"
+
+#: 
+msgid "input_purse"
+msgstr "giriş_pul kisəsi"
+
+#: 
+msgid "payment_withdraw_sent"
+msgstr "ödəniş_çəkilmə_göndərildi"
+
+#: 
+msgid "New password is empty"
+msgstr "Yeni parol boşdur"
+
+#: 
+msgid "Repeat password is empty"
+msgstr "Təkrarlanan parol boşdur"
+
+#: 
+msgid "Code is empty"
+msgstr "Kod boşdur"
+
+#: 
+msgid "Code is incorrect"
+msgstr "Kod səhvdir"
+
+#: 
+msgid "Password must be at least 6 characters long"
+msgstr "Parol ən azı 6 simvol uzunluğunda olmalıdır"
+
+#: 
+msgid "pass_not_match"
+msgstr "uyğun deyil"
+
+#: 
+msgid "Session expired"
+msgstr "Sessiya başa çatıb"
+
+#: 
+msgid "social_account_expired"
+msgstr "sosial_hesabın müddəti bitdi"
+
+#: 
+msgid "Empty to address"
+msgstr "Ünvan üçün boş"
+
+#: 
+msgid "Empty subject"
+msgstr "Boş mövzu"
+
+#: 
+msgid "Empty message"
+msgstr "Boş mesaj"
+
+#: 
+msgid "Empty required parameter"
+msgstr "Boş tələb olunan parametr"
+
+#: 
+msgid "Unknown error"
+msgstr "Naməlum xəta"
+
+#: 
+msgid "Not allowed player country"
+msgstr "Oyunçu ölkəsinə icazə verilmir"
+
+#: 
+msgid "Demo not supported"
+msgstr "Demo dəstəklənmir"
+
+#: 
+msgid "Your currency is not supported by this provider"
+msgstr "Valyutanız bu provayder tərəfindən dəstəklənmir"
+
+#: 
+msgid "Branded games are not enabled"
+msgstr "Brendli oyunlar aktiv deyil"
+
+#: 
+msgid "Self exclusion date"
+msgstr "Özünü istisna etmə tarixi"
+
+#: 
+msgid "Self exclusion"
+msgstr "Özünü istisna etmə"
+
+#: 
+msgid "does not exists"
+msgstr "mövcud deyil"
+
+#: 
+msgid "Method is not supported"
+msgstr "Metod dəstəklənmir"
+
+#: 
+msgid "Data type is not found"
+msgstr "Məlumat növü tapılmadı"
+
+#: 
+msgid "Invalid request parameters"
+msgstr "Yanlış sorğu parametrləri"
+
+#: 
+msgid "Loyalty result not supported"
+msgstr "Sadiqlik nəticəsi dəstəklənmir"
+
+#: 
+msgid "No bonus description"
+msgstr "Bonus təsviri yoxdur"
+
+#: 
+msgid "Selected"
+msgstr "Seçildi"
+
+#: 
+msgid "Qualified"
+msgstr "İxtisaslı"
+
+#: 
+msgid "Deleted"
+msgstr "Silindi"
+
+#: 
+msgid "Deactivated"
+msgstr "Deaktiv edilib"
+
+#: 
+msgid "Canceled"
+msgstr "Ləğv edildi"
+
+#: 
+msgid "Ending"
+msgstr "Son"
+
+#: 
+msgid "Ended"
+msgstr "Bitdi"
+
+#: 
+msgid "Loyalty API Failure"
+msgstr "Sadiqlik API uğursuzluğu"
+
+#: 
+msgid "User not found"
+msgstr "İstifadəçi tapılmadı"
+
+#: 
+msgid "Unable fetch oauth access token"
+msgstr "Oauth giriş tokenini əldə etmək mümkün deyil"
+
+#: 
+msgid "Access token is missing"
+msgstr "Giriş nişanı çatışmır"
+
+#: 
+msgid "Empty access token user identifier"
+msgstr "Boş giriş nişanı istifadəçi identifikatoru"
+
+#: 
+msgid "Empty access token identifier"
+msgstr "Boş giriş nişanı identifikatoru"
+
+#: 
+msgid "Method not allowed"
+msgstr "Metod icazə verilmir"
+
+#: 
+msgid "Your country is on the forbidden list"
+msgstr "Sizin ölkəniz qadağan olunmuş siyahıdadır"
+
+#: 
+msgid "Achievement result is not list"
+msgstr "Nailiyyət nəticəsi siyahıda deyil"
+
+#: 
+msgid "Too many requests"
+msgstr "Həddindən artıq sorğu"
+
+#: 
+msgid "Method Not Allowed"
+msgstr "Metod icazə verilmir"
+
+#: 
+msgid "Unknown route path"
+msgstr "Naməlum marşrut yolu"
+
+#: 
+msgid "Api endpoint not found"
+msgstr "Api son nöqtəsi tapılmadı"
+
+#: 
+msgid "Confirm your email to start games"
+msgstr "Oyunlara başlamaq üçün e-poçtunuzu təsdiqləyin"
+
+#: 
+msgid "User not authorized"
+msgstr "İstifadəçinin icazəsi yoxdur"
+
+#: 
+msgid "Merchant system not selected or invalid"
+msgstr "Satıcı sistemi seçilməyib və ya etibarsızdır"
+
+#: 
+msgid "Amount is not selected or invalid"
+msgstr "Məbləğ seçilməyib və ya etibarsızdır"
+
+#: 
+msgid "Bonus result is not list"
+msgstr "Bonus nəticəsi siyahı deyil"
+
+#: 
+msgid "Bonus ID Not found"
+msgstr "Bonus ID Tapılmadı"
+
+#: 
+msgid "Bonus Selected Not found"
+msgstr "Bonus Seçildi Tapılmadı"
+
+#: 
+msgid "Deposit failed: %s"
+msgstr "Depozit alınmadı: %s"
+
+#: 
+msgid "You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr "Siz %s limitini aktiv etdiniz: %s %s qədər. Mövcud depozit məbləği: %s %s"
+
+#: 
+msgid "User is not authorized"
+msgstr "İstifadəçinin icazəsi yoxdur"
+
+#: 
+msgid "Uploadable files is empty"
+msgstr "Yüklənə bilən fayllar boşdur"
+
+#: 
+msgid "Exceeds allowed file size"
+msgstr "İcazə verilən fayl ölçüsünü aşır"
+
+#: 
+msgid "Mb"
+msgstr "Mb"
+
+#: 
+msgid "Document ID not found"
+msgstr "Sənəd ID-si tapılmadı"
+
+#: 
+msgid "Request invalid. Error: "
+msgstr "Sorğu etibarsızdır. Xəta: "
+
+#: 
+msgid "Games catalog is temporary unavailable"
+msgstr "Oyunlar kataloqu müvəqqəti olaraq əlçatan deyil"
+
+#: 
+msgid "Empty launch code"
+msgstr "Boş başlanğıc kodu"
+
+#: 
+msgid "Empty merchant identifier"
+msgstr "Boş tacir identifikatoru"
+
+#: 
+msgid "Empty games catalog"
+msgstr "Boş oyun kataloqu"
+
+#: 
+msgid "Unknown game launch code"
+msgstr "Naməlum oyunun başlanğıc kodu"
+
+#: 
+msgid "Not supported exception"
+msgstr "İstisna dəstəklənmir"
+
+#: 
+msgid "Bad request"
+msgstr "Səhv tələb"
+
+#: 
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr "Parametr \"Y-m-d H:i:s\" formatında və ya boş olmalıdır"
+
+#: 
+msgid "Unable find user identifier"
+msgstr "İstifadəçi identifikatorunu tapmaq mümkün deyil"
+
+#: 
+msgid "Unknown error occured"
+msgstr "Naməlum xəta baş verdi"
+
+#: 
+msgid "Wrong request"
+msgstr "Yanlış sorğu"
+
+#: 
+msgid "Unknown provider"
+msgstr "Naməlum provayder"
+
+#: 
+msgid "Token not found"
+msgstr "Token tapılmadı"
+
+#: 
+msgid "Invalid token provided"
+msgstr "Yanlış nişan təqdim edilib"
+
+#: 
+msgid "Phone already verified"
+msgstr "Telefon artıq təsdiqlənib"
+
+#: 
+msgid "Insufficient parameters"
+msgstr "Qeyri-kafi parametrlər"
+
+#: 
+msgid "Configuration error"
+msgstr "Konfiqurasiya xətası"
+
+#: 
+msgid "Invalid verification code"
+msgstr "Yanlış doğrulama kodu"
+
+#: 
+msgid "Empty phone number"
+msgstr "Boş telefon nömrəsi"
+
+#: 
+msgid "Invalid phone number"
+msgstr "Yanlış telefon nömrəsi"
+
+#: 
+msgid "Anonymous"
+msgstr "anonim"
+
+#: 
+msgid "Item not found"
+msgstr "Element tapılmadı"
+
+#: 
+msgid "Sent from web-form at"
+msgstr "ünvanına veb-formadan göndərilib"
+
+#: 
+msgid "Service not found"
+msgstr "Xidmət tapılmadı"
+
+#: 
+msgid "Unauthorized"
+msgstr "İcazəsiz"
+
+#: 
+msgid "Tournaments history error"
+msgstr "Turnir tarixçəsi xətası"
+
+#: 
+msgid "Tournaments list not available"
+msgstr "Turnirlərin siyahısı mövcud deyil"
+
+#: 
+msgid "Tournaments type not found"
+msgstr "Turnir növü tapılmadı"
+
+#: 
+msgid "Tournament not found"
+msgstr "Turnir tapılmadı"
+
+#: 
+msgid "Tournaments subscribe error"
+msgstr "Turnirlərə abunə xətası"
+
+#: 
+msgid "Insufficient monetary turnover"
+msgstr "Pul dövriyyəsinin qeyri-kafi olması"
+
+#: 
+msgid "User's profile (personal data) wasn't filled"
+msgstr "İstifadəçinin profili (şəxsi məlumatlar) doldurulmadı"
+
+#: 
+msgid "Need verification"
+msgstr "Doğrulama lazımdır"
+
+#: 
+msgid "Need additional verification"
+msgstr "Əlavə yoxlama lazımdır"
+
+#: 
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "E-poçt göndərildi, bərpa linki 30 dəqiqə ərzində əlçatan olacaq"
+
+#: 
+msgid "Password repeat is empty"
+msgstr "Parolun təkrarı boşdur"
+
+#: 
+msgid "Code is not valid"
+msgstr "Kod etibarlı deyil"
+
+#: 
+msgid "New password may contain only latin letters, numbers and special symbols"
+msgstr "Yeni parol yalnız latın hərfləri, rəqəmlər və xüsusi simvollardan ibarət ola bilər"
+
+#: 
+msgid "Password must contain latin letters in upper and lower case, numbers and special symbols"
+msgstr "Parolda böyük və kiçik latın hərfləri, rəqəmlər və xüsusi simvollar olmalıdır"
+
+#: 
+msgid "Password must contain latin letters and numbers"
+msgstr "Parolda latın hərfləri və rəqəmləri olmalıdır"
+
+#: 
+msgid "Passwords do not match"
+msgstr "Parollar uyğun gəlmir"
+
+#: 
+msgid "Password is empty"
+msgstr "Parol boşdur"
+
+#: 
+msgid "Password is invalid"
+msgstr "Parol etibarsızdır"
+
+#: 
+msgid "Code is invalid"
+msgstr "Kod etibarsızdır"
+
+#: 
+msgid "Email change is not allowed"
+msgstr "E-poçt dəyişikliyinə icazə verilmir"
+
+#: 
+msgid "Email is required"
+msgstr "E-poçt tələb olunur"
+
+#: 
+msgid "User update failed"
+msgstr "İstifadəçi yeniləməsi uğursuz oldu"
+
+#: 
+msgid "Registration data validation failed"
+msgstr "Qeydiyyat məlumatlarının doğrulanması uğursuz oldu"
+
+#: 
+msgid "Empty unsubscribe code"
+msgstr "Abunəlikdən çıxmaq kodunu boşaldın"
+
+#: 
+msgid "Internal error"
+msgstr "Daxili səhv"
+
+#: 
+msgid "Email verification code is not found, maybe you have already confirmed your email, please check your mailbox"
+msgstr "E-poçt təsdiq kodu tapılmadı, bəlkə siz artıq e-poçtunuzu təsdiqləmisiniz, zəhmət olmasa poçt qutunuzu yoxlayın"
+
+#: 
+msgid "Registration_complete"
+msgstr "Qeydiyyat_tamamlandı"
+
+#: 
+msgid "Insufficient account balance"
+msgstr "Qeyri-kafi hesab balansı"
+
+#: 
+msgid "User profile is incomplete"
+msgstr "İstifadəçi profili natamamdır"
+
+#: 
+msgid "You haven't deposited through this system so you can't withdraw funds using it. Make a deposit via this system in order to withdraw."
+msgstr "Siz bu sistem vasitəsilə depozit qoymamısınız, ona görə də ondan istifadə edərək pul çıxara bilməyəcəksiniz. Çıxarmaq üçün bu sistem vasitəsilə depozit qoyun."
+
+#: 
+msgid "Server returned invalid response"
+msgstr "Server etibarsız cavab qaytardı"
+
+#: 
+msgid "Temporary routing error"
+msgstr "Müvəqqəti marşrut xətası"
+
+#: 
+msgid "Permanent routing error"
+msgstr "Daimi marşrut xətası"
+
+#: 
+msgid "Maximum throttling exceeded"
+msgstr "Maksimum tənzimləmə həddi keçdi"
+
+#: 
+msgid "Timeout"
+msgstr "Vaxt"
+
+#: 
+msgid "Operator unknown error"
+msgstr "Operatorun naməlum xətası"
+
+#: 
+msgid "Operator error"
+msgstr "Operator xətası"
+
+#: 
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr "Daxili xəta (daxili LinkMobilityerror)"
+
+#: 
+msgid "Sent (to operator)"
+msgstr "Göndərildi (operatora)"
+
+#: 
+msgid "Billed and delivered"
+msgstr "Hesablanmış və çatdırılmışdır"
+
+#: 
+msgid "Expired"
+msgstr "İstifadə müddəti bitdi"
+
+#: 
+msgid "Mobile full"
+msgstr "Mobil dolu"
+
+#: 
+msgid "Queued"
+msgstr "Növbədə"
+
+#: 
+msgid "Not delivered"
+msgstr "Çatdırılmadı"
+
+#: 
+msgid "Delivered,Billed delayed"
+msgstr "Çatdırıldı, Fatura gecikdi"
+
+#: 
+msgid "Billed OK (charged OK before sending message)"
+msgstr "Faturalandırıldı OK (mesaj göndərməzdən əvvəl OK ödənildi)"
+
+#: 
+msgid "Billed OK and NOT Delivered"
+msgstr "OK ödənildi və çatdırılmadı"
+
+#: 
+msgid "Expired, absence of operator delivery report"
+msgstr "Müddəti bitdi, operatorun çatdırılma hesabatının olmaması"
+
+#: 
+msgid "Billed OK and sent (to operator)"
+msgstr "Hesab edildi və göndərildi (operatora)"
+
+#: 
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr "Gecikdi (müvəqqəti faktura xətası, sistem yenidən göndərməyə çalışacaq)"
+
+#: 
+msgid "Message sent to operator, Billdelayed"
+msgstr "Mesaj operatora göndərildi, Billdelayed"
+
+#: 
+msgid "Service rejected by subscriber"
+msgstr "Xidmət abunəçi tərəfindən rədd edildi"
+
+#: 
+msgid "Unknown subscriber"
+msgstr "Naməlum abunəçi"
+
+#: 
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr "Təyinat bloklanıb (abunəçiyə həmişəlik qadağa qoyulub)"
+
+#: 
+msgid "Number error"
+msgstr "Nömrə xətası"
+
+#: 
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr "Təyinat müvəqqəti olaraq bloklanıb (abunəçi müvəqqəti olaraq bloklanıb)"
+
+#: 
+msgid "Charging error"
+msgstr "Doldurma xətası"
+
+#: 
+msgid "Subscriber has low balance"
+msgstr "Abunəçinin balansı azdır"
+
+#: 
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr "Abunəçiyə həddən artıq yüklənmiş (mükafat) mesajlar qadağan edilib"
+
+#: 
+msgid "Subscriber too young (for this particular content)"
+msgstr "Abunəçi çox gənc (bu xüsusi məzmun üçün)"
+
+#: 
+msgid "Prepaid subscriber not allowed"
+msgstr "Əvvəlcədən ödənişli abunəçiyə icazə verilmir"
+
+#: 
+msgid "Subscriber not registered in payment system"
+msgstr "Abunəçi ödəniş sistemində qeydiyyatdan keçməyib"
+
+#: 
+msgid "Subscriber has reached max balance"
+msgstr "Abunəçi maksimum balansa çatdı"
+
+#: 
+msgid "GSM encoding is not supported"
+msgstr "GSM kodlaşdırması dəstəklənmir"
+
+#: 
+msgid "UCS2 encoding is not supported"
+msgstr "UCS2 kodlaşdırması dəstəklənmir"
+
+#: 
+msgid "Binary encoding is not supported"
+msgstr "İkili kodlaşdırma dəstəklənmir"
+
+#: 
+msgid "Delivery report is not supported"
+msgstr "Çatdırılma hesabatı dəstəklənmir"
+
+#: 
+msgid "Invalid message content"
+msgstr "Etibarsız mesaj məzmunu"
+
+#: 
+msgid "Invalid tariff"
+msgstr "Yanlış tarif"
+
+#: 
+msgid "Invalid user data"
+msgstr "Yanlış istifadəçi məlumatları"
+
+#: 
+msgid "Invalid user data header"
+msgstr "Yanlış istifadəçi məlumat başlığı"
+
+#: 
+msgid "Invalid data coding"
+msgstr "Yanlış məlumat kodlaması"
+
+#: 
+msgid "Invalid VAT"
+msgstr "Etibarsız ƏDV"
+
+#: 
+msgid "Unsupported content for destination"
+msgstr "Təyinat üçün dəstəklənməyən məzmun"
+
+#: 
+msgid "Unknown Error. Please contact Support and include your whole transaction"
+msgstr "Naməlum Xəta. Zəhmət olmasa Dəstək ilə əlaqə saxlayın və bütün əməliyyatınızı daxil edin"
+
+#: 
+msgid "Invalid authentication. Please check your username and password"
+msgstr "Yanlış identifikasiya. Zəhmət olmasa istifadəçi adınızı və şifrənizi yoxlayın"
+
+#: 
+msgid "Access denied. Please check your username and password"
+msgstr "Giriş qadağandır. Zəhmət olmasa istifadəçi adınızı və şifrənizi yoxlayın"
+
+#: 
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr "Yanlış və ya çatışmayan platforma identifikatoru. Lütfən, platforma ID-nizi yoxlayın"
+
+#: 
+msgid "Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr "Yanlış və ya çatışmayan platformPartnerId. Lütfən, platformPartnerId-inizi yoxlayın"
+
+#: 
+msgid "Invalid or missing currency for premium message. Please check your price and currency"
+msgstr "Premium mesaj üçün etibarsız və ya çatışmayan valyuta. Zəhmət olmasa qiymətinizi və valyutanızı yoxlayın"
+
+#: 
+msgid "No gates available. Please contact Support and include your whole transaction"
+msgstr "Qapı yoxdur. Zəhmət olmasa Dəstək ilə əlaqə saxlayın və bütün əməliyyatınızı daxil edin"
+
+#: 
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr "Müəyyən edilmiş qapı mövcud deyil. Zəhmət olmasa gateId-inizi yoxlayın."
+
+#: 
+msgid "Incorrect version API in address"
+msgstr "Ünvanda səhv API versiyası"
+
+#: 
+msgid "Not specified API key"
+msgstr "API açarı göstərilməyib"
+
+#: 
+msgid "Incorrect API key"
+msgstr "Yanlış API açarı"
+
+#: 
+msgid "Incorrect IP address client"
+msgstr "Yanlış IP ünvanı müştərisi"
+
+#: 
+msgid "Invalid command"
+msgstr "Yanlış əmr"
+
+#: 
+msgid "Specified command does not exist or is not available"
+msgstr "Göstərilən əmr mövcud deyil və ya mövcud deyil"
+
+#: 
+msgid "System error"
+msgstr "Sistem səhvi"
+
+#: 
+msgid "Not specified the SMS identifier"
+msgstr "SMS identifikatoru göstərilməyib"
+
+#: 
+msgid "Sender address does not exist"
+msgstr "Göndərən ünvanı mövcud deyil"
+
+#: 
+msgid "Not specified content"
+msgstr "Müəyyən edilməmiş məzmun"
+
+#: 
+msgid "Faulty or unsupported country code"
+msgstr "Səhv və ya dəstəklənməyən ölkə kodu"
+
+#: 
+msgid "Content is too long"
+msgstr "Məzmun çox uzundur"
+
+#: 
+msgid "Incorrect encoding of the content"
+msgstr "Məzmunun səhv kodlaşdırılması"
+
+#: 
+msgid "Exceeded monthly limit"
+msgstr "Aylıq limiti keçib"
+
+#: 
+msgid "Batch ID does not exist"
+msgstr "Toplu ID mövcud deyil"
+
+#: 
+msgid "List recipients does not exist"
+msgstr "Siyahı alıcılar mövcud deyil"
+
+#: 
+msgid "Invalid recipient number"
+msgstr "Yanlış alıcı nömrəsi"
+
+#: 
+msgid "No content"
+msgstr "Məzmun yoxdur"
+
+#: 
+msgid "Wrong content"
+msgstr "Səhv məzmun"
+
+#: 
+msgid "Unable send message"
+msgstr "Mesaj göndərmək mümkün deyil"
+
+#: 
+msgid "The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr "Saatlıq SMS kvotası keçildi. %d dəqiqədən sonra SMS göndərməyə yenidən cəhd edə bilərsiniz"
+
+#: 
+msgid "Unsupported authentication provider"
+msgstr "Dəstəklənməyən autentifikasiya provayderi"
+
+#: 
+msgid "connect_social_account_email_theme"
+msgstr "əlaqə_sosial_hesab_e-poçt_teması"
+
+#: 
+msgid "not_logged_in"
+msgstr "daxil olmamısınız"
+
+#: 
+msgid "trying_delete_last_social"
+msgstr "sonuncu sosial sosial şəbəkəni silməyə çalışın"
+
+#: 
+msgid "please_set_email"
+msgstr "lütfən_e-poçt göndərin"
+
+#: 
+msgid "please_set_password"
+msgstr "zəhmət olmasa parolu təyin edin"
+
+#: 
+msgid "Code incorrect, user not found"
+msgstr "Kod səhvdir, istifadəçi tapılmadı"
+
+#: 
+msgid "email_has_been_verified"
+msgstr "e-poçt_təsdiqləndi"
+
+#: 
+msgid "Transaction value generation failed"
+msgstr "Tranzaksiya dəyərinin yaradılması uğursuz oldu"
+
+#: 
+msgid "email_to_connect_social_sent"
+msgstr "e-poçt_qoşulmaq_sosial_göndərildi"
+
+#: 
+msgid "Registration complete"
+msgstr "Qeydiyyat tamamlandı"
+
+#: 
+msgid "_ip_fraud_msg"
+msgstr "_ip_fraud_msg"
+
+#: 
+msgid "Session is expired"
+msgstr "Sessiyanın vaxtı bitdi"
+
+#: 
+msgid "Withdrawal ID not specified"
+msgstr "Çıxarma ID-si göstərilməyib"
+
+#: 
+msgid "System ID not specified"
+msgstr "Sistem ID-si göstərilməyib"
+
+#: 
+msgid "Incorrect email, please try again from the start"
+msgstr "Yanlış e-poçt, lütfən, əvvəldən yenidən cəhd edin"
+
+#: 
+msgid "Email is empty"
+msgstr "E-poçt boşdur"
+
+#: 
+msgid "Error, account with this email does not exist."
+msgstr "Xəta, bu e-poçtla hesab mövcud deyil."
+
+#: 
+msgid "Unable generate temporary restore user code"
+msgstr "Müvəqqəti bərpa istifadəçi kodu yaratmaq mümkün deyil"
+
+#: 
+msgid "Password recovery"
+msgstr "Parolun yenilənməsi"
+
+#: 
+msgid "Impossible to send email"
+msgstr "E-poçt göndərmək mümkün deyil"
+
+#: 
+msgid "current_password_empty"
+msgstr "cari_parol_boş"
+
+#: 
+msgid "Current password is incorrect"
+msgstr "Cari parol səhvdir"
+
+#: 
+msgid "day_not_set"
+msgstr "gün_qurulmayıb"
+
+#: 
+msgid "month_not_set"
+msgstr "ay_qeyd olunmur"
+
+#: 
+msgid "year_not_set"
+msgstr "il_qoyulmayıb"
+
+#: 
+msgid "Country is not picked"
+msgstr "Ölkə seçilmir"
+
+#: 
+msgid "Gender is not picked"
+msgstr "Cins seçilmir"
+
+#: 
+msgid "input_repeated_password"
+msgstr "daxil edilən_təkrarlanan_parol"
+
+#: 
+msgid "Password does not match"
+msgstr "Şifrə uyğun gəlmir"
+
+#: 
+msgid "Email field is empty or incorrect"
+msgstr "E-poçt sahəsi boş və ya səhvdir"
+
+#: 
+msgid "Email already in use"
+msgstr "E-poçt artıq istifadə olunur"
+
+#: 
+msgid "Email field is incorrect"
+msgstr "E-poçt sahəsi yanlışdır"
+
+#: 
+msgid "Login field is empty"
+msgstr "Giriş sahəsi boşdur"
+
+#: 
+msgid "Email field is empty"
+msgstr "E-poçt sahəsi boşdur"
+
+#: 
+msgid "login_already_in_use"
+msgstr "login_ready_in_istifadə"
+
+#: 
+msgid "phone_empty"
+msgstr "telefon_boş"
+
+#: 
+msgid "Phone number is incorrect. Must be"
+msgstr "Telefon nömrəsi səhvdir. Olmalıdır"
+
+#: 
+msgid "Phone number too long"
+msgstr "Telefon nömrəsi çox uzun"
+
+#: 
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Telefon nömrəsi yanlışdır: bəzi icazə verilməyən simvollar istifadə edilmişdir."
+
+#: 
+msgid "new_pass_less_6_symbols"
+msgstr "yeni_keçid_az_6_simvol"
+
+#: 
+msgid "first_name_empty"
+msgstr "ad_boş"
+
+#: 
+msgid "last_name_empty"
+msgstr "soyadı_boş"
+
+#: 
+msgid "New email field is incorrect"
+msgstr "Yeni e-poçt sahəsi yanlışdır"
+
+#: 
+msgid "User verification failed"
+msgstr "İstifadəçinin doğrulanması uğursuz oldu"
+
+#: 
+msgid "authorization_error"
+msgstr "icazə_xətası"
+
+#: 
+msgid "registration_in_progress"
+msgstr "qeydiyyat_davam edir"
+
+#: 
+msgid "user_disabled"
+msgstr "user_diabled"
+
+#: 
+msgid "Access forbidden"
+msgstr "Giriş qadağandır"
+
+#: 
+msgid "Email field incorrect"
+msgstr "E-poçt sahəsi səhvdir"
+
+#: 
+msgid "email_empty_incorrect"
+msgstr "e-poçt_boş_yanlış"
+
+#: 
+msgid "pass_less_6_symbols"
+msgstr "pass_less_6_simvol"
+
+#: 
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "Parolda yalnız latın hərfləri, rəqəmlər və xüsusi simvollar ola bilər"
+
+#: 
+msgid "currency_not_set"
+msgstr "valyuta_müəyyən edilməmişdir"
+
+#: 
+msgid "Currency field is invalid"
+msgstr "Valyuta sahəsi yanlışdır"
+
+#: 
+msgid "reg_promo_is_invalid"
+msgstr "reg_promo_etibarsızdır"
+
+#: 
+msgid "email_already_registered"
+msgstr "e-poçt_artıq_qeydiyyatlıdır"
+
+#: 
+msgid "login_already_registered"
+msgstr "login_ready_reqested"
+
+#: 
+msgid "ip_fraud_blacklist"
+msgstr "ip_fraud_qara siyahı"
+
+#: 
+msgid "ip_fraud_check_error"
+msgstr "ip_fraud_check_error"
+
+#: 
+msgid "Activate your account"
+msgstr "Hesabınızı aktivləşdirin"
+
+#: 
+msgid "Registration confirmation is in progress"
+msgstr "Qeydiyyatın təsdiqlənməsi davam edir"
+
+#: 
+msgid "Unknown status"
+msgstr "Naməlum status"
+
+#: 
+msgid "first name"
+msgstr "ad"
+
+#: 
+msgid "last name"
+msgstr "Soyad"
+
+#: 
+msgid "birth date"
+msgstr "Doğum tarixi"
+
+#: 
+msgid "sex"
+msgstr "seks"
+
+#: 
+msgid "country"
+msgstr "ölkə"
+
+#: 
+msgid "phone number"
+msgstr "telefon nömrəsi"
+
+#: 
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "%s sahəsini dəyişmək üçün dəstəyimizlə əlaqə saxlayın "
+msgstr[1] ""
+
+#: 
+msgid "Email has invalid format"
+msgstr "E-poçtun yanlış formatı var"
+
+#: 
+msgid "Repeat password field is empty"
+msgstr "Parolun təkrarlanması sahəsi boşdur"
+
+#: 
+msgid "First name field is empty"
+msgstr "Ad sahəsi boşdur"
+
+#: 
+msgid "First name must contain only letters"
+msgstr "Ad yalnız hərflərdən ibarət olmalıdır"
+
+#: 
+msgid "Last name field is empty"
+msgstr "Soyad sahəsi boşdur"
+
+#: 
+msgid "Last name must contain only letters"
+msgstr "Soyad yalnız hərflərdən ibarət olmalıdır"
+
+#: 
+msgid "Gender field is empty"
+msgstr "Gender sahəsi boşdur"
+
+#: 
+msgid "Gender unallowed value"
+msgstr "Gender icazə verilməyən dəyər"
+
+#: 
+msgid "Currency field is empty"
+msgstr "Valyuta sahəsi boşdur"
+
+#: 
+msgid "Country code is empty"
+msgstr "Ölkə kodu boşdur"
+
+#: 
+msgid "Country code is invalid"
+msgstr "Ölkə kodu yanlışdır"
+
+#: 
+msgid "Phone code is empty"
+msgstr "Telefon kodu boşdur"
+
+#: 
+msgid "Phone number field is empty"
+msgstr "Telefon nömrəsi sahəsi boşdur"
+
+#: 
+msgid "Phone number invalid format"
+msgstr "Telefon nömrəsi yanlış format"
+
+#: 
+msgid "Wrong IBAN number"
+msgstr "Yanlış IBAN nömrəsi"
+
+#: 
+msgid "Wrong SWIFT number"
+msgstr "Yanlış SWIFT nömrəsi"
+
+#: 
+msgid "Password field is empty"
+msgstr "Parol sahəsi boşdur"
+
+#: 
+msgid "New password field is empty"
+msgstr "Yeni parol sahəsi boşdur"
+
+#: 
+msgid "New password must be at least 6 characters long"
+msgstr "Yeni parol ən azı 6 simvol uzunluğunda olmalıdır"
+
+#: 
+msgid "New password strength is weak"
+msgstr "Yeni parolun gücü zəifdir"
+
+#: 
+msgid "ID Number is not unique"
+msgstr "ID nömrəsi unikal deyil"
+
+#: 
+msgid "Password strength is weak"
+msgstr "Parolun gücü zəifdir"
+
+#: 
+msgid "Login is already registered"
+msgstr "Giriş artıq qeydiyyatdan keçib"
+
+#: 
+msgid "Email is already registered"
+msgstr "E-poçt artıq qeydiyyatdan keçib"
+
+#: 
+msgid "Phone is already registered"
+msgstr "Telefon artıq qeydiyyatdan keçib"
+
+#: 
+msgid "You are less than 18 year old"
+msgstr "18 yaşdan azsınız"
+

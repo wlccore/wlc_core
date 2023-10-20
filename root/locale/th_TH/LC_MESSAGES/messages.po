@@ -1,0 +1,1466 @@
+# Thai translations for WLC_CORE package.
+# Copyright (C) 2019 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC_CORE 1.2.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: 2019-04-25 08:50+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr "เพิ่มอีเมลของเราไปยังสมุดที่อยู่ของคุณเพื่อไม่ให้พลาดข้อมูลสำคัญจาก"
+
+msgid "Congratulations,"
+msgstr "ขอแสดงความยินดี"
+
+msgid "Dear"
+msgstr "เรียน"
+
+msgid "Deposit confirmation"
+msgstr "การยืนยันการฝากเงิน"
+
+msgid "Deposit success notification. Your balance"
+msgstr "การแจ้งเตือนความสำเร็จการฝากเงิน ยอดเงินของคุณ"
+
+msgid "Finish registration link"
+msgstr "ลิงก์สิ้นสุดการลงทะเบียน"
+
+msgid "Greeting."
+msgstr "สวัสดี"
+
+msgid "Hello"
+msgstr "สวัสดี"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "หากอีเมลนี้แสดงอย่างไม่ถูกต้อง ให้เปิดมันในเบราว์เซอร์ของคุณ"
+
+msgid "If you have any questions, please contact"
+msgstr "หากคุณมีคำถามใด ๆ โปรดติดต่อ"
+
+msgid "Link will be available for 30 minutes."
+msgstr "ลิงก์จะใช้งานได้ 30 นาที"
+
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+msgid "Password restore"
+msgstr "กู้คืนรหัสผ่าน"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "โปรดคลิกที่ลิงก์ด้านล่างเพื่อเสร็จสิ้นการลงทะเบียน:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr "โปรดอย่าตอบกลับอีเมลนี้ อีเมลนี้ถูกสร้างขึ้นโดยอัตโนมัติและคุณจะไม่ได้รับการตอบกลับ"
+
+msgid "Registration confirmation"
+msgstr "การยืนยันการลงทะเบียน"
+
+msgid "Restore your password by clicking the link below."
+msgstr "กู้คืนรหัสผ่านของคุณโดยคลิกที่ลิงก์ด้านล่าง"
+
+msgid "Social registration confirmation"
+msgstr "การยืนยันการลงทะเบียนด้วยโซเชียล"
+
+msgid "Thank you for validating your account."
+msgstr "ขอบคุณสำหรับการยืนยันบัญชีของคุณ"
+
+msgid "Thanks for registration on the website!"
+msgstr "ขอบคุณสำหรับการลงทะเบียนในเว็บไซต์!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "เพื่อเชื่อมโยงบัญชีของคุณให้เสร็จสิ้น โปรดใช้ลิงก์นี้:"
+
+msgid "Welcome to"
+msgstr "ยินดีต้อนรับเข้าสู่"
+
+msgid "With respect"
+msgstr "ด้วยความเคารพ"
+
+msgid "You asked to link new social account to your current account"
+msgstr "คุณได้ขอให้เชื่อมโยงบัญชีโซเชียลใหม่เข้ากับบัญชีปัจจุบันของคุณ"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr "คุณได้เริ่มก้าวแรกเพื่อสัมผัสประสบการณ์การเล่นเกมที่น่ามหัศจรรย์กับ"
+
+msgid "casino_footer_copyright"
+msgstr "ลิขสิทธิ์ส่วนท้ายของคาสิโน"
+
+msgid "casino_mail_info"
+msgstr "ข้อมูลจดหมายคาสิโน"
+
+msgid "online support"
+msgstr "การสนับสนุนทางออนไลน์"
+
+msgid "controller_does_not_exists"
+msgstr "ไม่มีตัวควบคุม"
+
+msgid "social_not_found"
+msgstr "ไม่พบโซเชียล"
+
+msgid "purchase_error"
+msgstr "เกิดข้อผิดพลาดในการซื้อ"
+
+msgid "game_added_to_favorites"
+msgstr "เพิ่มเกมในรายการโปรดแล้ว"
+
+msgid "game_deleted_from_favorites"
+msgstr "ลบเกมจากรายการโปรดแล้ว"
+
+msgid "must_login"
+msgstr "ต้องเข้าสู่ระบบ"
+
+msgid "No bonus name"
+msgstr "ไม่มีชื่อโบนัส"
+
+msgid "No bonus descripton"
+msgstr "ไม่มีคำอธิบายโบนัส"
+
+msgid "No user id"
+msgstr "ไม่มี ID ผู้ใช้"
+
+msgid "No bonus id"
+msgstr "ไม่มี ID โบนัส"
+
+msgid "No status"
+msgstr "ไม่มีสถานะ"
+
+msgid "Bonus not found"
+msgstr "ไม่พบโบนัส"
+
+msgid "Already have active"
+msgstr "มีการใช้งานอยู่แล้ว"
+
+msgid "Bonus is not available"
+msgstr "โบนัสไม่พร้อมใช้งาน"
+
+msgid "First deposit, already deposited"
+msgstr "เงินฝากครั้งแรกถูกฝากแล้ว"
+
+msgid "No loyalty record"
+msgstr "ไม่มีบันทึกลอยัลตี้"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "ไม่เป็นไปตามเงื่อนไขโบนัส"
+
+msgid "Bonus used"
+msgstr "โบนัสที่ถูกใช้"
+
+msgid "Promo code needed"
+msgstr "จำเป็นต้องมีรหัสโปรโมชั่น"
+
+msgid "Wrong promo code"
+msgstr "รหัสโปรโมชั่นไม่ถูกต้อง"
+
+msgid "Bonuses are forbidden for user"
+msgstr "โบนัสถูกห้ามสำหรับผู้ใช้"
+
+msgid "Already have an active bonus"
+msgstr "มีโบนัสที่ใช้งานอยู่แล้ว"
+
+msgid "registration"
+msgstr "การลงทะเบียน"
+
+msgid "verification"
+msgstr "การยืนยัน"
+
+msgid "sign up"
+msgstr "ลงทะเบียน"
+
+msgid "store"
+msgstr "ร้านค้า"
+
+msgid "login"
+msgstr "เข้าสู่ระบบ"
+
+msgid "deposit"
+msgstr "เงินฝาก"
+
+msgid "deposit first"
+msgstr "เงินฝากก่อน"
+
+msgid "deposit sum"
+msgstr "ยอดรวมเงินฝาก"
+
+msgid "deposit repeated"
+msgstr "เงินฝากซ้ำ"
+
+msgid "bet"
+msgstr "เดิมพัน"
+
+msgid "bet sum"
+msgstr "ยอดรวมเดิมพัน"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "ยอดรวมเงินฝาก"
+
+msgid "once"
+msgstr "ครั้งเดียว"
+
+msgid "day"
+msgstr "วัน"
+
+msgid "week"
+msgstr "สัปดาห์"
+
+msgid "month"
+msgstr "เดือน"
+
+msgid "all"
+msgstr "ทั้งหมด"
+
+msgid "bonus"
+msgstr "โบนัส"
+
+msgid "win"
+msgstr "รางวัล"
+
+msgid "win and bonus"
+msgstr "รางวัลและโบนัส"
+
+msgid "winevent"
+msgstr "รางวัลและอีเวนต์"
+
+msgid "winbonusevent"
+msgstr "รางวัล + โบนัส + อีเวนต์"
+
+msgid "none"
+msgstr "ไม่มี"
+
+msgid "balance"
+msgstr "ยอดคงเหลือ"
+
+msgid "experience"
+msgstr "ประสบการณ์"
+
+msgid "loyalty"
+msgstr "ลอยัลตี้"
+
+msgid "absolute"
+msgstr "สมบูรณ์"
+
+msgid "relative"
+msgstr "เกี่ยวข้อง"
+
+msgid "bets"
+msgstr "เดิมพัน"
+
+msgid "wins"
+msgstr "รางวัล"
+
+msgid "turnover"
+msgstr "เทิร์นโอเวอร์"
+
+msgid "negative turnover"
+msgstr "เทิร์นโอเวอร์ที่ติดลบ"
+
+msgid "unlimited"
+msgstr "ไม่จำกัด"
+
+msgid "one day"
+msgstr "หนึ่งวัน"
+
+msgid "two days"
+msgstr "สองวัน"
+
+msgid "three days"
+msgstr "สามวัน"
+
+msgid "seven days"
+msgstr "เจ็ดวัน"
+
+msgid "ten days"
+msgstr "สิบวัน"
+
+msgid "fourteen days"
+msgstr "สิบสี่วัน"
+
+msgid "thirty days"
+msgstr "สามสิบวัน"
+
+msgid "sixty days"
+msgstr "หกสิบวัน"
+
+msgid "ninety days"
+msgstr "เก้าสิบวัน"
+
+msgid "one week"
+msgstr "หนึ่งสัปดาห์"
+
+msgid "two weeks"
+msgstr "สองสัปดาห์"
+
+msgid "one month"
+msgstr "หนึ่งเดือน"
+
+msgid "every day"
+msgstr "ทุกวัน"
+
+msgid "every week"
+msgstr "ทุกสัปดาห์"
+
+msgid "every two weeks"
+msgstr "ทุกสองสัปดาห์"
+
+msgid "every month"
+msgstr "ทุกเดือน"
+
+msgid "fee"
+msgstr "ค่าธรรมเนียม"
+
+msgid "turnover and fee"
+msgstr "เทิร์นโอเวอร์และค่าธรรมเนียม"
+
+msgid "everyday"
+msgstr "ทุกวัน"
+
+msgid "monday"
+msgstr "วันจันทร์"
+
+msgid "tuesday"
+msgstr "วันอังคาร"
+
+msgid "wednesday"
+msgstr "วันพุธ"
+
+msgid "thursday"
+msgstr "วันพฤหัสบดี"
+
+msgid "friday"
+msgstr "วันศุกร์"
+
+msgid "saturday"
+msgstr "วันเสาร์"
+
+msgid "sunday"
+msgstr "วันอาทิตย์"
+
+msgid "transaction_list_is_empty"
+msgstr "รายการธุรกรรมว่างเปล่า"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "วันที่ไม่ถูกต้อง วันที่จากมากกว่าวันที่ถึง"
+
+msgid "cancelled"
+msgstr "ยกเลิกแล้ว"
+
+msgid "rejected"
+msgstr "ปฏิเสธ"
+
+msgid "error"
+msgstr "ข้อผิดพลาด"
+
+msgid "in_progress"
+msgstr "กำลังดำเนินการ"
+
+msgid "confirmed"
+msgstr "ยืนยันแล้ว"
+
+#, fuzzy
+msgid "pending"
+msgstr "กำลังสิ้นสุด"
+
+msgid "system_error"
+msgstr "เกิดข้อผิดพลาดของระบบ"
+
+msgid "completed"
+msgstr "เสร็จสมบูรณ์แล้ว"
+
+msgid "aborted"
+msgstr "ยกเลิกแล้ว"
+
+msgid "credit"
+msgstr "เครดิต"
+
+msgid "debet"
+msgstr "เดบิต"
+
+msgid "withdraw_unavailable"
+msgstr "การถอนไม่พร้อมใช้งาน"
+
+msgid "withdraw_check_error"
+msgstr "เกิดข้อผิดพลาดในการตรวจสอบการถอน"
+
+msgid "set_amount"
+msgstr "กำหนดจำนวน"
+
+msgid "set_payment_system"
+msgstr "กำหนดระบบการชำระเงิน"
+
+msgid "country_and_birth_date_required"
+msgstr "ต้องระบุประเทศและวันเกิด"
+
+msgid "payment_request_sent"
+msgstr "ส่งคำขอชำระเงินแล้ว"
+
+msgid "payment_request_error"
+msgstr "เกิดข้อผิดพลาดในคำขอชำระเงิน"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "ถึงขีดจำกัดสูงสุดของการถอนแล้ว"
+
+msgid "sys_error_message"
+msgstr "ข้อความแสดงข้อผิดพลาดของระบบ"
+
+msgid "input_purse"
+msgstr "ป้อนกระเป๋าเงิน"
+
+msgid "payment_withdraw_sent"
+msgstr "ส่งการถอนการชำระเงินแล้ว"
+
+msgid "New password is empty"
+msgstr "รหัสผ่านใหม่ว่างเปล่า"
+
+msgid "Repeat password is empty"
+msgstr "รหัสผ่านซ้ำว่างเปล่า"
+
+msgid "Code is empty"
+msgstr "รหัสว่างเปล่า"
+
+msgid "Code is incorrect"
+msgstr "รหัสไม่ถูกต้อง"
+
+msgid "Password must be at least 6 characters long"
+msgstr "รหัสผ่านต้องมีความยาวอย่างน้อย 6 อักขระ"
+
+msgid "pass_not_match"
+msgstr "รหัสผ่านไม่ตรงกัน"
+
+msgid "Session expired"
+msgstr "เซสชันหมดอายุแล้ว"
+
+msgid "social_account_expired"
+msgstr "บัญชีโซเชียลหมดอายุแล้ว"
+
+msgid "Empty to address"
+msgstr "ที่อยู่ว่างเปล่า"
+
+msgid "Empty subject"
+msgstr "หัวเรื่องว่างเปล่า"
+
+msgid "Empty message"
+msgstr "ข้อความว่างเปล่า"
+
+msgid "Empty required parameter"
+msgstr "พารามิเตอร์ที่จำเป็นว่างเปล่า"
+
+msgid "Unknown error"
+msgstr "เกิดข้อผิดพลาดที่ไม่รู้จัก"
+
+msgid "Not allowed player country"
+msgstr "ไม่อนุญาตประเทศของผู้เล่น"
+
+msgid "Demo not supported"
+msgstr "ไม่รองรับการสาธิต"
+
+msgid "Your currency is not supported by this provider"
+msgstr "ผู้ให้บริการรายนี้ไม่รองรับสกุลเงินของคุณ"
+
+msgid "Branded games are not enabled"
+msgstr "เกมที่มีแบรนด์ไม่ถูกเปิดใช้งาน"
+
+msgid "Self exclusion date"
+msgstr "วันที่การกันตนเอง"
+
+msgid "Self exclusion"
+msgstr "การกันตนเอง"
+
+msgid "does not exists"
+msgstr "ไม่มีอยู่"
+
+msgid "Method is not supported"
+msgstr "ไม่รองรับวิธีการนี้"
+
+msgid "Data type is not found"
+msgstr "ไม่พบชนิดข้อมูล"
+
+msgid "Invalid request parameters"
+msgstr "พารามิเตอร์คำขอไม่ถูกต้อง"
+
+msgid "No bonus description"
+msgstr "ไม่มีคำอธิบายโบนัส"
+
+msgid "Selected"
+msgstr "เลือกแล้ว"
+
+msgid "Qualified"
+msgstr "รับรองแล้ว"
+
+msgid "Deleted"
+msgstr "ลบแล้ว"
+
+msgid "Deactivated"
+msgstr "ปิดใช้งานแล้ว"
+
+msgid "Canceled"
+msgstr "ยกเลิกแล้ว"
+
+msgid "Ending"
+msgstr "กำลังสิ้นสุด"
+
+msgid "Ended"
+msgstr "สิ้นสุดแล้ว"
+
+msgid "Loyalty API Failure"
+msgstr "API ลอยัลตี้ล้มเหลว"
+
+msgid "Loyalty result not supported"
+msgstr "ไม่รองรับผลลอยัลตี้"
+
+msgid "User not found"
+msgstr "ไม่พบชื่อผู้ใช้"
+
+msgid "Unable fetch oauth access token"
+msgstr "ไม่สามารถดึงโทเค็นการเข้าถึงโอออทได้"
+
+msgid "Access token is missing"
+msgstr "ไม่มีโทเค็นการเข้าถึง"
+
+msgid "Empty access token user identifier"
+msgstr "ตัวระบุผู้ใช้โทเค็นการเข้าถึงว่างเปล่า"
+
+msgid "Empty access token identifier"
+msgstr "ตัวระบุโทเค็นการเข้าถึงว่างเปล่า"
+
+msgid "Method not allowed"
+msgstr "วิธีการไม่ได้รับอนุญาต"
+
+msgid "Your country is on the forbidden list"
+msgstr "ประเทศของคุณอยู่ในรายชื่อต้องห้าม"
+
+msgid "User profile is incomplete"
+msgstr "โปรไฟล์ผู้ใช้ไม่สมบูรณ์"
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "ผลโบนัสไม่อยู่ในรายการ"
+
+msgid "Unknown route path"
+msgstr "เส้นทางที่ไม่รู้จัก"
+
+msgid "Too many requests"
+msgstr "มีคำขอมากเกินไป"
+
+msgid "Code is not valid"
+msgstr "รหัสไม่ถูกต้อง"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "มีคำขอมากเกินไป"
+
+msgid "Method Not Allowed"
+msgstr "วิธีการไม่ได้รับอนุญาต"
+
+msgid "Api endpoint not found"
+msgstr "ไม่พบจุดสิ้นสุดของ API"
+
+msgid "Confirm your email to start games"
+msgstr ""
+
+msgid "User not authorized"
+msgstr "ผู้ใช้ไม่ได้รับอนุญาต"
+
+msgid "Merchant system not selected or invalid"
+msgstr "ระบบร้านค้าไม่ได้ถูกเลือกหรือไม่ถูกต้อง"
+
+msgid "Amount is not selected or invalid"
+msgstr "จำนวนเงินไม่ได้ถูกเลือกหรือไม่ถูกต้องง"
+
+msgid "Bonus result is not list"
+msgstr "ผลโบนัสไม่อยู่ในรายการ"
+
+msgid "Bonus ID Not found"
+msgstr "ไม่พบ ID โบนัส"
+
+msgid "Bonus Selected Not found"
+msgstr "ไม่พบโบนัสที่เลือก"
+
+msgid "User is not authorized"
+msgstr "ผู้ใช้ไม่ได้รับอนุญาต"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "หัวเรื่องว่างเปล่า"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "การฝากเงินล้มเหลว: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr "คุณได้เปิดใช้งานขีดจำกัด %s: %s %s จนถึง %s จำนวนเงินฝากที่มีอยู่: %s %s"
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "กำหนดจำนวน"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "รหัสเปิดตัวว่างเปล่า"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "นามสกุล"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "นามสกุล"
+
+#, fuzzy
+msgid "Account type"
+msgstr "ประเทศ"
+
+#, fuzzy
+msgid "Account number"
+msgstr "หมายเลขโทรศัพท์"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "หมายเลขโทรศัพท์"
+
+msgid "Uploadable files is empty"
+msgstr "ไฟล์ที่อัปโหลดได้ว่างเปล่า"
+
+msgid "Exceeds allowed file size"
+msgstr "เกินขนาดไฟล์ที่อนุญาต"
+
+msgid "Mb"
+msgstr "Mb"
+
+msgid "Document ID not found"
+msgstr "ไม่พบ ID เอกสาร"
+
+msgid "Request invalid. Error: "
+msgstr "คำขอไม่ถูกต้อง ข้อผิดพลาด: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr "แคตตาล็อกเกมไม่พร้อมใช้งานชั่วคราว"
+
+msgid "Empty launch code"
+msgstr "รหัสเปิดตัวว่างเปล่า"
+
+msgid "Empty merchant identifier"
+msgstr "ตัวระบุผู้ขายว่างเปล่า"
+
+msgid "Empty games catalog"
+msgstr "แคตตาล็อกเกมว่างเปล่า"
+
+msgid "Unknown game launch code"
+msgstr "รหัสเปิดเกมที่ไม่รู้จัก"
+
+msgid "Not supported exception"
+msgstr "ไม่รองรับข้อยกเว้น"
+
+msgid "Bad request"
+msgstr "คำขอไม่ถูกต้อง"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+msgid "Unable find user identifier"
+msgstr "ไม่พบตัวระบุผู้ใช้"
+
+msgid "Unknown error occured"
+msgstr "เกิดข้อผิดพลาดที่ไม่รู้จัก"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "หมายเลขผู้รับไม่ถูกต้อง"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "มีคำขอมากเกินไป"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "เกิดข้อผิดพลาดที่ไม่รู้จัก"
+
+msgid "Token not found"
+msgstr "ไม่พบโทเค็น"
+
+msgid "Invalid token provided"
+msgstr "โทเค็นที่ระบุไม่ถูกต้อง"
+
+msgid "Phone already verified"
+msgstr "โทรศัพท์ถูกยืนยันแล้ว"
+
+msgid "Insufficient parameters"
+msgstr "พารามิเตอร์ไม่เพียงพอ"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "เกิดข้อผิดพลาดในการรับรอง"
+
+msgid "Invalid verification code"
+msgstr "รหัสยืนยันไม่ถูกต้อง"
+
+msgid "Empty phone number"
+msgstr "หมายเลขโทรศัพท์ว่างเปล่า"
+
+msgid "Invalid phone number"
+msgstr "หมายเลขโทรศัพท์ไม่ถูกต้อง"
+
+msgid "Anonymous"
+msgstr "ไม่ระบุตัวตน"
+
+msgid "Item not found"
+msgstr "ไม่พบรายการ"
+
+msgid "Sent from web-form at"
+msgstr "ส่งจากเว็บฟอร์มที่"
+
+msgid "Service not found"
+msgstr "ไม่พบบริการ"
+
+msgid "Unauthorized"
+msgstr "ไม่ได้รับอนุญาต"
+
+msgid "Tournaments history error"
+msgstr "เกิดข้อผิดพลาดในประวัติทัวร์นาเมนต์"
+
+msgid "Tournaments list not available"
+msgstr "รายการทัวร์นาเมนต์ไม่พร้อมใช้งาน"
+
+msgid "Tournaments type not found"
+msgstr "ไม่พบประเภททัวร์นาเมนต์"
+
+msgid "Tournament not found"
+msgstr "ไม่พบทัวร์นาเมนต์"
+
+msgid "Tournaments subscribe error"
+msgstr "เกิดข้อผิดพลาดในการสมัครทัวร์นาเมนต์"
+
+msgid "Insufficient monetary turnover"
+msgstr "ยอดเงินเทิร์นโอเวอร์ไม่เพียงพอ"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "ไม่ได้กรอกโปรไฟล์ของผู้ใช้ (ข้อมูลส่วนบุคคล)"
+
+msgid "Need verification"
+msgstr "ต้องการการยืนยัน"
+
+msgid "Need additional verification"
+msgstr "ต้องการการยืนยันเพิ่มเติม"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "อีเมลถูกส่งแล้ว ลิงก์การกู้คืนจะใช้งานได้ 30 นาที"
+
+msgid "Password repeat is empty"
+msgstr "รหัสผ่านซ้ำว่างเปล่า"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr "รหัสผ่านใหม่ต้องประกอบด้วยตัวอักษรละติน ตัวเลข และสัญลักษณ์พิเศษเท่านั้น"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr "รหัสผ่านต้องประกอบด้วยตัวอักษรละตินทั้งตัวพิมพ์ใหญ่และตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "รหัสผ่านต้องประกอบด้วยตัวอักษรละตินและตัวเลข"
+
+msgid "Passwords do not match"
+msgstr "รหัสผ่านไม่ตรงกัน"
+
+msgid "Password is empty"
+msgstr "รหัสผ่านว่างเปล่า"
+
+msgid "Password is invalid"
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+msgid "Code is invalid"
+msgstr "รหัสไม่ถูกต้อง"
+
+msgid "Email change is not allowed"
+msgstr "ไม่อนุญาตให้เปลี่ยนอีเมล"
+
+msgid "Email is required"
+msgstr "จำเป็นต้องระบุอีเมล"
+
+msgid "User update failed"
+msgstr "การอัปเดตผู้ใช้ล้มเหลว"
+
+msgid "Registration data validation failed"
+msgstr "การตรวจสอบข้อมูลการลงทะเบียนล้มเหลว"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "รหัสยืนยันไม่ถูกต้อง"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "รหัสเปิดตัวว่างเปล่า"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "เกิดผิดพลาดของระบบ"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr "ไม่พบรหัสยืนยันอีเมล บางทีคุณอาจได้ยืนยันอีเมลไปแล้ว โปรดตรวจสอบกล่องจดหมายของคุณ"
+
+msgid "Registration_complete"
+msgstr "การลงทะเบียนเสร็จสมบูรณ์แล้ว"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+msgid "Insufficient account balance"
+msgstr "ยอดเงินในบัญชีไม่เพียงพอ"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"คุณไม่ได้ฝากเงินผ่านระบบนี้ ดังนั้นคุณจึงไม่สามารถถอนเงินผ่านมันได้ "
+"ต้องฝากเงินผ่านระบบนี้เพื่อให้ถอนเงินได้"
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "ไม่ได้เลือกเพศ"
+
+msgid "Impossible to send email"
+msgstr "ส่งอีเมลไม่ได้"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "รหัสยืนยันไม่ถูกต้อง"
+
+msgid "Server returned invalid response"
+msgstr "เซิร์ฟเวอร์ส่งคืนการตอบสนองที่ไม่ถูกต้อง"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "เกิดข้อผิดพลาดที่ไม่รู้จัก"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "สถานะที่ไม่รู้จัก"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "ไม่รองรับวิธีการนี้"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "ไม่รองรับวิธีการนี้"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "ไม่รองรับวิธีการนี้"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "ไม่รองรับวิธีการนี้"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "คำสั่งไม่ถูกต้อง"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "พารามิเตอร์คำขอไม่ถูกต้อง"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "พารามิเตอร์คำขอไม่ถูกต้อง"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "คำสั่งไม่ถูกต้อง"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "คำสั่งไม่ถูกต้อง"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "ผู้ให้บริการการยืนยันที่ไม่รองรับ"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "ที่อยู่ API เวอร์ชันไม่ถูกต้อง"
+
+msgid "Not specified API key"
+msgstr "ไม่ได้ระบุคีย์ API"
+
+msgid "Incorrect API key"
+msgstr "คีย์ API ไม่ถูกต้อง"
+
+msgid "Incorrect IP address client"
+msgstr "ไคลเอนต์ที่อยู่ IP ไม่ถูกต้อง"
+
+msgid "Invalid command"
+msgstr "คำสั่งไม่ถูกต้อง"
+
+msgid "Specified command does not exist or is not available"
+msgstr "คำสั่งที่ระบุไม่มีอยู่หรือไม่พร้อมใช้งาน"
+
+msgid "System error"
+msgstr "เกิดผิดพลาดของระบบ"
+
+msgid "Not specified the SMS identifier"
+msgstr "ไม่ได้ระบุตัวระบุ SMS"
+
+msgid "Sender address does not exist"
+msgstr "ไม่มีที่อยู่ผู้ส่ง"
+
+msgid "Not specified content"
+msgstr "ไม่ได้ระบุเนื้อหา"
+
+msgid "Faulty or unsupported country code"
+msgstr "รหัสประเทศผิดพลาดหรือไม่รองรับ"
+
+msgid "Content is too long"
+msgstr "เนื้อหายาวเกินไป"
+
+msgid "Incorrect encoding of the content"
+msgstr "การเข้ารหัสเนื้อหาไม่ถูกต้อง"
+
+msgid "Exceeded monthly limit"
+msgstr "เกินขีดจำกัดรายเดือน"
+
+msgid "Batch ID does not exist"
+msgstr "Batch ID ไม่มีอยู่"
+
+msgid "List recipients does not exist"
+msgstr "ผู้รับรายการไม่มีอยู่"
+
+msgid "Invalid recipient number"
+msgstr "หมายเลขผู้รับไม่ถูกต้อง"
+
+msgid "No content"
+msgstr "ไม่มีเนื้อหา"
+
+msgid "Wrong content"
+msgstr "เนื้อหาไม่ถูกต้อง"
+
+msgid "Unable send message"
+msgstr "ไม่สามารถส่งข้อความได้"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr "เกินโควต้า SMS ต่อชั่วโมงแล้ว คุณสามารถส่ง SMS อีกครั้งได้ใน %d นาที"
+
+msgid "Unsupported authentication provider"
+msgstr "ผู้ให้บริการการยืนยันที่ไม่รองรับ"
+
+msgid "connect_social_account_email_theme"
+msgstr "เชื่อมต่อธีมอีเมลของบัญชีโซเชียล"
+
+msgid "not_logged_in"
+msgstr "ไม่ได้เข้าสู่ระบบ"
+
+msgid "trying_delete_last_social"
+msgstr "ลองลบโซเชียลล่าสุด"
+
+msgid "please_set_email"
+msgstr "โปรดกำหนดอีเมล"
+
+msgid "please_set_password"
+msgstr "โปรดกำหนดรหัสผ่าน"
+
+msgid "Code incorrect, user not found"
+msgstr "รหัสไม่ถูกต้อง ไม่พบผู้ใช้"
+
+msgid "email_has_been_verified"
+msgstr "ได้ยืนยันอีเมลแล้ว"
+
+msgid "Transaction value generation failed"
+msgstr "การสร้างค่าธุรกรรมล้มเหลว"
+
+msgid "email_to_connect_social_sent"
+msgstr "ส่งอีเมลไปยังบัญชีโซเชียลที่เชื่อมต่อแล้ว"
+
+msgid "Registration complete"
+msgstr "การลงทะเบียนเสร็จสมบูรณ์แล้ว"
+
+msgid "_ip_fraud_msg"
+msgstr "ข้อความหลอกลวง ip"
+
+msgid "Session is expired"
+msgstr "เซสชันหมดอายุแล้ว"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "ไม่ได้ระบุ ID ระบบ"
+
+msgid "System ID not specified"
+msgstr "ไม่ได้ระบุ ID ระบบ"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "อีเมลไม่ถูกต้อง โปรดลองอีกครั้งตั้งแต่เริ่มต้น"
+
+msgid "Email is empty"
+msgstr "อีเมลว่างเปล่า"
+
+msgid "Error, account with this email does not exist."
+msgstr "เกิดข้อผิดพลาด ไม่มีบัญชีที่ใช้อีเมลนี้"
+
+msgid "Unable generate temporary restore user code"
+msgstr "ไม่สามารถสร้างรหัสกู้คืนผู้ใช้ชั่วคราวได้"
+
+msgid "Password recovery"
+msgstr "การกู้คืนรหัสผ่าน"
+
+msgid "current_password_empty"
+msgstr "รหัสผ่านปัจจุบันว่างเปล่า"
+
+msgid "Current password is incorrect"
+msgstr "รหัสผ่านปัจจุบันไม่ถูกต้อง"
+
+msgid "day_not_set"
+msgstr "ไม่ได้กำหนดวัน"
+
+msgid "month_not_set"
+msgstr "ไม่ได้กำหนดเดือน"
+
+msgid "year_not_set"
+msgstr "ไม่ได้กำหนดปี"
+
+msgid "Country is not picked"
+msgstr "ไม่ได้เลือกประเทศ"
+
+msgid "Gender is not picked"
+msgstr "ไม่ได้เลือกเพศ"
+
+msgid "input_repeated_password"
+msgstr "ป้อนรหัสผ่านซ้ำ"
+
+msgid "Password does not match"
+msgstr "รหัสผ่านไม่ถูกต้อง"
+
+msgid "Email field is empty or incorrect"
+msgstr "ฟิลด์อีเมลว่างเปล่าหรือไม่ถูกต้อง"
+
+msgid "Email already in use"
+msgstr "อีเมลถูกใช้งานแล้ว"
+
+msgid "Email field is incorrect"
+msgstr "ฟิลด์อีเมลไม่ถูกต้อง"
+
+msgid "Login field is empty"
+msgstr "ฟิลด์การเข้าสู่ระบบว่างเปล่า"
+
+msgid "Email field is empty"
+msgstr "ฟิลด์อีเมลว่างเปล่า"
+
+msgid "login_already_in_use"
+msgstr "การเข้าสู่ระบบถูกใช้งานแล้ว"
+
+msgid "phone_empty"
+msgstr "โทรศัพท์ว่างเปล่า"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "หมายเลขโทรศัพท์ไม่ถูกต้อง ต้อง"
+
+msgid "Phone number too long"
+msgstr "หมายเลขโทรศัพท์ยาวเกินไป"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "หมายเลขโทรศัพท์ไม่ถูกต้อง: มีการใช้บางสัญลักษณ์ที่ไม่ได้รับอนุญาต"
+
+msgid "new_pass_less_6_symbols"
+msgstr "รหัสผ่านใหม่น้อยกว่า 6 สัญลักษณ์"
+
+msgid "first_name_empty"
+msgstr "ชื่อว่างเปล่า"
+
+msgid "last_name_empty"
+msgstr "นามสกุลว่างเปล่า"
+
+msgid "New email field is incorrect"
+msgstr "ฟิลด์อีเมลใหม่ไม่ถูกต้อง"
+
+msgid "User verification failed"
+msgstr "การยืนยันผู้ใช้ล้มเหลว"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "เกิดข้อผิดพลาดในการรับรอง"
+
+msgid "authorization_error"
+msgstr "เกิดข้อผิดพลาดในการรับรอง"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "เซสชันหมดอายุแล้ว"
+
+msgid "registration_in_progress"
+msgstr "กำลังดำเนินการการลงทะเบียน"
+
+msgid "user_disabled"
+msgstr "ผู้ใช้ถูกปิดใช้งาน"
+
+msgid "Access forbidden"
+msgstr "ไม่อนุญาตให้เข้าถึง"
+
+msgid "Email field incorrect"
+msgstr "ฟิลด์อีเมลไม่ถูกต้อง"
+
+msgid "email_empty_incorrect"
+msgstr "อีเมลไม่ถูกต้อง"
+
+msgid "pass_less_6_symbols"
+msgstr "รหัสผ่านน้อยกว่า 6 สัญลักษณ์"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "รหัสผ่านต้องประกอบด้วยตัวอักษรละติน ตัวเลข และสัญลักษณ์พิเศษเท่านั้น"
+
+msgid "currency_not_set"
+msgstr "ไม่ได้กำหนดสกุลเงิน"
+
+msgid "Currency field is invalid"
+msgstr "ฟิลด์สกุลเงินไม่ถูกต้อง"
+
+msgid "reg_promo_is_invalid"
+msgstr "โปรโมชั่นการลงทะเบียนไม่ถูกต้อง"
+
+msgid "email_already_registered"
+msgstr "อีเมลถูกลงทะเบียนแล้ว"
+
+msgid "login_already_registered"
+msgstr "ล็อกอินถูกลงทะเบียนแล้ว"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "โทรศัพท์ได้ถูกลงทะเบียนแล้ว"
+
+msgid "ip_fraud_blacklist"
+msgstr "บัญชีดำการหลอกลวง ip"
+
+msgid "ip_fraud_check_error"
+msgstr "เกิดข้อผิดพลาดในการตรวจสอบการหลอกลวง ip"
+
+msgid "Activate your account"
+msgstr "เปิดใช้งานบัญชีของคุณ"
+
+msgid "Registration confirmation is in progress"
+msgstr "กำลังดำเนินการการยืนยันการลงทะเบียน"
+
+msgid "Unknown status"
+msgstr "สถานะที่ไม่รู้จัก"
+
+msgid "first name"
+msgstr "ชื่อ"
+
+msgid "last name"
+msgstr "นามสกุล"
+
+msgid "birth date"
+msgstr "วันเกิด"
+
+msgid "sex"
+msgstr "เพศ"
+
+msgid "country"
+msgstr "ประเทศ"
+
+msgid "phone number"
+msgstr "หมายเลขโทรศัพท์"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "เพื่อเปลี่ยนฟิลด์ %s โปรดติดต่อฝ่ายสนับสนุนของเราที่"
+msgstr[1] "เพื่อเปลี่ยนฟิลด์ %s โปรดติดต่อฝ่ายสนับสนุนของเราที่"
+
+msgid "Email has invalid format"
+msgstr "อีเมลมีรูปแบบที่ไม่ถูกต้อง"
+
+msgid "Repeat password field is empty"
+msgstr "ฟิลด์รหัสผ่านซ้ำว่างเปล่า"
+
+msgid "First name field is empty"
+msgstr "ฟิลด์ชื่อว่างเปล่า"
+
+msgid "First name must contain only letters"
+msgstr "ชื่อต้องประกอบด้วยตัวอักษรเท่านั้น"
+
+msgid "Last name field is empty"
+msgstr "ฟิลด์นามสกุลว่างเปล่า"
+
+msgid "Last name must contain only letters"
+msgstr "นามสกุลต้องประกอบด้วยตัวอักษรเท่านั้น"
+
+msgid "Gender field is empty"
+msgstr "ฟิลด์เพศว่างเปล่า"
+
+msgid "Gender unallowed value"
+msgstr "ค่าที่ไม่อนุญาตให้ระบุเพศ"
+
+msgid "Currency field is empty"
+msgstr "ฟิลด์สกุลเงินว่างเปล่า"
+
+msgid "Country code is empty"
+msgstr "รหัสประเทศว่างเปล่า"
+
+msgid "Country code is invalid"
+msgstr "รหัสประเทศไม่ถูกต้อง"
+
+msgid "Phone code is empty"
+msgstr "รหัสโทรศัพท์ว่างเปล่า"
+
+msgid "Phone number field is empty"
+msgstr "ฟิลด์หมายเลขโทรศัพท์ว่างเปล่า"
+
+msgid "Phone number invalid format"
+msgstr "รูปแบบหมายเลขโทรศัพท์ไม่ถูกต้อง"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "รหัสโทรศัพท์ว่างเปล่า"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "รหัสผ่านต้องมีความยาวอย่างน้อย 6 อักขระ"
+
+#, fuzzy
+msgid "Wrong IBAN number"
+msgstr "หมายเลขโทรศัพท์"
+
+#, fuzzy
+msgid "Wrong SWIFT number"
+msgstr "หมายเลขโทรศัพท์"
+
+msgid "ID Number is not unique"
+msgstr "หมายเลข ID ซ้ำ"
+
+msgid "Password field is empty"
+msgstr "ฟิลด์รหัสผ่านว่างเปล่า"
+
+msgid "New password field is empty"
+msgstr "ฟิลด์รหัสผ่านใหม่ว่างเปล่า"
+
+msgid "New password must be at least 6 characters long"
+msgstr "รหัสผ่านใหม่ต้องมีความยาวอย่างน้อย 6 อักขระ"
+
+msgid "New password strength is weak"
+msgstr "ความแข็งแกร่งของรหัสผ่านใหม่มีความอ่อนแอ"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "เกิดข้อผิดพลาด ไม่มีบัญชีที่ใช้อีเมลนี้"
+
+msgid "Password strength is weak"
+msgstr "ความแข็งแกร่งของรหัสผ่านมีความอ่อนแอ"
+
+msgid "Login is already registered"
+msgstr "ล็อกอินได้ถูกลงทะเบียนแล้ว"
+
+msgid "Email is already registered"
+msgstr "อีเมลได้ถูกลงทะเบียนแล้ว"
+
+msgid "Phone is already registered"
+msgstr "โทรศัพท์ได้ถูกลงทะเบียนแล้ว"
+
+msgid "You are less than 18 year old"
+msgstr "คุณอายุน้อยกว่า 18 ปี"
+
+#~ msgid "Do you need to contact us?"
+#~ msgstr "คุณต้องการติดต่อเราหรือไม่?"
+
+#~ msgid ""
+#~ "Due to legal reasons we can't accept players residing in the country you "
+#~ "are currently\n"
+#~ "            in."
+#~ msgstr ""
+#~ "เนื่องจากเหตุผลทางกฎหมาย เราไม่สามารถยอมรับผู้เล่นที่อาศัยอยู่ในประเทศที่คุณอยู่ในขณะนี้ได้"
+
+#~ msgid ""
+#~ "If you’re using a proxy service or VPN to access casino, try turning it "
+#~ "off and reload the\n"
+#~ "            page."
+#~ msgstr ""
+#~ "หากคุณใช้บริการพร็อกซีหรือ VPN เพื่อเข้าถึงคาสิโน "
+#~ "ให้ลองปิดและโหลดหน้าอีกครั้งหากคุณใช้บริการพร็อกซีหรือ VPN เพื่อเข้าถึงคาสิโน "
+#~ "ให้ลองปิดและโหลดหน้าอีกครั้ง"
+
+#~ msgid "Location restriction"
+#~ msgstr "การจำกัดสถานที่"
+
+#~ msgid "Not in a restricted region"
+#~ msgstr "ไม่อยู่ในภูมิภาคที่ถูกจำกัด"
+
+#~ msgid ""
+#~ "Should you have any questions or feel that this block is affecting you "
+#~ "due to a technical error,\n"
+#~ "            please\n"
+#~ "            don't hesitate to contact us and we'll work it out together."
+#~ msgstr "หากคุณมีคำถามหรือรู้สึกว่าการบล็อกนี้ส่งผลกระทบต่อคุณเนื่องจากข้อผิดพลาดทางเทคนิคโปรดอย่าลังเลที่จะติดต่อเราและเราจะดำเนินการกับมันร่วมกัน"
+
+#~ msgid "Awaiting limits information"
+#~ msgstr "กำลังรอข้อมูลขีดจำกัด"
+
+#~ msgid "cancel_error"
+#~ msgstr "เกิดข้อผิดพลาดในการยกเลิก"
+
+#~ msgid "select_error"
+#~ msgstr "เกิดข้อผิดพลาดในการเลือก"

@@ -1,0 +1,1495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: K\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Önemli bilgilendirmeleri kaçırmamak için e-postamızı adres defterinize "
+"ekleyin"
+
+msgid "Congratulations,"
+msgstr "Tebrikler,"
+
+msgid "Dear"
+msgstr "Sayın"
+
+msgid "Deposit confirmation"
+msgstr "Yatırma onayı"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Para yatırma onay bildirimi. Bakiyeniz"
+
+msgid "Finish registration link"
+msgstr "Kayıt tamamlama bağlantısı"
+
+msgid "Greeting."
+msgstr "Merhabalar."
+
+msgid "Hello"
+msgstr "Merhaba"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "Bu e-posta düzgün görüntülenemiyorsa tarayıcınızdan açınız."
+
+msgid "If you have any questions, please contact"
+msgstr "Sorularınız varsa lütfen iletişime geçin"
+
+msgid "Link will be available for 30 minutes."
+msgstr "Bağlantı 30 dakika boyunca kullanılabilir olacak."
+
+msgid "Login"
+msgstr "Giriş yap"
+
+msgid "Password"
+msgstr "Şifre"
+
+msgid "Password restore"
+msgstr "Şifre sıfırlama"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Kaydı tamamlamak için lütfen aşağıdaki bağlantıya tıklayın:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Lütfen bu e-postaya cevap vermeyiniz. Bu e-posta otomatik olarak "
+"oluşturulduğundan bir yanıt alamazsınız."
+
+msgid "Registration confirmation"
+msgstr "Kayıt onayı"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Aşağıdaki bağlantıya tıklayarak şifrenizi sıfırlayın."
+
+msgid "Social registration confirmation"
+msgstr "Sosyal kayıt onayı"
+
+msgid "Thank you for validating your account."
+msgstr "Hesabınızı doğruladığınız için teşekkür ederiz."
+
+msgid "Thanks for registration on the website!"
+msgstr "Kayıt olduğunuz için teşekkür ederiz!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "Hesaplarınızı bağlamayı bitirmek için lütfen bu bağlantıya tıklayın."
+
+msgid "Welcome to"
+msgstr "Hoşgeldiniz"
+
+msgid "With respect"
+msgstr "Saygılarımla"
+
+msgid "You asked to link new social account to your current account"
+msgstr ""
+"Mevcut hesabınıza yeni bir sosyal medya hesabı tanımlamayı talep ettiniz"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"        \n"
+"ile muhteşem bir oyun yolculuğu yaşamak için ilk adımı attınız"
+
+msgid "casino_footer_copyright"
+msgstr "Casino alt bilgi telif hakkı"
+
+msgid "casino_mail_info"
+msgstr "Casino posta bilgisi"
+
+msgid "online support"
+msgstr "canlı destek"
+
+msgid "controller_does_not_exists"
+msgstr "denetleyici mevcut değil"
+
+msgid "social_not_found"
+msgstr "Sosyal bulunamadı"
+
+msgid "purchase_error"
+msgstr "Satın alma hatası"
+
+msgid "game_added_to_favorites"
+msgstr "Oyun favorilere eklendi"
+
+msgid "game_deleted_from_favorites"
+msgstr "Oyun favorilerden silindi"
+
+msgid "must_login"
+msgstr "Giriş yapmanız gerek"
+
+msgid "No bonus name"
+msgstr "Bonus adı yok"
+
+msgid "No bonus descripton"
+msgstr "Bonus açıklaması yok"
+
+msgid "No user id"
+msgstr "Kullanıcı ID yok"
+
+msgid "No bonus id"
+msgstr "Bonus ID yok"
+
+msgid "No status"
+msgstr "Durum yok"
+
+msgid "Bonus not found"
+msgstr "Bonus bulunamadı"
+
+msgid "Already have active"
+msgstr "Aktif olarak mevcut"
+
+msgid "Bonus is not available"
+msgstr "Bonus mevcut değil"
+
+msgid "First deposit, already deposited"
+msgstr "İlk yatırma zaten yapıldı"
+
+msgid "No loyalty record"
+msgstr "Sadakat kaydı yok"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Bonus kriterlerini karşılamıyor"
+
+msgid "Bonus used"
+msgstr "Bonus kullanıldı"
+
+msgid "Promo code needed"
+msgstr "Promosyon kodu gerekmektedir"
+
+msgid "Wrong promo code"
+msgstr "Hatalı promosyon kodu"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Kullanıcı için bonus yasak"
+
+msgid "Already have an active bonus"
+msgstr "Zaten aktif bir bonusunuz var"
+
+msgid "registration"
+msgstr "kayıt"
+
+msgid "verification"
+msgstr "doğrulama"
+
+msgid "sign up"
+msgstr "kaydol"
+
+msgid "store"
+msgstr "mağaza"
+
+msgid "login"
+msgstr "giriş yap"
+
+msgid "deposit"
+msgstr "para yatırma"
+
+msgid "deposit first"
+msgstr "ilk yatırma"
+
+msgid "deposit sum"
+msgstr "yatırılan toplam"
+
+msgid "deposit repeated"
+msgstr "tekrarlanan yatırma"
+
+msgid "bet"
+msgstr "bahis"
+
+msgid "bet sum"
+msgstr "bahis toplamı"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "yatırılan toplam"
+
+msgid "once"
+msgstr "bir kere"
+
+msgid "day"
+msgstr "gün"
+
+msgid "week"
+msgstr "hafta"
+
+msgid "month"
+msgstr "ay"
+
+msgid "all"
+msgstr "hepsi"
+
+msgid "bonus"
+msgstr "bonus"
+
+msgid "win"
+msgstr "galibiyet"
+
+msgid "win and bonus"
+msgstr "galibiyet ve bonus"
+
+msgid "winevent"
+msgstr "galibiyet ve etkinlik"
+
+msgid "winbonusevent"
+msgstr "galibiyet + bonus + etkinlik"
+
+msgid "none"
+msgstr "hiçbiri"
+
+msgid "balance"
+msgstr "bakiye"
+
+msgid "experience"
+msgstr "deneyim"
+
+msgid "loyalty"
+msgstr "sadakat"
+
+msgid "absolute"
+msgstr "kesin"
+
+msgid "relative"
+msgstr "ilgili"
+
+msgid "bets"
+msgstr "bahisler"
+
+msgid "wins"
+msgstr "galibiyetler"
+
+msgid "turnover"
+msgstr "kazanç"
+
+msgid "negative turnover"
+msgstr "Eksi kazanç"
+
+msgid "unlimited"
+msgstr "sınırsız"
+
+msgid "one day"
+msgstr "bir gün"
+
+msgid "two days"
+msgstr "iki gün"
+
+msgid "three days"
+msgstr "üç gün"
+
+msgid "seven days"
+msgstr "yedi gün"
+
+msgid "ten days"
+msgstr "on gün"
+
+msgid "fourteen days"
+msgstr "on dört gün"
+
+msgid "thirty days"
+msgstr "otuz gün"
+
+msgid "sixty days"
+msgstr "altmış gün"
+
+msgid "ninety days"
+msgstr "90 gün"
+
+msgid "one week"
+msgstr "bir hafta"
+
+msgid "two weeks"
+msgstr "iki hafta"
+
+msgid "one month"
+msgstr "bir ay"
+
+msgid "every day"
+msgstr "her gün"
+
+msgid "every week"
+msgstr "her hafta"
+
+msgid "every two weeks"
+msgstr "iki haftada bir"
+
+msgid "every month"
+msgstr "her ay"
+
+msgid "fee"
+msgstr "ücret"
+
+msgid "turnover and fee"
+msgstr "kazanç ve ücret"
+
+msgid "everyday"
+msgstr "her gün"
+
+msgid "monday"
+msgstr "pazartesi"
+
+msgid "tuesday"
+msgstr "salı"
+
+msgid "wednesday"
+msgstr "Çarşamba"
+
+msgid "thursday"
+msgstr "perşembe"
+
+msgid "friday"
+msgstr "cuma"
+
+msgid "saturday"
+msgstr "cumartesi"
+
+msgid "sunday"
+msgstr "pazar"
+
+msgid "transaction_list_is_empty"
+msgstr "İşlem listesi boş"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "Hatalı tarih. Başlangıç tarihi bitiş tarihinden sonra"
+
+msgid "cancelled"
+msgstr "iptal edildi"
+
+msgid "rejected"
+msgstr "reddedildi"
+
+msgid "error"
+msgstr "hata"
+
+msgid "in_progress"
+msgstr "Devam ediyor"
+
+msgid "confirmed"
+msgstr "onaylandı"
+
+#, fuzzy
+msgid "pending"
+msgstr "Sonlandırılıyor"
+
+msgid "system_error"
+msgstr "Sistem hatasi"
+
+msgid "completed"
+msgstr "tamamlandı"
+
+msgid "aborted"
+msgstr "durduruldu"
+
+msgid "credit"
+msgstr "kredi"
+
+msgid "debet"
+msgstr ""
+
+msgid "withdraw_unavailable"
+msgstr "Para çekme uygun değil"
+
+msgid "withdraw_check_error"
+msgstr "Para çekme kontrol hatası"
+
+msgid "set_amount"
+msgstr "Miktar belirle"
+
+msgid "set_payment_system"
+msgstr "Ödeme sistemi belirle"
+
+msgid "country_and_birth_date_required"
+msgstr "Ülke ve doğum tarihi gerekli"
+
+msgid "payment_request_sent"
+msgstr "Ödeme talebi gönderildi"
+
+msgid "payment_request_error"
+msgstr "Ödeme talebi hatası"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Maks para çekme limiti aşıldı"
+
+msgid "sys_error_message"
+msgstr "Sistem hata mesajı"
+
+msgid "input_purse"
+msgstr ""
+
+msgid "payment_withdraw_sent"
+msgstr "Para çekme ödemesi gönderildi"
+
+msgid "New password is empty"
+msgstr "Yeni şifre boş"
+
+msgid "Repeat password is empty"
+msgstr "Şifre tekrarı boş"
+
+msgid "Code is empty"
+msgstr "Kod boş"
+
+msgid "Code is incorrect"
+msgstr "Hatalı kod"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Şifre en az 6 karakter uzunluğunda olmalı"
+
+msgid "pass_not_match"
+msgstr "Şifre eşleşmiyor"
+
+msgid "Session expired"
+msgstr "Oturum süresi doldu"
+
+msgid "social_account_expired"
+msgstr "Sosyal medya hesabı süresi doldu"
+
+msgid "Empty to address"
+msgstr "Adres boş"
+
+msgid "Empty subject"
+msgstr "Boş konu"
+
+msgid "Empty message"
+msgstr "Boş mesaj"
+
+msgid "Empty required parameter"
+msgstr "Boş gerekli parametre"
+
+msgid "Unknown error"
+msgstr "Bilinmeyen hata"
+
+msgid "Not allowed player country"
+msgstr "Ülkenizde yasak olduğu için bu oyunu oynayamazsınız."
+
+msgid "Demo not supported"
+msgstr "Demo desteklenmiyor"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Para biriminiz bu sağlayıcı tarafından desteklenmiyor"
+
+msgid "Branded games are not enabled"
+msgstr "Marka oyunlar etkin değil"
+
+msgid "Self exclusion date"
+msgstr "kendini kısıtlama tarihi"
+
+msgid "Self exclusion"
+msgstr "kendini kısıtlama"
+
+msgid "does not exists"
+msgstr "mevcut değil"
+
+msgid "Method is not supported"
+msgstr "Yöntem desteklenmiyor"
+
+msgid "Data type is not found"
+msgstr "Veri tipi bulunamadı"
+
+msgid "Invalid request parameters"
+msgstr "Geçersiz istek parametreleri"
+
+msgid "No bonus description"
+msgstr "Bonus açıklaması yok"
+
+msgid "Selected"
+msgstr "Seçildi"
+
+msgid "Qualified"
+msgstr "Kalifiye"
+
+msgid "Deleted"
+msgstr "Silindi"
+
+msgid "Deactivated"
+msgstr "Devre dışı bırakıldı"
+
+msgid "Canceled"
+msgstr "İptal edildi"
+
+msgid "Ending"
+msgstr "Sonlandırılıyor"
+
+msgid "Ended"
+msgstr "Sonlandı"
+
+msgid "Loyalty API Failure"
+msgstr "Sadakat API Başarısız "
+
+msgid "Loyalty result not supported"
+msgstr "Sadakat sonucu desteklenmiyor"
+
+msgid "User not found"
+msgstr "Kullanıcı bulunamadı"
+
+msgid "Unable fetch oauth access token"
+msgstr ""
+
+msgid "Access token is missing"
+msgstr "Erişim dizgeciği eksik"
+
+msgid "Empty access token user identifier"
+msgstr "Boş erişim dizgeciği kullanıcı tanımlayıcısı"
+
+msgid "Empty access token identifier"
+msgstr "Boş erişim dizgeciği tanımlayıcısı"
+
+msgid "Method not allowed"
+msgstr "İzin verilmeyen yöntem"
+
+msgid "Your country is on the forbidden list"
+msgstr "Ülkeniz yasaklar listesinde"
+
+msgid "User profile is incomplete"
+msgstr "Kullanıcı profili tamamlanmamış"
+
+msgid "Achievement result is not list"
+msgstr ""
+
+msgid "Unknown route path"
+msgstr "Bilinmeyen rota yolu"
+
+msgid "Too many requests"
+msgstr "Giriş yaparken hata oluştu. Çok fazla talep var"
+
+msgid "Code is not valid"
+msgstr "Kod geçerli değil"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "Giriş yaparken hata oluştu. Çok fazla talep var"
+
+msgid "Method Not Allowed"
+msgstr "İzin Verilmeyen Yöntem"
+
+msgid "Api endpoint not found"
+msgstr "Api bitiş noktası bulunamadı"
+
+msgid "Confirm your email to start games"
+msgstr ""
+
+msgid "User not authorized"
+msgstr "Kullanıcı yetkili değil"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Satıcı sistemi seçilmemiş veya geçersiz"
+
+msgid "Amount is not selected or invalid"
+msgstr "Miktar seçilmemiş veya geçersiz"
+
+msgid "Bonus result is not list"
+msgstr ""
+
+msgid "Bonus ID Not found"
+msgstr "Bonus ID  Bulunamadı"
+
+msgid "Bonus Selected Not found"
+msgstr "Seçilmiş Bonus Bulunamadı"
+
+msgid "User is not authorized"
+msgstr "Kullanıcının yetkisi yoktur"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "Boş konu"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "Para yatırma başarısız: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+"%s limitini etkinleştirdiniz: %s %s 'e kadar %s. Varolan depozito tutarı: %s "
+"%s"
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "Miktar belirle"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "Boş açma kodu"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "soyad"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "soyad"
+
+#, fuzzy
+msgid "Account type"
+msgstr "ülke"
+
+#, fuzzy
+msgid "Account number"
+msgstr "telefon numarası"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "telefon numarası"
+
+msgid "Uploadable files is empty"
+msgstr "E-posta alanı boş"
+
+msgid "Exceeds allowed file size"
+msgstr "İzin verilen dosya boyutu aşıldı"
+
+msgid "Mb"
+msgstr "Mb"
+
+#, fuzzy
+msgid "Document ID not found"
+msgstr "Turnuva bulunamadı"
+
+msgid "Request invalid. Error: "
+msgstr "İstek geçersiz. Hata: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr "Oyun katalogu geçici olarak mevcut değil"
+
+msgid "Empty launch code"
+msgstr "Boş açma kodu"
+
+msgid "Empty merchant identifier"
+msgstr "Boş satıcı tanımlayıcısı"
+
+msgid "Empty games catalog"
+msgstr "Boş oyun katalogu"
+
+msgid "Unknown game launch code"
+msgstr "Bilinmeyen oyun başlatma kodu"
+
+msgid "Not supported exception"
+msgstr "Desteklenmeyen istisna"
+
+msgid "Bad request"
+msgstr "Geçersiz talep"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+msgid "Unable find user identifier"
+msgstr "Kullanıcı tanımlayıcısı bulunamadı"
+
+msgid "Unknown error occured"
+msgstr "Bilinmeyen hata"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "Geçersiz alıcı numarası"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "Giriş yaparken hata oluştu. Çok fazla talep var"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "Bilinmeyen hata"
+
+msgid "Token not found"
+msgstr "Jeton bulunamadı"
+
+msgid "Invalid token provided"
+msgstr "Geçersiz dizgecik sağlandı"
+
+msgid "Phone already verified"
+msgstr "Telefon zaten doğrulandı"
+
+msgid "Insufficient parameters"
+msgstr "Yetersiz parametreler"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "Giriş yaparken hata oluştu. Yetki hatası"
+
+msgid "Invalid verification code"
+msgstr "Geçersiz doğrulama kodu"
+
+msgid "Empty phone number"
+msgstr "Boş telefon numarası"
+
+msgid "Invalid phone number"
+msgstr "Geçersiz telefon numarası"
+
+msgid "Anonymous"
+msgstr "İsimsiz"
+
+msgid "Item not found"
+msgstr "Öge bulunamadı"
+
+msgid "Sent from web-form at"
+msgstr "Web formundan gönderildi"
+
+msgid "Service not found"
+msgstr "Servis bulunamadı"
+
+msgid "Unauthorized"
+msgstr "Yetkisiz"
+
+msgid "Tournaments history error"
+msgstr "Turnuva geçmişi hatası"
+
+msgid "Tournaments list not available"
+msgstr "Turnuva listesi mevcut değil"
+
+msgid "Tournaments type not found"
+msgstr "Turnuva türü bulunamadı"
+
+msgid "Tournament not found"
+msgstr "Turnuva bulunamadı"
+
+msgid "Tournaments subscribe error"
+msgstr "Turnuva kayıt hatası"
+
+msgid "Insufficient monetary turnover"
+msgstr "Yetersiz para kazancı"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "Kullanıcı profili (kişisel veriler) doldurulmadı"
+
+msgid "Need verification"
+msgstr "Doğrulama gerek"
+
+msgid "Need additional verification"
+msgstr "Ek doğrulama gerek"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr ""
+"E-posta gönderildi, kurtarma bağlantısı 30 dakika boyunca kullanılabilir "
+"olacak"
+
+msgid "Password repeat is empty"
+msgstr "Şifre tekrarı boş"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr "Yeni şifre yalnızca latin harfleri, rakam ve özel semboller içerebilir"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr "Şifre, büyük-küçük harf, rakam ve özel semboller içermeli"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Şifre Latin harfleri ve rakamlar içermeli"
+
+msgid "Passwords do not match"
+msgstr "Şifreler uyuşmuyor"
+
+msgid "Password is empty"
+msgstr "Şifre boş"
+
+msgid "Password is invalid"
+msgstr "Geçersiz şifre"
+
+msgid "Code is invalid"
+msgstr "Geçersiz kod"
+
+msgid "Email change is not allowed"
+msgstr "E-posta değişikliğine izin verilmiyor"
+
+msgid "Email is required"
+msgstr "E-posta gerekli"
+
+msgid "User update failed"
+msgstr "Kullanıcı güncellemesi başarısız oldu"
+
+msgid "Registration data validation failed"
+msgstr "Kayıt very doğrulaması başarısız"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "Geçersiz doğrulama kodu"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "Boş açma kodu"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "Sistem hatası"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"E-posta doğrulama kodu bulunamadı, belki e-postanızı zaten onayladınız, "
+"lütfen posta kutunuzu kontrol edin"
+
+msgid "Registration_complete"
+msgstr "Kayıt tamamlandı"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+msgid "Insufficient account balance"
+msgstr "Yetersiz Hesap Bakiyesi"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Daha önce bu yatırım yöntemi ile işlem yapmadığınız için bu şekilde para "
+"çekemezsiniz. Çekebilmek için bu sistemle para yatırın."
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "Cinsiyet seçilmedi"
+
+msgid "Impossible to send email"
+msgstr "E-posta göndermek imkansız"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+msgid "Invalid confirmation code"
+msgstr "Geçersiz bir onay kodu girdiniz"
+
+msgid "Exceeded the number of attempts to enter the verification code. You can try again in %s minutes"
+msgstr "Çok fazla yanlış deneme yaptınız. %s dakika sonra tekrar deneyebilirsiniz."
+
+msgid "Server returned invalid response"
+msgstr "Sunucu geçersiz yanıt verdi"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "Bilinmeyen hata"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "Bilinmeyen durum"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "Yöntem desteklenmiyor"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "Yöntem desteklenmiyor"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "Yöntem desteklenmiyor"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "Yöntem desteklenmiyor"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "Geçersiz komut"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "Geçersiz istek parametreleri"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "Geçersiz istek parametreleri"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "Geçersiz komut"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "Geçersiz komut"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "Desteklenmeyen doğrulama sağlayıcısı"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "Adreste hatalı API versiyonu"
+
+msgid "Not specified API key"
+msgstr "API anahtarı belirtilmemiş"
+
+msgid "Incorrect API key"
+msgstr "Yanlış API anahtarı"
+
+msgid "Incorrect IP address client"
+msgstr "Yanlış IP adresi istemcisi"
+
+msgid "Invalid command"
+msgstr "Geçersiz komut"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Belirtilen komut mevcut veya uygun değil"
+
+msgid "System error"
+msgstr "Sistem hatası"
+
+msgid "Not specified the SMS identifier"
+msgstr "SMS tanımlayıcısı belirtilmemiş"
+
+msgid "Sender address does not exist"
+msgstr "Gönderenin adresi mevcut değil"
+
+msgid "Not specified content"
+msgstr "Belirlenen içerik yok"
+
+msgid "Faulty or unsupported country code"
+msgstr "Hatalı veya desteklenmeyen ülke kodu"
+
+msgid "Content is too long"
+msgstr "İçerik çok uzun"
+
+msgid "Incorrect encoding of the content"
+msgstr "İçeriğin yanlış kodlanması"
+
+msgid "Exceeded monthly limit"
+msgstr "Aylık limit aşıldı"
+
+msgid "Batch ID does not exist"
+msgstr "Grup ID mevcut değil"
+
+msgid "List recipients does not exist"
+msgstr "Alıcı listesi mevcut değil"
+
+msgid "Invalid recipient number"
+msgstr "Geçersiz alıcı numarası"
+
+msgid "No content"
+msgstr "İçerik yok"
+
+msgid "Wrong content"
+msgstr "Hatalı içerik"
+
+msgid "Unable send message"
+msgstr "Mesaj gönderilemedi"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+
+msgid "Unsupported authentication provider"
+msgstr "Desteklenmeyen doğrulama sağlayıcısı"
+
+msgid "connect_social_account_email_theme"
+msgstr "Sosyal hesap eposta teması bağla"
+
+msgid "not_logged_in"
+msgstr "Giriş yapılmamış"
+
+msgid "trying_delete_last_social"
+msgstr "Son sosyal hesabı silmeyi deniyor"
+
+msgid "please_set_email"
+msgstr "Lütfen epostanızı belirleyin"
+
+msgid "please_set_password"
+msgstr "Lütfen şifre belirleyin"
+
+msgid "Code incorrect, user not found"
+msgstr "Kod yanlış, kullanıcı bulunamadı"
+
+msgid "email_has_been_verified"
+msgstr "Eposta doğrulandı"
+
+msgid "Transaction value generation failed"
+msgstr "İşlem değeri üretme başarısız"
+
+msgid "email_to_connect_social_sent"
+msgstr "Sosyal medya bağlantısı epostası gönderildi"
+
+msgid "Registration complete"
+msgstr "Kayıt tamamlandı"
+
+msgid "_ip_fraud_msg"
+msgstr "Dolandırıcı IP mesajı"
+
+msgid "Session is expired"
+msgstr "Oturumun süresi doldu"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "Sistem ID belirtilmedi"
+
+msgid "System ID not specified"
+msgstr "Sistem ID belirtilmedi"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "Hatalı e-posta, lütfen başa dönüp tekrar deneyin"
+
+msgid "Email is empty"
+msgstr "E-posta boş"
+
+msgid "Error, account with this email does not exist."
+msgstr "Hata, bu e-posta ait bir hesap yok."
+
+msgid "Unable generate temporary restore user code"
+msgstr "Geçici kullanıcı kurtarma kodu oluşturulamadı"
+
+msgid "Password recovery"
+msgstr "Şifre kurtarma"
+
+msgid "current_password_empty"
+msgstr "Mevcut şifre boş"
+
+msgid "Current password is incorrect"
+msgstr "Mevcut şifre hatalı"
+
+msgid "day_not_set"
+msgstr "Gün belirlenmemiş"
+
+msgid "month_not_set"
+msgstr "Ay belirlenmemiş"
+
+msgid "year_not_set"
+msgstr "Yıl belirlenmemiş"
+
+msgid "Country is not picked"
+msgstr "Ülke seçilmedi"
+
+msgid "Gender is not picked"
+msgstr "Cinsiyet seçilmedi"
+
+msgid "input_repeated_password"
+msgstr "Yenilenen şifreyi gir"
+
+msgid "Password does not match"
+msgstr "Şifre eşleşmiyor"
+
+msgid "Email field is empty or incorrect"
+msgstr "E-posta alanı boş veya hatalı"
+
+msgid "Email already in use"
+msgstr "Bu e-posta kullanılmaktadır"
+
+msgid "Email field is incorrect"
+msgstr "E-posta alanı hatalı"
+
+msgid "Login field is empty"
+msgstr "Giriş alanı boş"
+
+msgid "Email field is empty"
+msgstr "E-posta alanı boş"
+
+msgid "login_already_in_use"
+msgstr "Giriş adı zaten kullanımda"
+
+msgid "phone_empty"
+msgstr "Telefon boş"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Telefon numarası hatalı. Şöyle olmalı"
+
+msgid "Phone number too long"
+msgstr "Telefon numarası çok uzun"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Telefon numarası hatalı: bazı izin verilmeyen semboller kullanılmış."
+
+msgid "new_pass_less_6_symbols"
+msgstr "Yeni şifre 6 karakterden az"
+
+msgid "first_name_empty"
+msgstr "Ad alanı boş"
+
+msgid "last_name_empty"
+msgstr "Soyad alanı boş"
+
+msgid "New email field is incorrect"
+msgstr "Yeni e-posta alanı hatalı"
+
+msgid "User verification failed"
+msgstr "Kullanıcı doğrulama başarısız"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "Giriş yaparken hata oluştu. Yetki hatası"
+
+msgid "authorization_error"
+msgstr "Giriş yaparken hata oluştu. Yetki hatası"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "Oturum süresi doldu"
+
+msgid "registration_in_progress"
+msgstr "Kayıt devam ediyor"
+
+msgid "user_disabled"
+msgstr "Kullanıcı devre dışı"
+
+msgid "Access forbidden"
+msgstr "Erişim yasak"
+
+msgid "Email field incorrect"
+msgstr "E-posta alanı hatalı"
+
+msgid "email_empty_incorrect"
+msgstr "Hatalı eposta"
+
+msgid "pass_less_6_symbols"
+msgstr "Şifre 6 karakterden az"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "Şifre yalnızca harf, rakam ve özel semboller içerebilir"
+
+msgid "currency_not_set"
+msgstr "Para birimi belirlenmedi"
+
+msgid "Currency field is invalid"
+msgstr "Geçersiz para birimi alanı"
+
+msgid "reg_promo_is_invalid"
+msgstr "Kayıt promosyonu geçersiz"
+
+msgid "email_already_registered"
+msgstr "Zaten kayıtlı e-posta adresi"
+
+msgid "login_already_registered"
+msgstr "Giriş adı zaten kayıtlı"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "Telefon zaten kayıtlı"
+
+msgid "ip_fraud_blacklist"
+msgstr "Dolandırıcı IP kara listesi"
+
+msgid "ip_fraud_check_error"
+msgstr "Dolandırıcı IP kontrol hatası"
+
+msgid "Activate your account"
+msgstr "Hesabınızı etkinleştirin"
+
+msgid "Registration confirmation is in progress"
+msgstr "Kayıt onayı devam ediyor"
+
+msgid "Unknown status"
+msgstr "Bilinmeyen durum"
+
+msgid "first name"
+msgstr "ad"
+
+msgid "last name"
+msgstr "soyad"
+
+msgid "birth date"
+msgstr "doğum tarihi"
+
+msgid "sex"
+msgstr "cinsiyet"
+
+msgid "country"
+msgstr "ülke"
+
+msgid "phone number"
+msgstr "telefon numarası"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] ""
+"%s alanında düzenleme yapmak için lütfen canlı destek hattımızla iletişime "
+"geçin"
+msgstr[1] ""
+"%s alanlarında düzenleme yapmak için lütfen canlı destek hattımızla "
+"iletişime geçin"
+
+msgid "Email has invalid format"
+msgstr "E-posta geçersiz formatta"
+
+msgid "Repeat password field is empty"
+msgstr "Şifre tekrarı alanı boş"
+
+msgid "First name field is empty"
+msgstr "Ad alanı boş"
+
+msgid "First name must contain only letters"
+msgstr "Adınızda sadece harf olmalı"
+
+msgid "Last name field is empty"
+msgstr "Soyad alanı boş"
+
+msgid "Last name must contain only letters"
+msgstr "Şifre Latin harfleri ve rakam içermelidir"
+
+msgid "Gender field is empty"
+msgstr "Cinsiyet alanı boş"
+
+msgid "Gender unallowed value"
+msgstr "Geçersiz cinsiyet değeri"
+
+msgid "Currency field is empty"
+msgstr "Para birimi alanı boş"
+
+msgid "Country code is empty"
+msgstr "Ülke kodu boş"
+
+msgid "Country code is invalid"
+msgstr "Ülke kodu geçersiz"
+
+msgid "Phone code is empty"
+msgstr "Telefon kodu boş"
+
+msgid "Phone number field is empty"
+msgstr "Telefon numarası alanı boş"
+
+msgid "Phone number invalid format"
+msgstr "Geçersiz telefon numarası formatı"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "Telefon kodu boş"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "Şifre en az 6 karakter uzunluğunda olmalı"
+
+#, fuzzy
+msgid "Wrong IBAN number"
+msgstr "telefon numarası"
+
+#, fuzzy
+msgid "Wrong SWIFT number"
+msgstr "telefon numarası"
+
+msgid "ID Number is not unique"
+msgstr "Girdiğiniz kimlik numaras zaten kullanımda"
+
+msgid "Password field is empty"
+msgstr "Şifre alanı boş"
+
+msgid "New password field is empty"
+msgstr "Yeni şifre alanı boş"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Yeni şifre en az 6 karakter uzunluğunda olmalı"
+
+msgid "New password strength is weak"
+msgstr "Yeni şifreniz zayıf oldu"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "Hata, bu e-posta ait bir hesap yok."
+
+msgid "Password strength is weak"
+msgstr "Zayıf şifre girildi"
+
+msgid "Login is already registered"
+msgstr "Giriş adı zaten kayıtlı"
+
+msgid "Email is already registered"
+msgstr "E-posta zaten kayıtlı"
+
+msgid "Phone is already registered"
+msgstr "Telefon zaten kayıtlı"
+
+msgid "You are less than 18 year old"
+msgstr "18 yaşın altındasınız"
+
+msgid "As per our rules, you can create %s withdrawal requests in a day. Please, wait for the following date/time: %s"
+msgstr "Kurallarımız gereği 24 saat içerisinde sadece %s kez para çekim talebi oluşturabilirsiniz. Lütfen aşağıdaki tarih/saati bekleyiniz: %s"
+
+msgid "Iban must have prefix TR and 26 symbols"
+msgstr "TR ile başlamalı ve 26 haneli olmalıdır"
+
+msgid "Wallet number must be 10 digits only"
+msgstr "10 haneli olmalıdır (Örn: 1234567890)"
+
+#~ msgid "Do you need to contact us?"
+#~ msgstr "Bizimle iletişime mi geçmek istiyorsunuz?"
+
+#~ msgid ""
+#~ "Due to legal reasons we can't accept players residing in the country you "
+#~ "are currently\n"
+#~ "            in."
+#~ msgstr ""
+#~ "Yasal gerekçelerden dolayı ikamet ettiğiniz ülkeden oyuncu kabul "
+#~ "edemiyoruz."
+
+#~ msgid ""
+#~ "If you’re using a proxy service or VPN to access casino, try turning it "
+#~ "off and reload the\n"
+#~ "            page."
+#~ msgstr ""
+#~ "Casino'ya erişebilmek için bir proxy veya VPN hizmeti kullanıyorsanız, "
+#~ "kapatıp sayfayı tekrar yüklemeyi deneyin."
+
+#~ msgid "Location restriction"
+#~ msgstr "Konum kısıtlaması"
+
+#~ msgid "Not in a restricted region"
+#~ msgstr "Sınırlı bir bölgede değil"
+
+#~ msgid ""
+#~ "Should you have any questions or feel that this block is affecting you "
+#~ "due to a technical error,\n"
+#~ "            please\n"
+#~ "            don't hesitate to contact us and we'll work it out together."
+#~ msgstr ""
+#~ "Herhangi bir sorunuz varsa veya bu engelleme teknik bir sebepten dolayı "
+#~ "size etkiliyorsa, lütfenbirlikte çözebilmemiz için bizimle iletişime "
+#~ "geçin."
+
+#~ msgid "Awaiting limits information"
+#~ msgstr ""
+#~ "Limit bilgileri bekleniyor. Lütfen daha sonar tekrar deneyiniz çünkü hala "
+#~ "mevcut para çekme limit bilgilerini bekliyoruz"
+
+#~ msgid "cancel_error"
+#~ msgstr "hatayi_iptal_et"
+
+#~ msgid "select_error"
+#~ msgstr "hata_sec"

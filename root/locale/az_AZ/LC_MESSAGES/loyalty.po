@@ -1,0 +1,461 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: loyalty\n"
+"Language: az\n"
+
+#: 
+msgid "Set transaction type"
+msgstr "Əməliyyat növünü təyin edin"
+
+#: 
+msgid "No user id"
+msgstr "İstifadəçi id-si yoxdur"
+
+#: 
+msgid "No amount"
+msgstr "Məbləğ yoxdur"
+
+#: 
+msgid "No loyalty record"
+msgstr "Sadiqlik rekordu yoxdur"
+
+#: 
+msgid "Wrong request path"
+msgstr "Yanlış sorğu yolu"
+
+#: 
+msgid "Debet amount to big"
+msgstr "Böyük borc məbləği"
+
+#: 
+msgid "Wrong transaction type"
+msgstr "Səhv əməliyyat növü"
+
+#: 
+msgid "Awaiting limits information"
+msgstr "Limit məlumatını gözləyirik"
+
+#: 
+msgid "Wrong currency"
+msgstr "Səhv valyuta"
+
+#: 
+msgid "Non existent level"
+msgstr "Mövcud olmayan səviyyə"
+
+#: 
+msgid "No points"
+msgstr "Xal yoxdur"
+
+#: 
+msgid "Set loyalty level"
+msgstr "Sadiqlik səviyyəsini təyin edin"
+
+#: 
+msgid "No bet"
+msgstr "Bahis yoxdur"
+
+#: 
+msgid "No ID user"
+msgstr "ID istifadəçisi yoxdur"
+
+#: 
+msgid "No ID bonus"
+msgstr "Şəxsiyyət vəsiqəsi yoxdur"
+
+#: 
+msgid "Wrong amount"
+msgstr "Yanlış məbləğ"
+
+#: 
+msgid "No bonus ID"
+msgstr "Bonus ID yoxdur"
+
+#: 
+msgid "No user ID"
+msgstr "İstifadəçi ID-si yoxdur"
+
+#: 
+msgid "Wrong date format"
+msgstr "Səhv tarix formatı"
+
+#: 
+msgid "Date must not be today"
+msgstr "Tarix bu gün olmamalıdır"
+
+#: 
+msgid "No bonus id"
+msgstr "Bonus id yoxdur"
+
+#: 
+msgid "No status"
+msgstr "Status yoxdur"
+
+#: 
+msgid "Bonus not found"
+msgstr "Bonus tapılmadı"
+
+#: 
+msgid "Already have active"
+msgstr "Artıq aktivdir"
+
+#: 
+msgid "Bonus is not available"
+msgstr "Bonus mövcud deyil"
+
+#: 
+msgid "First deposit, already deposited"
+msgstr "İlk depozit, artıq depozit qoyulmuşdur"
+
+#: 
+msgid "Dont satisfy bonus conditions"
+msgstr "Bonus şərtlərini yerinə yetirməyin"
+
+#: 
+msgid "Bonus used"
+msgstr "Bonus istifadə olunur"
+
+#: 
+msgid "Promo code needed"
+msgstr "Promo kodu lazımdır"
+
+#: 
+msgid "Wrong promo code"
+msgstr "Səhv promo kodu"
+
+#: 
+msgid "User ID not set"
+msgstr "İstifadəçi ID-si təyin edilməyib"
+
+#: 
+msgid "Wrong bonus results value"
+msgstr "Yanlış bonus nəticələrinin dəyəri"
+
+#: 
+msgid "Wrong bonus results freerounds value"
+msgstr "Səhv bonus nəticəsində freerounds dəyəri"
+
+#: 
+msgid "Wrong bonus results award wagering"
+msgstr "Səhv bonus nəticələri mükafat mərcləri"
+
+#: 
+msgid "Wrong bonus results chunk size"
+msgstr "Yanlış bonus nəticələri yığın ölçüsü"
+
+#: 
+msgid "Wrong bonus results release wagering"
+msgstr "Yanlış bonus nəticələri mərcləri buraxır"
+
+#: 
+msgid "Bonus name required"
+msgstr "Bonus adı tələb olunur"
+
+#: 
+msgid "Wrong bonus event"
+msgstr "Yanlış bonus hadisəsi"
+
+#: 
+msgid "Wrong bonus type"
+msgstr "Yanlış bonus növü"
+
+#: 
+msgid "Wrong bonus repeat period"
+msgstr "Yanlış bonus təkrar müddəti"
+
+#: 
+msgid "Wrong bonus expire period"
+msgstr "Yanlış bonusun bitmə müddəti"
+
+#: 
+msgid "Wrong bonus budget"
+msgstr "Yanlış bonus büdcəsi"
+
+#: 
+msgid "Wrong bonus start date"
+msgstr "Yanlış bonus başlanğıc tarixi"
+
+#: 
+msgid "Wrong bonus end date"
+msgstr "Yanlış bonusun bitmə tarixi"
+
+#: 
+msgid "Wrong bonus start date more than end date"
+msgstr "Yanlış bonus başlanğıc tarixi bitmə tarixindən çox"
+
+#: 
+msgid "Wrong bonus conditions amount min"
+msgstr "Yanlış bonus şərtləri min"
+
+#: 
+msgid "Wrong bonus conditions amount max"
+msgstr "Yanlış bonus şərtləri maks"
+
+#: 
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Yanlış bonus şərtləri minimum məbləğdən maksimum məbləğdən çoxdur"
+
+#: 
+msgid "Following codes are duplicated"
+msgstr "Aşağıdakı kodlar təkrarlanır"
+
+#: 
+msgid "Bonus name already exists"
+msgstr "Bonus adı artıq mövcuddur"
+
+#: 
+msgid "Wrong bonus ID"
+msgstr "Yanlış bonus ID"
+
+#: 
+msgid "Activated bonuses"
+msgstr "Aktivləşdirilmiş bonuslar"
+
+#: 
+msgid "Can't delete"
+msgstr "Silmək mümkün deyil"
+
+#: 
+msgid "No bonus"
+msgstr "Bonus yoxdur"
+
+#: 
+msgid "Wrong store action"
+msgstr "Yanlış mağaza hərəkəti"
+
+#: 
+msgid "No order id"
+msgstr "Sifariş id-si yoxdur"
+
+#: 
+msgid "Order not found"
+msgstr "Sifariş tapılmadı"
+
+#: 
+msgid "No item id"
+msgstr "Element id-si yoxdur"
+
+#: 
+msgid "User not found"
+msgstr "İstifadəçi tapılmadı"
+
+#: 
+msgid "Item not found"
+msgstr "Element tapılmadı"
+
+#: 
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Valyuta üçün qiymət təyin edilməyib: LOYALTY"
+
+#: 
+msgid "Not enough loyalty points"
+msgstr "Kifayət qədər loyallıq xalları yoxdur"
+
+#: 
+msgid "Item out of stock"
+msgstr "Element stokda yoxdur"
+
+#: 
+msgid "Wrong BonusEventAmount of item"
+msgstr "Yanlış BonusEventMəqsədi"
+
+#: 
+msgid "User not found in tournament"
+msgstr "İstifadəçi turnirdə tapılmadı"
+
+#: 
+msgid "Set codes count"
+msgstr "Kodların sayını təyin edin"
+
+#: 
+msgid "Set batch name"
+msgstr "Dəstə adını təyin edin"
+
+#: 
+msgid "Codes count exceeds 300 000"
+msgstr "Kodların sayı 300 000-dən çoxdur"
+
+#: 
+msgid "Wrong batch ID"
+msgstr "Yanlış toplu ID"
+
+#: 
+msgid "Codes not set"
+msgstr "Kodlar təyin edilməyib"
+
+#: 
+msgid "Modificator not found"
+msgstr "Modifikator tapılmadı"
+
+#: 
+msgid "Set coefficient"
+msgstr "Əmsal təyin edin"
+
+#: 
+msgid "Set name"
+msgstr "Ad təyin edin"
+
+#: 
+msgid "No levels defined"
+msgstr "Heç bir səviyyə müəyyən edilməyib"
+
+#: 
+msgid "Level not found"
+msgstr "Səviyyə tapılmadı"
+
+#: 
+msgid "Bad cronjob"
+msgstr "Pis cronjob"
+
+#: 
+msgid "No category ID"
+msgstr "Kateqoriya ID-si yoxdur"
+
+#: 
+msgid "Category not found"
+msgstr "Kateqoriya tapılmadı"
+
+#: 
+msgid "No category name"
+msgstr "Kateqoriya adı yoxdur"
+
+#: 
+msgid "Wrong category ID"
+msgstr "Yanlış kateqoriya ID"
+
+#: 
+msgid "No category id"
+msgstr "Kateqoriya id-si yoxdur"
+
+#: 
+msgid "No item ID"
+msgstr "Element ID yoxdur"
+
+#: 
+msgid "Wrong item ID"
+msgstr "Yanlış element ID"
+
+#: 
+msgid "Item init error"
+msgstr "Element başlanğıc xətası"
+
+#: 
+msgid "Wrong item BonusEventAmount"
+msgstr "Yanlış element BonusEventAmount"
+
+#: 
+msgid "No item"
+msgstr "Element yoxdur"
+
+#: 
+msgid "Wrong tournament ID"
+msgstr "Yanlış turnir ID-si"
+
+#: 
+msgid "Wrong Tournament ID"
+msgstr "Yanlış Turnir ID-si"
+
+#: 
+msgid "No ID tournament"
+msgstr "ID turniri yoxdur"
+
+#: 
+msgid "No tournament ID"
+msgstr "Turnir ID yoxdur"
+
+#: 
+msgid "No tournament id"
+msgstr "Turnir id-si yoxdur"
+
+#: 
+msgid "No balance"
+msgstr "Balans yoxdur"
+
+#: 
+msgid "Not enough balance"
+msgstr "Kifayət qədər balans yoxdur"
+
+#: 
+msgid "Tournament name required"
+msgstr "Turnirin adı tələb olunur"
+
+#: 
+msgid "Wrong tournament winner by"
+msgstr "Yanlış turnirin qalibi"
+
+#: 
+msgid "Wrong tournament period"
+msgstr "Yanlış turnir dövrü"
+
+#: 
+msgid "Wrong tournament repeat"
+msgstr "Yanlış turnirin təkrarı"
+
+#: 
+msgid "Wrong tournament start date"
+msgstr "Turnirin başlama tarixi səhvdir"
+
+#: 
+msgid "Tournament not found"
+msgstr "Turnir tapılmadı"
+
+#: 
+msgid "Activated Tournaments"
+msgstr "Aktivləşdirilmiş Turnirlər"
+
+#: 
+msgid "No tournament"
+msgstr "Turnir yoxdur"
+
+#: 
+msgid "Wrong event type"
+msgstr "Yanlış hadisə növü"
+
+#: 
+msgid "No event id"
+msgstr "Tədbir id-si yoxdur"
+
+#: 
+msgid "Empty data"
+msgstr "Boş data"
+
+#: 
+msgid "No data"
+msgstr "Məlumat yoxdur"
+
+#: 
+msgid "Bonuses are forbidden for user"
+msgstr "İstifadəçi üçün bonuslar qadağandır"
+
+#: 
+msgid "Tournaments are forbidden for user"
+msgstr "Turnirlər istifadəçi üçün qadağandır"
+
+#: 
+msgid "Bonus pending cancellation"
+msgstr "Bonus ləğvi gözləyir"
+
+#: 
+msgid "Cancel not supported"
+msgstr "Ləğv edilmir"
+
+#: 
+msgid "Awaiting limits information, try later"
+msgstr "Limitlər haqqında məlumat gözləyir, sonra cəhd edin"
+
+#: 
+msgid "Error cancellation of the bonus"
+msgstr "Bonusun ləğvi xətası"
+
+#: 
+msgid "Purchase is not possible - the item has been disabled"
+msgstr "Satınalma mümkün deyil - element deaktiv edilib"
+
+#: 
+msgid "Purchase is not possible - the item has been deleted"
+msgstr "Satınalma mümkün deyil - maddə silindi"
+

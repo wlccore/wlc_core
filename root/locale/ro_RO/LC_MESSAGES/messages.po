@@ -1,0 +1,1495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: messages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Adăugați e-mailul nostru în agenda dvs. pentru a nu rata informațiile "
+"importante din"
+
+msgid "Congratulations,"
+msgstr "Felicitări,"
+
+msgid "Dear"
+msgstr "Dragă"
+
+msgid "Deposit confirmation"
+msgstr "Confirmare depozit"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Notificarea succesului depunerii. Balanta ta"
+
+msgid "Finish registration link"
+msgstr "Finalizați linkul de înregistrare"
+
+msgid "Greeting."
+msgstr "Salut."
+
+msgid "Hello"
+msgstr "Bună"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "Dacă acest e-mail nu se afișează corect, deschideți-l în browser."
+
+msgid "If you have any questions, please contact"
+msgstr "Dacă aveți întrebări, contactați"
+
+msgid "Link will be available for 30 minutes."
+msgstr "Link will be available for 30 minutes."
+
+msgid "Login"
+msgstr "Autentificare"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Password restore"
+msgstr "Restaurare parolă"
+
+msgid "Please click on the link below to finish registration:"
+msgstr ""
+"Vă rugăm să faceți clic pe linkul de mai jos pentru a termina înregistrarea:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Vă rugăm să nu răspundeți la acest e-mail. Acest e-mail este generat automat "
+"și nu veți primi răspuns."
+
+msgid "Registration confirmation"
+msgstr "Confirmarea înregistrării"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Restaurați parola făcând clic pe linkul de mai jos."
+
+msgid "Social registration confirmation"
+msgstr "Confirmare înregistrare socială"
+
+msgid "Thank you for validating your account."
+msgstr "Vă mulțumim pentru validarea contului."
+
+msgid "Thanks for registration on the website!"
+msgstr "Vă mulțumim pentru înregistrare pe site!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "Pentru a termina conectarea conturilor dvs., utilizați acest link:"
+
+msgid "Welcome to"
+msgstr "Bine aţi venit pe"
+
+msgid "With respect"
+msgstr "Cu respect"
+
+msgid "You asked to link new social account to your current account"
+msgstr "Ați solicitat să conectați noul cont social la contul dvs. curent"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Ați făcut primul pas pentru a experimenta o călătorie uimitoare de joc\n"
+"    cu"
+
+msgid "casino_footer_copyright"
+msgstr "casino_footer_copyright"
+
+msgid "casino_mail_info"
+msgstr "casino_mail_info"
+
+msgid "online support"
+msgstr "suport online"
+
+msgid "controller_does_not_exists"
+msgstr "controller_does_not_exists"
+
+msgid "social_not_found"
+msgstr "social_not_found"
+
+msgid "purchase_error"
+msgstr "purchase_error"
+
+msgid "game_added_to_favorites"
+msgstr "game_added_to_favorites"
+
+msgid "game_deleted_from_favorites"
+msgstr "game_deleted_from_favorites"
+
+msgid "must_login"
+msgstr "must_login"
+
+msgid "No bonus name"
+msgstr "Fără nume de bonus"
+
+msgid "No bonus descripton"
+msgstr "Fără bonus"
+
+msgid "No user id"
+msgstr "Fără ID de utilizator"
+
+msgid "No bonus id"
+msgstr "Fără bonus de id"
+
+msgid "No status"
+msgstr "Fara status"
+
+msgid "Bonus not found"
+msgstr "Bonusul nu a fost găsit"
+
+msgid "Already have active"
+msgstr "Deja este activ"
+
+msgid "Bonus is not available"
+msgstr "Bonusul nu este disponibil"
+
+msgid "First deposit, already deposited"
+msgstr "Primul depozit, deja depus"
+
+msgid "No loyalty record"
+msgstr "Fără înregistrare de loialitate"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Nu satisfaceți condițiile de bonus"
+
+msgid "Bonus used"
+msgstr "Bonus utilizat"
+
+msgid "Promo code needed"
+msgstr "Este necesar un cod promoțional"
+
+msgid "Wrong promo code"
+msgstr "Cod promoțional greșit"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonusurile sunt interzise utilizatorului"
+
+msgid "Already have an active bonus"
+msgstr "Deja este activ"
+
+msgid "registration"
+msgstr "înregistrare"
+
+msgid "verification"
+msgstr "verificare"
+
+msgid "sign up"
+msgstr "inregistrare"
+
+msgid "store"
+msgstr "magazin"
+
+msgid "login"
+msgstr "autentificare"
+
+msgid "deposit"
+msgstr "depunere"
+
+msgid "deposit first"
+msgstr "depune mai întâi"
+
+msgid "deposit sum"
+msgstr "suma depusă"
+
+msgid "deposit repeated"
+msgstr "repetare depunere"
+
+msgid "bet"
+msgstr "pariu"
+
+msgid "bet sum"
+msgstr "suma pariului"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "suma depusă"
+
+msgid "once"
+msgstr "o singura data"
+
+msgid "day"
+msgstr "zi"
+
+msgid "week"
+msgstr "săptămână"
+
+msgid "month"
+msgstr "lună"
+
+msgid "all"
+msgstr "toate"
+
+msgid "bonus"
+msgstr "bonus"
+
+msgid "win"
+msgstr "câştigă"
+
+msgid "win and bonus"
+msgstr "câștig și bonus"
+
+msgid "winevent"
+msgstr "castiguri si evenimente"
+
+msgid "winbonusevent"
+msgstr "winbonusevent"
+
+msgid "none"
+msgstr "niciuna"
+
+msgid "balance"
+msgstr "sold"
+
+msgid "experience"
+msgstr "experienţă"
+
+msgid "loyalty"
+msgstr "loialitate"
+
+msgid "absolute"
+msgstr "absolut"
+
+msgid "relative"
+msgstr "relativ"
+
+msgid "bets"
+msgstr "pariuri"
+
+msgid "wins"
+msgstr "câștiguri"
+
+msgid "turnover"
+msgstr "turnover"
+
+msgid "negative turnover"
+msgstr "negative turnover"
+
+msgid "unlimited"
+msgstr "nelimitat"
+
+msgid "one day"
+msgstr "intr-o zi"
+
+msgid "two days"
+msgstr "doua zile"
+
+msgid "three days"
+msgstr "trei zile"
+
+msgid "seven days"
+msgstr "sapte zile"
+
+msgid "ten days"
+msgstr "zece zile"
+
+msgid "fourteen days"
+msgstr "paisprezece zile"
+
+msgid "thirty days"
+msgstr "Treizeci de zile"
+
+msgid "sixty days"
+msgstr "șaizeci de zile"
+
+msgid "ninety days"
+msgstr "nouăzeci de zile"
+
+msgid "one week"
+msgstr "o saptamana"
+
+msgid "two weeks"
+msgstr "doua saptamani"
+
+msgid "one month"
+msgstr "o luna"
+
+msgid "every day"
+msgstr "in fiecare zi"
+
+msgid "every week"
+msgstr "în fiecare săptămână"
+
+msgid "every two weeks"
+msgstr "la fiecare doua saptamani"
+
+msgid "every month"
+msgstr "in fiecare luna"
+
+msgid "fee"
+msgstr "taxă"
+
+msgid "turnover and fee"
+msgstr "cifra de afaceri si taxa"
+
+msgid "everyday"
+msgstr "in fiecare zi"
+
+msgid "monday"
+msgstr "luni"
+
+msgid "tuesday"
+msgstr "marți"
+
+msgid "wednesday"
+msgstr "miercuri"
+
+msgid "thursday"
+msgstr "joi"
+
+msgid "friday"
+msgstr "vineri"
+
+msgid "saturday"
+msgstr "sâmbătă"
+
+msgid "sunday"
+msgstr "duminică"
+
+msgid "transaction_list_is_empty"
+msgstr "transaction_list_is_empty"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "date_incorrect_from_date_higher_then_to_date"
+
+msgid "cancelled"
+msgstr "anulat"
+
+msgid "rejected"
+msgstr "respins"
+
+msgid "error"
+msgstr "eroare"
+
+msgid "in_progress"
+msgstr "in_progress"
+
+msgid "confirmed"
+msgstr "confirmat"
+
+#, fuzzy
+msgid "pending"
+msgstr "Ora de terminare"
+
+msgid "system_error"
+msgstr "system_error"
+
+msgid "completed"
+msgstr "finalizat"
+
+msgid "aborted"
+msgstr "anulat"
+
+msgid "credit"
+msgstr "credit"
+
+msgid "debet"
+msgstr "debet"
+
+msgid "withdraw_unavailable"
+msgstr "withdraw_unavailable"
+
+msgid "withdraw_check_error"
+msgstr "withdraw_check_error"
+
+msgid "set_amount"
+msgstr "set_amount"
+
+msgid "set_payment_system"
+msgstr "set_payment_system"
+
+msgid "country_and_birth_date_required"
+msgstr "country_and_birth_date_required"
+
+msgid "payment_request_sent"
+msgstr "payment_request_sent"
+
+msgid "payment_request_error"
+msgstr "payment_request_error"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "max_limit_of_withdraw_reached"
+
+msgid "sys_error_message"
+msgstr "sys_error_message"
+
+msgid "input_purse"
+msgstr "input_purse"
+
+msgid "payment_withdraw_sent"
+msgstr "payment_withdraw_sent"
+
+msgid "New password is empty"
+msgstr "Noua parolă este goală"
+
+msgid "Repeat password is empty"
+msgstr "Repetați parola este goală"
+
+msgid "Code is empty"
+msgstr "Codul este gol"
+
+msgid "Code is incorrect"
+msgstr "Codul este incorect"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Parola trebuie sa contina minim 6 caractere"
+
+msgid "pass_not_match"
+msgstr "pass_not_match"
+
+msgid "Session expired"
+msgstr "Sesiunea a expirat"
+
+msgid "social_account_expired"
+msgstr "social_account_expired"
+
+msgid "Empty to address"
+msgstr "Gol la adresă"
+
+msgid "Empty subject"
+msgstr "Subiect gol"
+
+msgid "Empty message"
+msgstr "Mesaj gol"
+
+msgid "Empty required parameter"
+msgstr "Parametrul necesar gol"
+
+msgid "Unknown error"
+msgstr "Eroare necunoscută"
+
+msgid "Not allowed player country"
+msgstr "Țara jucătorului nu este permisă"
+
+msgid "Demo not supported"
+msgstr "Demo nu este acceptată"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Moneda dvs. nu este acceptată de acest furnizor"
+
+msgid "Branded games are not enabled"
+msgstr "Jocurile de marcă nu sunt activate"
+
+msgid "Self exclusion date"
+msgstr "Data excluderii de sine"
+
+msgid "Self exclusion"
+msgstr "Excluderea de sine"
+
+msgid "does not exists"
+msgstr "nu există"
+
+msgid "Method is not supported"
+msgstr "Metoda nu este acceptată"
+
+msgid "Data type is not found"
+msgstr "Tipul de date nu este găsit"
+
+msgid "Invalid request parameters"
+msgstr "Parametri de solicitare nevalide"
+
+msgid "No bonus description"
+msgstr "Fără descriere bonus"
+
+msgid "Selected"
+msgstr "Selectat"
+
+msgid "Qualified"
+msgstr "Calificat"
+
+msgid "Deleted"
+msgstr "Șters"
+
+msgid "Deactivated"
+msgstr "Dezactivat"
+
+msgid "Canceled"
+msgstr "Anulat"
+
+msgid "Ending"
+msgstr "Ora de terminare"
+
+msgid "Ended"
+msgstr "Încheiat"
+
+msgid "Loyalty API Failure"
+msgstr "Eșecul API-ului de fidelitate"
+
+msgid "Loyalty result not supported"
+msgstr "Rezultatul loialității nu este acceptat"
+
+msgid "User not found"
+msgstr "Utilizatorul nu a fost găsit"
+
+msgid "Unable fetch oauth access token"
+msgstr "Imposibil să preiau jetonul de acces"
+
+msgid "Access token is missing"
+msgstr "Tokenul de acces lipsește"
+
+msgid "Empty access token user identifier"
+msgstr "Identificator de utilizator cu simbol gol de acces"
+
+msgid "Empty access token identifier"
+msgstr "Empty access token identifier"
+
+msgid "Method not allowed"
+msgstr "Metoda nepermisa"
+
+msgid "Your country is on the forbidden list"
+msgstr "Țara ta este"
+
+msgid "User profile is incomplete"
+msgstr ""
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "Rezultatul bonusului nu este listat"
+
+msgid "Unknown route path"
+msgstr "Calea de traseu necunoscută"
+
+msgid "Too many requests"
+msgstr "Prea multe cereri"
+
+msgid "Code is not valid"
+msgstr "Codul nu este valabil"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "Prea multe cereri"
+
+msgid "Method Not Allowed"
+msgstr "metoda nepermisa"
+
+msgid "Api endpoint not found"
+msgstr "Api nu a fost găsit"
+
+msgid "Confirm your email to start games"
+msgstr ""
+
+msgid "User not authorized"
+msgstr "Utilizator neautorizat"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Sistemul comercial nu este selectat sau nu este valid"
+
+msgid "Amount is not selected or invalid"
+msgstr "Suma nu este selectată sau nevalidă"
+
+msgid "Bonus result is not list"
+msgstr "Rezultatul bonusului nu este listat"
+
+msgid "Bonus ID Not found"
+msgstr "Bonus ID nu a fost găsit"
+
+msgid "Bonus Selected Not found"
+msgstr "Bonus selectat Nu a fost găsit"
+
+msgid "User is not authorized"
+msgstr "Utilizatorul nu este autorizat"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "Subiect gol"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "Depozitul a eșuat: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+"Ați activat limita %s: %s %s până la %s. Suma disponibilă a depozitului: %s "
+"%s"
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "set_amount"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "Cod de lansare gol"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "prenume"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "prenume"
+
+#, fuzzy
+msgid "Account type"
+msgstr "tara"
+
+#, fuzzy
+msgid "Account number"
+msgstr "numar de telefon"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "numar de telefon"
+
+#, fuzzy
+msgid "Uploadable files is empty"
+msgstr "Câmpul de e-mail este gol"
+
+msgid "Exceeds allowed file size"
+msgstr "Depășește dimensiunea permisă a fișierului"
+
+msgid "Mb"
+msgstr "Mb"
+
+#, fuzzy
+msgid "Document ID not found"
+msgstr "Turneul nu a fost găsit"
+
+msgid "Request invalid. Error: "
+msgstr "Solicitare nevalidă. Eroare:"
+
+msgid "Games catalog is temporary unavailable"
+msgstr "Catalogul de jocuri nu este temporar disponibil"
+
+msgid "Empty launch code"
+msgstr "Cod de lansare gol"
+
+msgid "Empty merchant identifier"
+msgstr "Identificator comercial gol"
+
+msgid "Empty games catalog"
+msgstr "Catalog de jocuri goale"
+
+msgid "Unknown game launch code"
+msgstr "Cod de lansare necunoscut"
+
+msgid "Not supported exception"
+msgstr "Excepție neacceptată"
+
+msgid "Bad request"
+msgstr "Cerere greșită"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+#, fuzzy
+msgid "Unable find user identifier"
+msgstr "Identificator de utilizator cu simbol gol de acces"
+
+#, fuzzy
+msgid "Unknown error occured"
+msgstr "Eroare necunoscută"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "Număr de destinatar nevalid"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "Prea multe cereri"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "Eroare necunoscută"
+
+msgid "Token not found"
+msgstr "Token nu a fost găsit"
+
+msgid "Invalid token provided"
+msgstr "Simbol nevalid furnizat"
+
+msgid "Phone already verified"
+msgstr "Telefonul deja verificat"
+
+msgid "Insufficient parameters"
+msgstr "Parametri insuficienți"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "authorization_error"
+
+msgid "Invalid verification code"
+msgstr "Cod de verificare invalid"
+
+msgid "Empty phone number"
+msgstr "Număr de telefon gol"
+
+msgid "Invalid phone number"
+msgstr "Numar de telefon invalid"
+
+msgid "Anonymous"
+msgstr "Anonim"
+
+msgid "Item not found"
+msgstr "Articolul nu a fost găsit"
+
+msgid "Sent from web-form at"
+msgstr "Trimis de la formularul web la"
+
+msgid "Service not found"
+msgstr "Serviciu negăsit"
+
+msgid "Unauthorized"
+msgstr "Neautorizat"
+
+msgid "Tournaments history error"
+msgstr "Eroare istoric turnee"
+
+msgid "Tournaments list not available"
+msgstr "Lista turneelor nu este disponibilă"
+
+msgid "Tournaments type not found"
+msgstr "Tipul turneelor nu a fost găsit"
+
+msgid "Tournament not found"
+msgstr "Turneul nu a fost găsit"
+
+msgid "Tournaments subscribe error"
+msgstr "Eroare la abonarea turneelor"
+
+#, fuzzy
+msgid "Insufficient monetary turnover"
+msgstr "Parametri insuficienți"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr ""
+
+#, fuzzy
+msgid "Need verification"
+msgstr "verificare"
+
+#, fuzzy
+msgid "Need additional verification"
+msgstr "Cod de verificare invalid"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr ""
+"Trimiterea prin e-mail, link-ul de recuperare va fi disponibilă timp de 30 "
+"de minute"
+
+msgid "Password repeat is empty"
+msgstr "Repetarea parolei este goală"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Parola nouă poate conține doar litere latine, numere și simboluri speciale"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Parola trebuie să conțină litere latine cu litere mari și minuscule, numere "
+"și simboluri speciale"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Parola trebuie să conțină litere și numere latine"
+
+msgid "Passwords do not match"
+msgstr "Parolele nu se potrivesc"
+
+msgid "Password is empty"
+msgstr "Parola este goală"
+
+msgid "Password is invalid"
+msgstr "Parola este nevalidă"
+
+msgid "Code is invalid"
+msgstr "Codul este nevalid"
+
+msgid "Email change is not allowed"
+msgstr "Modificarea e-mailului nu este permisă"
+
+msgid "Email is required"
+msgstr "E-mailul este necesar"
+
+msgid "User update failed"
+msgstr "Actualizarea utilizatorului a eșuat"
+
+msgid "Registration data validation failed"
+msgstr "Validarea datelor de înregistrare a eșuat"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "Cod de verificare invalid"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "Cod de lansare gol"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "Eroare de sistem"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"Codul de verificare prin e-mail nu este găsit, poate că ați confirmat deja "
+"adresa dvs. de e-mail, verificați căsuța poștală"
+
+msgid "Registration_complete"
+msgstr "Înregistrare completă"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+#, fuzzy
+msgid "Insufficient account balance"
+msgstr "Parametri insuficienți"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Nu ați depus prin acest sistem, astfel încât să nu puteți retrage fonduri "
+"folosind acesta. Faceți o depunere prin acest sistem pentru a vă retrage."
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "Genul nu este ales"
+
+msgid "Impossible to send email"
+msgstr "Imposibil de trimis e-mail"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "Cod de verificare invalid"
+
+msgid "Server returned invalid response"
+msgstr "Serverul a returnat un răspuns nevalid"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "Eroare necunoscută"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "Stare necunoscută"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "Metoda nu este acceptată"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "Metoda nu este acceptată"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "Metoda nu este acceptată"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "Metoda nu este acceptată"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "Comandă invalidă"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "Parametri de solicitare nevalide"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "Parametri de solicitare nevalide"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "Comandă invalidă"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "Comandă invalidă"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "Furnizor de autentificare neacceptat"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "API-ul versiunii incorecte din adresă"
+
+msgid "Not specified API key"
+msgstr "Cheie API nu este specificată"
+
+msgid "Incorrect API key"
+msgstr "Cheie API incorectă"
+
+msgid "Incorrect IP address client"
+msgstr "Client de adresă IP incorect"
+
+msgid "Invalid command"
+msgstr "Comandă invalidă"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Comanda specificată nu există sau nu este disponibilă"
+
+msgid "System error"
+msgstr "Eroare de sistem"
+
+msgid "Not specified the SMS identifier"
+msgstr "Nu este specificat identificatorul SMS"
+
+msgid "Sender address does not exist"
+msgstr "Adresa expeditorului nu există"
+
+msgid "Not specified content"
+msgstr "Conținut nespecificat"
+
+msgid "Faulty or unsupported country code"
+msgstr "Cod de țară defect sau acceptat"
+
+msgid "Content is too long"
+msgstr "Conținutul este prea lung"
+
+msgid "Incorrect encoding of the content"
+msgstr "Codificarea incorectă a conținutului"
+
+msgid "Exceeded monthly limit"
+msgstr "Limita lunară depășită"
+
+msgid "Batch ID does not exist"
+msgstr "ID-ul lotului nu există"
+
+msgid "List recipients does not exist"
+msgstr "Lista destinatarilor nu există"
+
+msgid "Invalid recipient number"
+msgstr "Număr de destinatar nevalid"
+
+msgid "No content"
+msgstr "Fara continut"
+
+msgid "Wrong content"
+msgstr "Conținut greșit"
+
+msgid "Unable send message"
+msgstr "Imposibil să trimiteți mesajul"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+
+msgid "Unsupported authentication provider"
+msgstr "Furnizor de autentificare neacceptat"
+
+msgid "connect_social_account_email_theme"
+msgstr "connect_social_account_email_theme"
+
+msgid "not_logged_in"
+msgstr "not_logged_in"
+
+msgid "trying_delete_last_social"
+msgstr "trying_delete_last_social"
+
+msgid "please_set_email"
+msgstr "please_set_email"
+
+msgid "please_set_password"
+msgstr "please_set_password"
+
+msgid "Code incorrect, user not found"
+msgstr "Cod incorect, utilizatorul nu a fost găsit"
+
+msgid "email_has_been_verified"
+msgstr "email_has_been_verified"
+
+msgid "Transaction value generation failed"
+msgstr "Generarea valorii tranzacției a eșuat"
+
+msgid "email_to_connect_social_sent"
+msgstr "email_to_connect_social_sent"
+
+msgid "Registration complete"
+msgstr "Înregistrare finalizată"
+
+msgid "_ip_fraud_msg"
+msgstr "_ip_fraud_msg"
+
+msgid "Session is expired"
+msgstr "Sesiunea a expirat"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "ID-ul de sistem nu este specificat"
+
+msgid "System ID not specified"
+msgstr "ID-ul de sistem nu este specificat"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "E-mail eronat, încercați din nou din start"
+
+msgid "Email is empty"
+msgstr "Adresa de e-mail este goală"
+
+msgid "Error, account with this email does not exist."
+msgstr "Eroare, contul cu acest e-mail nu există."
+
+msgid "Unable generate temporary restore user code"
+msgstr "Nu se poate genera codul de restaurare temporar"
+
+msgid "Password recovery"
+msgstr "Recuperare parola"
+
+msgid "current_password_empty"
+msgstr "current_password_empty"
+
+msgid "Current password is incorrect"
+msgstr "Parola curentă este incorectă."
+
+msgid "day_not_set"
+msgstr "day_not_set"
+
+msgid "month_not_set"
+msgstr "month_not_set"
+
+msgid "year_not_set"
+msgstr "year_not_set"
+
+msgid "Country is not picked"
+msgstr "Țara nu este aleasă"
+
+msgid "Gender is not picked"
+msgstr "Genul nu este ales"
+
+msgid "input_repeated_password"
+msgstr "input_repeated_password"
+
+msgid "Password does not match"
+msgstr "Parola nu se potriveste"
+
+msgid "Email field is empty or incorrect"
+msgstr "Câmpul de e-mail este gol sau incorect"
+
+msgid "Email already in use"
+msgstr "E-mail deja folosit"
+
+msgid "Email field is incorrect"
+msgstr "Câmpul de e-mail este incorect"
+
+msgid "Login field is empty"
+msgstr "Câmpul de conectare este gol"
+
+msgid "Email field is empty"
+msgstr "Câmpul de e-mail este gol"
+
+msgid "login_already_in_use"
+msgstr "login_already_in_use"
+
+msgid "phone_empty"
+msgstr "phone_empty"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Numărul de telefon este incorect. Trebuie sa fie"
+
+msgid "Phone number too long"
+msgstr "Număr de telefon prea lung"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr ""
+"Numărul de telefon este incorect: unele simboluri nepermise sunt utilizate."
+
+msgid "new_pass_less_6_symbols"
+msgstr "new_pass_less_6_symbols"
+
+msgid "first_name_empty"
+msgstr "first_name_empty"
+
+msgid "last_name_empty"
+msgstr "last_name_empty"
+
+msgid "New email field is incorrect"
+msgstr "Noul câmp de e-mail este incorect"
+
+msgid "User verification failed"
+msgstr "Verificarea utilizatorului a eșuat"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "authorization_error"
+
+msgid "authorization_error"
+msgstr "authorization_error"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "Sesiunea a expirat"
+
+msgid "registration_in_progress"
+msgstr "registration_in_progress"
+
+msgid "user_disabled"
+msgstr "user_disabled"
+
+msgid "Access forbidden"
+msgstr "Accesul interzis"
+
+msgid "Email field incorrect"
+msgstr "Câmpul de e-mail este incorect"
+
+msgid "email_empty_incorrect"
+msgstr "email_empty_incorrect"
+
+msgid "pass_less_6_symbols"
+msgstr "pass_less_6_symbols"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr "Parola poate conține doar litere latine, numere și simboluri speciale"
+
+msgid "currency_not_set"
+msgstr "currency_not_set"
+
+msgid "Currency field is invalid"
+msgstr "Câmpul valutar este nevalid"
+
+msgid "reg_promo_is_invalid"
+msgstr "reg_promo_is_invalid"
+
+msgid "email_already_registered"
+msgstr "email_already_registered"
+
+msgid "login_already_registered"
+msgstr "login_already_registered"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "Telefonul este deja înregistrat"
+
+msgid "ip_fraud_blacklist"
+msgstr "ip_fraud_blacklist"
+
+msgid "ip_fraud_check_error"
+msgstr "ip_fraud_check_error"
+
+msgid "Activate your account"
+msgstr "Activează-ți contul"
+
+msgid "Registration confirmation is in progress"
+msgstr "Confirmarea înregistrării este în curs"
+
+msgid "Unknown status"
+msgstr "Stare necunoscută"
+
+msgid "first name"
+msgstr "nume"
+
+msgid "last name"
+msgstr "prenume"
+
+msgid "birth date"
+msgstr "data nasterii"
+
+msgid "sex"
+msgstr "sex"
+
+msgid "country"
+msgstr "tara"
+
+msgid "phone number"
+msgstr "numar de telefon"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] ""
+"Pentru a modifica câmpul %s, vă rugăm să contactați asistența noastră la"
+msgstr[1] "To change %s fields please contact our support at "
+
+msgid "Email has invalid format"
+msgstr "E-mailul are un format nevalid"
+
+msgid "Repeat password field is empty"
+msgstr "Repetați parola câmpului este gol"
+
+msgid "First name field is empty"
+msgstr "Prenume"
+
+msgid "First name must contain only letters"
+msgstr ""
+
+msgid "Last name field is empty"
+msgstr "Nume"
+
+#, fuzzy
+msgid "Last name must contain only letters"
+msgstr "Parola trebuie să conțină litere și numere latine"
+
+msgid "Gender field is empty"
+msgstr "Genul"
+
+msgid "Gender unallowed value"
+msgstr "Genul"
+
+msgid "Currency field is empty"
+msgstr "Moneda"
+
+msgid "Country code is empty"
+msgstr "Codul țării este gol"
+
+msgid "Country code is invalid"
+msgstr "Ne pare rău, țara nevalidă."
+
+msgid "Phone code is empty"
+msgstr "Codul de telefon este gol"
+
+msgid "Phone number field is empty"
+msgstr "Câmpul cu numărul de telefon este gol"
+
+msgid "Phone number invalid format"
+msgstr "Numărul de telefon format nevalid"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "Codul de telefon este gol"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "Parola trebuie sa contina minim 6 caractere"
+
+#, fuzzy
+msgid "Wrong IBAN number"
+msgstr "numar de telefon"
+
+#, fuzzy
+msgid "Wrong SWIFT number"
+msgstr "numar de telefon"
+
+msgid "ID Number is not unique"
+msgstr "Numărul de identificare nu este unic"
+
+msgid "Password field is empty"
+msgstr "Câmpul parolă este gol"
+
+msgid "New password field is empty"
+msgstr "Noul câmp de parolă este gol"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Parola nouă trebuie să aibă cel puțin 6 caractere"
+
+msgid "New password strength is weak"
+msgstr "Puterea noii parole este slabă"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "Eroare, contul cu acest e-mail nu există."
+
+msgid "Password strength is weak"
+msgstr "Parola actuală"
+
+msgid "Login is already registered"
+msgstr "Autentificarea este deja înregistrată"
+
+msgid "Email is already registered"
+msgstr "E-mail-ul este deja inregistrat"
+
+msgid "Phone is already registered"
+msgstr "Telefonul este deja înregistrat"
+
+msgid "You are less than 18 year old"
+msgstr "Ai mai puțin de 18 ani"
+
+#~ msgid "Do you need to contact us?"
+#~ msgstr "Aveți nevoie să ne contactați?"
+
+#~ msgid ""
+#~ "Due to legal reasons we can't accept players residing in the country you "
+#~ "are currently\n"
+#~ "            in."
+#~ msgstr ""
+#~ "Din motive legale, nu putem accepta jucători cu domiciliul în țara în "
+#~ "care vă aflați\n"
+#~ "            în."
+
+#~ msgid ""
+#~ "If you’re using a proxy service or VPN to access casino, try turning it "
+#~ "off and reload the\n"
+#~ "            page."
+#~ msgstr ""
+#~ "Dacă utilizați un serviciu proxy sau VPN pentru a accesa cazinoul, "
+#~ "încercați să îl dezactivați și să reîncărcați\n"
+#~ "            pagină."
+
+#~ msgid "Location restriction"
+#~ msgstr "Locație"
+
+#~ msgid "Not in a restricted region"
+#~ msgstr "Restricționat"
+
+#~ msgid ""
+#~ "Should you have any questions or feel that this block is affecting you "
+#~ "due to a technical error,\n"
+#~ "            please\n"
+#~ "            don't hesitate to contact us and we'll work it out together."
+#~ msgstr ""
+#~ "Dacă aveți întrebări sau credeți că acest bloc vă afectează din cauza "
+#~ "unei erori tehnice,\n"
+#~ "            Vă rog\n"
+#~ "            nu ezitați să ne contactați și o vom rezolva împreună."
+
+#~ msgid "Awaiting limits information"
+#~ msgstr "Așteptarea informațiilor limitează"
+
+#~ msgid "cancel_error"
+#~ msgstr "cancel error"
+
+#~ msgid "select_error"
+#~ msgstr "select error"

@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: loyalty\n"
+"Language: kk_KZ\n"
+
+msgid "No client"
+msgstr "Клиент жоқ"
+
+msgid "Set transaction type"
+msgstr "Транзакция түрін орнату"
+
+msgid "No user id"
+msgstr "Пайдаланушы идентификаторы жоқ"
+
+msgid "No amount"
+msgstr "Саны жоқ"
+
+msgid "No loyalty record"
+msgstr "Адалдық жазбасы жоқ"
+
+msgid "Wrong request path"
+msgstr "Жарамсыз сұрау жолы"
+
+msgid "Debet amount to big"
+msgstr "Дебет сомасы тым үлкен"
+
+msgid "Wrong transaction type"
+msgstr "Транзакция жолы жарамсыз"
+
+msgid "Awaiting limits information"
+msgstr "Шектеу туралы ақпаратты күтуде"
+
+msgid "Wrong currency"
+msgstr "Дұрыс емес валюта"
+
+msgid "Non existent level"
+msgstr "Жарамсыз деңгей"
+
+msgid "No points"
+msgstr "Ұпай жоқ"
+
+msgid "Set loyalty level"
+msgstr "Адалдық деңгейін орнатыңыз"
+
+msgid "No bet"
+msgstr "Ставка жоқ"
+
+msgid "No ID user"
+msgstr "Пайдаланушы идентификаторы жоқ"
+
+msgid "No ID bonus"
+msgstr "Бонус идентификаторы жоқ"
+
+msgid "Wrong amount"
+msgstr "Қате сома"
+
+msgid "No bonus ID"
+msgstr "Бонус идентификаторы жоқ"
+
+msgid "No user ID"
+msgstr "Пайдаланушы идентификаторы жоқ"
+
+msgid "Wrong date format"
+msgstr "Күн форматы жарамсыз"
+
+msgid "Date must not be today"
+msgstr "Күн бүгін болмауы керек"
+
+msgid "No bonus id"
+msgstr "Бонус идентификаторы жоқ"
+
+msgid "No status"
+msgstr "Күйі жоқ"
+
+msgid "Bonus not found"
+msgstr "Бонус табылмады"
+
+msgid "Already have active"
+msgstr "Белсенді бар"
+
+msgid "Bonus is not available"
+msgstr "Бонус қолжетімді емес"
+
+msgid "First deposit, already deposited"
+msgstr "Бірінші депозит, депозит жасалған"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Бонустардың шарттарына сай емес"
+
+msgid "Bonus used"
+msgstr "Қолданылған бонус"
+
+msgid "Promo code needed"
+msgstr "Промокод қажет"
+
+msgid "Wrong promo code"
+msgstr "Жарамсыз промокод"
+
+msgid "User ID not set"
+msgstr "Пайдаланушы идентификаторы орнатылмаған"
+
+msgid "Wrong bonus results value"
+msgstr "Бонус нәтижелерінің қате мәні"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Қате мән"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Ойнату ұтысының қате нәтижесі"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Бөлшек өлшемінің қате нәтижесі"
+
+msgid "Wrong bonus results release wagering"
+msgstr ""
+
+msgid "Bonus name required"
+msgstr "Бонус атауы қажет"
+
+msgid "Wrong bonus event"
+msgstr "Қате бонус оқиғасы"
+
+msgid "Wrong bonus type"
+msgstr "Қате бонус түрі"
+
+msgid "Wrong bonus repeat period"
+msgstr "Бонусты қайталау мерзімі жарамсыз"
+
+msgid "Wrong bonus expire period"
+msgstr "Қате бонустың жарамдылық мерзімі"
+
+msgid "Wrong bonus budget"
+msgstr "Қате бонус бюджеті"
+
+msgid "Wrong bonus start date"
+msgstr "Бонустың басталу күні жарамсыз"
+
+msgid "Wrong bonus end date"
+msgstr "Бонустың аяқталу күні жарамсыз"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Бонустың басталу күні аяқталу күнінен үлкен"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Мин. бонус сомасының қатк шарттары"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Макс. бонус сомасының қатк шарттары"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr ""
+
+msgid "Following codes are duplicated"
+msgstr "Келесі кодтар екі рет қайталанған"
+
+msgid "Bonus name already exists"
+msgstr "Мұндай бонус атауы бар"
+
+msgid "Wrong bonus ID"
+msgstr "Жарамсыз бонус идентификаторы"
+
+msgid "Activated bonuses"
+msgstr "Белсендірілген бонустар"
+
+msgid "Can't delete"
+msgstr "Жою мүмкін емес"
+
+msgid "No bonus"
+msgstr "Бонус жоқ"
+
+msgid "Wrong store action"
+msgstr ""
+
+msgid "No order id"
+msgstr "Тапсырыс идентификаторы жоқ"
+
+msgid "Order not found"
+msgstr "Тапсырыс табылмады"
+
+msgid "No item id"
+msgstr "Өнім идентификаторы жоқ"
+
+msgid "User not found"
+msgstr "Пайдаланушы табылмады"
+
+msgid "Item not found"
+msgstr "Өнім табылмады"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Өнімнің бағасы үшін валюта көрсетілмеген: АДАЛДЫҚ"
+
+msgid "Not enough loyalty points"
+msgstr "Адалдық ұпайлары жеткіліксіз"
+
+msgid "Item out of stock"
+msgstr "Тауар жоқ"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr ""
+
+msgid "User not found in tournament"
+msgstr "Пайдаланушы турнирде табылмады"
+
+msgid "Set codes count"
+msgstr ""
+
+msgid "Set batch name"
+msgstr ""
+
+msgid "Codes count exceeds 300 000"
+msgstr ""
+
+msgid "Wrong batch ID"
+msgstr ""
+
+msgid "Codes not set"
+msgstr "Кодтар орнатылмаған"
+
+msgid "Modificator not found"
+msgstr "Модификатор табылмады"
+
+msgid "Set coefficient"
+msgstr "Коэффицентті орнатыңыз"
+
+msgid "Set name"
+msgstr "Атын орнатыңыз"
+
+msgid "No levels defined"
+msgstr "Деңгейлері анықталмаған"
+
+msgid "Level not found"
+msgstr "Деңгей табылмады"
+
+msgid "Bad cronjob"
+msgstr ""
+
+msgid "No category ID"
+msgstr "Санат идентификаторы жоқ"
+
+msgid "Category not found"
+msgstr "Санат табылмады"
+
+msgid "No category name"
+msgstr "Санат атауы жоқ"
+
+msgid "Wrong category ID"
+msgstr "Жарамсыз санат идентификаторы"
+
+msgid "No category id"
+msgstr "Санат идентификаторы жоқ"
+
+msgid "No item ID"
+msgstr "Өнім идентификаторы жоқ"
+
+msgid "Wrong item ID"
+msgstr "Жарамсыз өнім идентификаторы"
+
+msgid "Item init error"
+msgstr ""
+
+msgid "Wrong item BonusEventAmount"
+msgstr ""
+
+msgid "No item"
+msgstr "Өнім жоқ"
+
+msgid "Wrong tournament ID"
+msgstr "Турнир идентификаторы жарамсыз"
+
+msgid "Wrong Tournament ID"
+msgstr "Турнир идентификаторы жарамсыз"
+
+msgid "No ID tournament"
+msgstr "Турнир идентификаторы жоқ"
+
+msgid "No tournament ID"
+msgstr "Турнир идентификаторы жоқ"
+
+msgid "No tournament id"
+msgstr "Турнир идентификаторы жоқ"
+
+msgid "No balance"
+msgstr "Баланс жоқ"
+
+msgid "Not enough balance"
+msgstr "Баланс жеткіліксіз"
+
+msgid "Tournament name required"
+msgstr "Турнир атауы қажет"
+
+msgid "Wrong tournament winner by"
+msgstr "Турнир жеңімпазы қате"
+
+msgid "Wrong tournament period"
+msgstr "Турнирдің дұрыс емес кезеңі"
+
+msgid "Wrong tournament repeat"
+msgstr "Турнирді қате қайталау"
+
+msgid "Wrong tournament start date"
+msgstr "Турнирдің басталу күні жарамсыз"
+
+msgid "Tournament not found"
+msgstr "Турнир табылмады"
+
+msgid "Activated Tournaments"
+msgstr "Белсендірілген турнирлер"
+
+msgid "No tournament"
+msgstr "Турнир жоқ"
+
+msgid "Wrong event type"
+msgstr "Оқиға түрі жарамсыз"
+
+msgid "No event id"
+msgstr "Оқиға идентификаторы жоқ"
+
+msgid "Empty data"
+msgstr "Бос деректер"
+
+msgid "No data"
+msgstr "Мәлімет жоқ"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Пайдаланушыға бонустарды пайдалануға тыйым салынған"
+
+msgid "Bonus selection is already in process"
+msgstr "Бонустық жазылым қазір өңделуде"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Пайдаланушыға турнирлерге қатысуға тыйым салынған"
+
+msgid "Bonus pending cancellation"
+msgstr "Бонус бас тартуды күтуде "
+
+msgid "Cancel not supported"
+msgstr "Бонустан бас тарту мүмкін емес"
+
+msgid "Awaiting limits information, try later"
+msgstr "Деректер өңделуде, әрекетті кейінірек қайталаңыз"
+
+msgid "Error cancellation of the bonus"
+msgstr "Бонусты жою қатесі"
+
+msgid "Purchase is not possible - the item has been disabled"
+msgstr "Сатып алу мүмкін емес - таңдалған өнім өшірілген"
+
+msgid "Purchase is not possible - the item has been deleted"
+msgstr "Сатып алу мүмкін емес - таңдалған өнім жойылды"

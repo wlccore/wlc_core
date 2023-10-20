@@ -1,0 +1,356 @@
+# German translations for PACKAGE package
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WLC PHP Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2018-12-06 16:02+0100\n"
+"Last-Translator: Yuri Tcherepanov <jurij.cherepanov@egamings.com>\n"
+"Language-Team: none\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.2\n"
+
+msgid "No client"
+msgstr ""
+
+msgid "Set transaction type"
+msgstr "Angiv posteringstype"
+
+msgid "No user id"
+msgstr "Intet bruger-id"
+
+msgid "No amount"
+msgstr "Intet beløb"
+
+msgid "No loyalty record"
+msgstr "Ingen loyalitetspost"
+
+msgid "Wrong request path"
+msgstr "Forkert anmodningssti"
+
+msgid "Debet amount to big"
+msgstr "Debet beløber sig til store"
+
+msgid "Wrong transaction type"
+msgstr "Forkert posteringstype"
+
+msgid "Awaiting limits information"
+msgstr "Afventer begrænsede oplysninger"
+
+msgid "Wrong currency"
+msgstr "Forkert valuta"
+
+msgid "Non existent level"
+msgstr "Ikke-eksisterende niveau"
+
+msgid "No points"
+msgstr "Ingen point"
+
+msgid "Set loyalty level"
+msgstr "Angiv fordelskundeniveau"
+
+msgid "No bet"
+msgstr "Intet bet"
+
+msgid "No ID user"
+msgstr "Ingen id-bruger"
+
+msgid "No ID bonus"
+msgstr "Ingen ID bonus"
+
+msgid "Wrong amount"
+msgstr "Forkert beløb"
+
+msgid "No bonus ID"
+msgstr "Intet bonus-id"
+
+msgid "No user ID"
+msgstr "Intet bruger-id"
+
+msgid "Wrong date format"
+msgstr "Forkert datoformat"
+
+msgid "Date must not be today"
+msgstr "Dato må ikke være i dag"
+
+msgid "No bonus id"
+msgstr "Ingen bonus-id"
+
+msgid "No status"
+msgstr "Ingen status"
+
+msgid "Bonus not found"
+msgstr "Bonus blev ikke fundet"
+
+msgid "Already have active"
+msgstr "Har allerede aktive"
+
+msgid "Bonus is not available"
+msgstr "Bonus er ikke tilgængelig"
+
+msgid "First deposit, already deposited"
+msgstr "Første indbetaling, allerede deponeret"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Må ikke opfylde bonusbetingelser"
+
+msgid "Bonus used"
+msgstr "Anvendt bonus"
+
+msgid "Promo code needed"
+msgstr "Kampagnekode nødvendig"
+
+msgid "Wrong promo code"
+msgstr "Forkert kampagnekode"
+
+msgid "User ID not set"
+msgstr "Bruger-id’et er ikke angivet"
+
+msgid "Wrong bonus results value"
+msgstr "Forkert bonusresultatværdi"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Forkert bonus resultater freerounds værdi"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Forkert bonus resultater tildeling indsatser"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Forkert bonus resultater luns størrelse"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Forkerte bonusresultater frigiver indsatser"
+
+msgid "Bonus name required"
+msgstr "Bonusnavn påkrævet"
+
+msgid "Wrong bonus event"
+msgstr "Forkert bonus begivenhed"
+
+msgid "Wrong bonus type"
+msgstr "Forkert bonustype"
+
+msgid "Wrong bonus repeat period"
+msgstr "Forkert bonus gentagelse periode"
+
+msgid "Wrong bonus expire period"
+msgstr "Forkert bonusudløbsperiode"
+
+msgid "Wrong bonus budget"
+msgstr "Forkert bonusbudget"
+
+msgid "Wrong bonus start date"
+msgstr "Forkert bonusstartdato"
+
+msgid "Wrong bonus end date"
+msgstr "Forkert bonus slutdato"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Forkert bonusstartdato mere end slutdato"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Forkert bonus betingelser beløb min"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Forkert bonus betingelser beløb max"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Forkerte bonusbetingelser beløb min mere end beløb max"
+
+msgid "Following codes are duplicated"
+msgstr "Følgende koder duplikeres"
+
+msgid "Bonus name already exists"
+msgstr "Bonusnavnet findes allerede"
+
+msgid "Wrong bonus ID"
+msgstr "Forkert bonus-id"
+
+msgid "Activated bonuses"
+msgstr "Aktiverede bonusser"
+
+msgid "Can't delete"
+msgstr "Kan ikke slettes"
+
+msgid "No bonus"
+msgstr "Ingen bonus"
+
+msgid "Wrong store action"
+msgstr "Forkert butikshandling"
+
+msgid "No order id"
+msgstr "Intet ordre-id"
+
+msgid "Order not found"
+msgstr "Ordren blev ikke fundet"
+
+msgid "No item id"
+msgstr "Intet element-id"
+
+msgid "User not found"
+msgstr "Brugeren blev ikke fundet"
+
+msgid "Item not found"
+msgstr "Elementet blev ikke fundet"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Varepris er ikke angivet for valuta: LOYALTY"
+
+msgid "Not enough loyalty points"
+msgstr "Ikke nok loyalitetpoint"
+
+msgid "Item out of stock"
+msgstr "Vare udsolgt"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Forkert BonusEventAmount af vare"
+
+msgid "User not found in tournament"
+msgstr "Brugeren blev ikke fundet i turneringen"
+
+msgid "Set codes count"
+msgstr "Sæt antal koder"
+
+msgid "Set batch name"
+msgstr "Angiv batchnavn"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Antallet af koder overstiger 300 000"
+
+msgid "Wrong batch ID"
+msgstr "Forkert batch-id"
+
+msgid "Codes not set"
+msgstr "Koder ikke angivet"
+
+msgid "Modificator not found"
+msgstr "Modificator blev ikke fundet"
+
+msgid "Set coefficient"
+msgstr "Angiv koefficient"
+
+msgid "Set name"
+msgstr "Angiv navn"
+
+msgid "No levels defined"
+msgstr "Der er ikke defineret nogen niveauer"
+
+msgid "Level not found"
+msgstr "Niveauet blev ikke fundet"
+
+msgid "Bad cronjob"
+msgstr "Dårlig cronjob"
+
+msgid "No category ID"
+msgstr "Intet kategori-id"
+
+msgid "Category not found"
+msgstr "Kategorien blev ikke fundet"
+
+msgid "No category name"
+msgstr "Intet kategorinavn"
+
+msgid "Wrong category ID"
+msgstr "Forkert kategori-id"
+
+msgid "No category id"
+msgstr "Intet kategori-id"
+
+msgid "No item ID"
+msgstr "Intet element-id"
+
+msgid "Wrong item ID"
+msgstr "Forkert vare-id"
+
+msgid "Item init error"
+msgstr "Fejl ved indfÃ ̧relse af element"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Forkert vare BonusEventAmount"
+
+msgid "No item"
+msgstr "Intet element"
+
+msgid "Wrong tournament ID"
+msgstr "Forkert turnerings-id"
+
+msgid "Wrong Tournament ID"
+msgstr "Forkert turnerings id"
+
+msgid "No ID tournament"
+msgstr "Ingen ID turnering"
+
+msgid "No tournament ID"
+msgstr "Intet turnerings-id"
+
+msgid "No tournament id"
+msgstr "Intet turnerings-id"
+
+msgid "No balance"
+msgstr "Ingen saldo"
+
+msgid "Not enough balance"
+msgstr "Ikke nok balance"
+
+msgid "Tournament name required"
+msgstr "Turneringsnavn påkrævet"
+
+msgid "Wrong tournament winner by"
+msgstr "Forkert turneringvinder af"
+
+msgid "Wrong tournament period"
+msgstr "Forkert turneringsperiode"
+
+msgid "Wrong tournament repeat"
+msgstr "Forkert turnering stigen"
+
+msgid "Wrong tournament start date"
+msgstr "Forkert turneringsstartdato"
+
+msgid "Tournament not found"
+msgstr "Turneringen blev ikke fundet"
+
+msgid "Activated Tournaments"
+msgstr "Aktiverede turneringer"
+
+msgid "No tournament"
+msgstr "Ingen turnering"
+
+msgid "Wrong event type"
+msgstr "Forkert hændelsestype"
+
+msgid "No event id"
+msgstr "Intet hændelses-id"
+
+msgid "Empty data"
+msgstr "Tomme data"
+
+msgid "No data"
+msgstr "Ingen data"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonusser er forbudt for brugeren"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Turneringer er forbudt for brugere"
+
+msgid "Bonus pending cancellation"
+msgstr "Bonus afventer annullering"
+
+msgid "Cancel not supported"
+msgstr "Annuller understøttes ikke"
+
+msgid "Awaiting limits information, try later"
+msgstr "Afventer grænser oplysninger, så prøv senere"
+
+msgid "Error cancellation of the bonus"
+msgstr "Fejl annullering af bonus"

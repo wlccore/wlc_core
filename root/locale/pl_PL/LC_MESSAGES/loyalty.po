@@ -1,0 +1,352 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2019-07-10 13:26+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "Set transaction type"
+msgstr "Ustal rodzaj transakcji"
+
+msgid "No user id"
+msgstr "Brak identyfikatora użytkownika"
+
+msgid "No amount"
+msgstr "Brak kwoty"
+
+msgid "No loyalty record"
+msgstr "Brak rekordu lojalnościowego"
+
+msgid "Wrong request path"
+msgstr "Niepoprawna ścieżka żądania"
+
+msgid "Debet amount to big"
+msgstr "Zbyt duża kwota debetu"
+
+msgid "Wrong transaction type"
+msgstr "Niepoprawny rodzaj transakcji"
+
+msgid "Awaiting limits information"
+msgstr "Oczekiwanie na informacje dotyczące limitów"
+
+msgid "Wrong currency"
+msgstr "Niepoprawna waluta"
+
+msgid "Non existent level"
+msgstr "Nieistniejący poziom"
+
+msgid "No points"
+msgstr "Brak punktów"
+
+msgid "Set loyalty level"
+msgstr "Ustal poziom lojalnościowy"
+
+msgid "No bet"
+msgstr "Brak zakładu"
+
+msgid "No ID user"
+msgstr "Brak ID użytkownika"
+
+msgid "No ID bonus"
+msgstr "Brak ID bonusu"
+
+msgid "Wrong amount"
+msgstr "Niepoprawna kwota"
+
+msgid "No bonus ID"
+msgstr "Brak ID bonusu"
+
+msgid "No user ID"
+msgstr "Brak ID użytkownika"
+
+msgid "Wrong date format"
+msgstr "Niepoprawny format daty"
+
+msgid "Date must not be today"
+msgstr "Data nie może być dzisiejsza"
+
+msgid "No bonus id"
+msgstr "Brak ID bonusu"
+
+msgid "No status"
+msgstr "Brak statusu"
+
+msgid "Bonus not found"
+msgstr "Nie znaleziono bonusu"
+
+msgid "Already have active"
+msgstr "Już aktywowane"
+
+msgid "Bonus is not available"
+msgstr "Bonus jest niedostępny"
+
+msgid "First deposit, already deposited"
+msgstr "Pierwszy depozyt, już wpłacony"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Nie spełnia wymogów bonusu"
+
+msgid "Bonus used"
+msgstr "Bonus wykorzystany"
+
+msgid "Promo code needed"
+msgstr "Wymagany kod promocyjny"
+
+msgid "Wrong promo code"
+msgstr "Niepoprawny kod promocyjny"
+
+msgid "User ID not set"
+msgstr "Nie ustawiono ID użytkownika "
+
+msgid "Wrong bonus results value"
+msgstr "Zły bonus wyniki wartość"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Zły bonus wyniki darmowe rundy wartość"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Zły bonus wyniki nagroda obrót"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Zły bonus wyniki kawałek rozmiar"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Zły bonus wyniki wydanie obrót"
+
+msgid "Bonus name required"
+msgstr "Wymagana nazwa bonusu"
+
+msgid "Wrong bonus event"
+msgstr "Niewłaściwe wydarzenie bonusowe"
+
+msgid "Wrong bonus type"
+msgstr "Niewłaściwy typ bonusu"
+
+msgid "Wrong bonus repeat period"
+msgstr "Niewłaściwy okres powtórki bonusu"
+
+msgid "Wrong bonus expire period"
+msgstr "Niewłaściwy okres ważności bonusu"
+
+msgid "Wrong bonus budget"
+msgstr "Niewłaściwy budżet bonusu"
+
+msgid "Wrong bonus start date"
+msgstr "Niewłaściwa data rozpoczęcia bonusu"
+
+msgid "Wrong bonus end date"
+msgstr "Niewłaściwa data zakończenia bonusu"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Niewłaściwa data rozpoczęcia bonusu późniejsza od daty zakończenia"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Niewłaściwa kwota minimalna zasad bonusu"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Niewłaściwa kwota maksymalna zasad bonusu"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Niewłaściwa kwota minimalna większa od kwoty maksymalnej"
+
+msgid "Following codes are duplicated"
+msgstr "Następujące po sobie kody są powielone"
+
+msgid "Bonus name already exists"
+msgstr "Nazwa bonusu już istnieje"
+
+msgid "Wrong bonus ID"
+msgstr "Zły ID bonusu"
+
+msgid "Activated bonuses"
+msgstr "Bonusy aktywowane"
+
+msgid "Can't delete"
+msgstr "Nie można usunąć"
+
+msgid "No bonus"
+msgstr "Brak bonusu"
+
+msgid "Wrong store action"
+msgstr "Niewłaściwa akcja sklepu"
+
+msgid "No order id"
+msgstr "Brak ID zamówienia"
+
+msgid "Order not found"
+msgstr "Nie znaleziono zamówienia"
+
+msgid "No item id"
+msgstr "Brak ID przedmiotu"
+
+msgid "User not found"
+msgstr "Nie znaleziono użytkownika"
+
+msgid "Item not found"
+msgstr "Nie znaleziono przedmiotu"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Cena przedmiotu nie ustalona dla waluty: punkty lojalnościowe"
+
+msgid "Not enough loyalty points"
+msgstr "Zbyt mało punktów lojalnościowych"
+
+msgid "Item out of stock"
+msgstr "Przedmiot poza magazynem"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Niewłaściwy BonusEventAmount przedmiotu"
+
+msgid "User not found in tournament"
+msgstr "Nie znaleziono użytkownika w turnieju"
+
+msgid "Set codes count"
+msgstr "Ustal liczbę kodów"
+
+msgid "Set batch name"
+msgstr "Ustal nazwę partii"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Liczba kodów przekracza 300.000"
+
+msgid "Wrong batch ID"
+msgstr "Niewłasciwy ID partii"
+
+msgid "Codes not set"
+msgstr "Nie ustalono kodów"
+
+msgid "Modificator not found"
+msgstr "Nie znaleziono modyfikatora"
+
+msgid "Set coefficient"
+msgstr "Ustal współczynnik"
+
+msgid "Set name"
+msgstr "Ustal nazwę "
+
+msgid "No levels defined"
+msgstr "Nie zdefiniowano poziomów"
+
+msgid "Level not found"
+msgstr "Nie znaleziono poziomu"
+
+msgid "Bad cronjob"
+msgstr "Zły cronjob"
+
+msgid "No category ID"
+msgstr "Brak ID kategorii"
+
+msgid "Category not found"
+msgstr "Nie znaleziono kategorii"
+
+msgid "No category name"
+msgstr "Brak nazwy kategorii"
+
+msgid "Wrong category ID"
+msgstr "Niewłaściwy ID kategorii"
+
+msgid "No category id"
+msgstr "Brak ID kategorii"
+
+msgid "No item ID"
+msgstr "Brak ID przedmiotu"
+
+msgid "Wrong item ID"
+msgstr "Niewłaściwy ID przedmiotu"
+
+msgid "Item init error"
+msgstr "Błąd przedmiotu"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Niewłaściwy BonusEventAmount przedmiotu"
+
+msgid "No item"
+msgstr "Brak przedmiotu"
+
+msgid "Wrong tournament ID"
+msgstr "Niewłaściwy ID turnieju"
+
+msgid "Wrong Tournament ID"
+msgstr "Niewłaściwy ID Turnieju"
+
+msgid "No ID tournament"
+msgstr "Brak ID turnieju"
+
+msgid "No tournament ID"
+msgstr "Brak ID turnieju"
+
+msgid "No tournament id"
+msgstr "Brak ID turnieju"
+
+msgid "No balance"
+msgstr "Brak salda"
+
+msgid "Not enough balance"
+msgstr "Niewystarczające saldo"
+
+msgid "Tournament name required"
+msgstr "Wymagana nazwa turnieju"
+
+msgid "Wrong tournament winner by"
+msgstr "Niewłaściwy zwycięzca turnieju"
+
+msgid "Wrong tournament period"
+msgstr "Niewłaściwy okres turnieju"
+
+msgid "Wrong tournament repeat"
+msgstr "Niewłaściwa powtórka turnieju"
+
+msgid "Wrong tournament start date"
+msgstr "Niewłaściwa data rozpoczęcia turnieju"
+
+msgid "Tournament not found"
+msgstr "Nie znaleziono turnieju"
+
+msgid "Activated Tournaments"
+msgstr "Aktywowane turnieje"
+
+msgid "No tournament"
+msgstr "Brak turnieju"
+
+msgid "Wrong event type"
+msgstr "Zły rodzaj wydarzenia"
+
+msgid "No event id"
+msgstr "Brak ID wydarzenia"
+
+msgid "Empty data"
+msgstr "Pusta data"
+
+msgid "No data"
+msgstr "Brak daty"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonus jest zakazany dla użytkownika"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Turnieje są zakazane dla użytkownika"
+
+msgid "Bonus pending cancellation"
+msgstr "Anulowanie przyznania bonusu"
+
+msgid "Cancel not supported"
+msgstr "Anulowanie nieobsługiwane"
+
+msgid "Awaiting limits information, try later"
+msgstr "Oczekiwanie na informacje dotyczące limitów, spróbuj później"
+
+msgid "Error cancellation of the bonus"
+msgstr "Błąd anulowania bonusu"

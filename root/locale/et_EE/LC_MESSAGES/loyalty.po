@@ -1,0 +1,352 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2020-04-05 23:31+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+msgid "Set transaction type"
+msgstr "Määra tehingu tüüp"
+
+msgid "No user id"
+msgstr "Kasutaja ID puudub"
+
+msgid "No amount"
+msgstr "Pole summat"
+
+msgid "No loyalty record"
+msgstr "Lojaalsuse rekord puudub"
+
+msgid "Wrong request path"
+msgstr "Vale päringutee"
+
+msgid "Debet amount to big"
+msgstr "Deebetite summa suureks"
+
+msgid "Wrong transaction type"
+msgstr "Vale tehingutüüp"
+
+msgid "Awaiting limits information"
+msgstr "Ootamine piirab teavet"
+
+msgid "Wrong currency"
+msgstr "Vale valuuta"
+
+msgid "Non existent level"
+msgstr "Olematu tase"
+
+msgid "No points"
+msgstr "Pole punkte"
+
+msgid "Set loyalty level"
+msgstr "Määrake lojaalsuse tase"
+
+msgid "No bet"
+msgstr "Ei panusta"
+
+msgid "No ID user"
+msgstr "ID-kasutajat pole"
+
+msgid "No ID bonus"
+msgstr "ID boonust pole"
+
+msgid "Wrong amount"
+msgstr "Vale summa"
+
+msgid "No bonus ID"
+msgstr "Boonuse ID puudub"
+
+msgid "No user ID"
+msgstr "Kasutajatunnus puudub"
+
+msgid "Wrong date format"
+msgstr "Vale kuupäevavorming"
+
+msgid "Date must not be today"
+msgstr "Kuupäev ei tohi olla täna"
+
+msgid "No bonus id"
+msgstr "Boonuse ID puudub"
+
+msgid "No status"
+msgstr "Staatuseta"
+
+msgid "Bonus not found"
+msgstr "Boonust ei leitud"
+
+msgid "Already have active"
+msgstr "On juba aktiivne"
+
+msgid "Bonus is not available"
+msgstr "Boonus pole saadaval"
+
+msgid "First deposit, already deposited"
+msgstr "Esimene sissemakse on juba tehtud"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Ei vasta boonuse tingimustele"
+
+msgid "Bonus used"
+msgstr "Boonus kasutatud"
+
+msgid "Promo code needed"
+msgstr "Vaja on kampaaniakoodi"
+
+msgid "Wrong promo code"
+msgstr "Vale kampaaniakood"
+
+msgid "User ID not set"
+msgstr "Kasutajatunnus pole määratud"
+
+msgid "Wrong bonus results value"
+msgstr "Boonustulemuste vale väärtus"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Vale Freerounds boonuse tulemuste väärtus"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Vale boonustulemus tekitab auhinnale panustamist"
+
+msgid "Wrong bonus results chunk size"
+msgstr ""
+
+msgid "Wrong bonus results release wagering"
+msgstr "Vale boonuse tulemus vabastab panustamise"
+
+msgid "Bonus name required"
+msgstr "Boonuse nimi on vajalik"
+
+msgid "Wrong bonus event"
+msgstr "Vale boonussündmus"
+
+msgid "Wrong bonus type"
+msgstr "Vale boonuse tüüp"
+
+msgid "Wrong bonus repeat period"
+msgstr "Vale boonuse kordusperiood"
+
+msgid "Wrong bonus expire period"
+msgstr "Vale boonuse kehtivusaeg"
+
+msgid "Wrong bonus budget"
+msgstr "Vale boonuseelarve"
+
+msgid "Wrong bonus start date"
+msgstr "Boonuse vale alguskuupäev"
+
+msgid "Wrong bonus end date"
+msgstr "Vale boonuse lõppkuupäev"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Vale boonuse alguskuupäev on rohkem kui lõppkuupäev"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Vale boonuse miinimumsumma"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Vale boonuse maksimumsumma"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Vale boonuse miinimumsumma on suurem kui maksimumsumma"
+
+msgid "Following codes are duplicated"
+msgstr "Järgmised koodid on dubleeritud"
+
+msgid "Bonus name already exists"
+msgstr "Boonuse nimi on juba olemas"
+
+msgid "Wrong bonus ID"
+msgstr "Vale boonuse ID"
+
+msgid "Activated bonuses"
+msgstr "Aktiveeritud boonused"
+
+msgid "Can't delete"
+msgstr "Ei saa kustutada"
+
+msgid "No bonus"
+msgstr "Boonust pole"
+
+msgid "Wrong store action"
+msgstr "Vale kaupluse tegevus"
+
+msgid "No order id"
+msgstr "Tellimuse ID puudub"
+
+msgid "Order not found"
+msgstr "Tellimust ei leitud"
+
+msgid "No item id"
+msgstr "Toote ID puudub"
+
+msgid "User not found"
+msgstr "Kasutajat ei leitud"
+
+msgid "Item not found"
+msgstr "Toodet ei leitud"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Toote hind pole valuuta jaoks määratud: LOJAALSUS"
+
+msgid "Not enough loyalty points"
+msgstr "Lojaalsuspunkte pole piisavalt"
+
+msgid "Item out of stock"
+msgstr "Toode on otsas"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Vale BonusEventElemendi summa"
+
+msgid "User not found in tournament"
+msgstr "Kasutajat ei leitud turniirilt"
+
+msgid "Set codes count"
+msgstr "Määra koodide arv"
+
+msgid "Set batch name"
+msgstr "Määra partii nimi"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Koodide arv ületab 300 000"
+
+msgid "Wrong batch ID"
+msgstr "Vale partii ID"
+
+msgid "Codes not set"
+msgstr "Koode pole määratud"
+
+msgid "Modificator not found"
+msgstr "Modifikaatorit ei leitud"
+
+msgid "Set coefficient"
+msgstr "Määra koefitsient"
+
+msgid "Set name"
+msgstr "Määra nimi"
+
+msgid "No levels defined"
+msgstr "Tasemeid pole määratletud"
+
+msgid "Level not found"
+msgstr "Taset ei leitud"
+
+msgid "Bad cronjob"
+msgstr "Halb cronjob"
+
+msgid "No category ID"
+msgstr "Kategooria ID puudub"
+
+msgid "Category not found"
+msgstr "Kategooriat ei leitud"
+
+msgid "No category name"
+msgstr "Kategooria nime pole"
+
+msgid "Wrong category ID"
+msgstr "Vale kategooria ID"
+
+msgid "No category id"
+msgstr "Kategooria ID puudub"
+
+msgid "No item ID"
+msgstr "Toote ID puudub"
+
+msgid "Wrong item ID"
+msgstr "Vale toote ID"
+
+msgid "Item init error"
+msgstr "Toote algviga"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Vale toote BonusEventAmount"
+
+msgid "No item"
+msgstr "Toodet pole"
+
+msgid "Wrong tournament ID"
+msgstr "Vale turniiri ID"
+
+msgid "Wrong Tournament ID"
+msgstr "Vale turniiri ID"
+
+msgid "No ID tournament"
+msgstr "Turniiri ID puudub"
+
+msgid "No tournament ID"
+msgstr "Turniiri ID puudub"
+
+msgid "No tournament id"
+msgstr "Turniiri ID puudub"
+
+msgid "No balance"
+msgstr "Pole tasakaalu"
+
+msgid "Not enough balance"
+msgstr "Pole piisavalt saldot"
+
+msgid "Tournament name required"
+msgstr "Turniiri nimi on kohustuslik"
+
+msgid "Wrong tournament winner by"
+msgstr "Vale turniiri võitja"
+
+msgid "Wrong tournament period"
+msgstr "Vale turniiri periood"
+
+msgid "Wrong tournament repeat"
+msgstr "Vale turniiri kordus"
+
+msgid "Wrong tournament start date"
+msgstr "Vale turniiri alguskuupäev"
+
+msgid "Tournament not found"
+msgstr "Turniiri ei leitud"
+
+msgid "Activated Tournaments"
+msgstr "Aktiveeritud turniirid"
+
+msgid "No tournament"
+msgstr "Turniiri pole"
+
+msgid "Wrong event type"
+msgstr "Vale sündmuse tüüp"
+
+msgid "No event id"
+msgstr "Sündmuse ID puudub"
+
+msgid "Empty data"
+msgstr "Tühjad andmed"
+
+msgid "No data"
+msgstr "Andmed puuduvad"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Boonused on kasutajal keelatud"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Turniirid on kasutajale keelatud"
+
+msgid "Bonus pending cancellation"
+msgstr "Boonus ootab tühistamist"
+
+msgid "Cancel not supported"
+msgstr "Tühistamist ei toetata"
+
+msgid "Awaiting limits information, try later"
+msgstr "Ootame piirangute infot, proovige hiljem"
+
+msgid "Error cancellation of the bonus"
+msgstr "Boonuse tühistamisel ilmnes viga"

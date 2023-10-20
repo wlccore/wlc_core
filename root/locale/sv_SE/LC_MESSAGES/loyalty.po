@@ -1,0 +1,351 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:51+0000\n"
+"PO-Revision-Date: 2018-03-01 14:51+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Set transaction type"
+msgstr "Ange transaktionstyp"
+
+msgid "No user id"
+msgstr "Användar-ID saknas"
+
+msgid "No amount"
+msgstr "Belopp saknas"
+
+msgid "No loyalty record"
+msgstr "Lojalitetslista saknas"
+
+msgid "Wrong request path"
+msgstr "Ogiltig sökväg"
+
+msgid "Debet amount to big"
+msgstr "Debiteringsbeloppet är för stort"
+
+msgid "Wrong transaction type"
+msgstr "Ogiltig transaktionstyp"
+
+msgid "Awaiting limits information"
+msgstr "Awaiting limits information"
+
+msgid "Wrong currency"
+msgstr "Ogiltig valuta"
+
+msgid "Non existent level"
+msgstr "Obefintlig nivå"
+
+msgid "No points"
+msgstr "Inga poäng"
+
+msgid "Set loyalty level"
+msgstr "Ange lojalitetsnivå"
+
+msgid "No bet"
+msgstr "Ingen insats"
+
+msgid "No ID user"
+msgstr "Användar-ID saknas"
+
+msgid "No ID bonus"
+msgstr "Bonus-ID saknas"
+
+msgid "Wrong amount"
+msgstr "Ogiltigt belopp"
+
+msgid "No bonus ID"
+msgstr "Bonus-ID saknas"
+
+msgid "No user ID"
+msgstr "Användar-ID saknas"
+
+msgid "Wrong date format"
+msgstr "Fel datumformat"
+
+msgid "Date must not be today"
+msgstr "Datumet kan inte vara idag"
+
+msgid "No bonus id"
+msgstr "Bonus-ID saknas"
+
+msgid "No status"
+msgstr "Status saknas"
+
+msgid "Bonus not found"
+msgstr "Bonusen kunde inte hittas"
+
+msgid "Already have active"
+msgstr "Redan aktiv"
+
+msgid "Bonus is not available"
+msgstr "Bonusen inte är tillgänglig"
+
+msgid "First deposit, already deposited"
+msgstr "Första insättningen är redan gjord"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Uppfyller inte bonusvillkoren"
+
+msgid "Bonus used"
+msgstr "Bonusen är förbrukad"
+
+msgid "Promo code needed"
+msgstr "Kampanjkod är obligatorisk"
+
+msgid "Wrong promo code"
+msgstr "Felaktig kampanjkod"
+
+msgid "User ID not set"
+msgstr "Användar-ID saknas"
+
+msgid "Wrong bonus results value"
+msgstr "Felaktigt värde på bonusresultat"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Felaktigt värde på bonusresultat på gratisomgångar"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Felaktig omsättning (utmärkelse) på bonusresultat"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Felaktig chunkstorlek på bonusresultat"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Felaktig omsättning (överlåtelse) på bonusresultat"
+
+msgid "Bonus name required"
+msgstr "Bonusnamn är obligatoriskt"
+
+msgid "Wrong bonus event"
+msgstr "Ogiltigt bonusevenemang"
+
+msgid "Wrong bonus type"
+msgstr "Ogiltig bonustyp"
+
+msgid "Wrong bonus repeat period"
+msgstr "Felaktig upprepningsperiod för bonus"
+
+msgid "Wrong bonus expire period"
+msgstr "Felaktig utgångsperiod för bonus"
+
+msgid "Wrong bonus budget"
+msgstr "Ogiltig bonusbudget"
+
+msgid "Wrong bonus start date"
+msgstr "Ogiltigt startdatum för bonus"
+
+msgid "Wrong bonus end date"
+msgstr "Ogiltigt slutdatum för bonus"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Ogiltigt startdatum för bonus: efter slutdatum"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Felaktigt minimibelopp enligt bonusvillkor"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Felaktigt maxbelopp enligt bonusvillkor"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Felaktigt belopp enligt bonusvillkor: minimibelopp högre än maxbelopp"
+
+msgid "Following codes are duplicated"
+msgstr "Följande koder är dubletter"
+
+msgid "Bonus name already exists"
+msgstr "Bonusnamnet finns redan"
+
+msgid "Wrong bonus ID"
+msgstr "Felaktigt bonus-ID"
+
+msgid "Activated bonuses"
+msgstr "Aktiverade bonusar"
+
+msgid "Can't delete"
+msgstr "Kan inte radera"
+
+msgid "No bonus"
+msgstr "Ingen bonus"
+
+msgid "Wrong store action"
+msgstr "Fel butiksåtgärd"
+
+msgid "No order id"
+msgstr "Beställning-ID saknas"
+
+msgid "Order not found"
+msgstr "Beställningen kunde inte hittas"
+
+msgid "No item id"
+msgstr "Produkt-ID saknas"
+
+msgid "User not found"
+msgstr "Användaren kunde inte hittas"
+
+msgid "Item not found"
+msgstr "Produkten kunde inte hittas"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Produktpris ej angivet för valuta: LOJALITET"
+
+msgid "Not enough loyalty points"
+msgstr "Inte tillräckligt med lojalitetspoäng"
+
+msgid "Item out of stock"
+msgstr "Produkten är slut i lager"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Felaktigt bonusevenemangsbelopp på produkt"
+
+msgid "User not found in tournament"
+msgstr "Användaren kunde inte hittas bland turneringsdeltagare"
+
+msgid "Set codes count"
+msgstr "Ange kodantal"
+
+msgid "Set batch name"
+msgstr "Ange batchnamn"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Kodantalet överstiger 300 000"
+
+msgid "Wrong batch ID"
+msgstr "Felaktigt batch-ID"
+
+msgid "Codes not set"
+msgstr "Koder ej angivna"
+
+msgid "Modificator not found"
+msgstr "Modifikatorn kunde inte hittas"
+
+msgid "Set coefficient"
+msgstr "Ange koefficient"
+
+msgid "Set name"
+msgstr "Ange namn"
+
+msgid "No levels defined"
+msgstr "Inga nivåer fastställda"
+
+msgid "Level not found"
+msgstr "Nivån kunde inte hittas"
+
+msgid "Bad cronjob"
+msgstr "Felaktig cron-former"
+
+msgid "No category ID"
+msgstr "Kategori-ID saknas"
+
+msgid "Category not found"
+msgstr "Kategorin kunde inte hittas"
+
+msgid "No category name"
+msgstr "Kategorinamn saknas"
+
+msgid "Wrong category ID"
+msgstr "Felaktigt kategori-ID"
+
+msgid "No category id"
+msgstr "Kategori-ID saknas"
+
+msgid "No item ID"
+msgstr "Produkt-ID saknas"
+
+msgid "Wrong item ID"
+msgstr "Felaktigt produkt-ID"
+
+msgid "Item init error"
+msgstr "Fel på produkt-init"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "Felaktigt bonusevenemangsbelopp på produkt"
+
+msgid "No item"
+msgstr "Produkt saknas"
+
+msgid "Wrong tournament ID"
+msgstr "Felaktigt turnerings-ID"
+
+msgid "Wrong Tournament ID"
+msgstr "Felaktigt turnerings-ID"
+
+msgid "No ID tournament"
+msgstr "Turnerings-ID saknas"
+
+msgid "No tournament ID"
+msgstr "Turnerings-ID saknas"
+
+msgid "No tournament id"
+msgstr "Turnerings-ID saknas"
+
+msgid "No balance"
+msgstr "Inget saldo"
+
+msgid "Not enough balance"
+msgstr "Otillräckligt saldo"
+
+msgid "Tournament name required"
+msgstr "Turneringsnamn är obligatoriskt"
+
+msgid "Wrong tournament winner by"
+msgstr "Felaktig turneringsvinnare av"
+
+msgid "Wrong tournament period"
+msgstr "Felaktig turneringsperiod"
+
+msgid "Wrong tournament repeat"
+msgstr "Felaktig upprepning av turnering"
+
+msgid "Wrong tournament start date"
+msgstr "Felaktigt startdatum för turnering"
+
+msgid "Tournament not found"
+msgstr "Turneringen kunde inte hittas"
+
+msgid "Activated Tournaments"
+msgstr "Aktiverade turneringar"
+
+msgid "No tournament"
+msgstr "Turnering saknas"
+
+msgid "Wrong event type"
+msgstr "Felaktig evenemangstyp"
+
+msgid "No event id"
+msgstr "Evenemangs-ID saknas"
+
+msgid "Empty data"
+msgstr "Data saknas"
+
+msgid "No data"
+msgstr "Data saknas"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonusar är ej tillåtna för användaren"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Turneringar är ej tillåtna för användaren"
+
+msgid "Bonus pending cancellation"
+msgstr "Annullering av bonus pågår"
+
+msgid "Cancel not supported"
+msgstr "Annullering stöds inte"
+
+msgid "Awaiting limits information, try later"
+msgstr "Väntar på information om gränser, försök senare"
+
+msgid "Error cancellation of the bonus"
+msgstr "Fel vid annullering av bonusen"

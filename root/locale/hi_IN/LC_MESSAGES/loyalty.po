@@ -1,0 +1,461 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: wlc_core_loyalty_\n"
+"Language: hi\n"
+
+#: 
+msgid "Set transaction type"
+msgstr "ट्रांजेक्शन टाइप सेट करें"
+
+#: 
+msgid "No user id"
+msgstr "कोई उपयोगकर्ता आईडी नहीं"
+
+#: 
+msgid "No amount"
+msgstr "कोई राशि नहीं"
+
+#: 
+msgid "No loyalty record"
+msgstr "कोई लॉयलटी रिकॉर्ड नहीं"
+
+#: 
+msgid "Wrong request path"
+msgstr "गलत अनुरोध पथ"
+
+#: 
+msgid "Debet amount to big"
+msgstr "डेबिट की राशि बहुत बड़ी है "
+
+#: 
+msgid "Wrong transaction type"
+msgstr "गलत ट्रांजेक्शन टाइप"
+
+#: 
+msgid "Awaiting limits information"
+msgstr "प्रतीक्षा की जानकारी सीमित है"
+
+#: 
+msgid "Wrong currency"
+msgstr "गलत मुद्रा"
+
+#: 
+msgid "Non existent level"
+msgstr "गैर मौजूद स्तर"
+
+#: 
+msgid "No points"
+msgstr "कोई अंक नहीं"
+
+#: 
+msgid "Set loyalty level"
+msgstr "लॉयलटी स्तर निर्धारित करें"
+
+#: 
+msgid "No bet"
+msgstr "कोई बेट नहीं"
+
+#: 
+msgid "No ID user"
+msgstr "कोई आईडी उपयोगकर्ता नहीं"
+
+#: 
+msgid "No ID bonus"
+msgstr "कोई आईडी बोनस नहीं"
+
+#: 
+msgid "Wrong amount"
+msgstr "ग़लत राशि"
+
+#: 
+msgid "No bonus ID"
+msgstr "कोई बोनस आईडी नहीं"
+
+#: 
+msgid "No user ID"
+msgstr "कोई उपयोगकर्ता आईडी नहीं"
+
+#: 
+msgid "Wrong date format"
+msgstr "गलत तारीख प्रारूप"
+
+#: 
+msgid "Date must not be today"
+msgstr "तारीख आज की नहीं होनी चाहिए"
+
+#: 
+msgid "No bonus id"
+msgstr "कोई बोनस आईडी नहीं"
+
+#: 
+msgid "No status"
+msgstr "कोई स्थिति नहीं"
+
+#: 
+msgid "Bonus not found"
+msgstr "बोनस नहीं मिला"
+
+#: 
+msgid "Already have active"
+msgstr "पहले से ही सक्रिय हैं"
+
+#: 
+msgid "Bonus is not available"
+msgstr "बोनस नहीं मिल रहा है"
+
+#: 
+msgid "First deposit, already deposited"
+msgstr "पहला जमा, पहले से जमा हो चुका है "
+
+#: 
+msgid "Dont satisfy bonus conditions"
+msgstr "बोनस शर्तों को पूरा न करें"
+
+#: 
+msgid "Bonus used"
+msgstr "बोनस उपयोग कर लिया गया "
+
+#: 
+msgid "Promo code needed"
+msgstr "प्रोमो कोड की जरूरत है"
+
+#: 
+msgid "Wrong promo code"
+msgstr "गलत प्रोमो कोड"
+
+#: 
+msgid "User ID not set"
+msgstr "उपयोगकर्ता आईडी सेट नहीं है"
+
+#: 
+msgid "Wrong bonus results value"
+msgstr "गलत बोनस परिणाम मूल्य"
+
+#: 
+msgid "Wrong bonus results freerounds value"
+msgstr "गलत बोनस परिणाम फ्रीराउंड्स मुल्य"
+
+#: 
+msgid "Wrong bonus results award wagering"
+msgstr "गलत बोनस परिणाम पुरस्कार जुआ"
+
+#: 
+msgid "Wrong bonus results chunk size"
+msgstr "गलत बोनस परिणाम बड़ा आकार"
+
+#: 
+msgid "Wrong bonus results release wagering"
+msgstr "गलत बोनस परिणाम रिलीज जुआ "
+
+#: 
+msgid "Bonus name required"
+msgstr "बोनस नाम आवश्यक है"
+
+#: 
+msgid "Wrong bonus event"
+msgstr "गलत बोनस घटना"
+
+#: 
+msgid "Wrong bonus type"
+msgstr "गलत बोनस प्रकार"
+
+#: 
+msgid "Wrong bonus repeat period"
+msgstr "गलत बोनस दोहराने की अवधि"
+
+#: 
+msgid "Wrong bonus expire period"
+msgstr "गलत बोनस अवधि समाप्त"
+
+#: 
+msgid "Wrong bonus budget"
+msgstr "गलत बोनस बजट"
+
+#: 
+msgid "Wrong bonus start date"
+msgstr "गलत बोनस की शुरुआत की तारीख"
+
+#: 
+msgid "Wrong bonus end date"
+msgstr "गलत बोनस समाप्ति तिथि"
+
+#: 
+msgid "Wrong bonus start date more than end date"
+msgstr "गलत बोनस की शुरुआत तिथि अंतिम तिथि से अधिक है"
+
+#: 
+msgid "Wrong bonus conditions amount min"
+msgstr "गलत बोनस शर्तें राशि न्यूनतम"
+
+#: 
+msgid "Wrong bonus conditions amount max"
+msgstr "गलत बोनस शर्तें राशि अधिकतम"
+
+#: 
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "गलत बोनस शर्तें न्यूनतम राशि अधिकतम राशि से अधिक है"
+
+#: 
+msgid "Following codes are duplicated"
+msgstr "निम्नलिखित कोड डुप्लिकेट हैं"
+
+#: 
+msgid "Bonus name already exists"
+msgstr "बोनस नाम पहले से मौजूद है"
+
+#: 
+msgid "Wrong bonus ID"
+msgstr "गलत बोनस आईडी"
+
+#: 
+msgid "Activated bonuses"
+msgstr "सक्रिय बोनस"
+
+#: 
+msgid "Can't delete"
+msgstr "हटा नहीं सकते"
+
+#: 
+msgid "No bonus"
+msgstr "कोई बोनस नहीं"
+
+#: 
+msgid "Wrong store action"
+msgstr "गलत स्टोर कार्रवाई"
+
+#: 
+msgid "No order id"
+msgstr "कोई ऑर्डर आईडी नहीं"
+
+#: 
+msgid "Order not found"
+msgstr "आर्डर नहीं मिला"
+
+#: 
+msgid "No item id"
+msgstr "कोई आइटम आईडी नहीं"
+
+#: 
+msgid "User not found"
+msgstr "उपयोगकर्ता नहीं मिला"
+
+#: 
+msgid "Item not found"
+msgstr "आइटम नहीं मिला"
+
+#: 
+msgid "Item price not set for currency: LOYALTY"
+msgstr "आइटम की कीमत मुद्रा के लिए निर्धारित नहीं है: लॉयलटी"
+
+#: 
+msgid "Not enough loyalty points"
+msgstr "पर्याप्त लॉयलटी अंक नहीं"
+
+#: 
+msgid "Item out of stock"
+msgstr "आइटम स्टॉक में उपलब्ध नहीं  "
+
+#: 
+msgid "Wrong BonusEventAmount of item"
+msgstr "आइटम का गलत बोनस इवेंट अमाउंट "
+
+#: 
+msgid "User not found in tournament"
+msgstr "उपयोगकर्ता टूर्नामेंट में नहीं मिला"
+
+#: 
+msgid "Set codes count"
+msgstr "कोड गिनती सेट करें"
+
+#: 
+msgid "Set batch name"
+msgstr "बैच नाम सेट करें"
+
+#: 
+msgid "Codes count exceeds 300 000"
+msgstr "कोड की संख्या 300 000 से अधिक है"
+
+#: 
+msgid "Wrong batch ID"
+msgstr "गलत बैच आईडी"
+
+#: 
+msgid "Codes not set"
+msgstr "कोड सेट नहीं हुए"
+
+#: 
+msgid "Modificator not found"
+msgstr "संयोजक नहीं मिला"
+
+#: 
+msgid "Set coefficient"
+msgstr "गुणांक सेट करें"
+
+#: 
+msgid "Set name"
+msgstr "नाम भरें"
+
+#: 
+msgid "No levels defined"
+msgstr "कोई स्तर परिभाषित नहीं है"
+
+#: 
+msgid "Level not found"
+msgstr "स्तर नहीं मिला"
+
+#: 
+msgid "Bad cronjob"
+msgstr "बुरा क्रोनजोब"
+
+#: 
+msgid "No category ID"
+msgstr "कोई श्रेणी आईडी नहीं"
+
+#: 
+msgid "Category not found"
+msgstr "श्रेणी नहीं मिली"
+
+#: 
+msgid "No category name"
+msgstr "किसी श्रेणी का नाम नहीं"
+
+#: 
+msgid "Wrong category ID"
+msgstr "गलत श्रेणी की आईडी"
+
+#: 
+msgid "No category id"
+msgstr "कोई श्रेणी आईडी नहीं "
+
+#: 
+msgid "No item ID"
+msgstr "कोई आइटम आईडी नहीं"
+
+#: 
+msgid "Wrong item ID"
+msgstr "गलत आइटम आई.डी."
+
+#: 
+msgid "Item init error"
+msgstr "आइटम त्रुटि"
+
+#: 
+msgid "Wrong item BonusEventAmount"
+msgstr "गलत आइटम बोनस इवेंट अमाउंट "
+
+#: 
+msgid "No item"
+msgstr "कोई आइटम नहीं"
+
+#: 
+msgid "Wrong tournament ID"
+msgstr "गलत टूर्नामेंट आई.डी."
+
+#: 
+msgid "Wrong Tournament ID"
+msgstr "गलत टूर्नामेंट आईडी"
+
+#: 
+msgid "No ID tournament"
+msgstr "कोई आईडी टूर्नामेंट नहीं"
+
+#: 
+msgid "No tournament ID"
+msgstr "कोई टूर्नामेंट आईडी नहीं"
+
+#: 
+msgid "No tournament id"
+msgstr "कोई टूर्नामेंट आईडी नहीं"
+
+#: 
+msgid "No balance"
+msgstr "कोई शेष राशि नहीं"
+
+#: 
+msgid "Not enough balance"
+msgstr "पर्याप्त संतुलन नहीं"
+
+#: 
+msgid "Tournament name required"
+msgstr "टूर्नामेंट के नाम की आवश्यकता"
+
+#: 
+msgid "Wrong tournament winner by"
+msgstr "गलत टूर्नामेंट विजेता "
+
+#: 
+msgid "Wrong tournament period"
+msgstr "गलत टूर्नामेंट अवधि"
+
+#: 
+msgid "Wrong tournament repeat"
+msgstr "गलत टूर्नामेंट रिपीट"
+
+#: 
+msgid "Wrong tournament start date"
+msgstr "गलत टूर्नामेंट शुरू होने की तारीख"
+
+#: 
+msgid "Tournament not found"
+msgstr "टूर्नामेंट नहीं मिला"
+
+#: 
+msgid "Activated Tournaments"
+msgstr "सक्रिय टूर्नामेंट"
+
+#: 
+msgid "No tournament"
+msgstr "कोई टूर्नामेंट नहीं"
+
+#: 
+msgid "Wrong event type"
+msgstr "गलत इवेंट प्रकार"
+
+#: 
+msgid "No event id"
+msgstr "कोई ईवेंट आई.डी. नही "
+
+#: 
+msgid "Empty data"
+msgstr "खाली डेटा"
+
+#: 
+msgid "No data"
+msgstr "कोई आकड़ा उपलब्ध नहीं है"
+
+#: 
+msgid "Bonuses are forbidden for user"
+msgstr "उपयोगकर्ता के लिए बोनस मना है"
+
+#: 
+msgid "Tournaments are forbidden for user"
+msgstr "उपयोगकर्ता के लिए टूर्नामेंट मना है"
+
+#: 
+msgid "Bonus pending cancellation"
+msgstr "बोनस लंबित रद्द"
+
+#: 
+msgid "Cancel not supported"
+msgstr "रद्द करना समर्थित नहीं है"
+
+#: 
+msgid "Awaiting limits information, try later"
+msgstr "सीमा जानकारी की प्रतीक्षा कर रहे हैं, बाद में प्रयास करें"
+
+#: 
+msgid "Error cancellation of the bonus"
+msgstr "बोनस को रद्द करने में त्रुटि"
+
+#: 
+msgid "Purchase is not possible - the item has been disabled"
+msgstr "खरीद संभव नहीं है - आइटम को अक्षम कर दिया गया है"
+
+#: 
+msgid "Purchase is not possible - the item has been deleted"
+msgstr "खरीद संभव नहीं है - आइटम हटा दिया गया है"
+

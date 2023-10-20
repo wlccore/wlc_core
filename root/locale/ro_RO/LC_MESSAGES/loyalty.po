@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Project-Id-Version: loyalty\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "Set transaction type"
+msgstr "Setați tipul de tranzacție"
+
+msgid "No user id"
+msgstr "Fără ID de utilizator"
+
+msgid "No amount"
+msgstr "Fără sumă"
+
+msgid "No loyalty record"
+msgstr "Fără înregistrare de loialitate"
+
+msgid "Wrong request path"
+msgstr "Calea greșită de solicitare"
+
+msgid "Debet amount to big"
+msgstr "Suma datoriei prea mare"
+
+msgid "Wrong transaction type"
+msgstr "Tipul de tranzacție greșit"
+
+msgid "Awaiting limits information"
+msgstr "Așteptarea informațiilor limitează"
+
+msgid "Wrong currency"
+msgstr "Moneda greșită"
+
+msgid "Non existent level"
+msgstr "Nivel inexistent"
+
+msgid "No points"
+msgstr "Fără puncte"
+
+msgid "Set loyalty level"
+msgstr "Stabiliți nivelul de loialitate"
+
+msgid "No bet"
+msgstr "Nici un pariu"
+
+msgid "No ID user"
+msgstr "Fără utilizator ID"
+
+msgid "No ID bonus"
+msgstr "Fără bonus de identificare"
+
+msgid "Wrong amount"
+msgstr "Suma greșită"
+
+msgid "No bonus ID"
+msgstr "Fără ID de bonus"
+
+msgid "No user ID"
+msgstr "Fără ID de utilizator"
+
+msgid "Wrong date format"
+msgstr "Format greșit"
+
+msgid "Date must not be today"
+msgstr "Data nu trebuie să fie astăzi"
+
+msgid "No bonus id"
+msgstr "Fără bonus de id"
+
+msgid "No status"
+msgstr "Fara status"
+
+msgid "Bonus not found"
+msgstr "Bonusul nu a fost găsit"
+
+msgid "Already have active"
+msgstr "Deja este activ"
+
+msgid "Bonus is not available"
+msgstr "Bonusul nu este disponibil"
+
+msgid "First deposit, already deposited"
+msgstr "Primul depozit, deja depus"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Nu satisfaceți condițiile de bonus"
+
+msgid "Bonus used"
+msgstr "Bonus utilizat"
+
+msgid "Promo code needed"
+msgstr "Este necesar un cod promoțional"
+
+msgid "Wrong promo code"
+msgstr "Cod promoțional greșit"
+
+msgid "User ID not set"
+msgstr "ID-ul de utilizator nu este setat"
+
+msgid "Wrong bonus results value"
+msgstr "Valoarea greșită a rezultatelor bonusului"
+
+msgid "Wrong bonus results freerounds value"
+msgstr "Bonusul greșit are ca rezultat o valoare liberă"
+
+msgid "Wrong bonus results award wagering"
+msgstr "Rezultatul greșit la bonusuri a fost pariat la premii"
+
+msgid "Wrong bonus results chunk size"
+msgstr "Bonusul greșit are ca rezultat mărimea bucății"
+
+msgid "Wrong bonus results release wagering"
+msgstr "Rezultatele greșite ale bonusului eliberează pariuri"
+
+msgid "Bonus name required"
+msgstr "Numele bonusului necesar"
+
+msgid "Wrong bonus event"
+msgstr "Eveniment greșit de bonus"
+
+msgid "Wrong bonus type"
+msgstr "Tip greșit de bonus"
+
+msgid "Wrong bonus repeat period"
+msgstr "Perioada greșită de repetare a bonusului"
+
+msgid "Wrong bonus expire period"
+msgstr "Perioada greșită de expirare a bonusului"
+
+msgid "Wrong bonus budget"
+msgstr "Buget bonus greșit"
+
+msgid "Wrong bonus start date"
+msgstr "Data greșită a începerii bonusului"
+
+msgid "Wrong bonus end date"
+msgstr "Data de încheiere greșită a bonusului"
+
+msgid "Wrong bonus start date more than end date"
+msgstr "Data greșită a începutului bonusului este mai mare decât data de încheiere"
+
+msgid "Wrong bonus conditions amount min"
+msgstr "Condițiile greșite ale bonusului sunt minime"
+
+msgid "Wrong bonus conditions amount max"
+msgstr "Suma greșită a condițiilor de bonus maxim"
+
+msgid "Wrong bonus conditions amount min more than amount max"
+msgstr "Condițiile greșite ale bonusului sunt de minimum min mai mult decât suma maximă"
+
+msgid "Following codes are duplicated"
+msgstr "Codurile următoare sunt duplicate"
+
+msgid "Bonus name already exists"
+msgstr "Numele bonus există deja"
+
+msgid "Wrong bonus ID"
+msgstr "ID-ul bonusului greșit"
+
+msgid "Activated bonuses"
+msgstr "Bonusuri activate"
+
+msgid "Can't delete"
+msgstr "Nu se poate șterge"
+
+msgid "No bonus"
+msgstr "Fără bonus"
+
+msgid "Wrong store action"
+msgstr "Acțiune greșită a magazinului"
+
+msgid "No order id"
+msgstr "Fără ID de comandă"
+
+msgid "Order not found"
+msgstr "Comanda nu a fost găsită"
+
+msgid "No item id"
+msgstr "Fără ID de articol"
+
+msgid "User not found"
+msgstr "Utilizatorul nu a fost găsit"
+
+msgid "Item not found"
+msgstr "Articolul nu a fost găsit"
+
+msgid "Item price not set for currency: LOYALTY"
+msgstr "Prețul articolului nu este stabilit pentru monedă: LOYALTY"
+
+msgid "Not enough loyalty points"
+msgstr "Nu sunt suficiente puncte de loialitate"
+
+msgid "Item out of stock"
+msgstr "Produsul nu mai este in stoc"
+
+msgid "Wrong BonusEventAmount of item"
+msgstr "Bonus greșitEventAvantaj de articol"
+
+msgid "User not found in tournament"
+msgstr "Utilizatorul nu a fost găsit în turneu"
+
+msgid "Set codes count"
+msgstr "Numărul de coduri setat"
+
+msgid "Set batch name"
+msgstr "Setați numele lotului"
+
+msgid "Codes count exceeds 300 000"
+msgstr "Numărul codurilor depășește 300 000"
+
+msgid "Wrong batch ID"
+msgstr "ID de lot greșit"
+
+msgid "Codes not set"
+msgstr "Codurile nu sunt setate"
+
+msgid "Modificator not found"
+msgstr "Modificatorul nu a fost găsit"
+
+msgid "Set coefficient"
+msgstr "Coeficientul stabilit"
+
+msgid "Set name"
+msgstr "Pune un nume"
+
+msgid "No levels defined"
+msgstr "Fără niveluri definite"
+
+msgid "Level not found"
+msgstr "Nivelul nu a fost găsit"
+
+msgid "Bad cronjob"
+msgstr "Cronjob rău"
+
+msgid "No category ID"
+msgstr "Fără ID de categorie"
+
+msgid "Category not found"
+msgstr "Categoria nu a fost găsita"
+
+msgid "No category name"
+msgstr "Fără nume de categorie"
+
+msgid "Wrong category ID"
+msgstr "ID greșit de categorie"
+
+msgid "No category id"
+msgstr "Fără ID de categorie"
+
+msgid "No item ID"
+msgstr "Fără ID de articol"
+
+msgid "Wrong item ID"
+msgstr "Cod articol greșit"
+
+msgid "Item init error"
+msgstr "Eroare init init"
+
+msgid "Wrong item BonusEventAmount"
+msgstr "BonusEventAmount articol greșit"
+
+msgid "No item"
+msgstr "Nici un articol"
+
+msgid "Wrong tournament ID"
+msgstr "ID-ul turneului greșit"
+
+msgid "Wrong Tournament ID"
+msgstr "ID-ul turneului greșit"
+
+msgid "No ID tournament"
+msgstr "Fără turneu de identitate"
+
+msgid "No tournament ID"
+msgstr "Fără ID de turneu"
+
+msgid "No tournament id"
+msgstr "Fără ID de turneu"
+
+msgid "No balance"
+msgstr "Fără bani"
+
+msgid "Not enough balance"
+msgstr "Nu ai suficienti bani"
+
+msgid "Tournament name required"
+msgstr "Numele turneului este necesar"
+
+msgid "Wrong tournament winner by"
+msgstr "Câștigător greșit al turneului de"
+
+msgid "Wrong tournament period"
+msgstr "Perioada turneului greșit"
+
+msgid "Wrong tournament repeat"
+msgstr "Repetarea greșită a turneului"
+
+msgid "Wrong tournament start date"
+msgstr "Data greșită a începerii turneului"
+
+msgid "Tournament not found"
+msgstr "Turneul nu a fost găsit"
+
+msgid "Activated Tournaments"
+msgstr "Turnee activate"
+
+msgid "No tournament"
+msgstr "Fără turneu"
+
+msgid "Wrong event type"
+msgstr "Tipul de eveniment greșit"
+
+msgid "No event id"
+msgstr "Fără ID de eveniment"
+
+msgid "Empty data"
+msgstr "Date goale"
+
+msgid "No data"
+msgstr "Nu există date"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonusurile sunt interzise utilizatorului"
+
+msgid "Tournaments are forbidden for user"
+msgstr "Turneele sunt interzise pentru utilizator"
+
+msgid "Bonus pending cancellation"
+msgstr "Bonus în curs de anulare"
+
+msgid "Cancel not supported"
+msgstr "Anularea nu este acceptată"
+
+msgid "Awaiting limits information, try later"
+msgstr "În așteptarea informațiilor limită, încercați mai târziu"
+
+msgid "Error cancellation of the bonus"
+msgstr "Anularea erorii bonusului"

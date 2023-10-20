@@ -1,0 +1,1494 @@
+# English translations for WLC_CORE package.
+# Copyright (C) 2017 THE WLC_CORE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the WLC_CORE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Lisää sähköpostiosoitteemme osoitekirjaasi, jotta et missaa tärkeitä tietoja"
+
+msgid "Congratulations,"
+msgstr "Onneksi olkoon,"
+
+msgid "Dear"
+msgstr "Hyvä"
+
+msgid "Deposit confirmation"
+msgstr "Talletusvahvistus"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Talletuksen onnistumisilmoitus. Saldosi on"
+
+msgid "Finish registration link"
+msgstr "Viimeistele rekisteröinti linkki"
+
+msgid "Greeting."
+msgstr "Tervehdys."
+
+msgid "Hello"
+msgstr "Hei"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr "Jos tämä sähköposti ei näy oikein, avaa se selaimessasi."
+
+msgid "If you have any questions, please contact"
+msgstr "Jos sinulla on kysyttävää, ota yhteyttä"
+
+msgid "Link will be available for 30 minutes."
+msgstr "Linkki on käytettävissä 30 minuuttia."
+
+msgid "Login"
+msgstr "Kirjaudu sisään"
+
+msgid "Password"
+msgstr "Salasana"
+
+msgid "Password restore"
+msgstr "Salasanan palautus"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "Klikkaa alla olevaa linkkiä viimeistelläksesi rekisteröinti:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Älä vastaa tähän sähköpostiin. Tämä sähköpostiviesti luodaan "
+"automaattisesti, etkä tule saamaan vastausta."
+
+msgid "Registration confirmation"
+msgstr "Rekisteröintivahvistus"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Palauta salasana klikkaamalla alla olevaa linkkiä."
+
+msgid "Social registration confirmation"
+msgstr "Sosiaalisen median rekisteröintivahvistus"
+
+msgid "Thank you for validating your account."
+msgstr "Kiitos tilisi vahvistamisesta."
+
+msgid "Thanks for registration on the website!"
+msgstr "Kiitos rekisteröitymisestä sivustolla!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "Viimeistelläksesi tiliesi linkityksen, käytä tätä linkkiä:"
+
+msgid "Welcome to"
+msgstr "Tervetuloa"
+
+msgid "With respect"
+msgstr "Kunnioittaen"
+
+msgid "You asked to link new social account to your current account"
+msgstr "Pyysit linkittää uuden sosiaalisen tilin nykyiseen tiliisi"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Olet ottanut ensimmäisen askeleen kokeaksesi hämmästyttävän pelimatkan\n"
+"     kanssamme"
+
+msgid "casino_footer_copyright"
+msgstr "Kasinon alatunniste tekijänoikeus"
+
+msgid "casino_mail_info"
+msgstr "Kasinon postitiedot"
+
+msgid "online support"
+msgstr "nettituki"
+
+msgid "controller_does_not_exists"
+msgstr "Ohjaajaa ei ole olemassa"
+
+msgid "social_not_found"
+msgstr "Sosiaalista ei löytynyt"
+
+msgid "purchase_error"
+msgstr "Ostovirhe"
+
+msgid "game_added_to_favorites"
+msgstr "Peli lisättiin suosikkeihin"
+
+msgid "game_deleted_from_favorites"
+msgstr "Peli poistettu suosikeista"
+
+msgid "must_login"
+msgstr "Pitää kirjautua"
+
+msgid "No bonus name"
+msgstr "Ei bonuksen nimeä"
+
+msgid "No bonus descripton"
+msgstr "Ei bonuksen kuvausta"
+
+msgid "No user id"
+msgstr "Ei käyttäjätunnusta"
+
+msgid "No bonus id"
+msgstr "Ei bonustunnusta"
+
+msgid "No status"
+msgstr "Tuntematon tila"
+
+msgid "Bonus not found"
+msgstr "Bonusta ei löytynyt"
+
+msgid "Already have active"
+msgstr "On jo aktiivinen"
+
+msgid "Bonus is not available"
+msgstr "Bonus ei ole saatavilla"
+
+msgid "First deposit, already deposited"
+msgstr "Ensitalletus jo talletettu"
+
+msgid "No loyalty record"
+msgstr "Ei lojaalisuustietoja"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Et täytä bonusehtoja"
+
+msgid "Bonus used"
+msgstr "Bonus käytetty"
+
+msgid "Promo code needed"
+msgstr "Kampanjakoodi vaaditaan"
+
+msgid "Wrong promo code"
+msgstr "Väärä kampanjakoodi"
+
+msgid "Bonuses are forbidden for user"
+msgstr "Bonukset ovat kiellettyjä käyttäjälle"
+
+msgid "Already have an active bonus"
+msgstr "Sinulla on jo aktiivinen bonus"
+
+msgid "registration"
+msgstr "rekisteröinti"
+
+msgid "verification"
+msgstr "varmistus"
+
+msgid "sign up"
+msgstr "rekisteröidy"
+
+msgid "store"
+msgstr "kauppa"
+
+msgid "login"
+msgstr "kirjaudu sisään"
+
+msgid "deposit"
+msgstr "talletus"
+
+msgid "deposit first"
+msgstr "talleta ensin"
+
+msgid "deposit sum"
+msgstr "talletussumma"
+
+msgid "deposit repeated"
+msgstr "talletus toistettu"
+
+msgid "bet"
+msgstr "panosta"
+
+msgid "bet sum"
+msgstr "panostuksen määrä"
+
+msgid "win sum"
+msgstr ""
+
+#, fuzzy
+msgid "loss sum"
+msgstr "talletussumma"
+
+msgid "once"
+msgstr "kerran"
+
+msgid "day"
+msgstr "päivä"
+
+msgid "week"
+msgstr "viikko"
+
+msgid "month"
+msgstr "kuukausi"
+
+msgid "all"
+msgstr "kaikki"
+
+msgid "bonus"
+msgstr "bonus"
+
+msgid "win"
+msgstr "voitto"
+
+msgid "win and bonus"
+msgstr "voitot ja bonukset"
+
+msgid "winevent"
+msgstr "voitot ja tapahtumat"
+
+msgid "winbonusevent"
+msgstr "voitot + bonukset + tapahtumat"
+
+msgid "none"
+msgstr "ei yhtään"
+
+msgid "balance"
+msgstr "saldo"
+
+msgid "experience"
+msgstr "kokemus"
+
+msgid "loyalty"
+msgstr "lojaalisuus"
+
+msgid "absolute"
+msgstr "täysin"
+
+msgid "relative"
+msgstr "suhteellinen"
+
+msgid "bets"
+msgstr "panostukset"
+
+msgid "wins"
+msgstr "voitot"
+
+msgid "turnover"
+msgstr "liikevaihto"
+
+msgid "negative turnover"
+msgstr "negatiivinen liikevaihto"
+
+msgid "unlimited"
+msgstr "rajaton"
+
+msgid "one day"
+msgstr "yksi päivä"
+
+msgid "two days"
+msgstr "kaksi päivää"
+
+msgid "three days"
+msgstr "3 päivää"
+
+msgid "seven days"
+msgstr "7 päivää"
+
+msgid "ten days"
+msgstr "10 päivää"
+
+msgid "fourteen days"
+msgstr "14 päivää"
+
+msgid "thirty days"
+msgstr "30 päivää"
+
+msgid "sixty days"
+msgstr "60 päivää"
+
+msgid "ninety days"
+msgstr "90 päivää"
+
+msgid "one week"
+msgstr "yksi viikko"
+
+msgid "two weeks"
+msgstr "kaksi viikkoa"
+
+msgid "one month"
+msgstr "yksi kuukausi"
+
+msgid "every day"
+msgstr "joka päivä"
+
+msgid "every week"
+msgstr "joka viikko"
+
+msgid "every two weeks"
+msgstr "joka toinen viikko"
+
+msgid "every month"
+msgstr "joka kuukausi"
+
+msgid "fee"
+msgstr "maksu"
+
+msgid "turnover and fee"
+msgstr "liikevaihto ja maksu"
+
+msgid "everyday"
+msgstr "joka päivä"
+
+msgid "monday"
+msgstr "maanantai"
+
+msgid "tuesday"
+msgstr "tiistai"
+
+msgid "wednesday"
+msgstr "keskiviikko"
+
+msgid "thursday"
+msgstr "torstai"
+
+msgid "friday"
+msgstr "perjantai"
+
+msgid "saturday"
+msgstr "lauantai"
+
+msgid "sunday"
+msgstr "sunnuntai"
+
+msgid "transaction_list_is_empty"
+msgstr "Tapahtumalista on tyhjä"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "Päiväys virheellinen aloituspäiväys suurempi kuin päättymispäivä"
+
+msgid "cancelled"
+msgstr "peruutettu"
+
+msgid "rejected"
+msgstr "hylätty"
+
+msgid "error"
+msgstr "virhe"
+
+msgid "in_progress"
+msgstr "Käynnissä"
+
+msgid "confirmed"
+msgstr "vahvistettu"
+
+#, fuzzy
+msgid "pending"
+msgstr "Päättyy"
+
+msgid "system_error"
+msgstr "Järjestelmävirhe"
+
+msgid "completed"
+msgstr "saatettu loppuun"
+
+msgid "aborted"
+msgstr "keskeytetty"
+
+msgid "credit"
+msgstr "luotto"
+
+msgid "debet"
+msgstr "debit"
+
+msgid "withdraw_unavailable"
+msgstr "Kotiutus ei saatavilla"
+
+msgid "withdraw_check_error"
+msgstr "Kotiutuksen tarkistusvirhe"
+
+msgid "set_amount"
+msgstr "Aseta määrä"
+
+msgid "set_payment_system"
+msgstr "Aseta maksujärjestelmä"
+
+msgid "country_and_birth_date_required"
+msgstr "Maata ja syntymäaikaa vaaditaan"
+
+msgid "payment_request_sent"
+msgstr "Maksupyyntö lähetetty"
+
+msgid "payment_request_error"
+msgstr "Maksupyyntövirhe"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "Maksimi kotiutusraja saavutettu"
+
+msgid "sys_error_message"
+msgstr "Järjestelmävirheen viesti"
+
+msgid "input_purse"
+msgstr "Kukkaroon laitto"
+
+msgid "payment_withdraw_sent"
+msgstr "Maksukotiutus lähetetty"
+
+msgid "New password is empty"
+msgstr "Uusi salasana on tyhjä"
+
+msgid "Repeat password is empty"
+msgstr "Toista salasana -kenttä on tyhjä"
+
+msgid "Code is empty"
+msgstr "Koodi on tyhjä"
+
+msgid "Code is incorrect"
+msgstr "Koodi on virheellinen"
+
+msgid "Password must be at least 6 characters long"
+msgstr "Salasanan on oltava vähintään 6 merkkiä pitkä"
+
+msgid "pass_not_match"
+msgstr "Salasana ei täsmää"
+
+msgid "Session expired"
+msgstr "Istunto vanhentunut"
+
+msgid "social_account_expired"
+msgstr "Sosiaalitili vanhentunut"
+
+msgid "Empty to address"
+msgstr "Tyhjä vastaanottajan osoite"
+
+msgid "Empty subject"
+msgstr "Tyhä aihe"
+
+msgid "Empty message"
+msgstr "Tyhjä viesti"
+
+msgid "Empty required parameter"
+msgstr "Tyhjennä vaadittu parametri"
+
+msgid "Unknown error"
+msgstr "Tuntematon virhe"
+
+msgid "Not allowed player country"
+msgstr "Et voi pelata tätä peliä maassasi"
+
+msgid "Demo not supported"
+msgstr "Demoa ei tueta"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Tämä tarjoaja ei tue valuuttaasi"
+
+msgid "Branded games are not enabled"
+msgstr "Brändätyt pelit eivät ole käytössä"
+
+msgid "Self exclusion date"
+msgstr "Omaehtoisen pelikiellon päiväys"
+
+msgid "Self exclusion"
+msgstr "Omaehtoinen pelikielto"
+
+msgid "does not exists"
+msgstr "ei ole olemassa"
+
+msgid "Method is not supported"
+msgstr "Tapaa ei tuettu"
+
+msgid "Data type is not found"
+msgstr "Tietotyyppiä ei löytynyt"
+
+msgid "Invalid request parameters"
+msgstr "Virheelliset pyynnön parametrit"
+
+msgid "No bonus description"
+msgstr "Ei bonuskuvausta"
+
+msgid "Selected"
+msgstr "Valittu"
+
+msgid "Qualified"
+msgstr "Oikeutettu"
+
+msgid "Deleted"
+msgstr "Poistettu"
+
+msgid "Deactivated"
+msgstr "Deaktivoitu"
+
+msgid "Canceled"
+msgstr "Peruutettu"
+
+msgid "Ending"
+msgstr "Päättyy"
+
+msgid "Ended"
+msgstr "Päättyi"
+
+msgid "Loyalty API Failure"
+msgstr "Lojaalisuus API virhe"
+
+msgid "Loyalty result not supported"
+msgstr "Lojaalisuustuloksia ei tueta"
+
+msgid "User not found"
+msgstr "Käyttäjää ei löytynyt"
+
+msgid "Unable fetch oauth access token"
+msgstr "Oauth-koodin hakeminen ei onnistunut"
+
+msgid "Access token is missing"
+msgstr "Käyttöoikeustunnus puuttuu"
+
+msgid "Empty access token user identifier"
+msgstr "Tyhjä käyttöoikeustunnus käyttäjätunnus"
+
+msgid "Empty access token identifier"
+msgstr "Tyhjä käyttöoikeustunnus"
+
+msgid "Method not allowed"
+msgstr "Tapa ei sallittu"
+
+msgid "Your country is on the forbidden list"
+msgstr "Maasi on kiellettyjen listalla"
+
+msgid "User profile is incomplete"
+msgstr "Käyttäjäprofiili on vajavainen"
+
+#, fuzzy
+msgid "Achievement result is not list"
+msgstr "Bonustulos ei lista"
+
+msgid "Unknown route path"
+msgstr "Tuntematon polku"
+
+msgid "Too many requests"
+msgstr "Liian monta pyyntöä"
+
+msgid "Code is not valid"
+msgstr "Koodi ei voimassa"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "Liian monta pyyntöä"
+
+msgid "Method Not Allowed"
+msgstr "Tapa ei sallittu"
+
+msgid "Api endpoint not found"
+msgstr "Api endpoint ei löytynyt"
+
+msgid "Confirm your email to start games"
+msgstr ""
+
+msgid "User not authorized"
+msgstr "Käyttäjä ei ole valtuutettu"
+
+msgid "Merchant system not selected or invalid"
+msgstr "Kauppiasjärjestelmää ei valittu tai on virheellinen"
+
+msgid "Amount is not selected or invalid"
+msgstr "Määrää ei valittu tai on virheellinen"
+
+msgid "Bonus result is not list"
+msgstr "Bonustulos ei lista"
+
+msgid "Bonus ID Not found"
+msgstr "Bonuksen tunnusta ei löytynyt"
+
+msgid "Bonus Selected Not found"
+msgstr "Valittu Bonus Ei löydy"
+
+msgid "User is not authorized"
+msgstr "Käyttäjä ei ole valtuutettu"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "Tyhä aihe"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "Talleta ensin: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+"Olet ottanut käyttöön %s rajan: %s %s %s asti. Käytettävissä oleva "
+"talletussumma: %s %s"
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "Aseta määrä"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "Tyhjä aloituskoodi"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "sukunimi"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "sukunimi"
+
+#, fuzzy
+msgid "Account type"
+msgstr "maa"
+
+#, fuzzy
+msgid "Account number"
+msgstr "puhelinnumero"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "puhelinnumero"
+
+msgid "Uploadable files is empty"
+msgstr "Ladattavat tiedostot on tyhjä"
+
+msgid "Exceeds allowed file size"
+msgstr "Ylittää sallitun tiedostokoon"
+
+msgid "Mb"
+msgstr "MB"
+
+msgid "Document ID not found"
+msgstr "Asiakirjan tunnusta ei löydy"
+
+msgid "Request invalid. Error: "
+msgstr "Virheellinen pyyntö. Virhe: "
+
+msgid "Games catalog is temporary unavailable"
+msgstr "Pelivalikoima ei ole väliaikaisesti käytettävissä"
+
+msgid "Empty launch code"
+msgstr "Tyhjä aloituskoodi"
+
+msgid "Empty merchant identifier"
+msgstr "Tyhjä kauppiaan tunnus"
+
+msgid "Empty games catalog"
+msgstr "Tyhjä pelikatalogi"
+
+msgid "Unknown game launch code"
+msgstr "Tuntematon pelin aloituskoodi"
+
+msgid "Not supported exception"
+msgstr "Ei tuettu poikkeus"
+
+msgid "Bad request"
+msgstr "Virheellinen pyyntö"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+
+#, fuzzy
+msgid "Unable find user identifier"
+msgstr "Käyttäjätunnusta ei löydy"
+
+msgid "Unknown error occured"
+msgstr "Tapahtui tuntematon virhe"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "Virheellinen vastaanottajan numero"
+
+#, fuzzy
+msgid "Wrong request"
+msgstr "Liian monta pyyntöä"
+
+#, fuzzy
+msgid "Unknown provider"
+msgstr "Tuntematon virhe"
+
+msgid "Token not found"
+msgstr "Polettia ei löytynyt"
+
+msgid "Invalid token provided"
+msgstr "Virheellinen poletti annettu"
+
+msgid "Phone already verified"
+msgstr "Puhelin on jo vahvistettu"
+
+msgid "Insufficient parameters"
+msgstr "Puutteelliset parametrit"
+
+#, fuzzy
+msgid "Configuration error"
+msgstr "Valtuutusvirhe"
+
+msgid "Invalid verification code"
+msgstr "Virheellinen vahvistuskoodi"
+
+msgid "Empty phone number"
+msgstr "Tyhjä puhelinnumero"
+
+msgid "Invalid phone number"
+msgstr "Virheellinen puhelinnumero"
+
+msgid "Anonymous"
+msgstr "Anonyymi"
+
+msgid "Item not found"
+msgstr "Kohdetta ei löytynyt"
+
+msgid "Sent from web-form at"
+msgstr "Lähetetty verkkolomakkeesta"
+
+msgid "Service not found"
+msgstr "Palvelua ei löytynyt"
+
+msgid "Unauthorized"
+msgstr "Vahvistamaton"
+
+msgid "Tournaments history error"
+msgstr "Turnaushistoriavirhe"
+
+msgid "Tournaments list not available"
+msgstr "Turnausten lista ei ole saatavilla"
+
+msgid "Tournaments type not found"
+msgstr "Turnaustyyppiä ei löytynyt"
+
+msgid "Tournament not found"
+msgstr "Turnausta ei löytynyt"
+
+msgid "Tournaments subscribe error"
+msgstr "Turnaustilausvirhe"
+
+msgid "Insufficient monetary turnover"
+msgstr "Riittämätön rahallinen kiertonopeus"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "Käyttäjän profiilia (henkilötietoja) ei oltu täytetty"
+
+msgid "Need verification"
+msgstr "Varmistus"
+
+msgid "Need additional verification"
+msgstr "Tarvitaan lisävahvistus"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr ""
+"Sähköpostiviesti lähetetty, palautuslinkki on käytettävissä 30 minuutin ajan"
+
+msgid "Password repeat is empty"
+msgstr "Salasanan toisto on tyhjä"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Uusi salasana voi sisältää vain latinalaisia kirjaimia, numeroita ja "
+"erikoismerkkejä"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr ""
+"Salasanan tulee sisältää latinankielisiä kirjaimia isoilla ja pienillä "
+"kirjaimilla, numeroita ja erikoismerkkejä"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "Salasanan on sisällettävä latinalaisia kirjaimia ja numeroita"
+
+msgid "Passwords do not match"
+msgstr "Salasanat eivät täsmää"
+
+msgid "Password is empty"
+msgstr "Salasana on tyhjä"
+
+msgid "Password is invalid"
+msgstr "Salasana on virheellinen"
+
+msgid "Code is invalid"
+msgstr "Koodi on virheellinen"
+
+msgid "Email change is not allowed"
+msgstr "Sähköpostin muutos ei sallittu"
+
+msgid "Email is required"
+msgstr "Sähköposti vaaditaan"
+
+msgid "User update failed"
+msgstr "Käyttäjän päivitys epäonnistui"
+
+msgid "Registration data validation failed"
+msgstr "Rekisteröintitietojen vahvistaminen epäonnistui"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "Virheellinen vahvistuskoodi"
+
+#, fuzzy
+msgid "Empty unsubscribe code"
+msgstr "Tyhjä aloituskoodi"
+
+#, fuzzy
+msgid "Internal error"
+msgstr "Järjestelmävirhe"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"Sähköpostin vahvistuskoodia ei löydy, ehkä olet jo vahvistanut sähköpostisi, "
+"tarkista postilaatikkosi"
+
+msgid "Registration_complete"
+msgstr "Rekisteröinti valmis"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+msgid "Insufficient account balance"
+msgstr "Riittämätön tilin saldo"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Ezzel a rendszerrel nem mentett be, így nem tudja visszavonni a "
+"pénzeszközöket azt. Hagyjon letétet a rendszeren keresztül, hogy "
+"visszavonjon."
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "Sukupuolta ei ole valittu"
+
+msgid "Impossible to send email"
+msgstr "Sähköpostia ei voida lähettää"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "Virheellinen vahvistuskoodi"
+
+msgid "Server returned invalid response"
+msgstr "Palvelin palautti virheellisen vastauksen"
+
+msgid "Temporary routing error"
+msgstr ""
+
+msgid "Permanent routing error"
+msgstr ""
+
+msgid "Maximum throttling exceeded"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+#, fuzzy
+msgid "Operator unknown error"
+msgstr "Tuntematon virhe"
+
+msgid "Operator error"
+msgstr ""
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr ""
+
+msgid "Sent (to operator)"
+msgstr ""
+
+msgid "Billed and delivered"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Mobile full"
+msgstr ""
+
+msgid "Queued"
+msgstr ""
+
+msgid "Not delivered"
+msgstr ""
+
+msgid "Delivered,Billed delayed"
+msgstr ""
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr ""
+
+msgid "Billed OK and NOT Delivered"
+msgstr ""
+
+msgid "Expired, absence of operator delivery report"
+msgstr ""
+
+msgid "Billed OK and sent (to operator)"
+msgstr ""
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+
+msgid "Message sent to operator, Billdelayed"
+msgstr ""
+
+msgid "Service rejected by subscriber"
+msgstr ""
+
+#, fuzzy
+msgid "Unknown subscriber"
+msgstr "Tuntematon tila"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr ""
+
+msgid "Number error"
+msgstr ""
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr ""
+
+msgid "Charging error"
+msgstr ""
+
+msgid "Subscriber has low balance"
+msgstr ""
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr ""
+
+msgid "Subscriber too young (for this particular content)"
+msgstr ""
+
+msgid "Prepaid subscriber not allowed"
+msgstr ""
+
+msgid "Subscriber not registered in payment system"
+msgstr ""
+
+msgid "Subscriber has reached max balance"
+msgstr ""
+
+#, fuzzy
+msgid "GSM encoding is not supported"
+msgstr "Tapaa ei tuettu"
+
+#, fuzzy
+msgid "UCS2 encoding is not supported"
+msgstr "Tapaa ei tuettu"
+
+#, fuzzy
+msgid "Binary encoding is not supported"
+msgstr "Tapaa ei tuettu"
+
+#, fuzzy
+msgid "Delivery report is not supported"
+msgstr "Tapaa ei tuettu"
+
+msgid "Invalid message content"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid tariff"
+msgstr "Virheellinen komento"
+
+#, fuzzy
+msgid "Invalid user data"
+msgstr "Virheelliset pyynnön parametrit"
+
+#, fuzzy
+msgid "Invalid user data header"
+msgstr "Virheelliset pyynnön parametrit"
+
+#, fuzzy
+msgid "Invalid data coding"
+msgstr "Virheellinen komento"
+
+#, fuzzy
+msgid "Invalid VAT"
+msgstr "Virheellinen komento"
+
+#, fuzzy
+msgid "Unsupported content for destination"
+msgstr "Tukematon todentamispalvelun tarjoaja"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+
+msgid "Access denied. Please check your username and password"
+msgstr ""
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+
+msgid "Incorrect version API in address"
+msgstr "Virheellinen API-versio osoitteessa"
+
+msgid "Not specified API key"
+msgstr "Ei määritettyä API-avainta"
+
+msgid "Incorrect API key"
+msgstr "Virheellinen API-avain"
+
+msgid "Incorrect IP address client"
+msgstr "Virheellinen IP-osoite asiakas"
+
+msgid "Invalid command"
+msgstr "Virheellinen komento"
+
+msgid "Specified command does not exist or is not available"
+msgstr "Määritettyä komentoa ei ole tai se ei ole käytettävissä"
+
+msgid "System error"
+msgstr "Järjestelmävirhe"
+
+msgid "Not specified the SMS identifier"
+msgstr "Ei määritettyä SMS-tunnusta"
+
+msgid "Sender address does not exist"
+msgstr "Lähettäjän osoitetta ei ole olemassa"
+
+msgid "Not specified content"
+msgstr "Ei määriteltyä sisältöä"
+
+msgid "Faulty or unsupported country code"
+msgstr "Väärä tai tukematon maakoodi"
+
+msgid "Content is too long"
+msgstr "Sisältö on liian pitkä"
+
+msgid "Incorrect encoding of the content"
+msgstr "Sisällön virheellinen koodaus"
+
+msgid "Exceeded monthly limit"
+msgstr "Ylittynyt kuukausiraja"
+
+msgid "Batch ID does not exist"
+msgstr "Erätunnusta ei ole olemassa"
+
+msgid "List recipients does not exist"
+msgstr "Listan vastaanottajia ei ole"
+
+msgid "Invalid recipient number"
+msgstr "Virheellinen vastaanottajan numero"
+
+msgid "No content"
+msgstr "Ei sisältöä"
+
+msgid "Wrong content"
+msgstr "Väärä sisältö"
+
+msgid "Unable send message"
+msgstr "Viestiä ei voida lähettää"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+
+msgid "Unsupported authentication provider"
+msgstr "Tukematon todentamispalvelun tarjoaja"
+
+msgid "connect_social_account_email_theme"
+msgstr "Yhdistä sosiaalisen tilin sähköpostin teema"
+
+msgid "not_logged_in"
+msgstr "Ei kirjautuneena"
+
+msgid "trying_delete_last_social"
+msgstr "Yrittää poistaa sosiaalista"
+
+msgid "please_set_email"
+msgstr "Aseta sähköposti"
+
+msgid "please_set_password"
+msgstr "Aseta salasana"
+
+msgid "Code incorrect, user not found"
+msgstr "Koodi virheellinen, käyttäjää ei löytynyt"
+
+msgid "email_has_been_verified"
+msgstr "Sähköposti on vahvistettu"
+
+msgid "Transaction value generation failed"
+msgstr "Tapahtuman arvon luominen epäonnistui"
+
+msgid "email_to_connect_social_sent"
+msgstr "Sähköposti sosiaalisen yhdistämiseksi lähetetty"
+
+msgid "Registration complete"
+msgstr "Rekisteröinti on valmis"
+
+msgid "_ip_fraud_msg"
+msgstr "ip petosviesti"
+
+msgid "Session is expired"
+msgstr "Istunto on vanhentunut"
+
+#, fuzzy
+msgid "Withdrawal ID not specified"
+msgstr "Järjestelmätunnusta ei määritelty"
+
+msgid "System ID not specified"
+msgstr "Järjestelmätunnusta ei määritelty"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "Virheellinen sähköposti, yritä uudelleen alusta"
+
+msgid "Email is empty"
+msgstr "Sähköposti on tyhjä"
+
+msgid "Error, account with this email does not exist."
+msgstr "Virhe, tiliä tällä sähköpostilla ei ole olemassa."
+
+msgid "Unable generate temporary restore user code"
+msgstr "Väliaikaista palautuskoodia ei voi luoda"
+
+msgid "Password recovery"
+msgstr "Salasanan palautus"
+
+msgid "current_password_empty"
+msgstr "Nykyinen salasana on tyhjä"
+
+msgid "Current password is incorrect"
+msgstr "Nykyinen salasana on väärä"
+
+msgid "day_not_set"
+msgstr "Päivää ei ole asetettu"
+
+msgid "month_not_set"
+msgstr "Kuukautta ei ole asetettu"
+
+msgid "year_not_set"
+msgstr "Vuotta ei ole asetettu"
+
+msgid "Country is not picked"
+msgstr "Maata ei ole valittu"
+
+msgid "Gender is not picked"
+msgstr "Sukupuolta ei ole valittu"
+
+msgid "input_repeated_password"
+msgstr "Syötä toistuva salasana"
+
+msgid "Password does not match"
+msgstr "Salasanat eivät täsmää"
+
+msgid "Email field is empty or incorrect"
+msgstr "Sähköpostikenttä on tyhjä tai virheellinen"
+
+msgid "Email already in use"
+msgstr "Sähköpostiosoite on jo käytössä"
+
+msgid "Email field is incorrect"
+msgstr "Sähköpostikenttä on virheellinen"
+
+msgid "Login field is empty"
+msgstr "Kirjautumiskenttä on tyhjä"
+
+msgid "Email field is empty"
+msgstr "Sähköpostikenttä on tyhjä"
+
+msgid "login_already_in_use"
+msgstr "Kirjautumistunnus on jo käytössä"
+
+msgid "phone_empty"
+msgstr "Puhelin tyhjä"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "Puhelinnumero on virheellinen. On oltava"
+
+msgid "Phone number too long"
+msgstr "Puhelinnumero on liian pitkä"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "Puhelinnumero on virheellinen: kiellettyjä symboleja käytetty."
+
+msgid "new_pass_less_6_symbols"
+msgstr "Uusi salasana alle 6 symbolia"
+
+msgid "first_name_empty"
+msgstr "Etunimi on tyhjä"
+
+msgid "last_name_empty"
+msgstr "Sukunimi on tyhjä"
+
+msgid "New email field is incorrect"
+msgstr "Sähköpostikenttä on virheellinen"
+
+msgid "User verification failed"
+msgstr "Käyttäjän vahvistus epäonnistui"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "Valtuutusvirhe"
+
+msgid "authorization_error"
+msgstr "Valtuutusvirhe"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "Istunto vanhentunut"
+
+msgid "registration_in_progress"
+msgstr "Rekisteröinti käynnissä"
+
+msgid "user_disabled"
+msgstr "Käyttäjä on poistettu käytöstä"
+
+msgid "Access forbidden"
+msgstr "Pääsy kielletty"
+
+msgid "Email field incorrect"
+msgstr "Sähköpostikenttä on virheellinen"
+
+msgid "email_empty_incorrect"
+msgstr "Sähköposti virheellinen"
+
+msgid "pass_less_6_symbols"
+msgstr "Salasana alle 6 symbolia"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Uusi salasana voi sisältää vain latinalaisia kirjaimia, numeroita ja "
+"erikoismerkkejä"
+
+msgid "currency_not_set"
+msgstr "Valuuttaa ei asetettu"
+
+msgid "Currency field is invalid"
+msgstr "Valuuttakenttä virheellinen"
+
+msgid "reg_promo_is_invalid"
+msgstr "Rekisteröintikampanja virheellinen"
+
+msgid "email_already_registered"
+msgstr "Sähköposti on jo rekisteröity"
+
+msgid "login_already_registered"
+msgstr "Kirjautumistunnus on jo rekisteröity"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "Sähköposti on jo rekisteröity"
+
+msgid "ip_fraud_blacklist"
+msgstr "ip petosmustalista"
+
+msgid "ip_fraud_check_error"
+msgstr "ip petostarkistusvirhe"
+
+msgid "Activate your account"
+msgstr "Aktivoi tilisi"
+
+msgid "Registration confirmation is in progress"
+msgstr "Rekisteröinnin vahvistus on käynnissä"
+
+msgid "Unknown status"
+msgstr "Tuntematon tila"
+
+msgid "first name"
+msgstr "etunimi"
+
+msgid "last name"
+msgstr "sukunimi"
+
+msgid "birth date"
+msgstr "syntymäaika"
+
+msgid "sex"
+msgstr "sukupuoli"
+
+msgid "country"
+msgstr "maa"
+
+msgid "phone number"
+msgstr "puhelinnumero"
+
+#, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] "Muuttaaksesi %s kenttää, ota yhteyttä tukeemme osoitteeseen "
+msgstr[1] "Muuttaaksesi %s -kenttiä, ota yhteyttä tukeemme osoitteeseen "
+
+msgid "Email has invalid format"
+msgstr "Sähköpostissa on virheellinen muoto"
+
+msgid "Repeat password field is empty"
+msgstr "Toista salasana -kenttä on tyhjä"
+
+msgid "First name field is empty"
+msgstr "Etunimikenttä on tyhjä"
+
+msgid "First name must contain only letters"
+msgstr "Etunimen tulee sisältää vain kirjaimia"
+
+msgid "Last name field is empty"
+msgstr "Sukunimikenttä on tyhjä"
+
+msgid "Last name must contain only letters"
+msgstr "Sukunimen tulee sisältää vain kirjaimia"
+
+msgid "Gender field is empty"
+msgstr "Sukupuolikenttä on tyhjä"
+
+msgid "Gender unallowed value"
+msgstr "Sukupuoli ei-sallittu arvo"
+
+msgid "Currency field is empty"
+msgstr "Valuuttakenttä on tyhjä"
+
+msgid "Country code is empty"
+msgstr "Maakoodi on tyhjä"
+
+msgid "Country code is invalid"
+msgstr "Maakoodi on virheellinen"
+
+msgid "Phone code is empty"
+msgstr "Puhelinkoodi on tyhjä"
+
+msgid "Phone number field is empty"
+msgstr "Puhelinnumerokenttä on tyhjä"
+
+msgid "Phone number invalid format"
+msgstr "Puhelinnumero on virheellisessä muodossa"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "Puhelinkoodi on tyhjä"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "Salasanan on oltava vähintään 6 merkkiä pitkä"
+
+#, fuzzy
+msgid "Wrong IBAN number"
+msgstr "puhelinnumero"
+
+#, fuzzy
+msgid "Wrong SWIFT number"
+msgstr "puhelinnumero"
+
+msgid "ID Number is not unique"
+msgstr "Henkilötunnus ei ole yksilöllinen"
+
+msgid "Password field is empty"
+msgstr "Salasana on tyhjä"
+
+msgid "New password field is empty"
+msgstr "Uuden salasanan kenttä on tyhjä"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Uuden salasana tulee olla vähintään 6 merkin pituinen"
+
+msgid "New password strength is weak"
+msgstr "Uuden salasanan vahvuus on heikko"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "Virhe, tiliä tällä sähköpostilla ei ole olemassa."
+
+msgid "Password strength is weak"
+msgstr "Salasanan vahvuus on heikko"
+
+msgid "Login is already registered"
+msgstr "Sisäänkirjautuminen on jo rekisteröity"
+
+msgid "Email is already registered"
+msgstr "Sähköposti on jo rekisteröity"
+
+msgid "Phone is already registered"
+msgstr "Sähköposti on jo rekisteröity"
+
+msgid "You are less than 18 year old"
+msgstr "Olet alle 18-vuotias"
+
+msgid "As per our rules, you can create %s withdrawal requests in a day. Please, wait for the following date/time: %s"
+msgstr "Sääntöjemme mukaisesti voit tehdä %s nostopyyntöä päivässä. Odota seuraavaa päivämäärää/kellonaikaa: %s"
+
+msgid "You have exceeded the limit on the amount in withdrawal requests. Please, wait for the following date/time: %s"
+msgstr "Olet ylittänyt raja-arvon nostopyyntöjen määrässä. Odota seuraavaa päivämäärää/kellonaikaa: %s"
+
+#~ msgid "Do you need to contact us?"
+#~ msgstr "Tarvitseeko sinun ottaa yhteyttä meihin?"
+
+#~ msgid ""
+#~ "Due to legal reasons we can't accept players residing in the country you "
+#~ "are currently\n"
+#~ "            in."
+#~ msgstr ""
+#~ "Laillisista syistä johtuen emme voi hyväksyä pelaajia maasta, jossa olet "
+#~ "tällä hetkellä."
+
+#~ msgid ""
+#~ "If you’re using a proxy service or VPN to access casino, try turning it "
+#~ "off and reload the\n"
+#~ "            page."
+#~ msgstr ""
+#~ "Jos käytät välityspalvelinta tai VPN-palvelua pelataksesi kasinolla, "
+#~ "kokeile sen pois päältä ottamista ja lataa sivu uudelleen."
+
+#~ msgid "Location restriction"
+#~ msgstr "Sijaintirajoitus"
+
+#~ msgid "Not in a restricted region"
+#~ msgstr "Ei rajoitetulla alueella"
+
+#~ msgid ""
+#~ "Should you have any questions or feel that this block is affecting you "
+#~ "due to a technical error,\n"
+#~ "            please\n"
+#~ "            don't hesitate to contact us and we'll work it out together."
+#~ msgstr ""
+#~ "Jos sinulla on kysyttävää tai sinusta tuntuu, että tämä esto vaikuttaa "
+#~ "sinuun teknisen virheen takia, älä epäröi ottaa yhteyttä meihin niin "
+#~ "selvitämme sen yhdessä."
+
+#~ msgid "Awaiting limits information"
+#~ msgstr "Odottaa rajoitustietoja"
+
+#~ msgid "cancel_error"
+#~ msgstr "peruutusvirhe"
+
+#~ msgid "select_error"
+#~ msgstr "valitavirhe"

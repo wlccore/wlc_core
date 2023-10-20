@@ -1,0 +1,1473 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wlc_core_messages_\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-11 11:11+0200\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+
+msgid ""
+"Add our email to your address book to not miss out on important information "
+"from"
+msgstr ""
+"Adja hozzá e-mail címünket a címjegyzékéhez, hogy ne maradjon le a következő "
+"fontos információkról"
+
+msgid "Congratulations,"
+msgstr "Gratulálunk,"
+
+msgid "Dear"
+msgstr "Kedves"
+
+msgid "Deposit confirmation"
+msgstr "Befizetés visszaigazolása"
+
+msgid "Deposit success notification. Your balance"
+msgstr "Sikeres befizetés. Az egyenleged"
+
+msgid "Finish registration link"
+msgstr "Regisztrációt befejező link"
+
+msgid "Greeting."
+msgstr "Üdvözlet."
+
+msgid "Hello"
+msgstr "Helló"
+
+msgid "If this email does not display correctly, open it in your browser."
+msgstr ""
+"Ha az e-mail nem megfelelően jelenik meg, akkor a böngésződben nyisd meg."
+
+msgid "If you have any questions, please contact"
+msgstr "Ha van kérdésed, keress minket"
+
+msgid "Link will be available for 30 minutes."
+msgstr "A link 30 percig lesz elérhető."
+
+msgid "Login"
+msgstr "Belépés"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Password restore"
+msgstr "Jelszó visszaállítása"
+
+msgid "Please click on the link below to finish registration:"
+msgstr "A regisztráció befejezéséhez kattints az alábbi linkre:"
+
+msgid ""
+"Please do not reply to this e-mail. This email is generated automatically "
+"and you will not receive a response."
+msgstr ""
+"Kérjük, ne válaszolj erre az e-mailre. Ez egy automatikusan generált üzenet, "
+"így nem fogsz választ kapni rá."
+
+msgid "Registration confirmation"
+msgstr "Regisztráció megerősítése"
+
+msgid "Restore your password by clicking the link below."
+msgstr "Állítsd vissza jelszavad a lentebb található linkre kattintva."
+
+msgid "Social registration confirmation"
+msgstr "Közösségi regisztráció megerősítése"
+
+msgid "Thank you for validating your account."
+msgstr "Köszönjük, hogy érvényesítetted fiókodat."
+
+msgid "Thanks for registration on the website!"
+msgstr "Köszönjük, hogy regisztráltál honlapunkon!"
+
+msgid "To finish linking your accounts, please use this link:"
+msgstr "Hogy befejezd fiókjaid összekötését, kérjük, használd ezt a linket:"
+
+msgid "Welcome to"
+msgstr "Köszöntünk a"
+
+msgid "With respect"
+msgstr "Tisztelettel"
+
+msgid "You asked to link new social account to your current account"
+msgstr ""
+"Kérted, hogy kapcsoljuk össze új közösségi fiókod a jelenlegi fiókoddal"
+
+msgid ""
+"You have taken the first step to experience an amazing gaming journey\n"
+"    with"
+msgstr ""
+"Megtetted az első lépést egy csodálatos utazás felé a kaszinó világában"
+
+msgid "casino_footer_copyright"
+msgstr "kaszinó_élőláb_szerzői_jog"
+
+msgid "casino_mail_info"
+msgstr "kaszinó_posta_infó"
+
+msgid "online support"
+msgstr "online támogatás"
+
+msgid "controller_does_not_exists"
+msgstr "vezérlő_nem_létezik"
+
+msgid "social_not_found"
+msgstr "közösségi_oldal_nem_található"
+
+msgid "purchase_error"
+msgstr "hiba_vásárlás_közben"
+
+msgid "game_added_to_favorites"
+msgstr "játék_hozzáadva_a_kedvencekhez"
+
+msgid "game_deleted_from_favorites"
+msgstr "játék_törölve_a_kedvencek_közül"
+
+msgid "must_login"
+msgstr "bejelentkezés_szükséges"
+
+msgid "No bonus name"
+msgstr "Nincs bónusz játék"
+
+msgid "No bonus descripton"
+msgstr "Nincs bónusz leírás"
+
+msgid "No user id"
+msgstr "Nincs felhasználói azonosító"
+
+msgid "No bonus id"
+msgstr "Nincs bónusz azonosító"
+
+msgid "No status"
+msgstr "Nincs státusz"
+
+msgid "Bonus not found"
+msgstr "Nem található bónusz"
+
+msgid "Already have active"
+msgstr "Már aktív"
+
+msgid "Bonus is not available"
+msgstr "Bónusz nem elérhető"
+
+msgid "First deposit, already deposited"
+msgstr "Az első befizetés már be van fizetve"
+
+msgid "No loyalty record"
+msgstr "Nincs hűségnyilvántartás"
+
+msgid "Dont satisfy bonus conditions"
+msgstr "Nem tesz eleget a bónusz feltételeknek"
+
+msgid "Bonus used"
+msgstr "Bónusz felhasználva"
+
+msgid "Promo code needed"
+msgstr "Promóciós kód szükséges"
+
+msgid "Wrong promo code"
+msgstr "Helytelen promóciós kód"
+
+msgid "Bonuses are forbidden for user"
+msgstr "A bónuszok le vannak tiltva a felhasználó számára"
+
+msgid "Already have an active bonus"
+msgstr "Már van aktív bónusza"
+
+msgid "registration"
+msgstr "regisztráció"
+
+msgid "verification"
+msgstr "megerősítés"
+
+msgid "sign up"
+msgstr "regisztráció"
+
+msgid "store"
+msgstr "áruház"
+
+msgid "login"
+msgstr "bejelentkezés"
+
+msgid "deposit"
+msgstr "befizetés"
+
+msgid "deposit first"
+msgstr "első befizetés"
+
+msgid "deposit sum"
+msgstr "befizetés összege"
+
+msgid "deposit repeated"
+msgstr "befizetés megismétlése"
+
+msgid "bet"
+msgstr "tét"
+
+msgid "bet sum"
+msgstr "tét összege"
+
+msgid "win sum"
+msgstr "nyeremény összege"
+
+msgid "loss sum"
+msgstr "veszteség összege"
+
+msgid "once"
+msgstr "egyszer"
+
+msgid "day"
+msgstr "nap"
+
+msgid "week"
+msgstr "hét"
+
+msgid "month"
+msgstr "hónap"
+
+msgid "all"
+msgstr "mind"
+
+msgid "bonus"
+msgstr "bónusz"
+
+msgid "win"
+msgstr "nyeremény"
+
+msgid "win and bonus"
+msgstr "nyeremény és bónusz"
+
+msgid "winevent"
+msgstr "eseménygyőzelem"
+
+msgid "winbonusevent"
+msgstr "bónuszeseménygyőzelem"
+
+msgid "none"
+msgstr "egyik sem"
+
+msgid "balance"
+msgstr "egyenleg"
+
+msgid "experience"
+msgstr "tapasztalat"
+
+msgid "loyalty"
+msgstr "hűség"
+
+msgid "absolute"
+msgstr "abszolút"
+
+msgid "relative"
+msgstr "relatív"
+
+msgid "bets"
+msgstr "tétek"
+
+msgid "wins"
+msgstr "nyeremények"
+
+msgid "turnover"
+msgstr "árbevétel"
+
+msgid "negative turnover"
+msgstr "negatív árbevétel"
+
+msgid "unlimited"
+msgstr "korlátlan"
+
+msgid "one day"
+msgstr "egy nap"
+
+msgid "two days"
+msgstr "két nap"
+
+msgid "three days"
+msgstr "három nap"
+
+msgid "seven days"
+msgstr "hét nap"
+
+msgid "ten days"
+msgstr "tíz nap"
+
+msgid "fourteen days"
+msgstr "tizennégy nap"
+
+msgid "thirty days"
+msgstr "harminc nap"
+
+msgid "sixty days"
+msgstr "hatvan nap"
+
+msgid "ninety days"
+msgstr "kilencven nap"
+
+msgid "one week"
+msgstr "egy hét"
+
+msgid "two weeks"
+msgstr "két hét"
+
+msgid "one month"
+msgstr "egy hónap"
+
+msgid "every day"
+msgstr "minden nap"
+
+msgid "every week"
+msgstr "minden hét"
+
+msgid "every two weeks"
+msgstr "minden második hét"
+
+msgid "every month"
+msgstr "minden hónap"
+
+msgid "fee"
+msgstr "díj"
+
+msgid "turnover and fee"
+msgstr "árbevétel és díj"
+
+msgid "everyday"
+msgstr "minden nap"
+
+msgid "monday"
+msgstr "hétfő"
+
+msgid "tuesday"
+msgstr "kedd"
+
+msgid "wednesday"
+msgstr "szerda"
+
+msgid "thursday"
+msgstr "csütörtök"
+
+msgid "friday"
+msgstr "péntek"
+
+msgid "saturday"
+msgstr "szombat"
+
+msgid "sunday"
+msgstr "vasárnap"
+
+msgid "transaction_list_is_empty"
+msgstr "üres_tranzakciós_lista"
+
+msgid "date_incorrect_from_date_higher_then_to_date"
+msgstr "helytelen_dátum_a_kezdő_dátum_későbbi_mint_a_végdátum"
+
+msgid "cancelled"
+msgstr "visszavont"
+
+msgid "rejected"
+msgstr "elutasított"
+
+msgid "error"
+msgstr "hiba"
+
+msgid "in_progress"
+msgstr "folyamatban"
+
+msgid "confirmed"
+msgstr "megerősített"
+
+#, fuzzy
+msgid "pending"
+msgstr "Vége"
+
+msgid "system_error"
+msgstr "rendszer_hiba"
+
+msgid "completed"
+msgstr "kész"
+
+msgid "aborted"
+msgstr "megszakított"
+
+msgid "credit"
+msgstr "kredit"
+
+msgid "debet"
+msgstr "terhelés"
+
+msgid "withdraw_unavailable"
+msgstr "pénzfelvétel_nem_elérhető"
+
+msgid "withdraw_check_error"
+msgstr "pénzfelvétel_ellenőrzési_hiba"
+
+msgid "set_amount"
+msgstr "összeg_beállítása"
+
+msgid "set_payment_system"
+msgstr "fizetési_rendszer_beállítása"
+
+msgid "country_and_birth_date_required"
+msgstr "ország_és_születési_dátum_szükséges"
+
+msgid "payment_request_sent"
+msgstr "fizetési_kérelem_elküldve"
+
+msgid "payment_request_error"
+msgstr "fizetési_kérelem_sikertelen"
+
+msgid "max_limit_of_withdraw_reached"
+msgstr "pénzfelvétel_felső_határa_elérve"
+
+msgid "sys_error_message"
+msgstr "rendszer_hiba_üzenet"
+
+msgid "input_purse"
+msgstr "befizetési_pénztárca"
+
+msgid "payment_withdraw_sent"
+msgstr "fizetés_pénzfelvétel_elküldve"
+
+msgid "New password is empty"
+msgstr "Az Új jelszó mező üres"
+
+msgid "Repeat password is empty"
+msgstr "A Jelszó megismétlése mező üres"
+
+msgid "Code is empty"
+msgstr "A Kód mező üres"
+
+msgid "Code is incorrect"
+msgstr "A kód nem megfelelő"
+
+msgid "Password must be at least 6 characters long"
+msgstr "A jelszónak legalább 6 karakter hosszúnak kell lennie"
+
+msgid "pass_not_match"
+msgstr "jelszó_nem_egyezik"
+
+msgid "Session expired"
+msgstr "Lejárt munkamenet"
+
+msgid "social_account_expired"
+msgstr "közösségi_fiók_lejárt"
+
+msgid "Empty to address"
+msgstr "A címzett mező üres"
+
+msgid "Empty subject"
+msgstr "A tárgy mező üres"
+
+msgid "Empty message"
+msgstr "Az üzenet mező üres"
+
+msgid "Empty required parameter"
+msgstr "A szükséges paraméter mező üres"
+
+msgid "Unknown error"
+msgstr "Ismeretlen hiba"
+
+msgid "Not allowed player country"
+msgstr "Az ország nem engedélyezett"
+
+msgid "Demo not supported"
+msgstr "A demó nem támogatott"
+
+msgid "Your currency is not supported by this provider"
+msgstr "Az általad használt pénznemet a szolgáltató nem támogatja"
+
+msgid "Branded games are not enabled"
+msgstr "A márkával jelzett játékok nem engedélyezettek"
+
+msgid "Self exclusion date"
+msgstr "Önkizárás dátuma"
+
+msgid "Self exclusion"
+msgstr "Önkizárás"
+
+msgid "does not exists"
+msgstr "nem létezik"
+
+msgid "Method is not supported"
+msgstr "A módszer nem támogatott"
+
+msgid "Data type is not found"
+msgstr "Adattípus nem található"
+
+msgid "Invalid request parameters"
+msgstr "Érvénytelen kérési paraméterek"
+
+msgid "No bonus description"
+msgstr "Nincs bónusz leírás"
+
+msgid "Selected"
+msgstr "Kiválasztva"
+
+msgid "Qualified"
+msgstr "Továbbjutott"
+
+msgid "Deleted"
+msgstr "Törölt"
+
+msgid "Deactivated"
+msgstr "Deaktivált"
+
+msgid "Canceled"
+msgstr "Visszavont"
+
+msgid "Ending"
+msgstr "Vége"
+
+msgid "Ended"
+msgstr "Véget ért"
+
+msgid "Loyalty API Failure"
+msgstr "Hűség API hiba"
+
+msgid "Loyalty result not supported"
+msgstr "Hűség eredmény nem támogatott"
+
+msgid "User not found"
+msgstr "A felhasználó nem található"
+
+msgid "Unable fetch oauth access token"
+msgstr "Nem sikerült lekérni a zsetonhozzáférést"
+
+msgid "Access token is missing"
+msgstr "Nincs hozzáférési jogkivonat"
+
+msgid "Empty access token user identifier"
+msgstr "Üres hozzáférési jogkivonat felhasználói azonosító"
+
+msgid "Empty access token identifier"
+msgstr "Üres hozzáférési jogkivonat azonosító"
+
+msgid "Method not allowed"
+msgstr "A módszer nem támogatott"
+
+msgid "Your country is on the forbidden list"
+msgstr "Az országod tiltólistán van"
+
+msgid "User profile is incomplete"
+msgstr "A felhasználó profilja nem teljes"
+
+msgid "Achievement result is not list"
+msgstr "A teljesítmény eredménye nem szerepel a listán"
+
+msgid "Unknown route path"
+msgstr "Ismeretlen útvonal"
+
+msgid "Too many requests"
+msgstr "Túl sok kérés"
+
+msgid "Code is not valid"
+msgstr "A kód nem érvényes"
+
+#, fuzzy
+msgid "Too many requests. Captcha required"
+msgstr "Túl sok kérés"
+
+msgid "Method Not Allowed"
+msgstr "A módszer nem engedélyezett"
+
+msgid "Api endpoint not found"
+msgstr "Api végpont nem található"
+
+msgid "Confirm your email to start games"
+msgstr "Erősítsd meg az e-mail címed a játék megkezdéséhez"
+
+msgid "User not authorized"
+msgstr "Nem engedélyezett felhasználó"
+
+msgid "Merchant system not selected or invalid"
+msgstr "A kereskedői rendszer nincs kiválasztva vagy érvénytelen"
+
+msgid "Amount is not selected or invalid"
+msgstr "Az összeg nincs kiválasztva vagy érvénytelen"
+
+msgid "Bonus result is not list"
+msgstr "Bónusz eredmény nem szerepel a listán"
+
+msgid "Bonus ID Not found"
+msgstr "Bónusz azonosító nem található"
+
+msgid "Bonus Selected Not found"
+msgstr "Kiválasztott bónusz nem található"
+
+msgid "User is not authorized"
+msgstr "Nem engedélyezett felhasználó"
+
+#, fuzzy
+msgid "Empty cashback id"
+msgstr "A tárgy mező üres"
+
+#, php-format
+msgid "Deposit failed: %s"
+msgstr "A befizetés sikertelen: %s"
+
+#, php-format
+msgid ""
+"You have enabled %s limit: %s %s until %s. Available deposit amount: %s %s"
+msgstr ""
+"%s limitet állítottál be: %s %s -tól/től %s -ig. Elérhető befizetési összeg: "
+"%s %s"
+
+msgid ""
+"To complete the deposit, make a bank transfer using the following details"
+msgstr ""
+
+#, fuzzy
+msgid "Amount"
+msgstr "összeg_beállítása"
+
+#, fuzzy
+msgid "Branch code"
+msgstr "Üres indító kód mező"
+
+#, fuzzy
+msgid "Bank name"
+msgstr "vezetéknév"
+
+#, fuzzy
+msgid "Branch name"
+msgstr "vezetéknév"
+
+#, fuzzy
+msgid "Account type"
+msgstr "ország"
+
+#, fuzzy
+msgid "Account number"
+msgstr "telefonszám"
+
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Reference number"
+msgstr "telefonszám"
+
+msgid "Uploadable files is empty"
+msgstr "Feltölthető fájlok listája üres"
+
+msgid "Exceeds allowed file size"
+msgstr "Túllépi a megengedett fájlméretet"
+
+msgid "Mb"
+msgstr "Mb"
+
+msgid "Document ID not found"
+msgstr "Dokumentum azonosító nem található"
+
+msgid "Request invalid. Error: "
+msgstr "Érvénytelen kérelem. Hiba:"
+
+msgid "Games catalog is temporary unavailable"
+msgstr "A játékkatalógus átmenetileg nem elérhető"
+
+msgid "Empty launch code"
+msgstr "Üres indító kód mező"
+
+msgid "Empty merchant identifier"
+msgstr "Üres kereskedői azonosító mező"
+
+msgid "Empty games catalog"
+msgstr "Üres játékkatalógus"
+
+msgid "Unknown game launch code"
+msgstr "Ismeretlen játékindítási kód"
+
+msgid "Not supported exception"
+msgstr "Nem támogatott kivétel"
+
+msgid "Bad request"
+msgstr "Rossz kérés"
+
+msgid "Parameter from must be in format 'Y-m-d H:i:s' or empty"
+msgstr ""
+"A paraméternek az alábbi formátumban kell lennie: 'É-h-n Ó:p:m' vagy üres a "
+"mező"
+
+msgid "Unable find user identifier"
+msgstr "Nem sikerült megtalálni a felhasználói azonosítót"
+
+msgid "Unknown error occured"
+msgstr "Ismeretlen hiba lépett fel"
+
+msgid "Limit not provided "
+msgstr ""
+
+#, fuzzy
+msgid "Invalid Limit value "
+msgstr "Érvénytelen címzettszám"
+
+msgid "Wrong request"
+msgstr "Helytelen kérés"
+
+msgid "Unknown provider"
+msgstr "Ismeretlen szolgáltató"
+
+msgid "Token not found"
+msgstr "Nem található token"
+
+msgid "Invalid token provided"
+msgstr "Érvénytelen token"
+
+msgid "Phone already verified"
+msgstr "A telefon már ellenőrizve van"
+
+msgid "Insufficient parameters"
+msgstr "Nem megfelelő paraméterek"
+
+msgid "Configuration error"
+msgstr "Konfigurációs hiba"
+
+msgid "Invalid verification code"
+msgstr "Érvénytelen megerősítő kód"
+
+msgid "Empty phone number"
+msgstr "Üres telefonszám mező"
+
+msgid "Invalid phone number"
+msgstr "Érvénytelen telefonszám"
+
+msgid "Anonymous"
+msgstr "Névtelen"
+
+msgid "Item not found"
+msgstr "A tétel nem található"
+
+msgid "Sent from web-form at"
+msgstr "Webes űrlapról küldve innen"
+
+msgid "Service not found"
+msgstr "Szolgáltatás nem található"
+
+msgid "Unauthorized"
+msgstr "Nem engedélyezett"
+
+msgid "Tournaments history error"
+msgstr "Bajnokságtörténet hiba"
+
+msgid "Tournaments list not available"
+msgstr "Bajnokságlista nem elérhető"
+
+msgid "Tournaments type not found"
+msgstr "Bajnokságtípus nem található"
+
+msgid "Tournament not found"
+msgstr "Bajnokság nem található"
+
+msgid "Tournaments subscribe error"
+msgstr "Bajnokság-feliratkozás hiba"
+
+msgid "Insufficient monetary turnover"
+msgstr "Nem megfelelő pénzforgalom"
+
+msgid "User's profile (personal data) wasn't filled"
+msgstr "A felhasználói profil (személyes adatok) nincs kitöltve"
+
+msgid "Need verification"
+msgstr "Megerősítés szükséges"
+
+msgid "Need additional verification"
+msgstr "Újabb megerősítés szükséges"
+
+msgid "Code accepted, the device has been added"
+msgstr ""
+
+msgid "Email sent, recovery link will be available for 30 minutes"
+msgstr "Az e-mail elküldve, a helyreállító link 30 percig lesz elérhető"
+
+msgid "Password repeat is empty"
+msgstr "A jelszó megismétlése mező üres"
+
+msgid ""
+"New password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"Az új jelszó csak latin betűket, számokat és speciális karaktereket "
+"tartalmazhat"
+
+msgid ""
+"Password must contain latin letters in upper and lower case, numbers and "
+"special symbols"
+msgstr "A jelszónak latin betűket és számokat kell tartalmaznia"
+
+msgid "Password must contain latin letters and numbers"
+msgstr "A jelszónak latin betűket és számokat kell tartalmaznia"
+
+msgid "Passwords do not match"
+msgstr "A jelszó nem egyezik"
+
+msgid "Password is empty"
+msgstr "A jelszó mező üres"
+
+msgid "Password is invalid"
+msgstr "A jelszó érvénytelen"
+
+msgid "Code is invalid"
+msgstr "A kód érvénytelen"
+
+msgid "Email change is not allowed"
+msgstr "Az e-mail cím megváltoztatása nem engedélyezett"
+
+msgid "Email is required"
+msgstr "E-mail cím szükséges"
+
+msgid "User update failed"
+msgstr "A felhasználó frissítése sikertelen"
+
+msgid "Registration data validation failed"
+msgstr "A regisztrációs adatok megerősítése sikertelen"
+
+#, fuzzy
+msgid "Invalid validation code"
+msgstr "Érvénytelen megerősítő kód"
+
+msgid "Empty unsubscribe code"
+msgstr "Üres leiratkozási kód mező"
+
+msgid "Internal error"
+msgstr "Belső hiba"
+
+msgid ""
+"Email verification code is not found, maybe you have already confirmed your "
+"email, please check your mailbox"
+msgstr ""
+"Az e-mail címet megerősítő kód nem található, talán már megerősítetted az e-"
+"mail címed. Kérjük, nézd meg a bejövő üzeneteidet!"
+
+msgid "Registration_complete"
+msgstr "Regisztráció_kész"
+
+msgid "In single mode only one limit can be specified"
+msgstr ""
+
+msgid "Insufficient account balance"
+msgstr "Nem elegendő számlaegyenleg"
+
+msgid ""
+"You haven't deposited through this system so you can't withdraw funds using "
+"it. Make a deposit via this system in order to withdraw."
+msgstr ""
+"Nem fizettél be eleget ezen a rendszeren keresztül, így nem tudsz pénzt "
+"felvenni ezen keresztül. A pénzfelvételhez ezen a rendszeren keresztül kell "
+"befizetned."
+
+#, fuzzy
+msgid "Zendesk not configured"
+msgstr "Nincs kiválasztva nem"
+
+msgid "Impossible to send email"
+msgstr "E-mail küldése nem lehetséges"
+
+#, php-format
+msgid "unknown_device_HELLO_message"
+msgstr ""
+
+#, fuzzy
+msgid "Invalid confirmation code"
+msgstr "Érvénytelen megerősítő kód"
+
+msgid "Server returned invalid response"
+msgstr "A szerver hibás választ küldött vissza"
+
+msgid "Temporary routing error"
+msgstr "Átmeneti útválasztási hiba"
+
+msgid "Permanent routing error"
+msgstr "Állandó útválasztási hiba"
+
+msgid "Maximum throttling exceeded"
+msgstr "A maximális erőforrás-korlátozás túllépve"
+
+msgid "Timeout"
+msgstr "Időtúllépés"
+
+msgid "Operator unknown error"
+msgstr "Ismeretlen üzemeltetői hiba"
+
+msgid "Operator error"
+msgstr "Üzemeltetői hiba"
+
+msgid "Internal error (internal LinkMobilityerror)"
+msgstr "Belső hiba (belső LinkMobilityerror)"
+
+msgid "Sent (to operator)"
+msgstr "Elküldve (az üzemeltetőnek)"
+
+msgid "Billed and delivered"
+msgstr "Számlázva és elküldve"
+
+msgid "Expired"
+msgstr "Lejárt"
+
+msgid "Mobile full"
+msgstr "Teljes mobil"
+
+msgid "Queued"
+msgstr "Sorban áll"
+
+msgid "Not delivered"
+msgstr "Nincs elküldve"
+
+msgid "Delivered,Billed delayed"
+msgstr "Elküldve, késleltetett számlázás"
+
+msgid "Billed OK (charged OK before sending message)"
+msgstr "Számlázás rendben (Leokézva az üzenet elküldése előtt)"
+
+msgid "Billed OK and NOT Delivered"
+msgstr "Számlázva, de nincs elküldve"
+
+msgid "Expired, absence of operator delivery report"
+msgstr "Lejárt, üzemeltetői szállítási jelentés hiányában"
+
+msgid "Billed OK and sent (to operator)"
+msgstr "Számlázva és elküldve (az üzemeltetőnek)"
+
+msgid "Delayed (temporary billing error, system will try to resend)"
+msgstr ""
+"Késleltetve (átmeneti számlázási hiba, a rendszer újra meg fogja próbálni "
+"elküldeni)"
+
+msgid "Message sent to operator, Billdelayed"
+msgstr "Az üzenet elküldve az üzemeltetőnek, a számlázás késleltetve"
+
+msgid "Service rejected by subscriber"
+msgstr "A szolgáltatás az előfizető által visszautasítva"
+
+msgid "Unknown subscriber"
+msgstr "Ismeretlen előfizető"
+
+msgid "Destination blocked (subscriber permanently barred)"
+msgstr "Cél blokkolva (az előfizető véglegesen letiltva)"
+
+msgid "Number error"
+msgstr "Számhiba"
+
+msgid "Destination temporarily blocked (subscriber temporarily barred)"
+msgstr "A cél ideiglenesen blokkolva (az előfizető átmenetileg letiltva)"
+
+msgid "Charging error"
+msgstr "Terhelési hiba"
+
+msgid "Subscriber has low balance"
+msgstr "Az előfizetőnek kevés az egyenlege"
+
+msgid "Subscriber barred for overcharged (premium) messages"
+msgstr "Előfizető tiltva a túlszámlázott (prémium) üzenetek miatt"
+
+msgid "Subscriber too young (for this particular content)"
+msgstr "Az előfizető túl fiatal (az adott tartalomra vonatkozóan)"
+
+msgid "Prepaid subscriber not allowed"
+msgstr "Előre fizetett előfizetőknek nem megengedett"
+
+msgid "Subscriber not registered in payment system"
+msgstr "Az előfizető nincs regisztrálva a fizetési rendszerben"
+
+msgid "Subscriber has reached max balance"
+msgstr "Az előfizető elérte a maximális egyenleget"
+
+msgid "GSM encoding is not supported"
+msgstr "A GSM-kódolás nem támogatott"
+
+msgid "UCS2 encoding is not supported"
+msgstr "Az UCS2-kódolás nem támogatott"
+
+msgid "Binary encoding is not supported"
+msgstr "A bináris kódolás nem támogatott"
+
+msgid "Delivery report is not supported"
+msgstr "A szállítási jelentés nem támogatott"
+
+msgid "Invalid message content"
+msgstr "Érvénytelen üzenettartalom"
+
+msgid "Invalid tariff"
+msgstr "Érvénytelen tarifa"
+
+msgid "Invalid user data"
+msgstr "Érvénytelen felhasználói adatok"
+
+msgid "Invalid user data header"
+msgstr "Érvénytelen felhasználói adatfejléc"
+
+msgid "Invalid data coding"
+msgstr "Érvénytelen adatkódolás"
+
+msgid "Invalid VAT"
+msgstr "Érvénytelen VAT"
+
+msgid "Unsupported content for destination"
+msgstr "Nem támogatott tartalom a célhoz"
+
+msgid ""
+"Unknown Error. Please contact Support and include your whole transaction"
+msgstr ""
+"Ismeretlen hiba. Kérjük, lépj kapcsolatba az ügyfélszolgálattal és mellékeld "
+"a teljes tranzakciót"
+
+msgid "Invalid authentication. Please check your username and password"
+msgstr ""
+"Érvénytelen hitelesítés. Kérjük, ellenőrizd felhasználóneved és jelszavad"
+
+msgid "Access denied. Please check your username and password"
+msgstr "Belépés megtagadva. Kérjük, ellenőrizd felhasználóneved és jelszavad"
+
+msgid "Invalid or missing platformId. Please check your platformId"
+msgstr ""
+"Érvénytelen vagy hiányzó platform azonosító. Kérjük, ellenőrizd a platform "
+"azonosítót"
+
+msgid ""
+"Invalid or missing platformPartnerId. Please check your platformPartnerId"
+msgstr ""
+"Érvénytelen vagy hiányzó platformPartner azonosító. Kérjük, ellenőrizd a "
+"platformPartner azonosítót"
+
+msgid ""
+"Invalid or missing currency for premium message. Please check your price and "
+"currency"
+msgstr ""
+"Érvénytelen vagy hiányzó valuta a prémium üzenetekhez. Kérjük, ellenőrizd az "
+"árakat és az egyenleged"
+
+msgid ""
+"No gates available. Please contact Support and include your whole transaction"
+msgstr ""
+"A megadott kapu nem elérhető. Kérjük, vedd fel a kapcsolatot az "
+"ügyfélszolgálattal, és csatold a tranzakciót!"
+
+msgid "Specified gate unavailable. Please check your gateId."
+msgstr ""
+"A megadott kapu nem elérhető. Kérjük, ellenőrizd a megadott kapuazonosítót."
+
+msgid "Incorrect version API in address"
+msgstr "Érvénytelen API verzió a címzésben"
+
+msgid "Not specified API key"
+msgstr "API-kulcs nincs megadva"
+
+msgid "Incorrect API key"
+msgstr "Érvénytelen API-kulcs"
+
+msgid "Incorrect IP address client"
+msgstr "Érvénytelen IP-címmel rendelkező ügyfél"
+
+msgid "Invalid command"
+msgstr "Érvénytelen parancs"
+
+msgid "Specified command does not exist or is not available"
+msgstr "A megadott parancs nem létezik vagy nem elérhető"
+
+msgid "System error"
+msgstr "Rendszerhiba"
+
+msgid "Not specified the SMS identifier"
+msgstr "SMS-azonosító nincs megadva"
+
+msgid "Sender address does not exist"
+msgstr "A küldő címe nem létezik"
+
+msgid "Not specified content"
+msgstr "Tartalom nincs megadva"
+
+msgid "Faulty or unsupported country code"
+msgstr "Hibás vagy nem támogatott országkód"
+
+msgid "Content is too long"
+msgstr "A tartalom túl hosszú"
+
+msgid "Incorrect encoding of the content"
+msgstr "Hibás tatalomkódolás"
+
+msgid "Exceeded monthly limit"
+msgstr "Túllépted a havi limitet"
+
+msgid "Batch ID does not exist"
+msgstr "A tételazonosító nem létezik"
+
+msgid "List recipients does not exist"
+msgstr "A címzettek listája nem létezik"
+
+msgid "Invalid recipient number"
+msgstr "Érvénytelen címzettszám"
+
+msgid "No content"
+msgstr "Nincs tartalom"
+
+msgid "Wrong content"
+msgstr "Hibás tartalom"
+
+msgid "Unable send message"
+msgstr "Üzenet küldése nem lehetséges"
+
+#, php-format
+msgid ""
+"The hour SMS quota was exceeded. You can retry sending SMS in %d minutes"
+msgstr ""
+"Az egyórás SMS-kvóta túllépésre került. Az SMS-küldést %d perc múlva "
+"próbálhatod újra"
+
+msgid "Unsupported authentication provider"
+msgstr "Nem támogatott hitelesítési szolgáltató"
+
+msgid "connect_social_account_email_theme"
+msgstr "közösségi_fiók_csatlakoztatása_e-mail címmel_téma"
+
+msgid "not_logged_in"
+msgstr "nem_vagy_bejelentkezve"
+
+msgid "trying_delete_last_social"
+msgstr "utolsó_közösségi_oldal_törlése_próbálkozás"
+
+msgid "please_set_email"
+msgstr "kérjük_állíts_be_e-mail_címet"
+
+msgid "please_set_password"
+msgstr "kérjük_állíts_be_jelszót"
+
+msgid "Code incorrect, user not found"
+msgstr "Hibás kód, nem található felhasználó"
+
+msgid "email_has_been_verified"
+msgstr "e-mail cím_megerősítve"
+
+msgid "Transaction value generation failed"
+msgstr "A tranzakció értékének generálása sikertelen"
+
+msgid "email_to_connect_social_sent"
+msgstr "e-mail_közösségi_oldal_csatlakoztatásához_elküldve"
+
+msgid "Registration complete"
+msgstr "Regisztráció befejeződött"
+
+msgid "_ip_fraud_msg"
+msgstr "_ip_fraud_msg"
+
+msgid "Session is expired"
+msgstr "Lejárt a munkamenet"
+
+msgid "Withdrawal ID not specified"
+msgstr "Visszavonási azonosító nincs megadva"
+
+msgid "System ID not specified"
+msgstr "Rendszerazonosító nincs megadva"
+
+msgid "Incorrect email, please try again from the start"
+msgstr "Hibás e-mail cím, kérjük, kezdd újra az elejéről"
+
+msgid "Email is empty"
+msgstr "Üres e-mail cím mező"
+
+msgid "Error, account with this email does not exist."
+msgstr "Hiba, egy fiók sem létezik ezzel az e-mail címmel"
+
+msgid "Unable generate temporary restore user code"
+msgstr "Ideiglenes felhasználói kód generálása nem lehetséges"
+
+msgid "Password recovery"
+msgstr "Jelszó visszaállítása"
+
+msgid "current_password_empty"
+msgstr "jelenlegi_jelszó_mező_üres"
+
+msgid "Current password is incorrect"
+msgstr "A jelenlegi jelszó hibás"
+
+msgid "day_not_set"
+msgstr "nap_nincs_beállítva"
+
+msgid "month_not_set"
+msgstr "hónap_nincs_beállítva"
+
+msgid "year_not_set"
+msgstr "év_nincs_beállítva"
+
+msgid "Country is not picked"
+msgstr "Nincs kiválasztva ország"
+
+msgid "Gender is not picked"
+msgstr "Nincs kiválasztva nem"
+
+msgid "input_repeated_password"
+msgstr "jelszó_újra"
+
+msgid "Password does not match"
+msgstr "A jelszó nem egyezik"
+
+msgid "Email field is empty or incorrect"
+msgstr "Az e-mail cím mező üres vagy hibás"
+
+msgid "Email already in use"
+msgstr "Az e-mail cím már használatban van"
+
+msgid "Email field is incorrect"
+msgstr "Az e-mail cím mező hibás"
+
+msgid "Login field is empty"
+msgstr "A bejelentkezés mező üres"
+
+msgid "Email field is empty"
+msgstr "Az e-mail cím mező üres"
+
+msgid "login_already_in_use"
+msgstr "felhasználó_már_létezik"
+
+msgid "phone_empty"
+msgstr "telefonszám_mező_üres"
+
+msgid "Phone number is incorrect. Must be"
+msgstr "A telefonszám hibás. Ilyennek kell lennie"
+
+msgid "Phone number too long"
+msgstr "A telefonszám túl hosszú"
+
+msgid "Phone number is incorrect: some unallowed symbols used."
+msgstr "A telefonszám hibás: néhány nem megengedett karaktert tartalmaz."
+
+msgid "new_pass_less_6_symbols"
+msgstr "új_jelszó_kevesebb_mint_6_karakter"
+
+msgid "first_name_empty"
+msgstr "keresztnév_mező_üres"
+
+msgid "last_name_empty"
+msgstr "vezetéknév_mező_üres"
+
+msgid "New email field is incorrect"
+msgstr "Az új e-mail cím mező hibás"
+
+msgid "User verification failed"
+msgstr "A felhasználó megerősítése sikertelen"
+
+#, fuzzy
+msgid "authorization_error_sms"
+msgstr "jogosultsági_hiba"
+
+msgid "authorization_error"
+msgstr "jogosultsági_hiba"
+
+msgid "You have to verify your email first"
+msgstr ""
+
+#, fuzzy
+msgid "password_expired"
+msgstr "Lejárt munkamenet"
+
+msgid "registration_in_progress"
+msgstr "regisztráció_folyamatban"
+
+msgid "user_disabled"
+msgstr "felhasználó_letiltva"
+
+msgid "Access forbidden"
+msgstr "Hozzáférés megtagadva"
+
+msgid "Email field incorrect"
+msgstr "Az e-mail cím mező hibás"
+
+msgid "email_empty_incorrect"
+msgstr "e-mail_üres_helytelen"
+
+msgid "pass_less_6_symbols"
+msgstr "jelszó_kevesebb_mint_6_karakter"
+
+msgid "Password may contain only latin letters, numbers and special symbols"
+msgstr ""
+"A jelszó csak latin betűket, számokat és speciális karaktereket tartalmazhat"
+
+msgid "currency_not_set"
+msgstr "pénznem_nincs_beállítva"
+
+msgid "Currency field is invalid"
+msgstr "Érvénytelen pénznem mező"
+
+msgid "reg_promo_is_invalid"
+msgstr "reg_promó_érvénytelen"
+
+msgid "email_already_registered"
+msgstr "e-mail_már_regisztrálva"
+
+msgid "login_already_registered"
+msgstr "bejelentkezés_már_regisztrálva"
+
+#, fuzzy
+msgid "Phone number already registered"
+msgstr "Már regisztrált telefon"
+
+msgid "ip_fraud_blacklist"
+msgstr "ip_csalás_feketelista"
+
+msgid "ip_fraud_check_error"
+msgstr "ip_csalás_ellenőrzés_hiba"
+
+msgid "Activate your account"
+msgstr "Aktiváld a fiókodat"
+
+msgid "Registration confirmation is in progress"
+msgstr "A regisztráció visszaigazolása folyamatban"
+
+msgid "Unknown status"
+msgstr "Ismeretlen státusz"
+
+msgid "first name"
+msgstr "keresztnév"
+
+msgid "last name"
+msgstr "vezetéknév"
+
+msgid "birth date"
+msgstr "születési dátum"
+
+msgid "sex"
+msgstr "nem"
+
+msgid "country"
+msgstr "ország"
+
+msgid "phone number"
+msgstr "telefonszám"
+
+#, fuzzy, php-format
+msgid "To change %s field please contact our support at "
+msgid_plural "To change %s fields please contact our support at "
+msgstr[0] ""
+"A %s mező megváltoztatásához kérjük, lépj kapcsolatba az "
+"ügyfélszolgálatunkkal az alábbi címen"
+msgstr[1] ""
+"A %s mező megváltoztatásához kérjük, lépj kapcsolatba az "
+"ügyfélszolgálatunkkal az alábbi címen"
+
+msgid "Email has invalid format"
+msgstr "Az e-mail formátuma érvénytelen"
+
+msgid "Repeat password field is empty"
+msgstr "A jelszó megismétlése mező üres"
+
+msgid "First name field is empty"
+msgstr "A keresztnév mező üres"
+
+msgid "First name must contain only letters"
+msgstr "A keresztnév csak betűket tartalmazhat"
+
+msgid "Last name field is empty"
+msgstr "A vezetéknév mező üres"
+
+msgid "Last name must contain only letters"
+msgstr "A vezetéknév csak betűket tartalmazhat"
+
+msgid "Gender field is empty"
+msgstr "A nem mező üres"
+
+msgid "Gender unallowed value"
+msgstr "A megadott nem érvénytelen"
+
+msgid "Currency field is empty"
+msgstr "A pénznem mező üres"
+
+msgid "Country code is empty"
+msgstr "A hívószám mező üres"
+
+msgid "Country code is invalid"
+msgstr "A hívószám hibás"
+
+msgid "Phone code is empty"
+msgstr "A körzetszám mező üres"
+
+msgid "Phone number field is empty"
+msgstr "A telefonszám mező üres"
+
+msgid "Phone number invalid format"
+msgstr "A telefonszám formátuma hibás"
+
+#, fuzzy
+msgid "Validation code is empty"
+msgstr "A körzetszám mező üres"
+
+#, fuzzy
+msgid "Password must not be equal to login"
+msgstr "A jelszónak legalább 6 karakter hosszúnak kell lennie"
+
+msgid "Wrong IBAN number"
+msgstr "Helytelen IBAN szám"
+
+msgid "Wrong SWIFT number"
+msgstr "Helytelen SWIFT szám"
+
+msgid "ID Number is not unique"
+msgstr "Az azonosítószám már létezik"
+
+msgid "Password field is empty"
+msgstr "A jelszó mező üres"
+
+msgid "New password field is empty"
+msgstr "Az új jelszó mező üres"
+
+msgid "New password must be at least 6 characters long"
+msgstr "Az új jelszónak legalább 6 karakter hosszúnak kell lennie"
+
+msgid "New password strength is weak"
+msgstr "Az új jelszó túl gyenge"
+
+#, fuzzy
+msgid "An account with such personal details already exists"
+msgstr "Hiba, egy fiók sem létezik ezzel az e-mail címmel"
+
+msgid "Password strength is weak"
+msgstr "A jelszó túl gyenge"
+
+msgid "Login is already registered"
+msgstr "Már regisztrált bejelentkezés"
+
+msgid "Email is already registered"
+msgstr "Már regisztrált e-mail cím"
+
+msgid "Phone is already registered"
+msgstr "Már regisztrált telefon"
+
+msgid "You are less than 18 year old"
+msgstr "Még nem töltötted be a 18. életévedet"
+
+#~ msgid "Do you need to contact us?"
+#~ msgstr "Kapcsolatba akarsz lépni velünk?"
+
+#, fuzzy
+#~ msgid ""
+#~ "Due to legal reasons we can't accept players residing in the country you "
+#~ "are currently\n"
+#~ "            in."
+#~ msgstr ""
+#~ "Jogi okokból kifolyólag nem engedhetünk az országodban élő játékosokat "
+#~ "játszani."
+
+#, fuzzy
+#~ msgid ""
+#~ "If you’re using a proxy service or VPN to access casino, try turning it "
+#~ "off and reload the\n"
+#~ "            page."
+#~ msgstr ""
+#~ "Ha egy proxy szervert vagy VPN hálózatot használsz a kaszinóba való "
+#~ "belépéshez, próbáld meg leállítani és frissítsd az oldalt. "
+
+#~ msgid "Location restriction"
+#~ msgstr "Helyi korlátozás"
+
+#~ msgid "Not in a restricted region"
+#~ msgstr "Nincs egy korlátozás alá eső régióban"
+
+#, fuzzy
+#~ msgid ""
+#~ "Should you have any questions or feel that this block is affecting you "
+#~ "due to a technical error,\n"
+#~ "            please\n"
+#~ "            don't hesitate to contact us and we'll work it out together."
+#~ msgstr ""
+#~ "Ha bármilyen kérdésed van, vagy úgy érzed, hogy ez a blokk technikai hiba "
+#~ "miatt érint Téged, kérjük, ne habozz kapcsolatba lépni velünk, és együtt "
+#~ "megoldjuk a problémát."
+
+#~ msgid "Withdraw is not available because bonus is not won back"
+#~ msgstr "A kifizetés nem lehetséges, mert a bónuszt nem lehet visszanyerni"
